@@ -1,0 +1,393 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Food Trucks Ballard</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Courier New', monospace;
+            line-height: 1.4;
+            color: #2c2c2c;
+            background: #f8f9f8;
+            min-height: 100vh;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            background: white;
+            border: 1px solid #ddd;
+            padding: 20px;
+        }
+
+        .header {
+            background: none;
+            color: #2c2c2c;
+            padding: 0 0 20px 0;
+            text-align: left;
+            border-bottom: 1px solid #ddd;
+            margin-bottom: 20px;
+        }
+
+        .header h1 {
+            font-size: 1.8rem;
+            margin-bottom: 0;
+            font-weight: normal;
+        }
+
+        .header p {
+            font-size: 1.1rem;
+            opacity: 0.9;
+        }
+
+        .content {
+            padding: 0;
+        }
+
+        .loading {
+            text-align: left;
+            padding: 20px 0;
+            color: #666;
+            font-size: 1rem;
+        }
+
+        .day-section {
+            margin-bottom: 30px;
+            padding-bottom: 20px;
+        }
+
+        .day-section:last-child {
+            border-bottom: none;
+            margin-bottom: 0;
+        }
+
+        .day-header {
+            font-size: 1.2rem;
+            font-weight: normal;
+            color: #2c2c2c;
+            margin-bottom: 15px;
+            padding-bottom: 5px;
+            border-bottom: 1px solid #ddd;
+        }
+
+        .truck-item {
+            background: none;
+            padding: 5px 0 5px 20px;
+            margin-bottom: 10px;
+            border: none;
+        }
+
+
+        .truck-name {
+            font-size: 1rem;
+            font-weight: normal;
+            color: #2c2c2c;
+            margin-bottom: 3px;
+            cursor: pointer;
+            text-decoration: underline;
+            display: inline-block;
+        }
+
+        .truck-name:hover {
+            color: #666;
+        }
+
+        .truck-details {
+            color: #666;
+            font-size: 0.9rem;
+            margin-left: 0;
+        }
+
+        .location {
+            display: inline;
+            margin-right: 15px;
+        }
+
+        .time {
+            display: inline;
+            font-weight: normal;
+        }
+
+        .vision-badge {
+            background: #eee;
+            color: #666;
+            padding: 2px 6px;
+            border: 1px solid #ccc;
+            font-size: 0.8rem;
+            font-weight: normal;
+        }
+
+        .updated-time {
+            text-align: left;
+            color: #666;
+            font-size: 0.9rem;
+            margin-top: 30px;
+            padding-top: 20px;
+            border-top: 1px solid #ddd;
+        }
+
+        .stats {
+            background: none;
+            padding: 0;
+            margin-top: 0;
+            margin-bottom: 20px;
+            text-align: left;
+            border-top: none;
+            padding-top: 0;
+        }
+
+        .stats-number {
+            font-size: 1rem;
+            font-weight: normal;
+            color: #2c2c2c;
+        }
+
+        .stats-label {
+            color: #666;
+            font-size: 1rem;
+        }
+        
+        .ai-info {
+            color: #666;
+            font-size: 0.9rem;
+            margin-top: 10px;
+            font-style: italic;
+        }
+
+        .author-info {
+            color: #666;
+            font-size: 0.9rem;
+            margin-top: 20px;
+            padding-top: 15px;
+            border-top: 1px solid #ddd;
+            text-align: center;
+        }
+
+        .author-info a {
+            color: #666;
+            text-decoration: none;
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .author-info a:hover {
+            color: #2c2c2c;
+        }
+
+        .github-logo {
+            width: 16px;
+            height: 16px;
+            vertical-align: middle;
+        }
+
+        @media (max-width: 768px) {
+            body {
+                padding: 10px;
+            }
+
+            .header h1 {
+                font-size: 1.5rem;
+            }
+
+            .container {
+                padding: 15px;
+            }
+
+            .truck-item {
+                padding: 5px 0 5px 15px;
+            }
+        }
+
+        .error {
+            background: #fff5f5;
+            border: 1px solid #fed7d7;
+            color: #c53030;
+            padding: 20px;
+            text-align: left;
+            margin: 20px 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>Ballard Food Trucks</h1>
+        </div>
+
+            <div id="stats" class="stats" style="display: none;">
+                <span class="stats-number" id="totalEvents">0</span>
+                <span class="stats-label"> trucks total</span>
+            </div>
+        
+        <div class="content">
+            <div id="loading" class="loading">
+Loading food truck schedules...
+            </div>
+            
+            <div id="error" class="error" style="display: none;">
+Unable to load food truck data. Please try again later.
+            </div>
+            
+            <div id="schedule" style="display: none;"></div>
+            
+            <div id="updated" class="updated-time" style="display: none;"></div>
+            
+            <div id="ai-info" class="ai-info" style="display: none;">
+                'AI Extracted' means the truck name was generated from analyzing an image.
+            </div>
+
+            <div class="author-info">
+                By <a href="https://www.linkedin.com/in/steveandroulakis/">Steve Androulakis</a>
+                •
+                <a href="https://github.com/steveandroulakis/around-the-grounds">
+                    <svg class="github-logo" viewBox="0 0 24 24" fill="currentColor">
+                        <path d="M12 0c-6.626 0-12 5.373-12 12 0 5.302 3.438 9.8 8.207 11.387.599.111.793-.261.793-.577v-2.234c-3.338.726-4.033-1.416-4.033-1.416-.546-1.387-1.333-1.756-1.333-1.756-1.089-.745.083-.729.083-.729 1.205.084 1.839 1.237 1.839 1.237 1.07 1.834 2.807 1.304 3.492.997.107-.775.418-1.305.762-1.604-2.665-.305-5.467-1.334-5.467-5.931 0-1.311.469-2.381 1.236-3.221-.124-.303-.535-1.524.117-3.176 0 0 1.008-.322 3.301 1.23.957-.266 1.983-.399 3.003-.404 1.02.005 2.047.138 3.006.404 2.291-1.552 3.297-1.23 3.297-1.23.653 1.653.242 2.874.118 3.176.77.84 1.235 1.911 1.235 3.221 0 4.609-2.807 5.624-5.479 5.921.43.372.823 1.102.823 2.222v3.293c0 .319.192.694.801.576 4.765-1.589 8.199-6.086 8.199-11.386 0-6.627-5.373-12-12-12z"/>
+                    </svg>
+                    Source Code
+                </a>
+            </div>
+            
+        </div>
+    </div>
+
+    <script>
+        async function loadFoodTruckData() {
+            try {
+                const response = await fetch('/data.json');
+                if (!response.ok) {
+                    throw new Error(`HTTP error! status: ${response.status}`);
+                }
+                const data = await response.json();
+                displayFoodTrucks(data);
+            } catch (error) {
+                console.error('Error loading food truck data:', error);
+                showError();
+            }
+        }
+
+        function showError() {
+            document.getElementById('loading').style.display = 'none';
+            document.getElementById('error').style.display = 'block';
+        }
+
+        function displayFoodTrucks(data) {
+            document.getElementById('loading').style.display = 'none';
+            
+            // Show stats at bottom
+            const statsEl = document.getElementById('stats');
+            const totalEventsEl = document.getElementById('totalEvents');
+            totalEventsEl.textContent = data.total_events || data.events.length;
+            
+            // Group events by date
+            const eventsByDate = {};
+            data.events.forEach(event => {
+                const date = new Date(event.date);
+                const dateKey = date.toISOString().split('T')[0];
+                if (!eventsByDate[dateKey]) {
+                    eventsByDate[dateKey] = [];
+                }
+                eventsByDate[dateKey].push(event);
+            });
+            
+            // Generate HTML
+            const scheduleEl = document.getElementById('schedule');
+            let html = '';
+            
+            Object.keys(eventsByDate).sort().forEach(dateKey => {
+                const date = new Date(dateKey + 'T00:00:00');
+                const dayName = date.toLocaleDateString('en-US', { 
+                    weekday: 'long',
+                    month: 'long', 
+                    day: 'numeric',
+                    year: 'numeric'
+                });
+                
+                html += `<div class="day-section">`;
+                html += `<div class="day-header">${dayName}</div>`;
+                
+                eventsByDate[dateKey].forEach(event => {
+                    const rawTruckName = event.vendor || event.vendor_name || 'TBD';
+                    const truckName = rawTruckName.replace(/[\u{1F600}-\u{1F64F}]|[\u{1F300}-\u{1F5FF}]|[\u{1F680}-\u{1F6FF}]|[\u{1F1E0}-\u{1F1FF}]|[\u{2600}-\u{26FF}]|[\u{2700}-\u{27BF}]|[\u{1F900}-\u{1F9FF}]|[\u{1F018}-\u{1F270}]|[\u{238C}]|[\u{2764}]|[\u{FE0F}]/gu, '').trim();
+                    const location = event.location || '';
+                    const timeString = formatTimeRange(event.start_time, event.end_time);
+                    const isVisionExtracted = event.vendor && event.extraction_method === 'vision';
+                    
+                    html += `<div class="truck-item">`;
+                    const escapedTruckName = truckName.replace(/'/g, "\\'");
+                    html += `<a href="#" class="truck-name" onclick="searchTruck('${escapedTruckName}'); return false;">`;
+                    html += `${truckName}`;
+                    if (isVisionExtracted) {
+                        html += ` <span class="vision-badge">AI extracted</span>`;
+                    }
+                    html += `</a>`;
+                    html += `<div class="truck-details">`;
+                    if (location) {
+                        html += `<div class="location">${location}</div>`;
+                    }
+                    if (timeString) {
+                        html += `<div class="time">${timeString}</div>`;
+                    }
+                    html += `</div>`;
+                    html += `</div>`;
+                });
+                
+                html += `</div>`;
+            });
+            
+            scheduleEl.innerHTML = html;
+            scheduleEl.style.display = 'block';
+            
+            // Show updated time
+            if (data.updated) {
+                const updatedEl = document.getElementById('updated');
+                // Parse the UTC timestamp and convert to user's local timezone
+                const updatedDate = new Date(data.updated);
+                
+                updatedEl.textContent = `Last updated: ${updatedDate.toLocaleString(undefined, {
+                    weekday: 'short',
+                    month: 'short',
+                    day: 'numeric',
+                    hour: '2-digit',
+                    minute: '2-digit'
+                })}`;
+                updatedEl.style.display = 'block';
+            }
+            
+            // Show stats at bottom
+            statsEl.style.display = 'block';
+            
+            // Show AI info if there are any vision-extracted items
+            const hasVisionExtracted = data.events.some(event => event.extraction_method === 'vision');
+            if (hasVisionExtracted) {
+                document.getElementById('ai-info').style.display = 'block';
+            }
+        }
+
+        function formatTimeRange(startTime, endTime) {
+            if (!startTime && !endTime) return '';
+            if (!startTime) return endTime;
+            if (!endTime) return startTime;
+            return `${startTime} - ${endTime}`;
+        }
+
+        function searchTruck(truckName) {
+            // Clean up the truck name for search
+            const cleanName = truckName.replace(/[\u{1F600}-\u{1F64F}]|[\u{1F300}-\u{1F5FF}]|[\u{1F680}-\u{1F6FF}]|[\u{1F1E0}-\u{1F1FF}]|[\u{2600}-\u{26FF}]|[\u{2700}-\u{27BF}]|[\u{1F900}-\u{1F9FF}]|[\u{1F018}-\u{1F270}]|[\u{238C}]|[\u{2764}]|[\u{FE0F}]/gu, '').trim();
+            const searchQuery = encodeURIComponent(`${cleanName} food truck seattle`);
+            window.open(`https://www.google.com/search?q=${searchQuery}`, '_blank');
+        }
+
+        // Load data when page loads
+        window.addEventListener('DOMContentLoaded', loadFoodTruckData);
+    </script>
+</body>
+</html>
