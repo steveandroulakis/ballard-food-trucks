@@ -4,23 +4,6 @@
       "date": "2025-07-08T00:00:00",
       "description": null,
       "end_time": "08:00 PM",
-      "location": "Obec Brewing",
-      "start_time": "04:00 PM",
-      "vendor": "Maroom Thai"
-    },
-    {
-      "date": "2025-07-08T00:00:00",
-      "description": null,
-      "end_time": "08:00 PM",
-      "extraction_method": "vision",
-      "location": "Urban Family Brewing",
-      "start_time": "04:00 PM",
-      "vendor": "Georgia's \ud83d\uddbc\ufe0f\ud83e\udd16"
-    },
-    {
-      "date": "2025-07-08T00:00:00",
-      "description": null,
-      "end_time": "08:00 PM",
       "location": "Stoup Brewing - Ballard",
       "start_time": "05:00 PM",
       "vendor": "Poke Me"
@@ -197,6 +180,6 @@
       "vendor": "Tummy Yummy Thai"
     }
   ],
-  "total_events": 24,
-  "updated": "2025-07-08T18:00:30.027036+00:00"
+  "total_events": 22,
+  "updated": "2025-07-08T21:00:32.439748+00:00"
 }
