@@ -4,14 +4,6 @@
       "date": "2025-07-09T00:00:00",
       "description": null,
       "end_time": "08:00 PM",
-      "location": "Urban Family Brewing",
-      "start_time": "04:00 PM",
-      "vendor": "Impeckable Chicken"
-    },
-    {
-      "date": "2025-07-09T00:00:00",
-      "description": null,
-      "end_time": "08:00 PM",
       "location": "Stoup Brewing - Ballard",
       "start_time": "05:00 PM",
       "vendor": "Russo Pizzarium"
@@ -180,6 +172,6 @@
       "vendor": "Georgia\u2019s Greek"
     }
   ],
-  "total_events": 22,
-  "updated": "2025-07-09T21:00:29.802443+00:00"
+  "total_events": 21,
+  "updated": "2025-07-10T00:00:32.627011+00:00"
 }
