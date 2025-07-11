@@ -1,36 +1,12 @@
 {
   "events": [
     {
-      "date": "2025-07-10T00:00:00",
-      "description": null,
-      "end_time": null,
-      "location": "Wheelie Pop Brewing",
-      "start_time": null,
-      "vendor": "Kaosamai Thai"
-    },
-    {
-      "date": "2025-07-10T00:00:00",
-      "description": null,
-      "end_time": "08:00 PM",
-      "location": "Stoup Brewing - Ballard",
-      "start_time": "05:00 PM",
-      "vendor": "Russo Pizzarium"
-    },
-    {
-      "date": "2025-07-10T16:00:00.835000",
-      "description": null,
-      "end_time": "08:00 PM",
-      "location": "Yonder Cider & Bale Breaker - Ballard",
-      "start_time": "04:00 PM",
-      "vendor": "Impeckable Chicken"
-    },
-    {
       "date": "2025-07-11T00:00:00",
       "description": null,
       "end_time": "08:00 PM",
       "location": "Stoup Brewing - Ballard",
       "start_time": "05:00 PM",
-      "vendor": "Tacos & Beer"
+      "vendor": "Russo Pizzarium"
     },
     {
       "date": "2025-07-11T15:00:00.167000",
@@ -54,7 +30,7 @@
       "end_time": "08:00 PM",
       "location": "Stoup Brewing - Ballard",
       "start_time": "05:00 PM",
-      "vendor": "The Marigold Wood Fired Pizza"
+      "vendor": "Tacos & Beer"
     },
     {
       "date": "2025-07-12T13:00:00.646000",
@@ -79,7 +55,7 @@
       "end_time": "08:00 PM",
       "location": "Stoup Brewing - Ballard",
       "start_time": "05:00 PM",
-      "vendor": "La Costenita"
+      "vendor": "The Marigold Wood Fired Pizza"
     },
     {
       "date": "2025-07-13T13:00:00.797000",
@@ -101,18 +77,18 @@
     {
       "date": "2025-07-14T00:00:00",
       "description": null,
-      "end_time": "09:00 PM",
+      "end_time": "08:00 PM",
       "location": "Stoup Brewing - Ballard",
       "start_time": "05:00 PM",
-      "vendor": "Off the Rez"
+      "vendor": "La Costenita"
     },
     {
       "date": "2025-07-15T00:00:00",
       "description": null,
-      "end_time": "08:00 PM",
+      "end_time": "09:00 PM",
       "location": "Stoup Brewing - Ballard",
-      "start_time": "01:00 PM",
-      "vendor": "Woodshop BBQ"
+      "start_time": "05:00 PM",
+      "vendor": "Off the Rez"
     },
     {
       "date": "2025-07-15T16:00:00.588000",
@@ -125,10 +101,10 @@
     {
       "date": "2025-07-16T00:00:00",
       "description": null,
-      "end_time": "07:00 PM",
+      "end_time": "08:00 PM",
       "location": "Stoup Brewing - Ballard",
       "start_time": "01:00 PM",
-      "vendor": "Burger Planet"
+      "vendor": "Woodshop BBQ"
     },
     {
       "date": "2025-07-16T00:00:00",
@@ -157,18 +133,18 @@
     {
       "date": "2025-07-17T00:00:00",
       "description": null,
-      "end_time": "08:00 PM",
-      "location": "Urban Family Brewing",
-      "start_time": "04:00 PM",
-      "vendor": "Alebrije1"
+      "end_time": "07:00 PM",
+      "location": "Stoup Brewing - Ballard",
+      "start_time": "01:00 PM",
+      "vendor": "Burger Planet"
     },
     {
       "date": "2025-07-17T00:00:00",
       "description": null,
       "end_time": "08:00 PM",
-      "location": "Stoup Brewing - Ballard",
-      "start_time": "05:00 PM",
-      "vendor": "Russo Pizzarium"
+      "location": "Urban Family Brewing",
+      "start_time": "04:00 PM",
+      "vendor": "Alebrije1"
     },
     {
       "date": "2025-07-17T16:00:00.674000",
@@ -177,8 +153,33 @@
       "location": "Yonder Cider & Bale Breaker - Ballard",
       "start_time": "04:00 PM",
       "vendor": "Impeckable Chicken"
+    },
+    {
+      "date": "2025-07-18T00:00:00",
+      "description": null,
+      "end_time": "08:00 PM",
+      "extraction_method": "vision",
+      "location": "Urban Family Brewing",
+      "start_time": "04:00 PM",
+      "vendor": "BIRRERIA PEPE EL TORO \ud83d\uddbc\ufe0f\ud83e\udd16"
+    },
+    {
+      "date": "2025-07-18T00:00:00",
+      "description": null,
+      "end_time": "08:00 PM",
+      "location": "Stoup Brewing - Ballard",
+      "start_time": "05:00 PM",
+      "vendor": "El Gran Taco"
+    },
+    {
+      "date": "2025-07-18T16:00:00.913000",
+      "description": null,
+      "end_time": "09:00 PM",
+      "location": "Yonder Cider & Bale Breaker - Ballard",
+      "start_time": "04:00 PM",
+      "vendor": "Wood Shop BBQ"
     }
   ],
   "total_events": 22,
-  "updated": "2025-07-11T06:00:33.544042+00:00"
+  "updated": "2025-07-11T09:00:34.331875+00:00"
 }
