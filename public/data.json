@@ -125,14 +125,6 @@
     {
       "date": "2025-07-17T00:00:00",
       "description": null,
-      "end_time": null,
-      "location": "Wheelie Pop Brewing",
-      "start_time": null,
-      "vendor": "Tisket Tasket"
-    },
-    {
-      "date": "2025-07-17T00:00:00",
-      "description": null,
       "end_time": "07:00 PM",
       "location": "Stoup Brewing - Ballard",
       "start_time": "01:00 PM",
@@ -180,6 +172,6 @@
       "vendor": "Wood Shop BBQ"
     }
   ],
-  "total_events": 22,
-  "updated": "2025-07-11T09:00:34.331875+00:00"
+  "total_events": 21,
+  "updated": "2025-07-11T12:01:01.544706+00:00"
 }
