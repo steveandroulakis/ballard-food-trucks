@@ -1,14 +1,6 @@
 {
   "events": [
     {
-      "date": "2025-07-12T13:00:00.646000",
-      "description": null,
-      "end_time": "09:00 PM",
-      "location": "Yonder Cider & Bale Breaker - Ballard",
-      "start_time": "01:00 PM",
-      "vendor": "Georgia\u2019s Greek"
-    },
-    {
       "date": "2025-07-13T00:00:00",
       "description": null,
       "end_time": "07:00 PM",
@@ -170,8 +162,32 @@
       "location": "Yonder Cider & Bale Breaker - Ballard",
       "start_time": "01:00 PM",
       "vendor": "Project Pizza"
+    },
+    {
+      "date": "2025-07-20T00:00:00",
+      "description": null,
+      "end_time": "07:00 PM",
+      "location": "Urban Family Brewing",
+      "start_time": "01:00 PM",
+      "vendor": "Kaosamia"
+    },
+    {
+      "date": "2025-07-20T00:00:00",
+      "description": null,
+      "end_time": "08:00 PM",
+      "location": "Stoup Brewing - Ballard",
+      "start_time": "05:00 PM",
+      "vendor": "Russo Pizzarium"
+    },
+    {
+      "date": "2025-07-20T13:00:00.691000",
+      "description": null,
+      "end_time": "09:00 PM",
+      "location": "Yonder Cider & Bale Breaker - Ballard",
+      "start_time": "01:00 PM",
+      "vendor": "Tacos &amp; Beer"
     }
   ],
-  "total_events": 21,
-  "updated": "2025-07-13T07:15:26.297366+00:00"
+  "total_events": 23,
+  "updated": "2025-07-13T08:15:26.872955+00:00"
 }
