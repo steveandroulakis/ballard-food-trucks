@@ -3,15 +3,6 @@
     {
       "date": "2025-07-13T00:00:00",
       "description": null,
-      "end_time": "07:00 PM",
-      "extraction_method": "vision",
-      "location": "Urban Family Brewing",
-      "start_time": "01:00 PM",
-      "vendor": "BURGER PLANET \ud83d\uddbc\ufe0f\ud83e\udd16"
-    },
-    {
-      "date": "2025-07-13T00:00:00",
-      "description": null,
       "end_time": "08:00 PM",
       "location": "Stoup Brewing - Ballard",
       "start_time": "05:00 PM",
@@ -188,6 +179,6 @@
       "vendor": "Tacos &amp; Beer"
     }
   ],
-  "total_events": 23,
-  "updated": "2025-07-13T23:15:27.147762+00:00"
+  "total_events": 22,
+  "updated": "2025-07-14T00:15:28.098306+00:00"
 }
