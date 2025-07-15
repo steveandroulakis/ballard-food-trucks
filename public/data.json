@@ -161,8 +161,33 @@
       "location": "Stoup Brewing - Ballard",
       "start_time": "05:00 PM",
       "vendor": "Russo Pizzarium"
+    },
+    {
+      "date": "2025-07-22T00:00:00",
+      "description": null,
+      "end_time": "08:00 PM",
+      "extraction_method": "vision",
+      "location": "Urban Family Brewing",
+      "start_time": "04:00 PM",
+      "vendor": "Georgia's \ud83d\uddbc\ufe0f\ud83e\udd16"
+    },
+    {
+      "date": "2025-07-22T00:00:00",
+      "description": null,
+      "end_time": "08:00 PM",
+      "location": "Stoup Brewing - Ballard",
+      "start_time": "05:00 PM",
+      "vendor": "Tacos & Beer"
+    },
+    {
+      "date": "2025-07-22T16:30:00.793000",
+      "description": null,
+      "end_time": "08:00 PM",
+      "location": "Yonder Cider & Bale Breaker - Ballard",
+      "start_time": "04:30 PM",
+      "vendor": "Tolu Modern Fijian Cuisine"
     }
   ],
-  "total_events": 20,
-  "updated": "2025-07-15T07:15:28.826817+00:00"
+  "total_events": 23,
+  "updated": "2025-07-15T08:15:27.389777+00:00"
 }
