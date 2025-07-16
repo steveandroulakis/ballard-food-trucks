@@ -1,14 +1,6 @@
 {
   "events": [
     {
-      "date": "2025-07-15T16:00:00.588000",
-      "description": null,
-      "end_time": "08:00 PM",
-      "location": "Yonder Cider & Bale Breaker - Ballard",
-      "start_time": "04:00 PM",
-      "vendor": "Tummy Yummy Thai"
-    },
-    {
       "date": "2025-07-16T00:00:00",
       "description": null,
       "end_time": "08:00 PM",
@@ -178,8 +170,32 @@
       "location": "Yonder Cider & Bale Breaker - Ballard",
       "start_time": "04:30 PM",
       "vendor": "Tolu Modern Fijian Cuisine"
+    },
+    {
+      "date": "2025-07-23T00:00:00",
+      "description": null,
+      "end_time": "08:00 PM",
+      "location": "Urban Family Brewing",
+      "start_time": "04:00 PM",
+      "vendor": "Impeckable Chicken"
+    },
+    {
+      "date": "2025-07-23T00:00:00",
+      "description": null,
+      "end_time": "08:00 PM",
+      "location": "Stoup Brewing - Ballard",
+      "start_time": "05:00 PM",
+      "vendor": "The Marigold Wood Fired Pizza"
+    },
+    {
+      "date": "2025-07-23T16:00:00.683000",
+      "description": null,
+      "end_time": "08:00 PM",
+      "location": "Yonder Cider & Bale Breaker - Ballard",
+      "start_time": "04:00 PM",
+      "vendor": "Georgia\u2019s Greek"
     }
   ],
-  "total_events": 22,
-  "updated": "2025-07-16T07:15:37.870910+00:00"
+  "total_events": 24,
+  "updated": "2025-07-16T08:15:28.478769+00:00"
 }
