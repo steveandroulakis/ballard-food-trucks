@@ -4,14 +4,6 @@
       "date": "2025-07-16T00:00:00",
       "description": null,
       "end_time": "08:00 PM",
-      "location": "Urban Family Brewing",
-      "start_time": "04:00 PM",
-      "vendor": "Kathmandu Momocha Logo Updated 1594841950 Copy 1664838886"
-    },
-    {
-      "date": "2025-07-16T00:00:00",
-      "description": null,
-      "end_time": "08:00 PM",
       "location": "Stoup Brewing - Ballard",
       "start_time": "05:00 PM",
       "vendor": "The Marigold Wood Fired Pizza"
@@ -196,6 +188,6 @@
       "vendor": "Georgia\u2019s Greek"
     }
   ],
-  "total_events": 24,
-  "updated": "2025-07-16T23:15:32.968451+00:00"
+  "total_events": 23,
+  "updated": "2025-07-17T00:15:29.067298+00:00"
 }
