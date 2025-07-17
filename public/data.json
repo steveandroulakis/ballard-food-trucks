@@ -55,7 +55,7 @@
       "extraction_method": "vision",
       "location": "Urban Family Brewing",
       "start_time": "04:00 PM",
-      "vendor": "BIRRERIA PEPE EL TORO \ud83d\uddbc\ufe0f\ud83e\udd16"
+      "vendor": "BIRRIERIA PEPE EL TORO \ud83d\uddbc\ufe0f\ud83e\udd16"
     },
     {
       "date": "2025-07-18T00:00:00",
@@ -189,5 +189,5 @@
     }
   ],
   "total_events": 23,
-  "updated": "2025-07-17T04:15:26.840259+00:00"
+  "updated": "2025-07-17T05:15:28.996775+00:00"
 }
