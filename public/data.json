@@ -3,6 +3,14 @@
     {
       "date": "2025-07-17T00:00:00",
       "description": null,
+      "end_time": null,
+      "location": "Wheelie Pop Brewing",
+      "start_time": null,
+      "vendor": "Tisket Tasket"
+    },
+    {
+      "date": "2025-07-17T00:00:00",
+      "description": null,
       "end_time": "08:00 PM",
       "location": "Urban Family Brewing",
       "start_time": "04:00 PM",
@@ -166,6 +174,14 @@
     {
       "date": "2025-07-24T00:00:00",
       "description": null,
+      "end_time": null,
+      "location": "Wheelie Pop Brewing",
+      "start_time": null,
+      "vendor": "Kaosamai Thai"
+    },
+    {
+      "date": "2025-07-24T00:00:00",
+      "description": null,
       "end_time": "08:00 PM",
       "extraction_method": "vision",
       "location": "Urban Family Brewing",
@@ -189,6 +205,6 @@
       "vendor": "Impeckable Chicken"
     }
   ],
-  "total_events": 23,
-  "updated": "2025-07-17T17:15:31.548917+00:00"
+  "total_events": 25,
+  "updated": "2025-07-17T18:15:26.994535+00:00"
 }
