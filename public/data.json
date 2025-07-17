@@ -1,14 +1,6 @@
 {
   "events": [
     {
-      "date": "2025-07-16T00:00:00",
-      "description": null,
-      "end_time": "08:00 PM",
-      "location": "Stoup Brewing - Ballard",
-      "start_time": "05:00 PM",
-      "vendor": "The Marigold Wood Fired Pizza"
-    },
-    {
       "date": "2025-07-16T16:00:00.602000",
       "description": null,
       "end_time": "08:00 PM",
@@ -188,6 +180,6 @@
       "vendor": "Georgia\u2019s Greek"
     }
   ],
-  "total_events": 23,
-  "updated": "2025-07-17T06:15:27.568822+00:00"
+  "total_events": 22,
+  "updated": "2025-07-17T07:15:29.918078+00:00"
 }
