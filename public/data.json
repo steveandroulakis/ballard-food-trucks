@@ -35,10 +35,19 @@
     {
       "date": "2025-07-18T00:00:00",
       "description": null,
+      "end_time": null,
+      "location": "Wheelie Pop Brewing",
+      "start_time": null,
+      "vendor": "El Pachi Empanadas"
+    },
+    {
+      "date": "2025-07-18T00:00:00",
+      "description": null,
       "end_time": "08:00 PM",
+      "extraction_method": "vision",
       "location": "Urban Family Brewing",
       "start_time": "04:00 PM",
-      "vendor": "TBD"
+      "vendor": "BIRRERIA PEPE EL TORO \ud83d\uddbc\ufe0f\ud83e\udd16"
     },
     {
       "date": "2025-07-18T00:00:00",
@@ -108,9 +117,10 @@
       "date": "2025-07-21T00:00:00",
       "description": null,
       "end_time": "08:00 PM",
+      "extraction_method": "vision",
       "location": "Urban Family Brewing",
       "start_time": "04:00 PM",
-      "vendor": "TBD"
+      "vendor": "TOLU \ud83d\uddbc\ufe0f\ud83e\udd16"
     },
     {
       "date": "2025-07-21T00:00:00",
@@ -124,9 +134,10 @@
       "date": "2025-07-22T00:00:00",
       "description": null,
       "end_time": "08:00 PM",
+      "extraction_method": "vision",
       "location": "Urban Family Brewing",
       "start_time": "04:00 PM",
-      "vendor": "TBD"
+      "vendor": "Georgia's \ud83d\uddbc\ufe0f\ud83e\udd16"
     },
     {
       "date": "2025-07-22T00:00:00",
@@ -180,9 +191,10 @@
       "date": "2025-07-24T00:00:00",
       "description": null,
       "end_time": "08:00 PM",
+      "extraction_method": "vision",
       "location": "Urban Family Brewing",
       "start_time": "04:00 PM",
-      "vendor": "TBD"
+      "vendor": "Whateke \ud83d\uddbc\ufe0f\ud83e\udd16"
     },
     {
       "date": "2025-07-24T00:00:00",
@@ -201,6 +213,6 @@
       "vendor": "Impeckable Chicken"
     }
   ],
-  "total_events": 25,
-  "updated": "2025-07-17T21:15:29.058534+00:00"
+  "total_events": 26,
+  "updated": "2025-07-17T22:15:30.347947+00:00"
 }
