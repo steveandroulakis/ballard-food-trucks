@@ -12,14 +12,6 @@
       "date": "2025-07-17T00:00:00",
       "description": null,
       "end_time": "08:00 PM",
-      "location": "Urban Family Brewing",
-      "start_time": "04:00 PM",
-      "vendor": "Alebrije1"
-    },
-    {
-      "date": "2025-07-17T00:00:00",
-      "description": null,
-      "end_time": "08:00 PM",
       "location": "Stoup Brewing - Ballard",
       "start_time": "05:00 PM",
       "vendor": "La Costenita"
@@ -213,6 +205,6 @@
       "vendor": "Impeckable Chicken"
     }
   ],
-  "total_events": 26,
-  "updated": "2025-07-17T23:15:26.728070+00:00"
+  "total_events": 25,
+  "updated": "2025-07-18T00:15:25.697212+00:00"
 }
