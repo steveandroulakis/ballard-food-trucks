@@ -17,14 +17,6 @@
       "vendor": "La Costenita"
     },
     {
-      "date": "2025-07-17T16:00:00.674000",
-      "description": null,
-      "end_time": "08:00 PM",
-      "location": "Yonder Cider & Bale Breaker - Ballard",
-      "start_time": "04:00 PM",
-      "vendor": "Impeckable Chicken"
-    },
-    {
       "date": "2025-07-18T00:00:00",
       "description": null,
       "end_time": null,
@@ -50,12 +42,12 @@
       "vendor": "El Gran Taco"
     },
     {
-      "date": "2025-07-18T16:00:00.913000",
-      "description": null,
-      "end_time": "09:00 PM",
+      "date": "2025-07-18T01:18:29.264877",
+      "description": "Food truck schedule not available - check Instagram or website directly",
+      "end_time": null,
       "location": "Yonder Cider & Bale Breaker - Ballard",
-      "start_time": "04:00 PM",
-      "vendor": "Wood Shop BBQ"
+      "start_time": null,
+      "vendor": "Check Instagram @BaleBreaker"
     },
     {
       "date": "2025-07-19T00:00:00",
@@ -74,14 +66,6 @@
       "vendor": "TBD"
     },
     {
-      "date": "2025-07-19T13:00:00.140000",
-      "description": null,
-      "end_time": "09:00 PM",
-      "location": "Yonder Cider & Bale Breaker - Ballard",
-      "start_time": "01:00 PM",
-      "vendor": "Project Pizza"
-    },
-    {
       "date": "2025-07-20T00:00:00",
       "description": null,
       "end_time": "07:00 PM",
@@ -96,14 +80,6 @@
       "location": "Urban Family Brewing",
       "start_time": "01:00 PM",
       "vendor": "Kaosamia"
-    },
-    {
-      "date": "2025-07-20T13:00:00.691000",
-      "description": null,
-      "end_time": "09:00 PM",
-      "location": "Yonder Cider & Bale Breaker - Ballard",
-      "start_time": "01:00 PM",
-      "vendor": "Tacos &amp; Beer"
     },
     {
       "date": "2025-07-21T00:00:00",
@@ -140,14 +116,6 @@
       "vendor": "Tacos & Beer"
     },
     {
-      "date": "2025-07-22T16:30:00.793000",
-      "description": null,
-      "end_time": "08:00 PM",
-      "location": "Yonder Cider & Bale Breaker - Ballard",
-      "start_time": "04:30 PM",
-      "vendor": "Tolu Modern Fijian Cuisine"
-    },
-    {
       "date": "2025-07-23T00:00:00",
       "description": null,
       "end_time": "08:00 PM",
@@ -162,14 +130,6 @@
       "location": "Stoup Brewing - Ballard",
       "start_time": "05:00 PM",
       "vendor": "The Marigold Wood Fired Pizza"
-    },
-    {
-      "date": "2025-07-23T16:00:00.683000",
-      "description": null,
-      "end_time": "08:00 PM",
-      "location": "Yonder Cider & Bale Breaker - Ballard",
-      "start_time": "04:00 PM",
-      "vendor": "Georgia\u2019s Greek"
     },
     {
       "date": "2025-07-24T00:00:00",
@@ -195,16 +155,8 @@
       "location": "Stoup Brewing - Ballard",
       "start_time": "05:00 PM",
       "vendor": "La Costenita"
-    },
-    {
-      "date": "2025-07-24T16:00:00.809000",
-      "description": null,
-      "end_time": "08:00 PM",
-      "location": "Yonder Cider & Bale Breaker - Ballard",
-      "start_time": "04:00 PM",
-      "vendor": "Impeckable Chicken"
     }
   ],
-  "total_events": 25,
-  "updated": "2025-07-18T00:15:25.697212+00:00"
+  "total_events": 19,
+  "updated": "2025-07-18T01:18:29.342670+00:00"
 }
