@@ -12,6 +12,14 @@
       "date": "2025-07-18T00:00:00",
       "description": null,
       "end_time": "08:00 PM",
+      "location": "Obec Brewing",
+      "start_time": "04:00 PM",
+      "vendor": "Burgerdom"
+    },
+    {
+      "date": "2025-07-18T00:00:00",
+      "description": null,
+      "end_time": "08:00 PM",
       "extraction_method": "vision",
       "location": "Urban Family Brewing",
       "start_time": "04:00 PM",
@@ -205,6 +213,6 @@
       "vendor": "Now Make Me A Sandwich"
     }
   ],
-  "total_events": 25,
-  "updated": "2025-07-18T19:15:28.607730+00:00"
+  "total_events": 26,
+  "updated": "2025-07-18T20:15:25.650966+00:00"
 }
