@@ -1,12 +1,12 @@
 {
   "events": [
     {
-      "date": "2025-07-17T16:00:00.674000",
+      "date": "2025-07-18T00:00:00",
       "description": null,
-      "end_time": "08:00 PM",
-      "location": "Yonder Cider & Bale Breaker - Ballard",
-      "start_time": "04:00 PM",
-      "vendor": "Impeckable Chicken"
+      "end_time": null,
+      "location": "Wheelie Pop Brewing",
+      "start_time": null,
+      "vendor": "El Pachi Empanadas"
     },
     {
       "date": "2025-07-18T00:00:00",
@@ -150,6 +150,14 @@
     {
       "date": "2025-07-24T00:00:00",
       "description": null,
+      "end_time": null,
+      "location": "Wheelie Pop Brewing",
+      "start_time": null,
+      "vendor": "Kaosamai Thai"
+    },
+    {
+      "date": "2025-07-24T00:00:00",
+      "description": null,
       "end_time": "08:00 PM",
       "extraction_method": "vision",
       "location": "Urban Family Brewing",
@@ -171,8 +179,32 @@
       "location": "Yonder Cider & Bale Breaker - Ballard",
       "start_time": "04:00 PM",
       "vendor": "Impeckable Chicken"
+    },
+    {
+      "date": "2025-07-25T00:00:00",
+      "description": null,
+      "end_time": null,
+      "location": "Wheelie Pop Brewing",
+      "start_time": null,
+      "vendor": "El Pachi Empanadas"
+    },
+    {
+      "date": "2025-07-25T00:00:00",
+      "description": null,
+      "end_time": "09:00 PM",
+      "location": "Stoup Brewing - Ballard",
+      "start_time": "05:00 PM",
+      "vendor": "Off the Rez"
+    },
+    {
+      "date": "2025-07-25T15:00:00.493000",
+      "description": null,
+      "end_time": "09:00 PM",
+      "location": "Yonder Cider & Bale Breaker - Ballard",
+      "start_time": "03:00 PM",
+      "vendor": "Now Make Me A Sandwich"
     }
   ],
-  "total_events": 21,
-  "updated": "2025-07-18T07:15:30.143998+00:00"
+  "total_events": 25,
+  "updated": "2025-07-18T08:15:41.467026+00:00"
 }
