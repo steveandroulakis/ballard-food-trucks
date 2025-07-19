@@ -22,7 +22,7 @@
       "end_time": "08:00 PM",
       "location": "Obec Brewing",
       "start_time": "04:00 PM",
-      "vendor": "Burgerdom"
+      "vendor": "Kaosamai Thai"
     },
     {
       "date": "2025-07-19T13:00:00.140000",
@@ -205,5 +205,5 @@
     }
   ],
   "total_events": 25,
-  "updated": "2025-07-19T08:15:24.859691+00:00"
+  "updated": "2025-07-19T09:15:27.117643+00:00"
 }
