@@ -104,7 +104,7 @@
       "extraction_method": "vision",
       "location": "Urban Family Brewing",
       "start_time": "04:00 PM",
-      "vendor": "Georgia's \ud83d\uddbc\ufe0f\ud83e\udd16"
+      "vendor": "GEORGIA'S \ud83d\uddbc\ufe0f\ud83e\udd16"
     },
     {
       "date": "2025-07-22T00:00:00",
@@ -205,5 +205,5 @@
     }
   ],
   "total_events": 25,
-  "updated": "2025-07-19T00:15:25.041936+00:00"
+  "updated": "2025-07-19T01:15:26.541523+00:00"
 }
