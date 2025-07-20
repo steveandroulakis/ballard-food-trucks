@@ -1,14 +1,6 @@
 {
   "events": [
     {
-      "date": "2025-07-19T00:00:00",
-      "description": null,
-      "end_time": "08:00 PM",
-      "location": "Stoup Brewing - Ballard",
-      "start_time": "01:00 PM",
-      "vendor": "Woodshop BBQ"
-    },
-    {
       "date": "2025-07-19T13:00:00.140000",
       "description": null,
       "end_time": "09:00 PM",
@@ -196,6 +188,6 @@
       "vendor": "Project Pizza"
     }
   ],
-  "total_events": 24,
-  "updated": "2025-07-20T06:15:26.644981+00:00"
+  "total_events": 23,
+  "updated": "2025-07-20T07:15:29.732961+00:00"
 }
