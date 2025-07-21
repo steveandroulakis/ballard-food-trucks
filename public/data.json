@@ -3,18 +3,19 @@
     {
       "date": "2025-07-21T00:00:00",
       "description": null,
-      "end_time": "07:00 PM",
+      "end_time": "08:00 PM",
       "location": "Obec Brewing",
       "start_time": "03:00 AM",
-      "vendor": "Sabor Boricua (Puerto Rican!)"
+      "vendor": "Plaza Garcia"
     },
     {
       "date": "2025-07-21T00:00:00",
       "description": null,
       "end_time": "08:00 PM",
+      "extraction_method": "vision",
       "location": "Urban Family Brewing",
       "start_time": "04:00 PM",
-      "vendor": "TBD"
+      "vendor": "TOLU \ud83d\uddbc\ufe0f\ud83e\udd16"
     },
     {
       "date": "2025-07-21T00:00:00",
@@ -28,9 +29,10 @@
       "date": "2025-07-22T00:00:00",
       "description": null,
       "end_time": "08:00 PM",
+      "extraction_method": "vision",
       "location": "Urban Family Brewing",
       "start_time": "04:00 PM",
-      "vendor": "TBD"
+      "vendor": "Georgia's \ud83d\uddbc\ufe0f\ud83e\udd16"
     },
     {
       "date": "2025-07-22T00:00:00",
@@ -84,9 +86,10 @@
       "date": "2025-07-24T00:00:00",
       "description": null,
       "end_time": "08:00 PM",
+      "extraction_method": "vision",
       "location": "Urban Family Brewing",
       "start_time": "04:00 PM",
-      "vendor": "TBD"
+      "vendor": "Whateke \ud83d\uddbc\ufe0f\ud83e\udd16"
     },
     {
       "date": "2025-07-24T00:00:00",
@@ -164,9 +167,10 @@
       "date": "2025-07-27T00:00:00",
       "description": null,
       "end_time": "07:00 PM",
+      "extraction_method": "vision",
       "location": "Urban Family Brewing",
       "start_time": "01:00 PM",
-      "vendor": "TBD"
+      "vendor": "BURGER PLANET \ud83d\uddbc\ufe0f\ud83e\udd16"
     },
     {
       "date": "2025-07-27T13:00:00.735000",
@@ -180,9 +184,10 @@
       "date": "2025-07-28T00:00:00",
       "description": null,
       "end_time": "08:00 PM",
+      "extraction_method": "vision",
       "location": "Urban Family Brewing",
       "start_time": "04:00 PM",
-      "vendor": "TBD"
+      "vendor": "TOLU \ud83d\uddbc\ufe0f\ud83e\udd16"
     },
     {
       "date": "2025-07-28T00:00:00",
@@ -194,5 +199,5 @@
     }
   ],
   "total_events": 24,
-  "updated": "2025-07-21T08:15:55.729485+00:00"
+  "updated": "2025-07-21T09:15:27.423648+00:00"
 }
