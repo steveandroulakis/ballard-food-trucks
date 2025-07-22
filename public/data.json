@@ -4,26 +4,17 @@
       "date": "2025-07-21T00:00:00",
       "description": null,
       "end_time": "08:00 PM",
-      "location": "Obec Brewing",
-      "start_time": "03:00 AM",
-      "vendor": "Plaza Garcia"
-    },
-    {
-      "date": "2025-07-21T00:00:00",
-      "description": null,
-      "end_time": "08:00 PM",
-      "extraction_method": "vision",
-      "location": "Urban Family Brewing",
-      "start_time": "04:00 PM",
-      "vendor": "TOLU \ud83d\uddbc\ufe0f\ud83e\udd16"
-    },
-    {
-      "date": "2025-07-21T00:00:00",
-      "description": null,
-      "end_time": "08:00 PM",
       "location": "Stoup Brewing - Ballard",
       "start_time": "05:00 PM",
       "vendor": "Russo Pizzarium"
+    },
+    {
+      "date": "2025-07-22T00:00:00",
+      "description": null,
+      "end_time": "08:00 PM",
+      "location": "Obec Brewing",
+      "start_time": "03:00 AM",
+      "vendor": "Plaza Garcia"
     },
     {
       "date": "2025-07-22T00:00:00",
@@ -198,6 +189,6 @@
       "vendor": "Russo Pizzarium"
     }
   ],
-  "total_events": 24,
-  "updated": "2025-07-21T23:15:24.603786+00:00"
+  "total_events": 23,
+  "updated": "2025-07-22T00:15:27.222682+00:00"
 }
