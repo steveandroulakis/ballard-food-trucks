@@ -1,14 +1,6 @@
 {
   "events": [
     {
-      "date": "2025-07-22T16:30:00.793000",
-      "description": null,
-      "end_time": "08:00 PM",
-      "location": "Yonder Cider & Bale Breaker - Ballard",
-      "start_time": "04:30 PM",
-      "vendor": "Tolu Modern Fijian Cuisine"
-    },
-    {
       "date": "2025-07-23T00:00:00",
       "description": null,
       "end_time": "08:00 PM",
@@ -178,8 +170,32 @@
       "location": "Yonder Cider & Bale Breaker - Ballard",
       "start_time": "04:00 PM",
       "vendor": "Tummy Yummy Thai"
+    },
+    {
+      "date": "2025-07-30T00:00:00",
+      "description": null,
+      "end_time": "08:00 PM",
+      "location": "Urban Family Brewing",
+      "start_time": "04:00 PM",
+      "vendor": "Kathmandu Momocha Logo Updated 1594841950 Copy 1664838886"
+    },
+    {
+      "date": "2025-07-30T00:00:00",
+      "description": null,
+      "end_time": "08:00 PM",
+      "location": "Stoup Brewing - Ballard",
+      "start_time": "05:00 PM",
+      "vendor": "Russo Pizzarium"
+    },
+    {
+      "date": "2025-07-30T20:00:00.371000",
+      "description": null,
+      "end_time": "09:00 PM",
+      "location": "Yonder Cider & Bale Breaker - Ballard",
+      "start_time": "08:00 PM",
+      "vendor": "Georgia\u2019s Greek"
     }
   ],
-  "total_events": 22,
-  "updated": "2025-07-23T07:15:34.582541+00:00"
+  "total_events": 24,
+  "updated": "2025-07-23T08:15:26.780116+00:00"
 }
