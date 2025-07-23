@@ -4,23 +4,6 @@
       "date": "2025-07-22T00:00:00",
       "description": null,
       "end_time": "08:00 PM",
-      "location": "Obec Brewing",
-      "start_time": "04:00 PM",
-      "vendor": "Maroom Thai"
-    },
-    {
-      "date": "2025-07-22T00:00:00",
-      "description": null,
-      "end_time": "08:00 PM",
-      "extraction_method": "vision",
-      "location": "Urban Family Brewing",
-      "start_time": "04:00 PM",
-      "vendor": "Georgia's \ud83d\uddbc\ufe0f\ud83e\udd16"
-    },
-    {
-      "date": "2025-07-22T00:00:00",
-      "description": null,
-      "end_time": "08:00 PM",
       "location": "Stoup Brewing - Ballard",
       "start_time": "05:00 PM",
       "vendor": "Russo Pizzarium"
@@ -32,6 +15,14 @@
       "location": "Yonder Cider & Bale Breaker - Ballard",
       "start_time": "04:30 PM",
       "vendor": "Tolu Modern Fijian Cuisine"
+    },
+    {
+      "date": "2025-07-23T00:00:00",
+      "description": null,
+      "end_time": "08:00 PM",
+      "location": "Obec Brewing",
+      "start_time": "04:00 PM",
+      "vendor": "Maroom Thai"
     },
     {
       "date": "2025-07-23T00:00:00",
@@ -197,6 +188,6 @@
       "vendor": "Tummy Yummy Thai"
     }
   ],
-  "total_events": 24,
-  "updated": "2025-07-22T23:15:25.554726+00:00"
+  "total_events": 23,
+  "updated": "2025-07-23T00:15:37.275512+00:00"
 }
