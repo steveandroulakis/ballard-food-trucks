@@ -4,22 +4,6 @@
       "date": "2025-07-23T00:00:00",
       "description": null,
       "end_time": "08:00 PM",
-      "location": "Obec Brewing",
-      "start_time": "04:00 PM",
-      "vendor": "Cocina Barelas (New Mexican Cuisine)"
-    },
-    {
-      "date": "2025-07-23T00:00:00",
-      "description": null,
-      "end_time": "08:00 PM",
-      "location": "Urban Family Brewing",
-      "start_time": "04:00 PM",
-      "vendor": "Impeckable Chicken"
-    },
-    {
-      "date": "2025-07-23T00:00:00",
-      "description": null,
-      "end_time": "08:00 PM",
       "location": "Stoup Brewing - Ballard",
       "start_time": "05:00 PM",
       "vendor": "Russo Pizzarium"
@@ -44,10 +28,9 @@
       "date": "2025-07-24T00:00:00",
       "description": null,
       "end_time": "08:00 PM",
-      "extraction_method": "vision",
-      "location": "Urban Family Brewing",
+      "location": "Obec Brewing",
       "start_time": "04:00 PM",
-      "vendor": "Whateke \ud83d\uddbc\ufe0f\ud83e\udd16"
+      "vendor": "Cocina Barelas (New Mexican Cuisine)"
     },
     {
       "date": "2025-07-24T00:00:00",
@@ -196,6 +179,6 @@
       "vendor": "Georgia\u2019s Greek"
     }
   ],
-  "total_events": 24,
-  "updated": "2025-07-23T23:15:25.283245+00:00"
+  "total_events": 22,
+  "updated": "2025-07-24T00:15:25.209254+00:00"
 }
