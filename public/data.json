@@ -44,6 +44,14 @@
       "date": "2025-07-25T00:00:00",
       "description": null,
       "end_time": "08:00 PM",
+      "location": "Urban Family Brewing",
+      "start_time": "04:00 PM",
+      "vendor": "TBD"
+    },
+    {
+      "date": "2025-07-25T00:00:00",
+      "description": null,
+      "end_time": "08:00 PM",
       "location": "Stoup Brewing - Ballard",
       "start_time": "05:00 PM",
       "vendor": "Tacos & Beer"
@@ -59,9 +67,9 @@
     {
       "date": "2025-07-26T00:00:00",
       "description": null,
-      "end_time": "08:00 PM",
+      "end_time": "07:00 PM",
       "location": "Urban Family Brewing",
-      "start_time": "04:00 PM",
+      "start_time": "01:00 PM",
       "vendor": "Oskar"
     },
     {
@@ -195,6 +203,6 @@
       "vendor": "Impeckable Chicken"
     }
   ],
-  "total_events": 24,
-  "updated": "2025-07-24T20:15:27.310600+00:00"
+  "total_events": 25,
+  "updated": "2025-07-24T21:15:23.626882+00:00"
 }
