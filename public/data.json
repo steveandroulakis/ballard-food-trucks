@@ -1,14 +1,6 @@
 {
   "events": [
     {
-      "date": "2025-07-23T16:00:00.683000",
-      "description": null,
-      "end_time": "08:00 PM",
-      "location": "Yonder Cider & Bale Breaker - Ballard",
-      "start_time": "04:00 PM",
-      "vendor": "Georgia\u2019s Greek"
-    },
-    {
       "date": "2025-07-24T00:00:00",
       "description": null,
       "end_time": null,
@@ -22,7 +14,7 @@
       "end_time": "08:00 PM",
       "location": "Obec Brewing",
       "start_time": "04:00 PM",
-      "vendor": "Cocina Barelas (New Mexican Cuisine)"
+      "vendor": "Now Make Me a Sandwich"
     },
     {
       "date": "2025-07-24T00:00:00",
@@ -169,8 +161,40 @@
       "location": "Yonder Cider & Bale Breaker - Ballard",
       "start_time": "08:00 PM",
       "vendor": "Georgia\u2019s Greek"
+    },
+    {
+      "date": "2025-07-31T00:00:00",
+      "description": null,
+      "end_time": null,
+      "location": "Wheelie Pop Brewing",
+      "start_time": null,
+      "vendor": "Kaosamai Thai"
+    },
+    {
+      "date": "2025-07-31T00:00:00",
+      "description": null,
+      "end_time": "08:00 PM",
+      "location": "Urban Family Brewing",
+      "start_time": "04:00 PM",
+      "vendor": "Alebrije1"
+    },
+    {
+      "date": "2025-07-31T00:00:00",
+      "description": null,
+      "end_time": "08:00 PM",
+      "location": "Stoup Brewing - Ballard",
+      "start_time": "05:00 PM",
+      "vendor": "Russo Pizzarium"
+    },
+    {
+      "date": "2025-07-31T16:00:00.362000",
+      "description": null,
+      "end_time": "08:00 PM",
+      "location": "Yonder Cider & Bale Breaker - Ballard",
+      "start_time": "04:00 PM",
+      "vendor": "Impeckable Chicken"
     }
   ],
-  "total_events": 21,
-  "updated": "2025-07-24T07:15:32.583053+00:00"
+  "total_events": 24,
+  "updated": "2025-07-24T08:15:26.123821+00:00"
 }
