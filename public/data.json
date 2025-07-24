@@ -3,6 +3,14 @@
     {
       "date": "2025-07-24T00:00:00",
       "description": null,
+      "end_time": null,
+      "location": "Wheelie Pop Brewing",
+      "start_time": null,
+      "vendor": "Kaosamai Thai"
+    },
+    {
+      "date": "2025-07-24T00:00:00",
+      "description": null,
       "end_time": "08:00 PM",
       "location": "Obec Brewing",
       "start_time": "04:00 PM",
@@ -23,6 +31,14 @@
       "location": "Yonder Cider & Bale Breaker - Ballard",
       "start_time": "04:00 PM",
       "vendor": "Impeckable Chicken"
+    },
+    {
+      "date": "2025-07-25T00:00:00",
+      "description": null,
+      "end_time": null,
+      "location": "Wheelie Pop Brewing",
+      "start_time": null,
+      "vendor": "El Pachi Empanadas"
     },
     {
       "date": "2025-07-25T00:00:00",
@@ -149,6 +165,14 @@
     {
       "date": "2025-07-31T00:00:00",
       "description": null,
+      "end_time": null,
+      "location": "Wheelie Pop Brewing",
+      "start_time": null,
+      "vendor": "Kaosamai Thai"
+    },
+    {
+      "date": "2025-07-31T00:00:00",
+      "description": null,
       "end_time": "08:00 PM",
       "location": "Urban Family Brewing",
       "start_time": "04:00 PM",
@@ -171,6 +195,6 @@
       "vendor": "Impeckable Chicken"
     }
   ],
-  "total_events": 21,
-  "updated": "2025-07-24T15:15:25.882212+00:00"
+  "total_events": 24,
+  "updated": "2025-07-24T16:15:28.178727+00:00"
 }
