@@ -189,6 +189,14 @@
     {
       "date": "2025-08-01T00:00:00",
       "description": null,
+      "end_time": null,
+      "location": "Wheelie Pop Brewing",
+      "start_time": null,
+      "vendor": "El Pachi Empanadas"
+    },
+    {
+      "date": "2025-08-01T00:00:00",
+      "description": null,
       "end_time": "08:00 PM",
       "extraction_method": "vision",
       "location": "Urban Family Brewing",
@@ -204,6 +212,6 @@
       "vendor": "Russo Pizzarium"
     }
   ],
-  "total_events": 25,
-  "updated": "2025-07-25T14:15:25.701246+00:00"
+  "total_events": 26,
+  "updated": "2025-07-25T15:15:25.809911+00:00"
 }
