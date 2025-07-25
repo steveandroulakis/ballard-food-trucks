@@ -1,22 +1,6 @@
 {
   "events": [
     {
-      "date": "2025-07-24T00:00:00",
-      "description": null,
-      "end_time": null,
-      "location": "Wheelie Pop Brewing",
-      "start_time": null,
-      "vendor": "Kaosamai Thai"
-    },
-    {
-      "date": "2025-07-24T16:00:00.809000",
-      "description": null,
-      "end_time": "08:00 PM",
-      "location": "Yonder Cider & Bale Breaker - Ballard",
-      "start_time": "04:00 PM",
-      "vendor": "Impeckable Chicken"
-    },
-    {
       "date": "2025-07-25T00:00:00",
       "description": null,
       "end_time": null,
@@ -27,10 +11,10 @@
     {
       "date": "2025-07-25T00:00:00",
       "description": null,
-      "end_time": "08:00 PM",
+      "end_time": "07:00 PM",
       "location": "Obec Brewing",
-      "start_time": "04:00 PM",
-      "vendor": "Now Make Me a Sandwich"
+      "start_time": "02:00 AM",
+      "vendor": "Cocina Barelas (New Mexican Cuisine)"
     },
     {
       "date": "2025-07-25T00:00:00",
@@ -201,8 +185,25 @@
       "location": "Yonder Cider & Bale Breaker - Ballard",
       "start_time": "04:00 PM",
       "vendor": "Impeckable Chicken"
+    },
+    {
+      "date": "2025-08-01T00:00:00",
+      "description": null,
+      "end_time": "08:00 PM",
+      "extraction_method": "vision",
+      "location": "Urban Family Brewing",
+      "start_time": "04:00 PM",
+      "vendor": "BIRRERIA PEPE EL TORO \ud83d\uddbc\ufe0f\ud83e\udd16"
+    },
+    {
+      "date": "2025-08-01T00:00:00",
+      "description": null,
+      "end_time": "08:00 PM",
+      "location": "Stoup Brewing - Ballard",
+      "start_time": "05:00 PM",
+      "vendor": "Russo Pizzarium"
     }
   ],
   "total_events": 25,
-  "updated": "2025-07-25T07:15:31.585275+00:00"
+  "updated": "2025-07-25T08:15:36.438643+00:00"
 }
