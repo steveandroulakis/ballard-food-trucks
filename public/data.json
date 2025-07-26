@@ -36,9 +36,10 @@
       "date": "2025-07-27T00:00:00",
       "description": null,
       "end_time": "07:00 PM",
+      "extraction_method": "vision",
       "location": "Urban Family Brewing",
       "start_time": "01:00 PM",
-      "vendor": "TBD"
+      "vendor": "BURGER PLANET \ud83d\uddbc\ufe0f\ud83e\udd16"
     },
     {
       "date": "2025-07-27T00:00:00",
@@ -60,9 +61,10 @@
       "date": "2025-07-28T00:00:00",
       "description": null,
       "end_time": "08:00 PM",
+      "extraction_method": "vision",
       "location": "Urban Family Brewing",
       "start_time": "04:00 PM",
-      "vendor": "TBD"
+      "vendor": "TOLU \ud83d\uddbc\ufe0f\ud83e\udd16"
     },
     {
       "date": "2025-07-28T00:00:00",
@@ -172,9 +174,10 @@
       "date": "2025-08-01T00:00:00",
       "description": null,
       "end_time": "08:00 PM",
+      "extraction_method": "vision",
       "location": "Urban Family Brewing",
       "start_time": "04:00 PM",
-      "vendor": "TBD"
+      "vendor": "BIRRERIA PEPE EL TORO \ud83d\uddbc\ufe0f\ud83e\udd16"
     },
     {
       "date": "2025-08-02T00:00:00",
@@ -202,5 +205,5 @@
     }
   ],
   "total_events": 25,
-  "updated": "2025-07-26T17:15:16.848922+00:00"
+  "updated": "2025-07-26T18:15:26.053236+00:00"
 }
