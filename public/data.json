@@ -11,22 +11,6 @@
     {
       "date": "2025-07-25T00:00:00",
       "description": null,
-      "end_time": "07:00 PM",
-      "location": "Obec Brewing",
-      "start_time": "02:00 AM",
-      "vendor": "Cocina Barelas (New Mexican Cuisine)"
-    },
-    {
-      "date": "2025-07-25T00:00:00",
-      "description": null,
-      "end_time": "08:00 PM",
-      "location": "Urban Family Brewing",
-      "start_time": "04:00 PM",
-      "vendor": "TBD"
-    },
-    {
-      "date": "2025-07-25T00:00:00",
-      "description": null,
       "end_time": "08:00 PM",
       "location": "Stoup Brewing - Ballard",
       "start_time": "05:00 PM",
@@ -39,6 +23,14 @@
       "location": "Yonder Cider & Bale Breaker - Ballard",
       "start_time": "03:00 PM",
       "vendor": "Now Make Me A Sandwich"
+    },
+    {
+      "date": "2025-07-26T00:00:00",
+      "description": null,
+      "end_time": "07:00 PM",
+      "location": "Obec Brewing",
+      "start_time": "02:00 AM",
+      "vendor": "Cocina Barelas (New Mexican Cuisine)"
     },
     {
       "date": "2025-07-26T00:00:00",
@@ -212,6 +204,6 @@
       "vendor": "Russo Pizzarium"
     }
   ],
-  "total_events": 26,
-  "updated": "2025-07-25T23:15:23.626433+00:00"
+  "total_events": 25,
+  "updated": "2025-07-26T00:15:28.163655+00:00"
 }
