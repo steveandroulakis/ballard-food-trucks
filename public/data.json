@@ -113,13 +113,13 @@
       "vendor": "La Costenita"
     },
     {
-      "date": "2025-07-30T20:00:00.371000",
+      "date": "2025-07-30T16:00:00.013000",
       "description": null,
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
       "location": "Yonder Cider & Bale Breaker - Ballard",
-      "start_time": "8:00 PM PT",
-      "start_time_raw": "8:00 PM",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
       "timezone": "PT",
       "vendor": "Georgia\u2019s Greek"
     },
@@ -177,7 +177,7 @@
       "start_time": "4:00 PM PT",
       "start_time_raw": "4:00 PM",
       "timezone": "PT",
-      "vendor": "BIRRIERIA PEPE EL TORO \ud83d\uddbc\ufe0f\ud83e\udd16"
+      "vendor": "BIRRERIA PEPE EL TORO \ud83d\uddbc\ufe0f\ud83e\udd16"
     },
     {
       "date": "2025-08-02T00:00:00",
@@ -222,10 +222,21 @@
       "start_time_raw": "5:00 PM",
       "timezone": "PT",
       "vendor": "Russo Pizzarium"
+    },
+    {
+      "date": "2025-08-03T13:00:00.680000",
+      "description": null,
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "location": "Yonder Cider & Bale Breaker - Ballard",
+      "start_time": "1:00 PM PT",
+      "start_time_raw": "1:00 PM",
+      "timezone": "PT",
+      "vendor": "Tacos &amp; Beer"
     }
   ],
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 20,
-  "updated": "2025-07-27T22:15:23.847381+00:00"
+  "total_events": 21,
+  "updated": "2025-07-27T23:15:23.854996+00:00"
 }
