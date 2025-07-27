@@ -1,14 +1,6 @@
 {
   "events": [
     {
-      "date": "2025-07-26T13:00:00.600000",
-      "description": null,
-      "end_time": "09:00 PM",
-      "location": "Yonder Cider & Bale Breaker - Ballard",
-      "start_time": "01:00 PM",
-      "vendor": "Project Pizza"
-    },
-    {
       "date": "2025-07-27T00:00:00",
       "description": null,
       "end_time": "07:00 PM",
@@ -186,8 +178,32 @@
       "location": "Urban Family Brewing",
       "start_time": "01:00 PM",
       "vendor": "TBD"
+    },
+    {
+      "date": "2025-08-03T00:00:00",
+      "description": null,
+      "end_time": null,
+      "location": "Wheelie Pop Brewing",
+      "start_time": null,
+      "vendor": "Heart in Seoul"
+    },
+    {
+      "date": "2025-08-03T00:00:00",
+      "description": null,
+      "end_time": "07:00 PM",
+      "location": "Urban Family Brewing",
+      "start_time": "01:00 PM",
+      "vendor": "Kaosamia"
+    },
+    {
+      "date": "2025-08-03T00:00:00",
+      "description": null,
+      "end_time": "08:00 PM",
+      "location": "Stoup Brewing - Ballard",
+      "start_time": "05:00 PM",
+      "vendor": "Russo Pizzarium"
     }
   ],
-  "total_events": 23,
-  "updated": "2025-07-27T07:15:23.204577+00:00"
+  "total_events": 25,
+  "updated": "2025-07-27T08:15:24.875131+00:00"
 }
