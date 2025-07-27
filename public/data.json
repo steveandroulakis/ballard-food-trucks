@@ -13,14 +13,6 @@
       "date": "2025-07-27T00:00:00",
       "description": null,
       "end_time": "08:00 PM",
-      "location": "Obec Brewing",
-      "start_time": "04:00 PM",
-      "vendor": "Kaosamai Thai"
-    },
-    {
-      "date": "2025-07-27T00:00:00",
-      "description": null,
-      "end_time": "08:00 PM",
       "location": "Stoup Brewing - Ballard",
       "start_time": "05:00 PM",
       "vendor": "Russo Pizzarium"
@@ -204,6 +196,6 @@
       "vendor": "Russo Pizzarium"
     }
   ],
-  "total_events": 25,
-  "updated": "2025-07-27T08:15:24.875131+00:00"
+  "total_events": 24,
+  "updated": "2025-07-27T09:15:23.956188+00:00"
 }
