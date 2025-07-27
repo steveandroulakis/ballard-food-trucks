@@ -1,14 +1,6 @@
 {
   "events": [
     {
-      "date": "2025-07-26T00:00:00",
-      "description": null,
-      "end_time": "08:00 PM",
-      "location": "Stoup Brewing - Ballard",
-      "start_time": "05:00 PM",
-      "vendor": "Russo Pizzarium"
-    },
-    {
       "date": "2025-07-26T13:00:00.600000",
       "description": null,
       "end_time": "09:00 PM",
@@ -39,7 +31,7 @@
       "end_time": "08:00 PM",
       "location": "Stoup Brewing - Ballard",
       "start_time": "05:00 PM",
-      "vendor": "Tacos & Beer"
+      "vendor": "Russo Pizzarium"
     },
     {
       "date": "2025-07-27T13:00:00.735000",
@@ -64,7 +56,7 @@
       "end_time": "08:00 PM",
       "location": "Stoup Brewing - Ballard",
       "start_time": "05:00 PM",
-      "vendor": "The Marigold Wood Fired Pizza"
+      "vendor": "Tacos & Beer"
     },
     {
       "date": "2025-07-29T00:00:00",
@@ -80,7 +72,7 @@
       "end_time": "08:00 PM",
       "location": "Stoup Brewing - Ballard",
       "start_time": "05:00 PM",
-      "vendor": "La Costenita"
+      "vendor": "The Marigold Wood Fired Pizza"
     },
     {
       "date": "2025-07-29T16:00:00.309000",
@@ -101,10 +93,10 @@
     {
       "date": "2025-07-30T00:00:00",
       "description": null,
-      "end_time": "09:00 PM",
+      "end_time": "08:00 PM",
       "location": "Stoup Brewing - Ballard",
       "start_time": "05:00 PM",
-      "vendor": "Off the Rez"
+      "vendor": "La Costenita"
     },
     {
       "date": "2025-07-30T20:00:00.371000",
@@ -126,17 +118,17 @@
       "date": "2025-07-31T00:00:00",
       "description": null,
       "end_time": "08:00 PM",
-      "location": "Stoup Brewing - Ballard",
-      "start_time": "01:00 PM",
-      "vendor": "Woodshop BBQ"
+      "location": "Urban Family Brewing",
+      "start_time": "04:00 PM",
+      "vendor": "Alebrije1"
     },
     {
       "date": "2025-07-31T00:00:00",
       "description": null,
-      "end_time": "08:00 PM",
-      "location": "Urban Family Brewing",
-      "start_time": "04:00 PM",
-      "vendor": "Alebrije1"
+      "end_time": "09:00 PM",
+      "location": "Stoup Brewing - Ballard",
+      "start_time": "05:00 PM",
+      "vendor": "Off the Rez"
     },
     {
       "date": "2025-07-31T16:00:00.362000",
@@ -157,10 +149,10 @@
     {
       "date": "2025-08-01T00:00:00",
       "description": null,
-      "end_time": "07:00 PM",
+      "end_time": "08:00 PM",
       "location": "Stoup Brewing - Ballard",
       "start_time": "01:00 PM",
-      "vendor": "Burger Planet"
+      "vendor": "Woodshop BBQ"
     },
     {
       "date": "2025-08-01T00:00:00",
@@ -182,20 +174,20 @@
     {
       "date": "2025-08-02T00:00:00",
       "description": null,
-      "end_time": "08:00 PM",
-      "location": "Urban Family Brewing",
+      "end_time": "07:00 PM",
+      "location": "Stoup Brewing - Ballard",
       "start_time": "01:00 PM",
-      "vendor": "TBD"
+      "vendor": "Burger Planet"
     },
     {
       "date": "2025-08-02T00:00:00",
       "description": null,
       "end_time": "08:00 PM",
-      "location": "Stoup Brewing - Ballard",
-      "start_time": "05:00 PM",
-      "vendor": "Russo Pizzarium"
+      "location": "Urban Family Brewing",
+      "start_time": "01:00 PM",
+      "vendor": "TBD"
     }
   ],
-  "total_events": 24,
-  "updated": "2025-07-27T06:15:40.507510+00:00"
+  "total_events": 23,
+  "updated": "2025-07-27T07:15:23.204577+00:00"
 }
