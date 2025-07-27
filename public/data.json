@@ -93,14 +93,6 @@
     {
       "date": "2025-07-31T00:00:00",
       "description": null,
-      "end_time": null,
-      "location": "Wheelie Pop Brewing",
-      "start_time": null,
-      "vendor": "Kaosamai Thai"
-    },
-    {
-      "date": "2025-07-31T00:00:00",
-      "description": null,
       "end_time": "08:00 PM",
       "location": "Urban Family Brewing",
       "start_time": "04:00 PM",
@@ -125,14 +117,6 @@
     {
       "date": "2025-08-01T00:00:00",
       "description": null,
-      "end_time": null,
-      "location": "Wheelie Pop Brewing",
-      "start_time": null,
-      "vendor": "El Pachi Empanadas"
-    },
-    {
-      "date": "2025-08-01T00:00:00",
-      "description": null,
       "end_time": "08:00 PM",
       "location": "Stoup Brewing - Ballard",
       "start_time": "01:00 PM",
@@ -146,14 +130,6 @@
       "location": "Urban Family Brewing",
       "start_time": "04:00 PM",
       "vendor": "BIRRERIA PEPE EL TORO \ud83d\uddbc\ufe0f\ud83e\udd16"
-    },
-    {
-      "date": "2025-08-02T00:00:00",
-      "description": null,
-      "end_time": null,
-      "location": "Wheelie Pop Brewing",
-      "start_time": null,
-      "vendor": "Vandalz Taqueria"
     },
     {
       "date": "2025-08-02T00:00:00",
@@ -174,14 +150,6 @@
     {
       "date": "2025-08-03T00:00:00",
       "description": null,
-      "end_time": null,
-      "location": "Wheelie Pop Brewing",
-      "start_time": null,
-      "vendor": "Heart in Seoul"
-    },
-    {
-      "date": "2025-08-03T00:00:00",
-      "description": null,
       "end_time": "07:00 PM",
       "location": "Urban Family Brewing",
       "start_time": "01:00 PM",
@@ -196,6 +164,6 @@
       "vendor": "Russo Pizzarium"
     }
   ],
-  "total_events": 24,
-  "updated": "2025-07-27T15:15:23.863660+00:00"
+  "total_events": 20,
+  "updated": "2025-07-27T16:15:25.077837+00:00"
 }
