@@ -3,22 +3,6 @@
     {
       "date": "2025-07-26T00:00:00",
       "description": null,
-      "end_time": "07:00 PM",
-      "location": "Urban Family Brewing",
-      "start_time": "01:00 PM",
-      "vendor": "Oskar"
-    },
-    {
-      "date": "2025-07-26T00:00:00",
-      "description": null,
-      "end_time": "08:00 PM",
-      "location": "Obec Brewing",
-      "start_time": "04:00 PM",
-      "vendor": "Kaosamai Thai"
-    },
-    {
-      "date": "2025-07-26T00:00:00",
-      "description": null,
       "end_time": "08:00 PM",
       "location": "Stoup Brewing - Ballard",
       "start_time": "05:00 PM",
@@ -40,6 +24,14 @@
       "location": "Urban Family Brewing",
       "start_time": "01:00 PM",
       "vendor": "BURGER PLANET \ud83d\uddbc\ufe0f\ud83e\udd16"
+    },
+    {
+      "date": "2025-07-27T00:00:00",
+      "description": null,
+      "end_time": "08:00 PM",
+      "location": "Obec Brewing",
+      "start_time": "04:00 PM",
+      "vendor": "Kaosamai Thai"
     },
     {
       "date": "2025-07-27T00:00:00",
@@ -204,6 +196,6 @@
       "vendor": "Russo Pizzarium"
     }
   ],
-  "total_events": 25,
-  "updated": "2025-07-26T23:15:23.057939+00:00"
+  "total_events": 24,
+  "updated": "2025-07-27T00:15:23.058776+00:00"
 }
