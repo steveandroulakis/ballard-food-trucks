@@ -3,18 +3,6 @@
     {
       "date": "2025-07-27T00:00:00",
       "description": null,
-      "end_time": "7:00 PM PT",
-      "end_time_raw": "7:00 PM",
-      "extraction_method": "vision",
-      "location": "Urban Family Brewing",
-      "start_time": "1:00 PM PT",
-      "start_time_raw": "1:00 PM",
-      "timezone": "PT",
-      "vendor": "BURGER PLANET \ud83d\uddbc\ufe0f\ud83e\udd16"
-    },
-    {
-      "date": "2025-07-27T00:00:00",
-      "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
       "location": "Stoup Brewing - Ballard",
@@ -180,6 +168,17 @@
       "vendor": "BIRRERIA PEPE EL TORO \ud83d\uddbc\ufe0f\ud83e\udd16"
     },
     {
+      "date": "2025-08-01T16:00:00.141000",
+      "description": null,
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "location": "Yonder Cider & Bale Breaker - Ballard",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "timezone": "PT",
+      "vendor": "Wood Shop BBQ"
+    },
+    {
       "date": "2025-08-02T00:00:00",
       "description": null,
       "end_time": "7:00 PM PT",
@@ -200,6 +199,17 @@
       "start_time_raw": "1:00 PM",
       "timezone": "PT",
       "vendor": "TBD"
+    },
+    {
+      "date": "2025-08-02T13:00:00.694000",
+      "description": null,
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "location": "Yonder Cider & Bale Breaker - Ballard",
+      "start_time": "1:00 PM PT",
+      "start_time_raw": "1:00 PM",
+      "timezone": "PT",
+      "vendor": "Wich Came First"
     },
     {
       "date": "2025-08-03T00:00:00",
@@ -237,6 +247,6 @@
   ],
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 21,
-  "updated": "2025-07-27T23:15:23.854996+00:00"
+  "total_events": 22,
+  "updated": "2025-07-28T00:15:26.611306+00:00"
 }
