@@ -9,7 +9,7 @@
       "start_time": "4:00 PM PT",
       "start_time_raw": "4:00 PM",
       "timezone": "PT",
-      "vendor": "Heart in Seoul"
+      "vendor": "Maroom Thai"
     },
     {
       "date": "2025-07-29T00:00:00",
@@ -220,10 +220,44 @@
       "start_time_raw": "5:00 PM",
       "timezone": "PT",
       "vendor": "Russo Pizzarium"
+    },
+    {
+      "date": "2025-08-05T00:00:00",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "extraction_method": "vision",
+      "location": "Urban Family Brewing",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "timezone": "PT",
+      "vendor": "Georgia's \ud83d\uddbc\ufe0f\ud83e\udd16"
+    },
+    {
+      "date": "2025-08-05T00:00:00",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "location": "Stoup Brewing - Ballard",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "timezone": "PT",
+      "vendor": "Tacos & Beer"
+    },
+    {
+      "date": "2025-08-05T16:00:00.897000",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "location": "Yonder Cider & Bale Breaker - Ballard",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "timezone": "PT",
+      "vendor": "Birrieria Pepe El Toro"
     }
   ],
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 20,
-  "updated": "2025-07-29T07:15:24.612091+00:00"
+  "total_events": 23,
+  "updated": "2025-07-29T08:15:24.808328+00:00"
 }
