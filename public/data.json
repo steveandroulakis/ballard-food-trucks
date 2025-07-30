@@ -47,6 +47,17 @@
     {
       "date": "2025-07-31T00:00:00",
       "description": null,
+      "end_time": null,
+      "end_time_raw": null,
+      "location": "Wheelie Pop Brewing",
+      "start_time": null,
+      "start_time_raw": null,
+      "timezone": "PT",
+      "vendor": "Kaosamai Thai"
+    },
+    {
+      "date": "2025-07-31T00:00:00",
+      "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
       "location": "Urban Family Brewing",
@@ -91,6 +102,17 @@
     {
       "date": "2025-08-01T00:00:00",
       "description": null,
+      "end_time": null,
+      "end_time_raw": null,
+      "location": "Wheelie Pop Brewing",
+      "start_time": null,
+      "start_time_raw": null,
+      "timezone": "PT",
+      "vendor": "El Pachi Empanadas"
+    },
+    {
+      "date": "2025-08-01T00:00:00",
+      "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
       "extraction_method": "vision",
@@ -125,6 +147,17 @@
     {
       "date": "2025-08-02T00:00:00",
       "description": null,
+      "end_time": null,
+      "end_time_raw": null,
+      "location": "Wheelie Pop Brewing",
+      "start_time": null,
+      "start_time_raw": null,
+      "timezone": "PT",
+      "vendor": "Vandalz Taqueria"
+    },
+    {
+      "date": "2025-08-02T00:00:00",
+      "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
       "location": "Stoup Brewing - Ballard",
@@ -154,6 +187,17 @@
       "start_time_raw": "1:00 PM",
       "timezone": "PT",
       "vendor": "Wich Came First"
+    },
+    {
+      "date": "2025-08-03T00:00:00",
+      "description": null,
+      "end_time": null,
+      "end_time_raw": null,
+      "location": "Wheelie Pop Brewing",
+      "start_time": null,
+      "start_time_raw": null,
+      "timezone": "PT",
+      "vendor": "Heart in Seoul"
     },
     {
       "date": "2025-08-03T00:00:00",
@@ -280,6 +324,6 @@
   ],
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 25,
-  "updated": "2025-07-30T19:15:24.554182+00:00"
+  "total_events": 29,
+  "updated": "2025-07-30T20:15:24.492317+00:00"
 }
