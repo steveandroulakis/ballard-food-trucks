@@ -100,6 +100,17 @@
       "vendor": "Impeckable Chicken"
     },
     {
+      "date": "2025-07-31T20:30:00.858000",
+      "description": null,
+      "end_time": "10:00 PM PT",
+      "end_time_raw": "10:00 PM",
+      "location": "Yonder Cider & Bale Breaker - Ballard",
+      "start_time": "8:30 PM PT",
+      "start_time_raw": "8:30 PM",
+      "timezone": "PT",
+      "vendor": "Corgi Racing Watch Party"
+    },
+    {
       "date": "2025-08-01T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
@@ -189,6 +200,17 @@
       "vendor": "Kaosamia"
     },
     {
+      "date": "2025-08-03T12:00:00.819000",
+      "description": null,
+      "end_time": "5:00 PM PT",
+      "end_time_raw": "5:00 PM",
+      "location": "Yonder Cider & Bale Breaker - Ballard",
+      "start_time": "12:00 PM PT",
+      "start_time_raw": "12:00 PM",
+      "timezone": "PT",
+      "vendor": "Toms Card Games Pop-up"
+    },
+    {
       "date": "2025-08-03T13:00:00.680000",
       "description": null,
       "end_time": "9:00 PM PT",
@@ -247,6 +269,6 @@
   ],
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 22,
-  "updated": "2025-07-30T02:15:25.925413+00:00"
+  "total_events": 24,
+  "updated": "2025-07-30T03:15:23.475275+00:00"
 }
