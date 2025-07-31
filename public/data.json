@@ -20,7 +20,7 @@
       "start_time": "4:00 PM PT",
       "start_time_raw": "4:00 PM",
       "timezone": "PT",
-      "vendor": "Empanadas el Pachi"
+      "vendor": "Now Make Me a Sandwich"
     },
     {
       "date": "2025-07-31T00:00:00",
@@ -180,5 +180,5 @@
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
   "total_events": 16,
-  "updated": "2025-07-31T08:15:06.064473+00:00"
+  "updated": "2025-07-31T09:15:06.895707+00:00"
 }
