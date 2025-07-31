@@ -16,17 +16,6 @@
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
-      "location": "Urban Family Brewing",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
-      "timezone": "PT",
-      "vendor": "Kathmandu Momocha Logo Updated 1594841950 Copy 1664838886"
-    },
-    {
-      "date": "2025-07-30T00:00:00",
-      "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
       "location": "Stoup Brewing - Ballard",
       "start_time": "5:00 PM PT",
       "start_time_raw": "5:00 PM",
@@ -134,17 +123,6 @@
       "vendor": "Off the Rez"
     },
     {
-      "date": "2025-08-01T16:00:00.141000",
-      "description": null,
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
-      "location": "Yonder Cider & Bale Breaker - Ballard",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
-      "timezone": "PT",
-      "vendor": "Wood Shop BBQ"
-    },
-    {
       "date": "2025-08-02T00:00:00",
       "description": null,
       "end_time": null,
@@ -178,17 +156,6 @@
       "vendor": "TBD"
     },
     {
-      "date": "2025-08-02T13:00:00.694000",
-      "description": null,
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
-      "location": "Yonder Cider & Bale Breaker - Ballard",
-      "start_time": "1:00 PM PT",
-      "start_time_raw": "1:00 PM",
-      "timezone": "PT",
-      "vendor": "Wich Came First"
-    },
-    {
       "date": "2025-08-03T00:00:00",
       "description": null,
       "end_time": null,
@@ -220,28 +187,6 @@
       "start_time_raw": "1:00 PM",
       "timezone": "PT",
       "vendor": "Kaosamia"
-    },
-    {
-      "date": "2025-08-03T12:00:00.819000",
-      "description": null,
-      "end_time": "5:00 PM PT",
-      "end_time_raw": "5:00 PM",
-      "location": "Yonder Cider & Bale Breaker - Ballard",
-      "start_time": "12:00 PM PT",
-      "start_time_raw": "12:00 PM",
-      "timezone": "PT",
-      "vendor": "Toms Card Games Pop-up"
-    },
-    {
-      "date": "2025-08-03T13:00:00.680000",
-      "description": null,
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
-      "location": "Yonder Cider & Bale Breaker - Ballard",
-      "start_time": "1:00 PM PT",
-      "start_time_raw": "1:00 PM",
-      "timezone": "PT",
-      "vendor": "Tacos &amp; Beer"
     },
     {
       "date": "2025-08-04T00:00:00",
@@ -278,17 +223,6 @@
       "vendor": "Tacos & Beer"
     },
     {
-      "date": "2025-08-05T16:00:00.897000",
-      "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "location": "Yonder Cider & Bale Breaker - Ballard",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
-      "timezone": "PT",
-      "vendor": "Birrieria Pepe El Toro"
-    },
-    {
       "date": "2025-08-06T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
@@ -309,21 +243,10 @@
       "start_time_raw": "5:00 PM",
       "timezone": "PT",
       "vendor": "The Marigold Wood Fired Pizza"
-    },
-    {
-      "date": "2025-08-06T16:00:00.384000",
-      "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "location": "Yonder Cider & Bale Breaker - Ballard",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
-      "timezone": "PT",
-      "vendor": "Georgia\u2019s Greek"
     }
   ],
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 29,
-  "updated": "2025-07-30T23:15:22.959021+00:00"
+  "total_events": 22,
+  "updated": "2025-07-31T00:15:28.109236+00:00"
 }
