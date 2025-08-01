@@ -176,7 +176,7 @@
       "start_time": "4:00 PM PT",
       "start_time_raw": "4:00 PM",
       "timezone": "PT",
-      "vendor": "Georgia's \ud83d\uddbc\ufe0f\ud83e\udd16"
+      "vendor": "Georgia's Greek \ud83d\uddbc\ufe0f\ud83e\udd16"
     },
     {
       "date": "2025-08-05T00:00:00",
@@ -292,5 +292,5 @@
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
   "total_events": 26,
-  "updated": "2025-08-01T21:15:23.336453+00:00"
+  "updated": "2025-08-01T22:15:23.847221+00:00"
 }
