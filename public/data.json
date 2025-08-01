@@ -3,6 +3,17 @@
     {
       "date": "2025-08-01T00:00:00",
       "description": null,
+      "end_time": null,
+      "end_time_raw": null,
+      "location": "Wheelie Pop Brewing",
+      "start_time": null,
+      "start_time_raw": null,
+      "timezone": "PT",
+      "vendor": "El Pachi Empanadas"
+    },
+    {
+      "date": "2025-08-01T00:00:00",
+      "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
       "location": "Obec Brewing",
@@ -48,6 +59,17 @@
     {
       "date": "2025-08-02T00:00:00",
       "description": null,
+      "end_time": null,
+      "end_time_raw": null,
+      "location": "Wheelie Pop Brewing",
+      "start_time": null,
+      "start_time_raw": null,
+      "timezone": "PT",
+      "vendor": "Vandalz Taqueria"
+    },
+    {
+      "date": "2025-08-02T00:00:00",
+      "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
       "location": "Stoup Brewing - Ballard",
@@ -77,6 +99,17 @@
       "start_time_raw": "1:00 PM",
       "timezone": "PT",
       "vendor": "Wich Came First"
+    },
+    {
+      "date": "2025-08-03T00:00:00",
+      "description": null,
+      "end_time": null,
+      "end_time_raw": null,
+      "location": "Wheelie Pop Brewing",
+      "start_time": null,
+      "start_time_raw": null,
+      "timezone": "PT",
+      "vendor": "Heart in Seoul"
     },
     {
       "date": "2025-08-03T00:00:00",
@@ -203,6 +236,17 @@
     {
       "date": "2025-08-07T00:00:00",
       "description": null,
+      "end_time": null,
+      "end_time_raw": null,
+      "location": "Wheelie Pop Brewing",
+      "start_time": null,
+      "start_time_raw": null,
+      "timezone": "PT",
+      "vendor": "Tisket Tasket"
+    },
+    {
+      "date": "2025-08-07T00:00:00",
+      "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
       "location": "Stoup Brewing - Ballard",
@@ -247,6 +291,6 @@
   ],
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 22,
-  "updated": "2025-08-01T14:15:24.204384+00:00"
+  "total_events": 26,
+  "updated": "2025-08-01T15:15:24.214385+00:00"
 }
