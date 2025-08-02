@@ -25,18 +25,6 @@
     {
       "date": "2025-08-01T00:00:00",
       "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "extraction_method": "vision",
-      "location": "Urban Family Brewing",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
-      "timezone": "PT",
-      "vendor": "BIRRERIA PEPE EL TORO \ud83d\uddbc\ufe0f\ud83e\udd16"
-    },
-    {
-      "date": "2025-08-01T00:00:00",
-      "description": null,
       "end_time": "9:00 PM PT",
       "end_time_raw": "9:00 PM",
       "location": "Stoup Brewing - Ballard",
@@ -291,6 +279,6 @@
   ],
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 26,
-  "updated": "2025-08-01T23:15:23.531164+00:00"
+  "total_events": 25,
+  "updated": "2025-08-02T00:15:33.647692+00:00"
 }
