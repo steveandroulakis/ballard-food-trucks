@@ -34,17 +34,6 @@
       "vendor": "Georgia's Greek"
     },
     {
-      "date": "2025-08-03T00:00:00",
-      "description": null,
-      "end_time": "7:00 PM PT",
-      "end_time_raw": "7:00 PM",
-      "location": "Stoup Brewing - Ballard",
-      "start_time": "1:00 PM PT",
-      "start_time_raw": "1:00 PM",
-      "timezone": "PT",
-      "vendor": "Burger Planet"
-    },
-    {
       "date": "2025-08-03T12:00:00.819000",
       "description": null,
       "end_time": "5:00 PM PT",
@@ -65,17 +54,6 @@
       "start_time_raw": "1:00 PM",
       "timezone": "PT",
       "vendor": "Tacos &amp; Beer"
-    },
-    {
-      "date": "2025-08-03T17:00:00",
-      "description": "Cuisine: African, Halal, Vegetarian",
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
-      "location": "Saleh's Corner",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
-      "timezone": "PT",
-      "vendor": "Blackstar Kebab"
     },
     {
       "date": "2025-08-04T00:00:00",
@@ -432,6 +410,6 @@
   ],
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 39,
-  "updated": "2025-08-04T06:15:22.038499+00:00"
+  "total_events": 37,
+  "updated": "2025-08-04T07:15:16.777232+00:00"
 }
