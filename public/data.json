@@ -45,17 +45,6 @@
       "vendor": "Burger Planet"
     },
     {
-      "date": "2025-08-03T00:00:00",
-      "description": null,
-      "end_time": "7:00 PM PT",
-      "end_time_raw": "7:00 PM",
-      "location": "Urban Family Brewing",
-      "start_time": "1:00 PM PT",
-      "start_time_raw": "1:00 PM",
-      "timezone": "PT",
-      "vendor": "Kaosamai Thai Restaurant"
-    },
-    {
       "date": "2025-08-03T12:00:00.819000",
       "description": null,
       "end_time": "5:00 PM PT",
@@ -454,6 +443,6 @@
   ],
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 41,
-  "updated": "2025-08-03T23:15:16.595127+00:00"
+  "total_events": 40,
+  "updated": "2025-08-04T00:15:23.972755+00:00"
 }
