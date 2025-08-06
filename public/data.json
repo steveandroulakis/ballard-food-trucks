@@ -2,14 +2,14 @@
   "events": [
     {
       "date": "2025-08-06T00:00:00",
-      "description": "Original event: Dinner: Chick'n Fix",
+      "description": "Original event: Dinner: Kathmandu Dumplings",
       "end_time": null,
       "end_time_raw": null,
       "location": "Chuck's Hop Shop Greenwood",
       "start_time": null,
       "start_time_raw": null,
       "timezone": "PT",
-      "vendor": "Chick'n Fix"
+      "vendor": "Kathmandu Dumplings"
     },
     {
       "date": "2025-08-06T00:00:00",
@@ -422,5 +422,5 @@
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
   "total_events": 38,
-  "updated": "2025-08-06T21:15:17.032281+00:00"
+  "updated": "2025-08-06T22:15:22.394346+00:00"
 }
