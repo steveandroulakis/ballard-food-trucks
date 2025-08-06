@@ -68,17 +68,6 @@
     },
     {
       "date": "2025-08-07T00:00:00",
-      "description": null,
-      "end_time": null,
-      "end_time_raw": null,
-      "location": "Wheelie Pop Brewing",
-      "start_time": null,
-      "start_time_raw": null,
-      "timezone": "PT",
-      "vendor": "Tisket Tasket"
-    },
-    {
-      "date": "2025-08-07T00:00:00",
       "description": "Original event: Dinner: Pizza Paseano",
       "end_time": null,
       "end_time_raw": null,
@@ -410,6 +399,6 @@
   ],
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 37,
-  "updated": "2025-08-06T13:15:16.852290+00:00"
+  "total_events": 36,
+  "updated": "2025-08-06T14:15:20.415769+00:00"
 }
