@@ -25,13 +25,13 @@
     {
       "date": "2025-08-07T00:00:00",
       "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
+      "end_time": "4:00 PM PT",
+      "end_time_raw": "4:00 PM",
       "location": "Stoup Brewing - Ballard",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
+      "start_time": "12:00 PM PT",
+      "start_time_raw": "12:00 PM",
       "timezone": "PT",
-      "vendor": "Russo Pizzarium"
+      "vendor": "Birrieria Pepe El Toro"
     },
     {
       "date": "2025-08-07T16:00:00.822000",
@@ -91,13 +91,13 @@
     {
       "date": "2025-08-08T00:00:00",
       "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
       "location": "Stoup Brewing - Ballard",
       "start_time": "5:00 PM PT",
       "start_time_raw": "5:00 PM",
       "timezone": "PT",
-      "vendor": "Tacos & Beer"
+      "vendor": "Georgia's Greek"
     },
     {
       "date": "2025-08-08T15:00:00.418000",
@@ -137,22 +137,22 @@
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
-      "location": "Urban Family Brewing",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
+      "location": "Stoup Brewing - Ballard",
+      "start_time": "1:00 PM PT",
+      "start_time_raw": "1:00 PM",
       "timezone": "PT",
-      "vendor": "Oskar's Pizza"
+      "vendor": "Tat's Truck"
     },
     {
       "date": "2025-08-09T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
-      "location": "Stoup Brewing - Ballard",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
+      "location": "Urban Family Brewing",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
       "timezone": "PT",
-      "vendor": "The Marigold Wood Fired Pizza"
+      "vendor": "Oskar's Pizza"
     },
     {
       "date": "2025-08-09T13:00:00.397000",
@@ -181,22 +181,22 @@
       "description": null,
       "end_time": "7:00 PM PT",
       "end_time_raw": "7:00 PM",
+      "location": "Stoup Brewing - Ballard",
+      "start_time": "1:00 PM PT",
+      "start_time_raw": "1:00 PM",
+      "timezone": "PT",
+      "vendor": "El Pirata Tortas Y Burritos / Now Make Me A Sandwich"
+    },
+    {
+      "date": "2025-08-10T00:00:00",
+      "description": null,
+      "end_time": "7:00 PM PT",
+      "end_time_raw": "7:00 PM",
       "location": "Urban Family Brewing",
       "start_time": "1:00 PM PT",
       "start_time_raw": "1:00 PM",
       "timezone": "PT",
       "vendor": "Burger Planet"
-    },
-    {
-      "date": "2025-08-10T00:00:00",
-      "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "location": "Stoup Brewing - Ballard",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
-      "timezone": "PT",
-      "vendor": "La Costenita"
     },
     {
       "date": "2025-08-10T13:00:00.456000",
@@ -223,13 +223,13 @@
     {
       "date": "2025-08-11T00:00:00",
       "description": null,
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
       "location": "Stoup Brewing - Ballard",
       "start_time": "5:00 PM PT",
       "start_time_raw": "5:00 PM",
       "timezone": "PT",
-      "vendor": "Off the Rez"
+      "vendor": "Russo Pizzarium"
     },
     {
       "date": "2025-08-11T17:00:00",
@@ -258,22 +258,22 @@
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
-      "location": "Stoup Brewing - Ballard",
-      "start_time": "1:00 PM PT",
-      "start_time_raw": "1:00 PM",
+      "location": "Urban Family Brewing",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
       "timezone": "PT",
-      "vendor": "Woodshop BBQ"
+      "vendor": "TBD"
     },
     {
       "date": "2025-08-12T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
-      "location": "Urban Family Brewing",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
+      "location": "Stoup Brewing - Ballard",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
       "timezone": "PT",
-      "vendor": "TBD"
+      "vendor": "Tacos & Beer"
     },
     {
       "date": "2025-08-12T16:00:00.077000",
@@ -311,17 +311,6 @@
     {
       "date": "2025-08-13T00:00:00",
       "description": null,
-      "end_time": "7:00 PM PT",
-      "end_time_raw": "7:00 PM",
-      "location": "Stoup Brewing - Ballard",
-      "start_time": "1:00 PM PT",
-      "start_time_raw": "1:00 PM",
-      "timezone": "PT",
-      "vendor": "Burger Planet"
-    },
-    {
-      "date": "2025-08-13T00:00:00",
-      "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
       "location": "Urban Family Brewing",
@@ -329,6 +318,17 @@
       "start_time_raw": "4:00 PM",
       "timezone": "PT",
       "vendor": "Impeckable Chicken"
+    },
+    {
+      "date": "2025-08-13T00:00:00",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "location": "Stoup Brewing - Ballard",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "timezone": "PT",
+      "vendor": "The Marigold Wood Fired Pizza"
     },
     {
       "date": "2025-08-13T16:00:00.983000",
@@ -394,7 +394,7 @@
       "start_time": "5:00 PM PT",
       "start_time_raw": "5:00 PM",
       "timezone": "PT",
-      "vendor": "Russo Pizzarium"
+      "vendor": "La Costenita"
     },
     {
       "date": "2025-08-14T16:00:00.826000",
@@ -422,5 +422,5 @@
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
   "total_events": 38,
-  "updated": "2025-08-07T22:15:17.433212+00:00"
+  "updated": "2025-08-07T23:15:16.942501+00:00"
 }
