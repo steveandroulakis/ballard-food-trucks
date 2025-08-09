@@ -1,39 +1,6 @@
 {
   "events": [
     {
-      "date": "2025-08-08T00:00:00",
-      "description": "Original event: Eva's Wild Alaskan Salmon",
-      "end_time": null,
-      "end_time_raw": null,
-      "location": "Chuck's Hop Shop Greenwood",
-      "start_time": null,
-      "start_time_raw": null,
-      "timezone": "PT",
-      "vendor": "Eva's Wild Alaskan Salmon"
-    },
-    {
-      "date": "2025-08-08T00:00:00",
-      "description": "Original event: Dinner: T'Juana",
-      "end_time": null,
-      "end_time_raw": null,
-      "location": "Chuck's Hop Shop Greenwood",
-      "start_time": null,
-      "start_time_raw": null,
-      "timezone": "PT",
-      "vendor": "T'Juana"
-    },
-    {
-      "date": "2025-08-08T15:00:00.418000",
-      "description": null,
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
-      "location": "Yonder Cider & Bale Breaker - Ballard",
-      "start_time": "3:00 PM PT",
-      "start_time_raw": "3:00 PM",
-      "timezone": "PT",
-      "vendor": "Now Make Me A Sandwich"
-    },
-    {
       "date": "2025-08-09T00:00:00",
       "description": "Original event: Dinner: Sabor Boricua",
       "end_time": null,
@@ -47,17 +14,6 @@
     {
       "date": "2025-08-09T00:00:00",
       "description": null,
-      "end_time": "7:00 PM PT",
-      "end_time_raw": "7:00 PM",
-      "location": "Obec Brewing",
-      "start_time": "2:00 AM PT",
-      "start_time_raw": "2:00 AM",
-      "timezone": "PT",
-      "vendor": "Cocina Barelas (New Mexican Cuisine)"
-    },
-    {
-      "date": "2025-08-09T00:00:00",
-      "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
       "location": "Stoup Brewing - Ballard",
@@ -65,6 +21,17 @@
       "start_time_raw": "1:00 PM",
       "timezone": "PT",
       "vendor": "Tat's Truck"
+    },
+    {
+      "date": "2025-08-09T00:00:00",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "location": "Obec Brewing",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "timezone": "PT",
+      "vendor": "Kaosamai Thai"
     },
     {
       "date": "2025-08-09T00:00:00",
@@ -406,10 +373,87 @@
       "start_time_raw": "5:00 PM",
       "timezone": "PT",
       "vendor": "Impeckable Chicken"
+    },
+    {
+      "date": "2025-08-16T00:00:00",
+      "description": null,
+      "end_time": null,
+      "end_time_raw": null,
+      "location": "Wheelie Pop Brewing",
+      "start_time": null,
+      "start_time_raw": null,
+      "timezone": "PT",
+      "vendor": "Vandalz Taqueria"
+    },
+    {
+      "date": "2025-08-16T00:00:00",
+      "description": "Original event: Tat's Deli",
+      "end_time": null,
+      "end_time_raw": null,
+      "location": "Chuck's Hop Shop Greenwood",
+      "start_time": null,
+      "start_time_raw": null,
+      "timezone": "PT",
+      "vendor": "Tat's Deli"
+    },
+    {
+      "date": "2025-08-16T00:00:00",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "location": "Stoup Brewing - Ballard",
+      "start_time": "1:00 PM PT",
+      "start_time_raw": "1:00 PM",
+      "timezone": "PT",
+      "vendor": "Woodshop BBQ"
+    },
+    {
+      "date": "2025-08-16T00:00:00",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "location": "Urban Family Brewing",
+      "start_time": "1:00 PM PT",
+      "start_time_raw": "1:00 PM",
+      "timezone": "PT",
+      "vendor": "MomoExpress"
+    },
+    {
+      "date": "2025-08-16T12:00:00.074000",
+      "description": null,
+      "end_time": "10:00 PM PT",
+      "end_time_raw": "10:00 PM",
+      "location": "Yonder Cider & Bale Breaker - Ballard",
+      "start_time": "12:00 PM PT",
+      "start_time_raw": "12:00 PM",
+      "timezone": "PT",
+      "vendor": "Yonder Cider 5th Anniversary"
+    },
+    {
+      "date": "2025-08-16T13:00:00.503000",
+      "description": null,
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "location": "Yonder Cider & Bale Breaker - Ballard",
+      "start_time": "1:00 PM PT",
+      "start_time_raw": "1:00 PM",
+      "timezone": "PT",
+      "vendor": "Wich Came First"
+    },
+    {
+      "date": "2025-08-16T17:00:00",
+      "description": "Cuisine: Asian, Thai, Vegetarian",
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "location": "Saleh's Corner",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "timezone": "PT",
+      "vendor": "Pumpkin Thai"
     }
   ],
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 37,
-  "updated": "2025-08-09T07:15:16.701377+00:00"
+  "total_events": 41,
+  "updated": "2025-08-09T08:15:16.593723+00:00"
 }
