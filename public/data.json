@@ -34,17 +34,6 @@
       "vendor": "Kaosamai Thai"
     },
     {
-      "date": "2025-08-09T00:00:00",
-      "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "location": "Urban Family Brewing",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
-      "timezone": "PT",
-      "vendor": "Oskar's Pizza"
-    },
-    {
       "date": "2025-08-09T13:00:00.397000",
       "description": null,
       "end_time": "9:00 PM PT",
@@ -454,6 +443,6 @@
   ],
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 41,
-  "updated": "2025-08-09T23:15:17.659020+00:00"
+  "total_events": 40,
+  "updated": "2025-08-10T00:15:15.991245+00:00"
 }
