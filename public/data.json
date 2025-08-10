@@ -12,28 +12,6 @@
       "vendor": "Sabor Boricua"
     },
     {
-      "date": "2025-08-09T00:00:00",
-      "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "location": "Stoup Brewing - Ballard",
-      "start_time": "1:00 PM PT",
-      "start_time_raw": "1:00 PM",
-      "timezone": "PT",
-      "vendor": "Tat's Truck"
-    },
-    {
-      "date": "2025-08-09T00:00:00",
-      "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "location": "Obec Brewing",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
-      "timezone": "PT",
-      "vendor": "Kaosamai Thai"
-    },
-    {
       "date": "2025-08-09T13:00:00.397000",
       "description": null,
       "end_time": "9:00 PM PT",
@@ -76,6 +54,17 @@
       "start_time_raw": "1:00 PM",
       "timezone": "PT",
       "vendor": "Burger Planet"
+    },
+    {
+      "date": "2025-08-10T00:00:00",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "location": "Obec Brewing",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "timezone": "PT",
+      "vendor": "Kaosamai Thai"
     },
     {
       "date": "2025-08-10T13:00:00.456000",
@@ -443,6 +432,6 @@
   ],
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 40,
-  "updated": "2025-08-10T06:15:18.305245+00:00"
+  "total_events": 39,
+  "updated": "2025-08-10T07:15:17.127025+00:00"
 }
