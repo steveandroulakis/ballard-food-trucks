@@ -1,28 +1,6 @@
 {
   "events": [
     {
-      "date": "2025-08-10T00:00:00",
-      "description": "Original event: Momo Express",
-      "end_time": null,
-      "end_time_raw": null,
-      "location": "Chuck's Hop Shop Greenwood",
-      "start_time": null,
-      "start_time_raw": null,
-      "timezone": "PT",
-      "vendor": "Momo Express"
-    },
-    {
-      "date": "2025-08-10T13:00:00.456000",
-      "description": null,
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
-      "location": "Yonder Cider & Bale Breaker - Ballard",
-      "start_time": "1:00 PM PT",
-      "start_time_raw": "1:00 PM",
-      "timezone": "PT",
-      "vendor": "Tacos &amp; Beer"
-    },
-    {
       "date": "2025-08-11T00:00:00",
       "description": "Original event: Dinner: Off the Rez",
       "end_time": null,
@@ -439,10 +417,43 @@
       "start_time_raw": "5:00 PM",
       "timezone": "PT",
       "vendor": "Birrieria Pepe El Toro"
+    },
+    {
+      "date": "2025-08-18T00:00:00",
+      "description": "Original event: Dinner: Off the Rez",
+      "end_time": null,
+      "end_time_raw": null,
+      "location": "Chuck's Hop Shop Greenwood",
+      "start_time": null,
+      "start_time_raw": null,
+      "timezone": "PT",
+      "vendor": "Off the Rez"
+    },
+    {
+      "date": "2025-08-18T00:00:00",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "location": "Stoup Brewing - Ballard",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "timezone": "PT",
+      "vendor": "Where Ya At Matt"
+    },
+    {
+      "date": "2025-08-18T17:00:00",
+      "description": "Cuisine: Asian, BBQ, Sandwiches",
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "location": "Saleh's Corner",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "timezone": "PT",
+      "vendor": "MOMO Express"
     }
   ],
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 40,
-  "updated": "2025-08-11T07:15:22.887312+00:00"
+  "total_events": 41,
+  "updated": "2025-08-11T08:15:16.717954+00:00"
 }
