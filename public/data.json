@@ -12,17 +12,6 @@
       "vendor": "Momo Express"
     },
     {
-      "date": "2025-08-10T00:00:00",
-      "description": null,
-      "end_time": "7:00 PM PT",
-      "end_time_raw": "7:00 PM",
-      "location": "Stoup Brewing - Ballard",
-      "start_time": "1:00 PM PT",
-      "start_time_raw": "1:00 PM",
-      "timezone": "PT",
-      "vendor": "El Pirata Tortas Y Burritos / Now Make Me A Sandwich"
-    },
-    {
       "date": "2025-08-10T13:00:00.456000",
       "description": null,
       "end_time": "9:00 PM PT",
@@ -32,17 +21,6 @@
       "start_time_raw": "1:00 PM",
       "timezone": "PT",
       "vendor": "Tacos &amp; Beer"
-    },
-    {
-      "date": "2025-08-10T17:00:00",
-      "description": "Cuisine: African, Halal, Vegetarian",
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
-      "location": "Saleh's Corner",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
-      "timezone": "PT",
-      "vendor": "Blackstar Kebab"
     },
     {
       "date": "2025-08-11T00:00:00",
@@ -465,6 +443,6 @@
   ],
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 42,
-  "updated": "2025-08-11T06:15:16.551209+00:00"
+  "total_events": 40,
+  "updated": "2025-08-11T07:15:22.887312+00:00"
 }
