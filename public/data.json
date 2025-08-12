@@ -27,6 +27,17 @@
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
+      "location": "Urban Family Brewing",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "timezone": "PT",
+      "vendor": "TBD"
+    },
+    {
+      "date": "2025-08-12T00:00:00",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
       "location": "Stoup Brewing - Ballard",
       "start_time": "5:00 PM PT",
       "start_time_raw": "5:00 PM",
@@ -65,6 +76,17 @@
       "start_time_raw": null,
       "timezone": "PT",
       "vendor": "Chick'n Fix"
+    },
+    {
+      "date": "2025-08-13T00:00:00",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "location": "Urban Family Brewing",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "timezone": "PT",
+      "vendor": "Impeckable Chicken"
     },
     {
       "date": "2025-08-13T00:00:00",
@@ -120,6 +142,17 @@
       "start_time_raw": null,
       "timezone": "PT",
       "vendor": "Pizza Paseano"
+    },
+    {
+      "date": "2025-08-14T00:00:00",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "location": "Urban Family Brewing",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "timezone": "PT",
+      "vendor": "Alebrije"
     },
     {
       "date": "2025-08-14T00:00:00",
@@ -190,6 +223,17 @@
     {
       "date": "2025-08-15T00:00:00",
       "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "location": "Urban Family Brewing",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "timezone": "PT",
+      "vendor": "Birrieria Pepe El Toro LLC"
+    },
+    {
+      "date": "2025-08-15T00:00:00",
+      "description": null,
       "end_time": "9:00 PM PT",
       "end_time_raw": "9:00 PM",
       "location": "Stoup Brewing - Ballard",
@@ -241,6 +285,17 @@
       "start_time_raw": "1:00 PM",
       "timezone": "PT",
       "vendor": "Woodshop BBQ"
+    },
+    {
+      "date": "2025-08-16T00:00:00",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "location": "Urban Family Brewing",
+      "start_time": "1:00 PM PT",
+      "start_time_raw": "1:00 PM",
+      "timezone": "PT",
+      "vendor": "MomoExpress"
     },
     {
       "date": "2025-08-16T12:00:00.074000",
@@ -309,6 +364,17 @@
       "vendor": "Burger Planet"
     },
     {
+      "date": "2025-08-17T00:00:00",
+      "description": null,
+      "end_time": "7:00 PM PT",
+      "end_time_raw": "7:00 PM",
+      "location": "Urban Family Brewing",
+      "start_time": "1:00 PM PT",
+      "start_time_raw": "1:00 PM",
+      "timezone": "PT",
+      "vendor": "Kaosamai Thai Restaurant"
+    },
+    {
       "date": "2025-08-17T13:00:00.402000",
       "description": null,
       "end_time": "9:00 PM PT",
@@ -368,6 +434,17 @@
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
+      "location": "Urban Family Brewing",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "timezone": "PT",
+      "vendor": "Georgia's Greek"
+    },
+    {
+      "date": "2025-08-19T00:00:00",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
       "location": "Stoup Brewing - Ballard",
       "start_time": "5:00 PM PT",
       "start_time_raw": "5:00 PM",
@@ -399,6 +476,6 @@
   ],
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 36,
-  "updated": "2025-08-12T20:15:17.732085+00:00"
+  "total_events": 43,
+  "updated": "2025-08-12T21:15:16.540226+00:00"
 }
