@@ -145,6 +145,17 @@
     },
     {
       "date": "2025-08-14T00:00:00",
+      "description": null,
+      "end_time": null,
+      "end_time_raw": null,
+      "location": "Wheelie Pop Brewing",
+      "start_time": null,
+      "start_time_raw": null,
+      "timezone": "PT",
+      "vendor": "Kaosamai Thai"
+    },
+    {
+      "date": "2025-08-14T00:00:00",
       "description": "Original event: Dinner: Pizza Paseano",
       "end_time": null,
       "end_time_raw": null,
@@ -200,6 +211,17 @@
     },
     {
       "date": "2025-08-15T00:00:00",
+      "description": null,
+      "end_time": null,
+      "end_time_raw": null,
+      "location": "Wheelie Pop Brewing",
+      "start_time": null,
+      "start_time_raw": null,
+      "timezone": "PT",
+      "vendor": "Nibbles & Noshes"
+    },
+    {
+      "date": "2025-08-15T00:00:00",
       "description": "Original event: Eva's Wild Alaskan Salmon",
       "end_time": null,
       "end_time_raw": null,
@@ -252,6 +274,17 @@
       "start_time_raw": "5:00 PM",
       "timezone": "PT",
       "vendor": "Impeckable Chicken"
+    },
+    {
+      "date": "2025-08-16T00:00:00",
+      "description": null,
+      "end_time": null,
+      "end_time_raw": null,
+      "location": "Wheelie Pop Brewing",
+      "start_time": null,
+      "start_time_raw": null,
+      "timezone": "PT",
+      "vendor": "Vandalz Taqueria"
     },
     {
       "date": "2025-08-16T00:00:00",
@@ -410,6 +443,6 @@
   ],
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 37,
-  "updated": "2025-08-12T01:15:17.311042+00:00"
+  "total_events": 40,
+  "updated": "2025-08-12T02:15:30.672693+00:00"
 }
