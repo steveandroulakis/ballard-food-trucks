@@ -188,6 +188,17 @@
       "vendor": "Off the Rez"
     },
     {
+      "date": "2025-08-15T15:00:00.352000",
+      "description": null,
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "location": "Yonder Cider & Bale Breaker - Ballard",
+      "start_time": "3:00 PM PT",
+      "start_time_raw": "3:00 PM",
+      "timezone": "PT",
+      "vendor": "Tacos &amp; Beer"
+    },
+    {
       "date": "2025-08-15T17:00:00",
       "description": "Cuisine: Chicken, Sandwiches, Southern",
       "end_time": "9:00 PM PT",
@@ -476,6 +487,6 @@
   ],
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 43,
-  "updated": "2025-08-13T17:15:17.470208+00:00"
+  "total_events": 44,
+  "updated": "2025-08-13T18:15:16.530730+00:00"
 }
