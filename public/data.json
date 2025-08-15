@@ -13,17 +13,6 @@
     },
     {
       "date": "2025-08-15T00:00:00",
-      "description": "Original event: Eva's Wild Alaskan Salmon",
-      "end_time": null,
-      "end_time_raw": null,
-      "location": "Chuck's Hop Shop Greenwood",
-      "start_time": null,
-      "start_time_raw": null,
-      "timezone": "PT",
-      "vendor": "Eva's Wild Alaskan Salmon"
-    },
-    {
-      "date": "2025-08-15T00:00:00",
       "description": "Original event: Dinner: T'Juana",
       "end_time": null,
       "end_time_raw": null,
@@ -498,6 +487,6 @@
   ],
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 45,
-  "updated": "2025-08-15T19:15:17.947482+00:00"
+  "total_events": 44,
+  "updated": "2025-08-15T20:15:16.872779+00:00"
 }
