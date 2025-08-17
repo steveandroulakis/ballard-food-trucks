@@ -27,17 +27,6 @@
       "description": null,
       "end_time": "7:00 PM PT",
       "end_time_raw": "7:00 PM",
-      "location": "Obec Brewing",
-      "start_time": "3:00 AM PT",
-      "start_time_raw": "3:00 AM",
-      "timezone": "PT",
-      "vendor": "Heart in Seoul"
-    },
-    {
-      "date": "2025-08-17T00:00:00",
-      "description": null,
-      "end_time": "7:00 PM PT",
-      "end_time_raw": "7:00 PM",
       "location": "Stoup Brewing - Ballard",
       "start_time": "1:00 PM PT",
       "start_time_raw": "1:00 PM",
@@ -54,6 +43,17 @@
       "start_time_raw": "1:00 PM",
       "timezone": "PT",
       "vendor": "Kaosamai Thai Restaurant"
+    },
+    {
+      "date": "2025-08-17T00:00:00",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "location": "Obec Brewing",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "timezone": "PT",
+      "vendor": "Heart in Seoul"
     },
     {
       "date": "2025-08-17T13:00:00.402000",
@@ -488,5 +488,5 @@
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
   "total_events": 44,
-  "updated": "2025-08-17T22:15:16.803547+00:00"
+  "updated": "2025-08-17T23:15:16.401183+00:00"
 }
