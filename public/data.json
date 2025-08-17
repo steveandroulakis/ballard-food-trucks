@@ -23,39 +23,6 @@
       "vendor": "Tat's Deli"
     },
     {
-      "date": "2025-08-16T00:00:00",
-      "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "location": "Stoup Brewing - Ballard",
-      "start_time": "1:00 PM PT",
-      "start_time_raw": "1:00 PM",
-      "timezone": "PT",
-      "vendor": "Woodshop BBQ"
-    },
-    {
-      "date": "2025-08-16T00:00:00",
-      "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "location": "Urban Family Brewing",
-      "start_time": "1:00 PM PT",
-      "start_time_raw": "1:00 PM",
-      "timezone": "PT",
-      "vendor": "MomoExpress"
-    },
-    {
-      "date": "2025-08-16T00:00:00",
-      "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "location": "Obec Brewing",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
-      "timezone": "PT",
-      "vendor": "Kaosamai Thai"
-    },
-    {
       "date": "2025-08-16T12:00:00.074000",
       "description": null,
       "end_time": "10:00 PM PT",
@@ -78,17 +45,6 @@
       "vendor": "Wich Came First"
     },
     {
-      "date": "2025-08-16T17:00:00",
-      "description": "Cuisine: Asian, Thai, Vegetarian",
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
-      "location": "Saleh's Corner",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
-      "timezone": "PT",
-      "vendor": "Pumpkin Thai"
-    },
-    {
       "date": "2025-08-17T00:00:00",
       "description": "Original event: Brunch: Good Morning Tacos",
       "end_time": null,
@@ -109,6 +65,17 @@
       "start_time_raw": null,
       "timezone": "PT",
       "vendor": "Georgia's Greek"
+    },
+    {
+      "date": "2025-08-17T00:00:00",
+      "description": null,
+      "end_time": "7:00 PM PT",
+      "end_time_raw": "7:00 PM",
+      "location": "Obec Brewing",
+      "start_time": "3:00 AM PT",
+      "start_time_raw": "3:00 AM",
+      "timezone": "PT",
+      "vendor": "Heart in Seoul"
     },
     {
       "date": "2025-08-17T00:00:00",
@@ -498,6 +465,6 @@
   ],
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 45,
-  "updated": "2025-08-17T06:15:20.043417+00:00"
+  "total_events": 42,
+  "updated": "2025-08-17T07:15:16.721954+00:00"
 }
