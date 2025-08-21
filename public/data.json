@@ -2,17 +2,6 @@
   "events": [
     {
       "date": "2025-08-21T00:00:00",
-      "description": null,
-      "end_time": null,
-      "end_time_raw": null,
-      "location": "Wheelie Pop Brewing",
-      "start_time": null,
-      "start_time_raw": null,
-      "timezone": "PT",
-      "vendor": "Tisket Tasket"
-    },
-    {
-      "date": "2025-08-21T00:00:00",
       "description": "Original event: Dinner: Pizza Paseano",
       "end_time": null,
       "end_time_raw": null,
@@ -54,17 +43,6 @@
       "start_time_raw": "5:00 PM",
       "timezone": "PT",
       "vendor": "Pumpkin Thai"
-    },
-    {
-      "date": "2025-08-22T00:00:00",
-      "description": null,
-      "end_time": null,
-      "end_time_raw": null,
-      "location": "Wheelie Pop Brewing",
-      "start_time": null,
-      "start_time_raw": null,
-      "timezone": "PT",
-      "vendor": "El Pachi Empanadas"
     },
     {
       "date": "2025-08-22T00:00:00",
@@ -131,17 +109,6 @@
       "start_time_raw": "5:00 PM",
       "timezone": "PT",
       "vendor": "Impeckable Chicken"
-    },
-    {
-      "date": "2025-08-23T00:00:00",
-      "description": null,
-      "end_time": null,
-      "end_time_raw": null,
-      "location": "Wheelie Pop Brewing",
-      "start_time": null,
-      "start_time_raw": null,
-      "timezone": "PT",
-      "vendor": "Heart in Seoul"
     },
     {
       "date": "2025-08-23T00:00:00",
@@ -387,17 +354,6 @@
     },
     {
       "date": "2025-08-28T00:00:00",
-      "description": null,
-      "end_time": null,
-      "end_time_raw": null,
-      "location": "Wheelie Pop Brewing",
-      "start_time": null,
-      "start_time_raw": null,
-      "timezone": "PT",
-      "vendor": "Kaosamai Thai"
-    },
-    {
-      "date": "2025-08-28T00:00:00",
       "description": "Original event: Dinner: Pizza Paseano",
       "end_time": null,
       "end_time_raw": null,
@@ -454,6 +410,6 @@
   ],
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 41,
-  "updated": "2025-08-21T11:15:16.429010+00:00"
+  "total_events": 37,
+  "updated": "2025-08-21T12:15:20.158566+00:00"
 }
