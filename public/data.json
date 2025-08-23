@@ -23,39 +23,6 @@
       "vendor": "T'Juana"
     },
     {
-      "date": "2025-08-22T00:00:00",
-      "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "location": "Obec Brewing",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
-      "timezone": "PT",
-      "vendor": "Maroom Thai"
-    },
-    {
-      "date": "2025-08-22T00:00:00",
-      "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "location": "Urban Family Brewing",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
-      "timezone": "PT",
-      "vendor": "Tacos & Beer"
-    },
-    {
-      "date": "2025-08-22T00:00:00",
-      "description": null,
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
-      "location": "Stoup Brewing - Ballard",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
-      "timezone": "PT",
-      "vendor": "Georgia's Greek"
-    },
-    {
       "date": "2025-08-22T15:00:00.740000",
       "description": null,
       "end_time": "9:00 PM PT",
@@ -65,17 +32,6 @@
       "start_time_raw": "3:00 PM",
       "timezone": "PT",
       "vendor": "Now Make Me A Sandwich"
-    },
-    {
-      "date": "2025-08-22T17:00:00",
-      "description": "Cuisine: Chicken, Sandwiches, Southern",
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
-      "location": "Saleh's Corner",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
-      "timezone": "PT",
-      "vendor": "Impeckable Chicken"
     },
     {
       "date": "2025-08-23T00:00:00",
@@ -109,6 +65,17 @@
       "start_time_raw": "1:00 PM",
       "timezone": "PT",
       "vendor": "Tat's Truck"
+    },
+    {
+      "date": "2025-08-23T00:00:00",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "location": "Obec Brewing",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "timezone": "PT",
+      "vendor": "Kaosamai Thai"
     },
     {
       "date": "2025-08-23T00:00:00",
@@ -476,6 +443,6 @@
   ],
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 43,
-  "updated": "2025-08-23T06:15:16.488367+00:00"
+  "total_events": 40,
+  "updated": "2025-08-23T07:15:16.671157+00:00"
 }
