@@ -145,17 +145,6 @@
     },
     {
       "date": "2025-08-24T00:00:00",
-      "description": "Original event: Brunch: Sunny Up POP UP!!!",
-      "end_time": null,
-      "end_time_raw": null,
-      "location": "Chuck's Hop Shop Greenwood",
-      "start_time": null,
-      "start_time_raw": null,
-      "timezone": "PT",
-      "vendor": "Sunny Up POP UP!!!"
-    },
-    {
-      "date": "2025-08-24T00:00:00",
       "description": "Original event: Momo Express",
       "end_time": null,
       "end_time_raw": null,
@@ -487,6 +476,6 @@
   ],
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 44,
-  "updated": "2025-08-22T23:15:16.794214+00:00"
+  "total_events": 43,
+  "updated": "2025-08-23T00:15:17.015504+00:00"
 }
