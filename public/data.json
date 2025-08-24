@@ -1,39 +1,6 @@
 {
   "events": [
     {
-      "date": "2025-08-23T00:00:00",
-      "description": null,
-      "end_time": null,
-      "end_time_raw": null,
-      "location": "Wheelie Pop Brewing",
-      "start_time": null,
-      "start_time_raw": null,
-      "timezone": "PT",
-      "vendor": "Heart in Seoul"
-    },
-    {
-      "date": "2025-08-23T00:00:00",
-      "description": "Original event: Dinner: Sabor Boricua",
-      "end_time": null,
-      "end_time_raw": null,
-      "location": "Chuck's Hop Shop Greenwood",
-      "start_time": null,
-      "start_time_raw": null,
-      "timezone": "PT",
-      "vendor": "Sabor Boricua"
-    },
-    {
-      "date": "2025-08-23T13:00:00.752000",
-      "description": null,
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
-      "location": "Yonder Cider & Bale Breaker - Ballard",
-      "start_time": "1:00 PM PT",
-      "start_time_raw": "1:00 PM",
-      "timezone": "PT",
-      "vendor": "Georgia\u2019s Greek"
-    },
-    {
       "date": "2025-08-24T00:00:00",
       "description": "Original event: Momo Express",
       "end_time": null,
@@ -65,17 +32,6 @@
       "start_time_raw": "1:00 PM",
       "timezone": "PT",
       "vendor": "Burger Planet"
-    },
-    {
-      "date": "2025-08-24T00:00:00",
-      "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "location": "Obec Brewing",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
-      "timezone": "PT",
-      "vendor": "Kaosamai Thai"
     },
     {
       "date": "2025-08-24T13:00:00.610000",
@@ -439,10 +395,87 @@
       "start_time_raw": "5:00 PM",
       "timezone": "PT",
       "vendor": "Taco Cortes"
+    },
+    {
+      "date": "2025-08-31T00:00:00",
+      "description": null,
+      "end_time": null,
+      "end_time_raw": null,
+      "location": "Wheelie Pop Brewing",
+      "start_time": null,
+      "start_time_raw": null,
+      "timezone": "PT",
+      "vendor": "Heart in Seoul"
+    },
+    {
+      "date": "2025-08-31T00:00:00",
+      "description": "Original event: Brunch: Good Morning Tacos",
+      "end_time": null,
+      "end_time_raw": null,
+      "location": "Chuck's Hop Shop Greenwood",
+      "start_time": null,
+      "start_time_raw": null,
+      "timezone": "PT",
+      "vendor": "Good Morning Tacos"
+    },
+    {
+      "date": "2025-08-31T00:00:00",
+      "description": "Original event: Dinner: Georgia's Greek",
+      "end_time": null,
+      "end_time_raw": null,
+      "location": "Chuck's Hop Shop Greenwood",
+      "start_time": null,
+      "start_time_raw": null,
+      "timezone": "PT",
+      "vendor": "Georgia's Greek"
+    },
+    {
+      "date": "2025-08-31T00:00:00",
+      "description": null,
+      "end_time": "7:00 PM PT",
+      "end_time_raw": "7:00 PM",
+      "location": "Stoup Brewing - Ballard",
+      "start_time": "1:00 PM PT",
+      "start_time_raw": "1:00 PM",
+      "timezone": "PT",
+      "vendor": "Burger Planet"
+    },
+    {
+      "date": "2025-08-31T00:00:00",
+      "description": null,
+      "end_time": "7:00 PM PT",
+      "end_time_raw": "7:00 PM",
+      "location": "Urban Family Brewing",
+      "start_time": "1:00 PM PT",
+      "start_time_raw": "1:00 PM",
+      "timezone": "PT",
+      "vendor": "Kaosamai Thai Restaurant"
+    },
+    {
+      "date": "2025-08-31T13:00:00.660000",
+      "description": null,
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "location": "Yonder Cider & Bale Breaker - Ballard",
+      "start_time": "1:00 PM PT",
+      "start_time_raw": "1:00 PM",
+      "timezone": "PT",
+      "vendor": "Tacos &amp; Beer"
+    },
+    {
+      "date": "2025-08-31T17:00:00",
+      "description": "Cuisine: Central Asian, Halal, Vegetarian",
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "location": "Saleh's Corner",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "timezone": "PT",
+      "vendor": "Tabassum"
     }
   ],
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 40,
-  "updated": "2025-08-24T07:15:16.538528+00:00"
+  "total_events": 43,
+  "updated": "2025-08-24T08:15:16.923276+00:00"
 }
