@@ -2,6 +2,17 @@
   "events": [
     {
       "date": "2025-08-26T00:00:00",
+      "description": "Original event: Dinner: Kaosamai Thai",
+      "end_time": null,
+      "end_time_raw": null,
+      "location": "Chuck's Hop Shop Greenwood",
+      "start_time": null,
+      "start_time_raw": null,
+      "timezone": "PT",
+      "vendor": "Kaosamai Thai"
+    },
+    {
+      "date": "2025-08-26T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -54,6 +65,17 @@
       "start_time_raw": "5:00 PM",
       "timezone": "PT",
       "vendor": "Plaza Garcia Express"
+    },
+    {
+      "date": "2025-08-27T00:00:00",
+      "description": "Original event: Dinner: Chick'n Fix",
+      "end_time": null,
+      "end_time_raw": null,
+      "location": "Chuck's Hop Shop Greenwood",
+      "start_time": null,
+      "start_time_raw": null,
+      "timezone": "PT",
+      "vendor": "Chick'n Fix"
     },
     {
       "date": "2025-08-27T00:00:00",
@@ -112,6 +134,17 @@
     },
     {
       "date": "2025-08-28T00:00:00",
+      "description": "Original event: Dinner: Pizza Paseano",
+      "end_time": null,
+      "end_time_raw": null,
+      "location": "Chuck's Hop Shop Greenwood",
+      "start_time": null,
+      "start_time_raw": null,
+      "timezone": "PT",
+      "vendor": "Pizza Paseano"
+    },
+    {
+      "date": "2025-08-28T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -164,6 +197,17 @@
       "start_time_raw": null,
       "timezone": "PT",
       "vendor": "El Pachi Empanadas"
+    },
+    {
+      "date": "2025-08-29T00:00:00",
+      "description": "Original event: Dinner: T'Juana",
+      "end_time": null,
+      "end_time_raw": null,
+      "location": "Chuck's Hop Shop Greenwood",
+      "start_time": null,
+      "start_time_raw": null,
+      "timezone": "PT",
+      "vendor": "T'Juana"
     },
     {
       "date": "2025-08-29T00:00:00",
@@ -222,6 +266,17 @@
     },
     {
       "date": "2025-08-30T00:00:00",
+      "description": "Original event: Tat's Deli",
+      "end_time": null,
+      "end_time_raw": null,
+      "location": "Chuck's Hop Shop Greenwood",
+      "start_time": null,
+      "start_time_raw": null,
+      "timezone": "PT",
+      "vendor": "Tat's Deli"
+    },
+    {
+      "date": "2025-08-30T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -277,6 +332,28 @@
     },
     {
       "date": "2025-08-31T00:00:00",
+      "description": "Original event: Brunch: Good Morning Tacos",
+      "end_time": null,
+      "end_time_raw": null,
+      "location": "Chuck's Hop Shop Greenwood",
+      "start_time": null,
+      "start_time_raw": null,
+      "timezone": "PT",
+      "vendor": "Good Morning Tacos"
+    },
+    {
+      "date": "2025-08-31T00:00:00",
+      "description": "Original event: Dinner: Georgia's Greek",
+      "end_time": null,
+      "end_time_raw": null,
+      "location": "Chuck's Hop Shop Greenwood",
+      "start_time": null,
+      "start_time_raw": null,
+      "timezone": "PT",
+      "vendor": "Georgia's Greek"
+    },
+    {
+      "date": "2025-08-31T00:00:00",
       "description": null,
       "end_time": "7:00 PM PT",
       "end_time_raw": "7:00 PM",
@@ -321,6 +398,17 @@
     },
     {
       "date": "2025-09-01T00:00:00",
+      "description": "Original event: Dinner: Off the Rez",
+      "end_time": null,
+      "end_time_raw": null,
+      "location": "Chuck's Hop Shop Greenwood",
+      "start_time": null,
+      "start_time_raw": null,
+      "timezone": "PT",
+      "vendor": "Off the Rez"
+    },
+    {
+      "date": "2025-09-01T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -340,6 +428,17 @@
       "start_time_raw": "5:00 PM",
       "timezone": "PT",
       "vendor": "MOMO Express"
+    },
+    {
+      "date": "2025-09-02T00:00:00",
+      "description": "Original event: Dinner: Woodshop BBQ",
+      "end_time": null,
+      "end_time_raw": null,
+      "location": "Chuck's Hop Shop Greenwood",
+      "start_time": null,
+      "start_time_raw": null,
+      "timezone": "PT",
+      "vendor": "Woodshop BBQ"
     },
     {
       "date": "2025-09-02T00:00:00",
@@ -388,6 +487,6 @@
   ],
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 35,
-  "updated": "2025-08-26T13:15:16.340305+00:00"
+  "total_events": 44,
+  "updated": "2025-08-26T14:15:16.989057+00:00"
 }
