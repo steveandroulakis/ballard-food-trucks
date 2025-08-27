@@ -1,28 +1,6 @@
 {
   "events": [
     {
-      "date": "2025-08-26T00:00:00",
-      "description": "Original event: Dinner: Kaosamai Thai",
-      "end_time": null,
-      "end_time_raw": null,
-      "location": "Chuck's Hop Shop Greenwood",
-      "start_time": null,
-      "start_time_raw": null,
-      "timezone": "PT",
-      "vendor": "Kaosamai Thai"
-    },
-    {
-      "date": "2025-08-26T16:00:00.848000",
-      "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "location": "Yonder Cider & Bale Breaker - Ballard",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
-      "timezone": "PT",
-      "vendor": "Tummy Yummy Thai"
-    },
-    {
       "date": "2025-08-27T00:00:00",
       "description": "Original event: Dinner: Chick'n Fix",
       "end_time": null,
@@ -450,10 +428,65 @@
       "start_time_raw": "5:00 PM",
       "timezone": "PT",
       "vendor": "Plaza Garcia Express"
+    },
+    {
+      "date": "2025-09-03T00:00:00",
+      "description": "Original event: Dinner: Oskar's Pizza",
+      "end_time": null,
+      "end_time_raw": null,
+      "location": "Chuck's Hop Shop Greenwood",
+      "start_time": null,
+      "start_time_raw": null,
+      "timezone": "PT",
+      "vendor": "Oskar's Pizza"
+    },
+    {
+      "date": "2025-09-03T00:00:00",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "location": "Urban Family Brewing",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "timezone": "PT",
+      "vendor": "Impeckable Chicken"
+    },
+    {
+      "date": "2025-09-03T00:00:00",
+      "description": null,
+      "end_time": "8:30 PM PT",
+      "end_time_raw": "8:30 PM",
+      "location": "Stoup Brewing - Ballard",
+      "start_time": "4:30 PM PT",
+      "start_time_raw": "4:30 PM",
+      "timezone": "PT",
+      "vendor": "Johnson BBQ Provisions"
+    },
+    {
+      "date": "2025-09-03T16:00:00.069000",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "location": "Yonder Cider & Bale Breaker - Ballard",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "timezone": "PT",
+      "vendor": "Georgia\u2019s Greek"
+    },
+    {
+      "date": "2025-09-03T17:00:00",
+      "description": "Cuisine: Greek, Gyro, Halal",
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "location": "Saleh's Corner",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "timezone": "PT",
+      "vendor": "Theo's Gyros"
     }
   ],
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 41,
-  "updated": "2025-08-27T07:15:18.971083+00:00"
+  "total_events": 44,
+  "updated": "2025-08-27T08:15:16.814989+00:00"
 }
