@@ -20,7 +20,7 @@
       "start_time": "4:00 PM PT",
       "start_time_raw": "4:00 PM",
       "timezone": "PT",
-      "vendor": "Maroom Thai"
+      "vendor": "Empanadas el Pachi"
     },
     {
       "date": "2025-08-27T00:00:00",
@@ -488,5 +488,5 @@
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
   "total_events": 44,
-  "updated": "2025-08-27T08:15:16.814989+00:00"
+  "updated": "2025-08-27T09:15:17.325058+00:00"
 }
