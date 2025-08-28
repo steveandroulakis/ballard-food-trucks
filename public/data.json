@@ -218,7 +218,7 @@
       "start_time": null,
       "start_time_raw": null,
       "timezone": "PT",
-      "vendor": "Heart in Seoul"
+      "vendor": "Heart in Seoul (Dutch F1 Race!!)"
     },
     {
       "date": "2025-08-31T00:00:00",
@@ -431,6 +431,17 @@
     },
     {
       "date": "2025-09-04T00:00:00",
+      "description": null,
+      "end_time": null,
+      "end_time_raw": null,
+      "location": "Wheelie Pop Brewing",
+      "start_time": null,
+      "start_time_raw": null,
+      "timezone": "PT",
+      "vendor": "Tisket Tasket"
+    },
+    {
+      "date": "2025-09-04T00:00:00",
       "description": "Original event: Dinner: Impeckable Chicken",
       "end_time": null,
       "end_time_raw": null,
@@ -487,6 +498,6 @@
   ],
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 44,
-  "updated": "2025-08-28T16:15:16.401771+00:00"
+  "total_events": 45,
+  "updated": "2025-08-28T17:15:16.871249+00:00"
 }
