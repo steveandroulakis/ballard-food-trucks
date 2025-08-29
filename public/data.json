@@ -27,17 +27,6 @@
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
-      "location": "Obec Brewing",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
-      "timezone": "PT",
-      "vendor": "Now Make Me a Sandwich"
-    },
-    {
-      "date": "2025-08-28T00:00:00",
-      "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
       "location": "Urban Family Brewing",
       "start_time": "4:00 PM PT",
       "start_time_raw": "4:00 PM",
@@ -498,6 +487,6 @@
   ],
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 45,
-  "updated": "2025-08-29T02:15:16.586054+00:00"
+  "total_events": 44,
+  "updated": "2025-08-29T03:15:16.508976+00:00"
 }
