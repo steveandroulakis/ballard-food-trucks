@@ -67,17 +67,6 @@
       "vendor": "Heart in Seoul"
     },
     {
-      "date": "2025-08-31T13:00:00.660000",
-      "description": null,
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
-      "location": "Yonder Cider & Bale Breaker - Ballard",
-      "start_time": "1:00 PM PT",
-      "start_time_raw": "1:00 PM",
-      "timezone": "PT",
-      "vendor": "Tacos &amp; Beer"
-    },
-    {
       "date": "2025-08-31T17:00:00",
       "description": "Cuisine: Central Asian, Halal, Vegetarian",
       "end_time": "9:00 PM PT",
@@ -155,6 +144,17 @@
       "vendor": "Poke Me"
     },
     {
+      "date": "2025-09-02T16:00:00.893000",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "location": "Yonder Cider & Bale Breaker - Ballard",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "timezone": "PT",
+      "vendor": "Birrieria Pepe El Toro"
+    },
+    {
       "date": "2025-09-02T17:00:00",
       "description": "Cuisine: Burritos, Mexican, Tacos",
       "end_time": "9:00 PM PT",
@@ -197,6 +197,17 @@
       "start_time_raw": "4:30 PM",
       "timezone": "PT",
       "vendor": "Johnson BBQ Provisions"
+    },
+    {
+      "date": "2025-09-03T16:00:00.069000",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "location": "Yonder Cider & Bale Breaker - Ballard",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "timezone": "PT",
+      "vendor": "Georgia\u2019s Greek"
     },
     {
       "date": "2025-09-03T17:00:00",
@@ -254,6 +265,17 @@
       "vendor": "Kathmandu momoCha"
     },
     {
+      "date": "2025-09-04T16:00:00.180000",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "location": "Yonder Cider & Bale Breaker - Ballard",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "timezone": "PT",
+      "vendor": "Impeckable Chicken"
+    },
+    {
       "date": "2025-09-04T17:00:00",
       "description": "Cuisine: Asian, Thai, Vegetarian",
       "end_time": "9:00 PM PT",
@@ -296,6 +318,17 @@
       "start_time_raw": "5:00 PM",
       "timezone": "PT",
       "vendor": "Georgia's Greek"
+    },
+    {
+      "date": "2025-09-05T15:00:00.174000",
+      "description": null,
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "location": "Yonder Cider & Bale Breaker - Ballard",
+      "start_time": "3:00 PM PT",
+      "start_time_raw": "3:00 PM",
+      "timezone": "PT",
+      "vendor": "Now Make Me A Sandwich"
     },
     {
       "date": "2025-09-05T17:00:00",
@@ -351,6 +384,17 @@
       "start_time_raw": "4:00 PM",
       "timezone": "PT",
       "vendor": "Oskar's Pizza"
+    },
+    {
+      "date": "2025-09-06T13:00:00.463000",
+      "description": null,
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "location": "Yonder Cider & Bale Breaker - Ballard",
+      "start_time": "1:00 PM PT",
+      "start_time_raw": "1:00 PM",
+      "timezone": "PT",
+      "vendor": "Georgia\u2019s Greek"
     },
     {
       "date": "2025-09-06T17:00:00",
@@ -419,6 +463,17 @@
       "vendor": "Burger Planet"
     },
     {
+      "date": "2025-09-07T13:00:00.564000",
+      "description": null,
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "location": "Yonder Cider & Bale Breaker - Ballard",
+      "start_time": "1:00 PM PT",
+      "start_time_raw": "1:00 PM",
+      "timezone": "PT",
+      "vendor": "Tacos &amp; Beer"
+    },
+    {
       "date": "2025-09-07T17:00:00",
       "description": "Cuisine: Asian, Noodles, Thai",
       "end_time": "9:00 PM PT",
@@ -432,6 +487,6 @@
   ],
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 39,
-  "updated": "2025-08-31T23:15:16.965194+00:00"
+  "total_events": 44,
+  "updated": "2025-09-01T00:15:16.525658+00:00"
 }
