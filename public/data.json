@@ -123,17 +123,6 @@
     },
     {
       "date": "2025-09-04T00:00:00",
-      "description": null,
-      "end_time": null,
-      "end_time_raw": null,
-      "location": "Wheelie Pop Brewing",
-      "start_time": null,
-      "start_time_raw": null,
-      "timezone": "PT",
-      "vendor": "Tisket Tasket"
-    },
-    {
-      "date": "2025-09-04T00:00:00",
       "description": "Original event: Dinner: Impeckable Chicken",
       "end_time": null,
       "end_time_raw": null,
@@ -244,17 +233,6 @@
     },
     {
       "date": "2025-09-06T00:00:00",
-      "description": null,
-      "end_time": null,
-      "end_time_raw": null,
-      "location": "Wheelie Pop Brewing",
-      "start_time": null,
-      "start_time_raw": null,
-      "timezone": "PT",
-      "vendor": "Vandalz Taqueria"
-    },
-    {
-      "date": "2025-09-06T00:00:00",
       "description": "Original event: Dinner: Sabor Boricua",
       "end_time": null,
       "end_time_raw": null,
@@ -307,17 +285,6 @@
       "start_time_raw": "5:00 PM",
       "timezone": "PT",
       "vendor": "Tabassum"
-    },
-    {
-      "date": "2025-09-07T00:00:00",
-      "description": null,
-      "end_time": null,
-      "end_time_raw": null,
-      "location": "Wheelie Pop Brewing",
-      "start_time": null,
-      "start_time_raw": null,
-      "timezone": "PT",
-      "vendor": "Kaosamai Thai (Monza F1 Race!!)"
     },
     {
       "date": "2025-09-07T00:00:00",
@@ -465,6 +432,6 @@
   ],
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 42,
-  "updated": "2025-09-02T18:15:41.781308+00:00"
+  "total_events": 39,
+  "updated": "2025-09-02T19:15:16.393270+00:00"
 }
