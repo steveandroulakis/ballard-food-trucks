@@ -12,39 +12,6 @@
       "vendor": "Woodshop BBQ"
     },
     {
-      "date": "2025-09-02T00:00:00",
-      "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "location": "Obec Brewing",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
-      "timezone": "PT",
-      "vendor": "Maroom Thai"
-    },
-    {
-      "date": "2025-09-02T00:00:00",
-      "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "location": "Urban Family Brewing",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
-      "timezone": "PT",
-      "vendor": "Georgia's Greek"
-    },
-    {
-      "date": "2025-09-02T00:00:00",
-      "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "location": "Stoup Brewing - Ballard",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
-      "timezone": "PT",
-      "vendor": "Poke Me"
-    },
-    {
       "date": "2025-09-02T16:00:00.893000",
       "description": null,
       "end_time": "8:00 PM PT",
@@ -56,17 +23,6 @@
       "vendor": "Birrieria Pepe El Toro"
     },
     {
-      "date": "2025-09-02T17:00:00",
-      "description": "Cuisine: Burritos, Mexican, Tacos",
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
-      "location": "Saleh's Corner",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
-      "timezone": "PT",
-      "vendor": "Plaza Garcia Express"
-    },
-    {
       "date": "2025-09-03T00:00:00",
       "description": "Original event: Dinner: Oskar's Pizza",
       "end_time": null,
@@ -76,6 +32,17 @@
       "start_time_raw": null,
       "timezone": "PT",
       "vendor": "Oskar's Pizza"
+    },
+    {
+      "date": "2025-09-03T00:00:00",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "location": "Obec Brewing",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "timezone": "PT",
+      "vendor": "Maroom Thai"
     },
     {
       "date": "2025-09-03T00:00:00",
@@ -465,6 +432,6 @@
   ],
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 42,
-  "updated": "2025-09-03T06:15:16.598570+00:00"
+  "total_events": 39,
+  "updated": "2025-09-03T07:15:16.868989+00:00"
 }
