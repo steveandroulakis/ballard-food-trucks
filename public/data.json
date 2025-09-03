@@ -20,7 +20,7 @@
       "start_time": "4:00 PM PT",
       "start_time_raw": "4:00 PM",
       "timezone": "PT",
-      "vendor": "Maroom Thai"
+      "vendor": "Cocina Barelas (New Mexican Cuisine)"
     },
     {
       "date": "2025-09-03T00:00:00",
@@ -466,5 +466,5 @@
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
   "total_events": 42,
-  "updated": "2025-09-03T08:15:16.504366+00:00"
+  "updated": "2025-09-03T09:15:17.316834+00:00"
 }
