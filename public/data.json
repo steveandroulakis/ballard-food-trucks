@@ -42,7 +42,7 @@
       "start_time": "4:00 PM PT",
       "start_time_raw": "4:00 PM",
       "timezone": "PT",
-      "vendor": "Cocina Barelas (New Mexican Cuisine)"
+      "vendor": "Impeckable Chicken"
     },
     {
       "date": "2025-09-04T00:00:00",
@@ -477,5 +477,5 @@
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
   "total_events": 43,
-  "updated": "2025-09-04T08:15:16.754814+00:00"
+  "updated": "2025-09-04T09:15:26.917953+00:00"
 }
