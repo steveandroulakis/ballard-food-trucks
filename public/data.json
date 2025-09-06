@@ -494,21 +494,10 @@
       "start_time_raw": "1:00 PM",
       "timezone": "PT",
       "vendor": "Wich Came First"
-    },
-    {
-      "date": "2025-09-13T17:00:00",
-      "description": "Cuisine: Latin American, Mexican, Tacos",
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
-      "location": "Saleh's Corner",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
-      "timezone": "PT",
-      "vendor": "Taco Cortes"
     }
   ],
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 46,
-  "updated": "2025-09-06T17:15:17.224916+00:00"
+  "total_events": 45,
+  "updated": "2025-09-06T18:15:16.929971+00:00"
 }
