@@ -430,6 +430,17 @@
       "vendor": "Wich Came First"
     },
     {
+      "date": "2025-09-13T17:00:00",
+      "description": "Cuisine: Asian, Thai, Vegetarian",
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "location": "Saleh's Corner",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "timezone": "PT",
+      "vendor": "Pumpkin Thai"
+    },
+    {
       "date": "2025-09-14T00:00:00",
       "description": "Original event: Brunch: Good Morning Tacos",
       "end_time": null,
@@ -498,6 +509,6 @@
   ],
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 45,
-  "updated": "2025-09-07T14:15:17.117407+00:00"
+  "total_events": 46,
+  "updated": "2025-09-07T15:15:16.517858+00:00"
 }
