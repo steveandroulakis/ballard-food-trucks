@@ -23,39 +23,6 @@
       "vendor": "Sabor Boricua"
     },
     {
-      "date": "2025-09-06T00:00:00",
-      "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "location": "Stoup Brewing - Ballard",
-      "start_time": "1:00 PM PT",
-      "start_time_raw": "1:00 PM",
-      "timezone": "PT",
-      "vendor": "Tat's Truck"
-    },
-    {
-      "date": "2025-09-06T00:00:00",
-      "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "location": "Obec Brewing",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
-      "timezone": "PT",
-      "vendor": "Kaosamai Thai"
-    },
-    {
-      "date": "2025-09-06T00:00:00",
-      "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "location": "Urban Family Brewing",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
-      "timezone": "PT",
-      "vendor": "Oskar's Pizza"
-    },
-    {
       "date": "2025-09-06T13:00:00.463000",
       "description": null,
       "end_time": "9:00 PM PT",
@@ -65,17 +32,6 @@
       "start_time_raw": "1:00 PM",
       "timezone": "PT",
       "vendor": "Georgia\u2019s Greek"
-    },
-    {
-      "date": "2025-09-06T17:00:00",
-      "description": "Cuisine: Central Asian, Halal, Vegetarian",
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
-      "location": "Saleh's Corner",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
-      "timezone": "PT",
-      "vendor": "Tabassum"
     },
     {
       "date": "2025-09-07T00:00:00",
@@ -131,6 +87,17 @@
       "start_time_raw": "1:00 PM",
       "timezone": "PT",
       "vendor": "Burger Planet"
+    },
+    {
+      "date": "2025-09-07T00:00:00",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "location": "Obec Brewing",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "timezone": "PT",
+      "vendor": "Kaosamai Thai"
     },
     {
       "date": "2025-09-07T13:00:00.564000",
@@ -498,6 +465,6 @@
   ],
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 45,
-  "updated": "2025-09-07T06:15:16.802467+00:00"
+  "total_events": 42,
+  "updated": "2025-09-07T07:15:16.594394+00:00"
 }
