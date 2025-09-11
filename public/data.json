@@ -1,28 +1,6 @@
 {
   "events": [
     {
-      "date": "2025-09-10T00:00:00",
-      "description": "Original event: Dinner: Oskar's Pizza",
-      "end_time": null,
-      "end_time_raw": null,
-      "location": "Chuck's Hop Shop Greenwood",
-      "start_time": null,
-      "start_time_raw": null,
-      "timezone": "PT",
-      "vendor": "Oskar's Pizza"
-    },
-    {
-      "date": "2025-09-10T16:00:00.724000",
-      "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "location": "Yonder Cider & Bale Breaker - Ballard",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
-      "timezone": "PT",
-      "vendor": "Georgia\u2019s Greek"
-    },
-    {
       "date": "2025-09-11T00:00:00",
       "description": null,
       "end_time": null,
@@ -41,17 +19,6 @@
       "location": "Chuck's Hop Shop Greenwood",
       "start_time": null,
       "start_time_raw": null,
-      "timezone": "PT",
-      "vendor": "Impeckable Chicken"
-    },
-    {
-      "date": "2025-09-11T00:00:00",
-      "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "location": "Obec Brewing",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
       "timezone": "PT",
       "vendor": "Impeckable Chicken"
     },
@@ -450,10 +417,76 @@
       "start_time_raw": "5:00 PM",
       "timezone": "PT",
       "vendor": "Thai-U-Up"
+    },
+    {
+      "date": "2025-09-18T00:00:00",
+      "description": null,
+      "end_time": null,
+      "end_time_raw": null,
+      "location": "Wheelie Pop Brewing",
+      "start_time": null,
+      "start_time_raw": null,
+      "timezone": "PT",
+      "vendor": "Tisket Tasket"
+    },
+    {
+      "date": "2025-09-18T00:00:00",
+      "description": "Original event: Dinner: Impeckable Chicken",
+      "end_time": null,
+      "end_time_raw": null,
+      "location": "Chuck's Hop Shop Greenwood",
+      "start_time": null,
+      "start_time_raw": null,
+      "timezone": "PT",
+      "vendor": "Impeckable Chicken"
+    },
+    {
+      "date": "2025-09-18T00:00:00",
+      "description": null,
+      "end_time": "4:00 PM PT",
+      "end_time_raw": "4:00 PM",
+      "location": "Stoup Brewing - Ballard",
+      "start_time": "12:00 PM PT",
+      "start_time_raw": "12:00 PM",
+      "timezone": "PT",
+      "vendor": "Birrieria Pepe El Toro"
+    },
+    {
+      "date": "2025-09-18T00:00:00",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "location": "Urban Family Brewing",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "timezone": "PT",
+      "vendor": "TBD"
+    },
+    {
+      "date": "2025-09-18T16:00:00.511000",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "location": "Yonder Cider & Bale Breaker - Ballard",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "timezone": "PT",
+      "vendor": "Impeckable Chicken"
+    },
+    {
+      "date": "2025-09-18T17:00:00",
+      "description": "Cuisine: Asian, Thai, Vegetarian",
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "location": "Saleh's Corner",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "timezone": "PT",
+      "vendor": "Pumpkin Thai"
     }
   ],
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 41,
-  "updated": "2025-09-11T07:15:16.943263+00:00"
+  "total_events": 44,
+  "updated": "2025-09-11T08:15:16.662866+00:00"
 }
