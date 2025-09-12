@@ -23,39 +23,6 @@
       "vendor": "Impeckable Chicken"
     },
     {
-      "date": "2025-09-11T00:00:00",
-      "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "location": "Obec Brewing",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
-      "timezone": "PT",
-      "vendor": "Impeckable Chicken"
-    },
-    {
-      "date": "2025-09-11T00:00:00",
-      "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "location": "Urban Family Brewing",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
-      "timezone": "PT",
-      "vendor": "Alebrije"
-    },
-    {
-      "date": "2025-09-11T00:00:00",
-      "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "location": "Stoup Brewing - Ballard",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
-      "timezone": "PT",
-      "vendor": "La Costenita"
-    },
-    {
       "date": "2025-09-11T16:00:00.197000",
       "description": null,
       "end_time": "8:00 PM PT",
@@ -65,17 +32,6 @@
       "start_time_raw": "4:00 PM",
       "timezone": "PT",
       "vendor": "Impeckable Chicken"
-    },
-    {
-      "date": "2025-09-11T17:00:00",
-      "description": "Cuisine: Asian, Thai, Vegetarian",
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
-      "location": "Saleh's Corner",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
-      "timezone": "PT",
-      "vendor": "Pumpkin Thai"
     },
     {
       "date": "2025-09-12T00:00:00",
@@ -98,6 +54,17 @@
       "start_time_raw": null,
       "timezone": "PT",
       "vendor": "Where ya at Matt"
+    },
+    {
+      "date": "2025-09-12T00:00:00",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "location": "Obec Brewing",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "timezone": "PT",
+      "vendor": "Burgerdom"
     },
     {
       "date": "2025-09-12T00:00:00",
@@ -498,6 +465,6 @@
   ],
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 45,
-  "updated": "2025-09-12T06:15:16.890929+00:00"
+  "total_events": 42,
+  "updated": "2025-09-12T07:15:17.220913+00:00"
 }
