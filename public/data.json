@@ -24,14 +24,14 @@
     },
     {
       "date": "2025-09-13T00:00:00",
-      "description": "Original event: Tat's Deli",
+      "description": "Original event: Dinner: No Truck :(",
       "end_time": null,
       "end_time_raw": null,
       "location": "Chuck's Hop Shop Greenwood",
       "start_time": null,
       "start_time_raw": null,
       "timezone": "PT",
-      "vendor": "Tat's Deli"
+      "vendor": "No Truck :("
     },
     {
       "date": "2025-09-13T00:00:00",
@@ -488,5 +488,5 @@
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
   "total_events": 44,
-  "updated": "2025-09-13T19:15:17.212647+00:00"
+  "updated": "2025-09-13T20:15:16.703738+00:00"
 }
