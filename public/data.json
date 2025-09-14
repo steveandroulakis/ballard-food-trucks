@@ -53,7 +53,7 @@
       "start_time": "4:00 PM PT",
       "start_time_raw": "4:00 PM",
       "timezone": "PT",
-      "vendor": "Kaosamai Thai"
+      "vendor": "Heart in Seoul"
     },
     {
       "date": "2025-09-14T13:00:00.451000",
@@ -477,5 +477,5 @@
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
   "total_events": 43,
-  "updated": "2025-09-14T08:15:16.738698+00:00"
+  "updated": "2025-09-14T09:15:17.027496+00:00"
 }
