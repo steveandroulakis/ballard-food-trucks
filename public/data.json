@@ -189,17 +189,6 @@
     },
     {
       "date": "2025-09-21T00:00:00",
-      "description": null,
-      "end_time": null,
-      "end_time_raw": null,
-      "location": "Wheelie Pop Brewing",
-      "start_time": null,
-      "start_time_raw": null,
-      "timezone": "PT",
-      "vendor": "Kaosamai Thai (Azerbaijan F1 Race!!)"
-    },
-    {
-      "date": "2025-09-21T00:00:00",
       "description": "Original event: Momo Express",
       "end_time": null,
       "end_time_raw": null,
@@ -465,6 +454,6 @@
   ],
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 42,
-  "updated": "2025-09-18T18:15:16.983673+00:00"
+  "total_events": 41,
+  "updated": "2025-09-18T19:15:16.767792+00:00"
 }
