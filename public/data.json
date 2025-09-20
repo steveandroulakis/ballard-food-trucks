@@ -12,28 +12,6 @@
       "vendor": "Where ya at Matt"
     },
     {
-      "date": "2025-09-19T00:00:00",
-      "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "location": "Urban Family Brewing",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
-      "timezone": "PT",
-      "vendor": "Tacos & Beer"
-    },
-    {
-      "date": "2025-09-19T00:00:00",
-      "description": null,
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
-      "location": "Stoup Brewing - Ballard",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
-      "timezone": "PT",
-      "vendor": "Georgia's Greek"
-    },
-    {
       "date": "2025-09-19T15:00:00.534000",
       "description": null,
       "end_time": "9:00 PM PT",
@@ -43,17 +21,6 @@
       "start_time_raw": "3:00 PM",
       "timezone": "PT",
       "vendor": "Now Make Me A Sandwich"
-    },
-    {
-      "date": "2025-09-19T17:00:00",
-      "description": "Cuisine: Chicken, Sandwiches, Southern",
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
-      "location": "Saleh's Corner",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
-      "timezone": "PT",
-      "vendor": "Impeckable Chicken"
     },
     {
       "date": "2025-09-20T00:00:00",
@@ -87,6 +54,17 @@
       "start_time_raw": "1:00 PM",
       "timezone": "PT",
       "vendor": "Tat's Truck"
+    },
+    {
+      "date": "2025-09-20T00:00:00",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "location": "Obec Brewing",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "timezone": "PT",
+      "vendor": "Kaosamai Thai"
     },
     {
       "date": "2025-09-20T00:00:00",
@@ -443,6 +421,6 @@
   ],
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 40,
-  "updated": "2025-09-20T06:15:16.737101+00:00"
+  "total_events": 38,
+  "updated": "2025-09-20T07:15:16.556543+00:00"
 }
