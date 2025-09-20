@@ -2,17 +2,6 @@
   "events": [
     {
       "date": "2025-09-20T00:00:00",
-      "description": null,
-      "end_time": null,
-      "end_time_raw": null,
-      "location": "Wheelie Pop Brewing",
-      "start_time": null,
-      "start_time_raw": null,
-      "timezone": "PT",
-      "vendor": "Vandalz Taqueria"
-    },
-    {
-      "date": "2025-09-20T00:00:00",
       "description": "Original event: Dinner: No Truck",
       "end_time": null,
       "end_time_raw": null,
@@ -277,17 +266,6 @@
     },
     {
       "date": "2025-09-25T00:00:00",
-      "description": null,
-      "end_time": null,
-      "end_time_raw": null,
-      "location": "Wheelie Pop Brewing",
-      "start_time": null,
-      "start_time_raw": null,
-      "timezone": "PT",
-      "vendor": "Kaosaomai Thai"
-    },
-    {
-      "date": "2025-09-25T00:00:00",
       "description": "Original event: Dinner: Impeckable Chicken",
       "end_time": null,
       "end_time_raw": null,
@@ -398,17 +376,6 @@
     },
     {
       "date": "2025-09-27T00:00:00",
-      "description": null,
-      "end_time": null,
-      "end_time_raw": null,
-      "location": "Wheelie Pop Brewing",
-      "start_time": null,
-      "start_time_raw": null,
-      "timezone": "PT",
-      "vendor": "Heart in Soul"
-    },
-    {
-      "date": "2025-09-27T00:00:00",
       "description": "Original event: Brunch: Cocina Barelas",
       "end_time": null,
       "end_time_raw": null,
@@ -476,6 +443,6 @@
   ],
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 43,
-  "updated": "2025-09-20T17:15:16.532144+00:00"
+  "total_events": 40,
+  "updated": "2025-09-20T18:15:16.963802+00:00"
 }
