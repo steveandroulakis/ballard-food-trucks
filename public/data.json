@@ -12,39 +12,6 @@
       "vendor": "Momo Express"
     },
     {
-      "date": "2025-09-21T00:00:00",
-      "description": null,
-      "end_time": "7:00 PM PT",
-      "end_time_raw": "7:00 PM",
-      "location": "Stoup Brewing - Ballard",
-      "start_time": "1:00 PM PT",
-      "start_time_raw": "1:00 PM",
-      "timezone": "PT",
-      "vendor": "El Pirata Tortas Y Burritos / Now Make Me A Sandwich"
-    },
-    {
-      "date": "2025-09-21T00:00:00",
-      "description": null,
-      "end_time": "7:00 PM PT",
-      "end_time_raw": "7:00 PM",
-      "location": "Urban Family Brewing",
-      "start_time": "1:00 PM PT",
-      "start_time_raw": "1:00 PM",
-      "timezone": "PT",
-      "vendor": "Burger Planet"
-    },
-    {
-      "date": "2025-09-21T00:00:00",
-      "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "location": "Obec Brewing",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
-      "timezone": "PT",
-      "vendor": "Heart in Seoul"
-    },
-    {
       "date": "2025-09-21T13:00:00.493000",
       "description": null,
       "end_time": "9:00 PM PT",
@@ -56,17 +23,6 @@
       "vendor": "Tacos &amp; Beer"
     },
     {
-      "date": "2025-09-21T17:00:00",
-      "description": "Cuisine: Asian, Noodles, Thai",
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
-      "location": "Saleh's Corner",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
-      "timezone": "PT",
-      "vendor": "Thai-U-Up"
-    },
-    {
       "date": "2025-09-22T00:00:00",
       "description": "Original event: Dinner: Sam Choy's",
       "end_time": null,
@@ -76,6 +32,17 @@
       "start_time_raw": null,
       "timezone": "PT",
       "vendor": "Sam Choy's"
+    },
+    {
+      "date": "2025-09-22T00:00:00",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "location": "Obec Brewing",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "timezone": "PT",
+      "vendor": "Heart in Seoul"
     },
     {
       "date": "2025-09-22T00:00:00",
@@ -476,6 +443,6 @@
   ],
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 43,
-  "updated": "2025-09-22T06:15:44.491954+00:00"
+  "total_events": 40,
+  "updated": "2025-09-22T07:15:16.475339+00:00"
 }
