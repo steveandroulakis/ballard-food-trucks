@@ -1,28 +1,6 @@
 {
   "events": [
     {
-      "date": "2025-09-25T00:00:00",
-      "description": "Original event: Dinner: Impeckable Chicken",
-      "end_time": null,
-      "end_time_raw": null,
-      "location": "Chuck's Hop Shop Greenwood",
-      "start_time": null,
-      "start_time_raw": null,
-      "timezone": "PT",
-      "vendor": "Impeckable Chicken"
-    },
-    {
-      "date": "2025-09-25T16:00:00.562000",
-      "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "location": "Yonder Cider & Bale Breaker - Ballard",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
-      "timezone": "PT",
-      "vendor": "Impeckable Chicken"
-    },
-    {
       "date": "2025-09-26T00:00:00",
       "description": "Original event: Dinner: Where ya at Matt",
       "end_time": null,
@@ -42,7 +20,7 @@
       "start_time": "4:00 PM PT",
       "start_time_raw": "4:00 PM",
       "timezone": "PT",
-      "vendor": "Impeckable Chicken"
+      "vendor": "Burgerdom"
     },
     {
       "date": "2025-09-26T00:00:00",
@@ -395,10 +373,43 @@
       "start_time_raw": "5:00 PM",
       "timezone": "PT",
       "vendor": "Pumpkin Thai"
+    },
+    {
+      "date": "2025-10-03T00:00:00",
+      "description": "Original event: Dinner: T'Juana",
+      "end_time": null,
+      "end_time_raw": null,
+      "location": "Chuck's Hop Shop Greenwood",
+      "start_time": null,
+      "start_time_raw": null,
+      "timezone": "PT",
+      "vendor": "T'Juana"
+    },
+    {
+      "date": "2025-10-03T00:00:00",
+      "description": null,
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "location": "Stoup Brewing - Ballard",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "timezone": "PT",
+      "vendor": "Georgia's Greek"
+    },
+    {
+      "date": "2025-10-03T17:00:00",
+      "description": "Cuisine: Chicken, Sandwiches, Southern",
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "location": "Saleh's Corner",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "timezone": "PT",
+      "vendor": "Impeckable Chicken"
     }
   ],
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 36,
-  "updated": "2025-09-26T07:15:16.600077+00:00"
+  "total_events": 37,
+  "updated": "2025-09-26T08:15:16.212552+00:00"
 }
