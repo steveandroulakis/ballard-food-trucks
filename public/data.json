@@ -1,28 +1,6 @@
 {
   "events": [
     {
-      "date": "2025-09-26T00:00:00",
-      "description": "Original event: Dinner: Where ya at Matt",
-      "end_time": null,
-      "end_time_raw": null,
-      "location": "Chuck's Hop Shop Greenwood",
-      "start_time": null,
-      "start_time_raw": null,
-      "timezone": "PT",
-      "vendor": "Where ya at Matt"
-    },
-    {
-      "date": "2025-09-26T16:00:00.578000",
-      "description": null,
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
-      "location": "Yonder Cider & Bale Breaker - Ballard",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
-      "timezone": "PT",
-      "vendor": "Wood Shop BBQ"
-    },
-    {
       "date": "2025-09-27T00:00:00",
       "description": "Original event: Brunch: Cocina Barelas",
       "end_time": null,
@@ -75,7 +53,7 @@
       "start_time": "4:00 PM PT",
       "start_time_raw": "4:00 PM",
       "timezone": "PT",
-      "vendor": "Burgerdom"
+      "vendor": "Kaosamai Thai"
     },
     {
       "date": "2025-09-27T13:00:00.847000",
@@ -384,10 +362,65 @@
       "start_time_raw": "5:00 PM",
       "timezone": "PT",
       "vendor": "Impeckable Chicken"
+    },
+    {
+      "date": "2025-10-04T00:00:00",
+      "description": "Original event: Dinner: Sabor Boricua",
+      "end_time": null,
+      "end_time_raw": null,
+      "location": "Chuck's Hop Shop Greenwood",
+      "start_time": null,
+      "start_time_raw": null,
+      "timezone": "PT",
+      "vendor": "Sabor Boricua"
+    },
+    {
+      "date": "2025-10-04T00:00:00",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "location": "Stoup Brewing - Ballard",
+      "start_time": "1:00 PM PT",
+      "start_time_raw": "1:00 PM",
+      "timezone": "PT",
+      "vendor": "Tat's Truck"
+    },
+    {
+      "date": "2025-10-04T00:00:00",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "location": "Urban Family Brewing",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "timezone": "PT",
+      "vendor": "Oskar's Pizza"
+    },
+    {
+      "date": "2025-10-04T13:00:00.867000",
+      "description": null,
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "location": "Yonder Cider & Bale Breaker - Ballard",
+      "start_time": "1:00 PM PT",
+      "start_time_raw": "1:00 PM",
+      "timezone": "PT",
+      "vendor": "Georgia\u2019s Greek"
+    },
+    {
+      "date": "2025-10-04T17:00:00",
+      "description": "Cuisine: Latin American, Mexican, Tacos",
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "location": "Saleh's Corner",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "timezone": "PT",
+      "vendor": "Taco Cortes"
     }
   ],
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 35,
-  "updated": "2025-09-27T07:15:16.594585+00:00"
+  "total_events": 38,
+  "updated": "2025-09-27T08:15:16.600233+00:00"
 }
