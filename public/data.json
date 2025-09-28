@@ -1,39 +1,6 @@
 {
   "events": [
     {
-      "date": "2025-09-27T00:00:00",
-      "description": "Original event: Brunch: Cocina Barelas",
-      "end_time": null,
-      "end_time_raw": null,
-      "location": "Chuck's Hop Shop Greenwood",
-      "start_time": null,
-      "start_time_raw": null,
-      "timezone": "PT",
-      "vendor": "Cocina Barelas"
-    },
-    {
-      "date": "2025-09-27T00:00:00",
-      "description": "Original event: Tat's Deli",
-      "end_time": null,
-      "end_time_raw": null,
-      "location": "Chuck's Hop Shop Greenwood",
-      "start_time": null,
-      "start_time_raw": null,
-      "timezone": "PT",
-      "vendor": "Tat's Deli"
-    },
-    {
-      "date": "2025-09-27T13:00:00.847000",
-      "description": null,
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
-      "location": "Yonder Cider & Bale Breaker - Ballard",
-      "start_time": "1:00 PM PT",
-      "start_time_raw": "1:00 PM",
-      "timezone": "PT",
-      "vendor": "Georgia\u2019s Greek"
-    },
-    {
       "date": "2025-09-28T00:00:00",
       "description": "Original event: Brunch: Good Morning Tacos",
       "end_time": null,
@@ -384,10 +351,65 @@
       "start_time_raw": "5:00 PM",
       "timezone": "PT",
       "vendor": "Taco Cortes"
+    },
+    {
+      "date": "2025-10-05T00:00:00",
+      "description": "Original event: Momo Express",
+      "end_time": null,
+      "end_time_raw": null,
+      "location": "Chuck's Hop Shop Greenwood",
+      "start_time": null,
+      "start_time_raw": null,
+      "timezone": "PT",
+      "vendor": "Momo Express"
+    },
+    {
+      "date": "2025-10-05T00:00:00",
+      "description": null,
+      "end_time": "7:00 PM PT",
+      "end_time_raw": "7:00 PM",
+      "location": "Stoup Brewing - Ballard",
+      "start_time": "1:00 PM PT",
+      "start_time_raw": "1:00 PM",
+      "timezone": "PT",
+      "vendor": "El Pirata Tortas Y Burritos / Now Make Me A Sandwich"
+    },
+    {
+      "date": "2025-10-05T00:00:00",
+      "description": null,
+      "end_time": "7:00 PM PT",
+      "end_time_raw": "7:00 PM",
+      "location": "Urban Family Brewing",
+      "start_time": "1:00 PM PT",
+      "start_time_raw": "1:00 PM",
+      "timezone": "PT",
+      "vendor": "Burger Planet"
+    },
+    {
+      "date": "2025-10-05T13:00:00.946000",
+      "description": null,
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "location": "Yonder Cider & Bale Breaker - Ballard",
+      "start_time": "1:00 PM PT",
+      "start_time_raw": "1:00 PM",
+      "timezone": "PT",
+      "vendor": "Tacos &amp; Beer"
+    },
+    {
+      "date": "2025-10-05T17:00:00",
+      "description": "Cuisine: Asian, Vegan, Vegetarian",
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "location": "Saleh's Corner",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "timezone": "PT",
+      "vendor": "Kathmandu MoMoCha"
     }
   ],
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 35,
-  "updated": "2025-09-28T07:15:21.371394+00:00"
+  "total_events": 37,
+  "updated": "2025-09-28T08:15:16.596774+00:00"
 }
