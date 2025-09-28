@@ -23,39 +23,6 @@
       "vendor": "Tat's Deli"
     },
     {
-      "date": "2025-09-27T00:00:00",
-      "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "location": "Stoup Brewing - Ballard",
-      "start_time": "1:00 PM PT",
-      "start_time_raw": "1:00 PM",
-      "timezone": "PT",
-      "vendor": "Woodshop BBQ"
-    },
-    {
-      "date": "2025-09-27T00:00:00",
-      "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "location": "Urban Family Brewing",
-      "start_time": "1:00 PM PT",
-      "start_time_raw": "1:00 PM",
-      "timezone": "PT",
-      "vendor": "MomoExpress"
-    },
-    {
-      "date": "2025-09-27T00:00:00",
-      "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "location": "Obec Brewing",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
-      "timezone": "PT",
-      "vendor": "Kaosamai Thai"
-    },
-    {
       "date": "2025-09-27T13:00:00.847000",
       "description": null,
       "end_time": "9:00 PM PT",
@@ -109,6 +76,17 @@
       "start_time_raw": "1:00 PM",
       "timezone": "PT",
       "vendor": "Kaosamai Thai Restaurant"
+    },
+    {
+      "date": "2025-09-28T00:00:00",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "location": "Obec Brewing",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "timezone": "PT",
+      "vendor": "Heart in Seoul"
     },
     {
       "date": "2025-09-28T13:00:00.142000",
@@ -410,6 +388,6 @@
   ],
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 37,
-  "updated": "2025-09-28T06:15:16.418470+00:00"
+  "total_events": 35,
+  "updated": "2025-09-28T07:15:21.371394+00:00"
 }
