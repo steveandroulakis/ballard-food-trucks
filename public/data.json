@@ -2,14 +2,14 @@
   "events": [
     {
       "date": "2025-09-30T00:00:00",
-      "description": "Original event: Dinner: Kaosamai Thai",
+      "description": "Original event: Dinner: Woodshop",
       "end_time": null,
       "end_time_raw": null,
       "location": "Chuck's Hop Shop Greenwood",
       "start_time": null,
       "start_time_raw": null,
       "timezone": "PT",
-      "vendor": "Kaosamai Thai"
+      "vendor": "Woodshop"
     },
     {
       "date": "2025-09-30T00:00:00",
@@ -323,5 +323,5 @@
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
   "total_events": 29,
-  "updated": "2025-09-30T18:15:16.978504+00:00"
+  "updated": "2025-09-30T19:15:17.128691+00:00"
 }
