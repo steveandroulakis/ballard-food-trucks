@@ -1,17 +1,6 @@
 {
   "events": [
     {
-      "date": "2025-09-29T00:00:00",
-      "description": "Original event: Dinner: Sam Choy's",
-      "end_time": null,
-      "end_time_raw": null,
-      "location": "Chuck's Hop Shop Greenwood",
-      "start_time": null,
-      "start_time_raw": null,
-      "timezone": "PT",
-      "vendor": "Sam Choy's"
-    },
-    {
       "date": "2025-09-30T00:00:00",
       "description": "Original event: Dinner: Kaosamai Thai",
       "end_time": null,
@@ -296,10 +285,43 @@
       "start_time_raw": "5:00 PM",
       "timezone": "PT",
       "vendor": "MOMO Express"
+    },
+    {
+      "date": "2025-10-07T00:00:00",
+      "description": "Original event: Dinner: Kaosamai Thai",
+      "end_time": null,
+      "end_time_raw": null,
+      "location": "Chuck's Hop Shop Greenwood",
+      "start_time": null,
+      "start_time_raw": null,
+      "timezone": "PT",
+      "vendor": "Kaosamai Thai"
+    },
+    {
+      "date": "2025-10-07T00:00:00",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "location": "Stoup Brewing - Ballard",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "timezone": "PT",
+      "vendor": "Tacos & Beer"
+    },
+    {
+      "date": "2025-10-07T17:00:00",
+      "description": "Cuisine: Burritos, Mexican, Tacos",
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "location": "Saleh's Corner",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "timezone": "PT",
+      "vendor": "Plaza Garcia Express"
     }
   ],
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 27,
-  "updated": "2025-09-30T07:15:17.051411+00:00"
+  "total_events": 29,
+  "updated": "2025-09-30T08:15:16.579376+00:00"
 }
