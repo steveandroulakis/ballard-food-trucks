@@ -133,6 +133,17 @@
       "vendor": "Georgia's Greek"
     },
     {
+      "date": "2025-10-03T16:00:00.431000",
+      "description": null,
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "location": "Yonder Cider & Bale Breaker - Ballard",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "timezone": "PT",
+      "vendor": "Birrieria Pepe El Toro"
+    },
+    {
       "date": "2025-10-03T17:00:00",
       "description": "Cuisine: Chicken, Sandwiches, Southern",
       "end_time": "9:00 PM PT",
@@ -186,6 +197,17 @@
       "start_time_raw": "1:00 PM",
       "timezone": "PT",
       "vendor": "Georgia\u2019s Greek"
+    },
+    {
+      "date": "2025-10-04T14:00:00.581000",
+      "description": null,
+      "end_time": "7:00 PM PT",
+      "end_time_raw": "7:00 PM",
+      "location": "Yonder Cider & Bale Breaker - Ballard",
+      "start_time": "2:00 PM PT",
+      "start_time_raw": "2:00 PM",
+      "timezone": "PT",
+      "vendor": "Salish Sea Greens Oyster Pop-Up"
     },
     {
       "date": "2025-10-04T17:00:00",
@@ -388,6 +410,6 @@
   ],
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 35,
-  "updated": "2025-10-02T02:15:16.383365+00:00"
+  "total_events": 37,
+  "updated": "2025-10-02T03:15:17.324661+00:00"
 }
