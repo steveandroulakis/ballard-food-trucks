@@ -12,39 +12,6 @@
       "vendor": "Chick'n Fix"
     },
     {
-      "date": "2025-10-01T00:00:00",
-      "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "location": "Obec Brewing",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
-      "timezone": "PT",
-      "vendor": "Cocina Barelas (New Mexican Cuisine)"
-    },
-    {
-      "date": "2025-10-01T00:00:00",
-      "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "location": "Urban Family Brewing",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
-      "timezone": "PT",
-      "vendor": "Impeckable Chicken"
-    },
-    {
-      "date": "2025-10-01T00:00:00",
-      "description": null,
-      "end_time": "8:30 PM PT",
-      "end_time_raw": "8:30 PM",
-      "location": "Stoup Brewing - Ballard",
-      "start_time": "4:30 PM PT",
-      "start_time_raw": "4:30 PM",
-      "timezone": "PT",
-      "vendor": "Johnson BBQ Provisions"
-    },
-    {
       "date": "2025-10-01T16:00:00.355000",
       "description": null,
       "end_time": "8:00 PM PT",
@@ -54,17 +21,6 @@
       "start_time_raw": "4:00 PM",
       "timezone": "PT",
       "vendor": "Georgia\u2019s Greek"
-    },
-    {
-      "date": "2025-10-01T17:00:00",
-      "description": "Cuisine: Greek, Gyro, Halal",
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
-      "location": "Saleh's Corner",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
-      "timezone": "PT",
-      "vendor": "Theo's Gyros"
     },
     {
       "date": "2025-10-02T00:00:00",
@@ -87,6 +43,17 @@
       "start_time_raw": "12:00 PM",
       "timezone": "PT",
       "vendor": "Birrieria Pepe El Toro"
+    },
+    {
+      "date": "2025-10-02T00:00:00",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "location": "Obec Brewing",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "timezone": "PT",
+      "vendor": "Cocina Barelas (New Mexican Cuisine)"
     },
     {
       "date": "2025-10-02T16:00:00.339000",
@@ -410,6 +377,6 @@
   ],
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 37,
-  "updated": "2025-10-02T06:15:16.395299+00:00"
+  "total_events": 34,
+  "updated": "2025-10-02T07:15:16.551008+00:00"
 }
