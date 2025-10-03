@@ -141,7 +141,7 @@
       "start_time": "1:00 PM PT",
       "start_time_raw": "1:00 PM",
       "timezone": "PT",
-      "vendor": "El Pirata Tortas Y Burritos / Now Make Me A Sandwich"
+      "vendor": "Johnson BBQ Provisions"
     },
     {
       "date": "2025-10-05T00:00:00",
@@ -422,5 +422,5 @@
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
   "total_events": 38,
-  "updated": "2025-10-03T19:15:16.334327+00:00"
+  "updated": "2025-10-03T20:15:16.874631+00:00"
 }
