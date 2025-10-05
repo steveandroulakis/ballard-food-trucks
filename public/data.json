@@ -43,7 +43,7 @@
       "start_time": "4:00 PM PT",
       "start_time_raw": "4:00 PM",
       "timezone": "PT",
-      "vendor": "Kaosamai Thai"
+      "vendor": "La Palmera"
     },
     {
       "date": "2025-10-05T13:00:00.946000",
@@ -445,5 +445,5 @@
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
   "total_events": 40,
-  "updated": "2025-10-05T08:15:16.617664+00:00"
+  "updated": "2025-10-05T09:15:16.622444+00:00"
 }
