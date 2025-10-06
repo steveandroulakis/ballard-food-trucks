@@ -13,39 +13,6 @@
       "vendor": "Momo Express"
     },
     {
-      "date": "2025-10-05T00:00:00",
-      "description": null,
-      "end_time": "7:00 PM PT",
-      "end_time_raw": "7:00 PM",
-      "location": "Stoup Brewing - Ballard",
-      "start_time": "1:00 PM PT",
-      "start_time_raw": "1:00 PM",
-      "timezone": "PT",
-      "vendor": "Johnson BBQ Provisions"
-    },
-    {
-      "date": "2025-10-05T00:00:00",
-      "description": null,
-      "end_time": "7:00 PM PT",
-      "end_time_raw": "7:00 PM",
-      "location": "Urban Family Brewing",
-      "start_time": "1:00 PM PT",
-      "start_time_raw": "1:00 PM",
-      "timezone": "PT",
-      "vendor": "Burger Planet"
-    },
-    {
-      "date": "2025-10-05T00:00:00",
-      "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "location": "Obec Brewing",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
-      "timezone": "PT",
-      "vendor": "La Palmera"
-    },
-    {
       "date": "2025-10-05T13:00:00.946000",
       "description": null,
       "end_time": "9:00 PM PT",
@@ -57,17 +24,6 @@
       "vendor": "Tacos &amp; Beer"
     },
     {
-      "date": "2025-10-05T17:00:00",
-      "description": "Cuisine: Asian, Vegan, Vegetarian",
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
-      "location": "Saleh's Corner",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
-      "timezone": "PT",
-      "vendor": "Kathmandu MoMoCha"
-    },
-    {
       "date": "2025-10-06T00:00:00",
       "description": "Original event: Dinner: Off the Rez",
       "end_time": null,
@@ -77,6 +33,17 @@
       "start_time_raw": null,
       "timezone": "PT",
       "vendor": "Off the Rez"
+    },
+    {
+      "date": "2025-10-06T00:00:00",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "location": "Obec Brewing",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "timezone": "PT",
+      "vendor": "La Palmera"
     },
     {
       "date": "2025-10-06T00:00:00",
@@ -455,6 +422,6 @@
   ],
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 41,
-  "updated": "2025-10-06T06:15:16.599873+00:00"
+  "total_events": 38,
+  "updated": "2025-10-06T07:15:16.480609+00:00"
 }
