@@ -113,6 +113,17 @@
     },
     {
       "date": "2025-10-09T00:00:00",
+      "description": null,
+      "end_time": null,
+      "end_time_raw": null,
+      "location": "Wheelie Pop Brewing",
+      "start_time": null,
+      "start_time_raw": null,
+      "timezone": "PT",
+      "vendor": "Kaosamai Thai"
+    },
+    {
+      "date": "2025-10-09T00:00:00",
       "description": "Original event: Dinner: Pizza Paseano",
       "end_time": null,
       "end_time_raw": null,
@@ -132,17 +143,6 @@
       "start_time_raw": "4:00 PM",
       "timezone": "PT",
       "vendor": "Alebrije"
-    },
-    {
-      "date": "2025-10-09T00:00:00",
-      "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "location": "Wheelie Pop Brewing",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
-      "timezone": "PT",
-      "vendor": "Kaosamai Thai"
     },
     {
       "date": "2025-10-09T00:00:00",
@@ -467,5 +467,5 @@
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
   "total_events": 42,
-  "updated": "2025-10-08T02:15:17.949114+00:00"
+  "updated": "2025-10-08T03:15:16.618839+00:00"
 }
