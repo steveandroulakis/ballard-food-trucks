@@ -32,7 +32,7 @@
       "start_time": "4:00 PM PT",
       "start_time_raw": "4:00 PM",
       "timezone": "PT",
-      "vendor": "Blk"
+      "vendor": "Tolu Modern Fijian Cuisine"
     },
     {
       "date": "2025-10-13T00:00:00",
@@ -428,7 +428,7 @@
       "start_time": "4:00 PM PT",
       "start_time_raw": "4:00 PM",
       "timezone": "PT",
-      "vendor": "Blk"
+      "vendor": "Tolu Modern Fijian Cuisine"
     },
     {
       "date": "2025-10-20T00:00:00",
@@ -456,5 +456,5 @@
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
   "total_events": 41,
-  "updated": "2025-10-13T21:15:17.083849+00:00"
+  "updated": "2025-10-13T21:58:50.197180+00:00"
 }
