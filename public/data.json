@@ -2,17 +2,6 @@
   "errors": [],
   "events": [
     {
-      "date": "2025-10-13T00:00:00",
-      "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "location": "Stoup Brewing - Ballard",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
-      "timezone": "PT",
-      "vendor": "Where Ya At Matt"
-    },
-    {
       "date": "2025-10-14T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
@@ -145,7 +134,7 @@
       "vendor": "Tacos &amp; Beer"
     },
     {
-      "date": "2025-10-13T00:00:00",
+      "date": "2025-10-14T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -154,17 +143,6 @@
       "start_time_raw": "4:00 PM",
       "timezone": "PT",
       "vendor": "Plaza Garcia"
-    },
-    {
-      "date": "2025-10-13T00:00:00",
-      "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "location": "Urban Family Brewing",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
-      "timezone": "PT",
-      "vendor": "Tolu Modern Fijian Cuisine"
     },
     {
       "date": "2025-10-14T00:00:00",
@@ -365,17 +343,6 @@
       "vendor": "Off the Rez"
     },
     {
-      "date": "2025-10-13T17:00:00",
-      "description": "Cuisine: Asian, BBQ, Sandwiches",
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
-      "location": "Saleh's Corner",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
-      "timezone": "PT",
-      "vendor": "MOMO Express"
-    },
-    {
       "date": "2025-10-14T17:00:00",
       "description": "Cuisine: Burritos, Mexican, Tacos",
       "end_time": "9:00 PM PT",
@@ -453,9 +420,9 @@
       "vendor": "MOMO Express"
     }
   ],
-  "haiku": "\ud83c\udf42 October rain falls\u2014\nOff the Rez warms Chuck's Hop Shop,\ncraft beer meets fry bread \ud83c\udf7a",
+  "haiku": "\ud83c\udf42 October mist swirls\u2014\nPlaza Garcia's steam rises\nat Saleh's warm glow \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 41,
-  "updated": "2025-10-14T06:15:18.879706+00:00"
+  "total_events": 38,
+  "updated": "2025-10-14T07:15:18.632067+00:00"
 }
