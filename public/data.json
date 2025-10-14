@@ -79,6 +79,17 @@
       "vendor": "Russo Pizzarium"
     },
     {
+      "date": "2025-10-21T00:00:00",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "location": "Stoup Brewing - Ballard",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "timezone": "PT",
+      "vendor": "Tacos & Beer"
+    },
+    {
       "date": "2025-10-14T16:00:00.369000",
       "description": null,
       "end_time": "8:00 PM PT",
@@ -134,6 +145,17 @@
       "vendor": "Tacos &amp; Beer"
     },
     {
+      "date": "2025-10-21T16:00:00.897000",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "location": "Yonder Cider & Bale Breaker - Ballard",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "timezone": "PT",
+      "vendor": "Tummy Yummy Thai"
+    },
+    {
       "date": "2025-10-14T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
@@ -142,7 +164,7 @@
       "start_time": "4:00 PM PT",
       "start_time_raw": "4:00 PM",
       "timezone": "PT",
-      "vendor": "Plaza Garcia"
+      "vendor": "Maroom Thai"
     },
     {
       "date": "2025-10-14T00:00:00",
@@ -255,17 +277,6 @@
       "vendor": "Kaosamai Thai"
     },
     {
-      "date": "2025-10-13T00:00:00",
-      "description": "Original event: Dinner: Off the Rez",
-      "end_time": null,
-      "end_time_raw": null,
-      "location": "Chuck's Hop Shop Greenwood",
-      "start_time": null,
-      "start_time_raw": null,
-      "timezone": "PT",
-      "vendor": "Off the Rez"
-    },
-    {
       "date": "2025-10-14T00:00:00",
       "description": "Original event: Dinner: Kaosamai Thai",
       "end_time": null,
@@ -343,6 +354,17 @@
       "vendor": "Off the Rez"
     },
     {
+      "date": "2025-10-21T00:00:00",
+      "description": "Original event: Dinner: Kaosamai Thai",
+      "end_time": null,
+      "end_time_raw": null,
+      "location": "Chuck's Hop Shop Greenwood",
+      "start_time": null,
+      "start_time_raw": null,
+      "timezone": "PT",
+      "vendor": "Kaosamai Thai"
+    },
+    {
       "date": "2025-10-14T17:00:00",
       "description": "Cuisine: Burritos, Mexican, Tacos",
       "end_time": "9:00 PM PT",
@@ -418,11 +440,22 @@
       "start_time_raw": "5:00 PM",
       "timezone": "PT",
       "vendor": "MOMO Express"
+    },
+    {
+      "date": "2025-10-21T17:00:00",
+      "description": "Cuisine: Burritos, Mexican, Tacos",
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "location": "Saleh's Corner",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "timezone": "PT",
+      "vendor": "Plaza Garcia Express"
     }
   ],
-  "haiku": "\ud83c\udf42 October mist swirls\u2014\nPlaza Garcia's steam rises\nat Saleh's warm glow \ud83c\udf7a",
+  "haiku": "\ud83c\udf43 October's chill lifts\u2014\nMaroom Thai's spice warms the soul\nat Obec's bright tap \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 38,
-  "updated": "2025-10-14T07:15:18.632067+00:00"
+  "total_events": 41,
+  "updated": "2025-10-14T08:15:35.594252+00:00"
 }
