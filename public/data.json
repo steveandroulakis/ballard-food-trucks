@@ -4,11 +4,11 @@
     {
       "date": "2025-10-16T00:00:00",
       "description": null,
-      "end_time": "4:00 PM PT",
-      "end_time_raw": "4:00 PM",
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
       "location": "Stoup Brewing - Ballard",
-      "start_time": "12:00 PM PT",
-      "start_time_raw": "12:00 PM",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
       "timezone": "PT",
       "vendor": "Birrieria Pepe El Toro"
     },
@@ -475,9 +475,9 @@
       "vendor": "Pumpkin Thai"
     }
   ],
-  "haiku": "\ud83e\udd5f Autumn rain patters\u2014\nKathmandu's warmth steams bright\nat Urban's wood bench \ud83c\udf7a",
+  "haiku": "\ud83c\udf42 October mist swirls\u2014\nPepe's birria steams at Stoup,\nHops meet tender beef \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
   "total_events": 43,
-  "updated": "2025-10-16T19:15:19.116580+00:00"
+  "updated": "2025-10-16T20:15:21.404625+00:00"
 }
