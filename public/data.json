@@ -255,17 +255,6 @@
       "vendor": "Heart in Seoul"
     },
     {
-      "date": "2025-10-18T00:00:00",
-      "description": null,
-      "end_time": null,
-      "end_time_raw": null,
-      "location": "Wheelie Pop Brewing",
-      "start_time": null,
-      "start_time_raw": null,
-      "timezone": "PT",
-      "vendor": "El Pachi Empanadas"
-    },
-    {
       "date": "2025-10-19T00:00:00",
       "description": null,
       "end_time": null,
@@ -464,9 +453,9 @@
       "vendor": "Impeckable Chicken"
     }
   ],
-  "haiku": "\ud83c\udf41 October's crisp air\u2014\nGeorgia's Greek meets Stoup's warm hops,\nBallard flavors blend \ud83c\udf7a",
+  "haiku": "\ud83c\udf42 October's cool breeze\u2014\nKaosamai's spice warms hearts\nat Yonder's wood bar \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 42,
-  "updated": "2025-10-17T18:15:21.560987+00:00"
+  "total_events": 41,
+  "updated": "2025-10-17T19:15:18.730072+00:00"
 }
