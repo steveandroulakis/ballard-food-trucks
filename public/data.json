@@ -2,17 +2,6 @@
   "errors": [],
   "events": [
     {
-      "date": "2025-10-16T00:00:00",
-      "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "location": "Stoup Brewing - Ballard",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
-      "timezone": "PT",
-      "vendor": "Birrieria Pepe El Toro"
-    },
-    {
       "date": "2025-10-17T00:00:00",
       "description": null,
       "end_time": "9:00 PM PT",
@@ -167,7 +156,7 @@
       "vendor": "Impeckable Chicken"
     },
     {
-      "date": "2025-10-16T00:00:00",
+      "date": "2025-10-17T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -176,17 +165,6 @@
       "start_time_raw": "4:00 PM",
       "timezone": "PT",
       "vendor": "Impeckable Chicken"
-    },
-    {
-      "date": "2025-10-16T00:00:00",
-      "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "location": "Urban Family Brewing",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
-      "timezone": "PT",
-      "vendor": "Kathmandu momoCha"
     },
     {
       "date": "2025-10-18T00:00:00",
@@ -387,17 +365,6 @@
       "vendor": "Pizza Paseano"
     },
     {
-      "date": "2025-10-16T17:00:00",
-      "description": "Cuisine: Asian, Thai, Vegetarian",
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
-      "location": "Saleh's Corner",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
-      "timezone": "PT",
-      "vendor": "Pumpkin Thai"
-    },
-    {
       "date": "2025-10-17T17:00:00",
       "description": "Cuisine: Chicken, Sandwiches, Southern",
       "end_time": "9:00 PM PT",
@@ -475,9 +442,9 @@
       "vendor": "Pumpkin Thai"
     }
   ],
-  "haiku": "\ud83c\udf42 October chill fades\u2014\nPepe's birria steams at Stoup,\nHops warm autumn souls \ud83c\udf7a",
+  "haiku": "\ud83c\udf42 October's chill bites\u2014\nT'Juana's warmth fills the hop\nshop with spiced comfort \ud83c\udf2e",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 43,
-  "updated": "2025-10-17T06:15:19.104074+00:00"
+  "total_events": 40,
+  "updated": "2025-10-17T07:15:19.213743+00:00"
 }
