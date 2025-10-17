@@ -79,15 +79,15 @@
       "vendor": "La Costenita"
     },
     {
-      "date": "2025-10-16T16:00:00.412000",
+      "date": "2025-10-24T00:00:00",
       "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "location": "Yonder Cider & Bale Breaker - Ballard",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "location": "Stoup Brewing - Ballard",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
       "timezone": "PT",
-      "vendor": "Impeckable Chicken"
+      "vendor": "Off the Rez"
     },
     {
       "date": "2025-10-17T15:30:00.064000",
@@ -156,15 +156,26 @@
       "vendor": "Impeckable Chicken"
     },
     {
+      "date": "2025-10-24T16:00:00.060000",
+      "description": null,
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "location": "Yonder Cider & Bale Breaker - Ballard",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "timezone": "PT",
+      "vendor": "Wood Shop BBQ"
+    },
+    {
       "date": "2025-10-17T00:00:00",
       "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
       "location": "Obec Brewing",
       "start_time": "4:00 PM PT",
       "start_time_raw": "4:00 PM",
       "timezone": "PT",
-      "vendor": "Impeckable Chicken"
+      "vendor": "Cocina Barelas (New Mexican Cuisine)"
     },
     {
       "date": "2025-10-18T00:00:00",
@@ -222,15 +233,15 @@
       "vendor": "Alebrije"
     },
     {
-      "date": "2025-10-16T00:00:00",
+      "date": "2025-10-24T00:00:00",
       "description": null,
-      "end_time": null,
-      "end_time_raw": null,
-      "location": "Wheelie Pop Brewing",
-      "start_time": null,
-      "start_time_raw": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "location": "Urban Family Brewing",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
       "timezone": "PT",
-      "vendor": "Tisket Tasket"
+      "vendor": "Birrieria Pepe El Toro LLC"
     },
     {
       "date": "2025-10-17T00:00:00",
@@ -275,17 +286,6 @@
       "start_time_raw": null,
       "timezone": "PT",
       "vendor": "Kaosamai Thai"
-    },
-    {
-      "date": "2025-10-16T00:00:00",
-      "description": "Original event: Dinner: Pizza Paseano",
-      "end_time": null,
-      "end_time_raw": null,
-      "location": "Chuck's Hop Shop Greenwood",
-      "start_time": null,
-      "start_time_raw": null,
-      "timezone": "PT",
-      "vendor": "Pizza Paseano"
     },
     {
       "date": "2025-10-17T00:00:00",
@@ -365,6 +365,17 @@
       "vendor": "Pizza Paseano"
     },
     {
+      "date": "2025-10-24T00:00:00",
+      "description": "Original event: Dinner: T'Juana",
+      "end_time": null,
+      "end_time_raw": null,
+      "location": "Chuck's Hop Shop Greenwood",
+      "start_time": null,
+      "start_time_raw": null,
+      "timezone": "PT",
+      "vendor": "T'Juana"
+    },
+    {
       "date": "2025-10-17T17:00:00",
       "description": "Cuisine: Chicken, Sandwiches, Southern",
       "end_time": "9:00 PM PT",
@@ -440,11 +451,22 @@
       "start_time_raw": "5:00 PM",
       "timezone": "PT",
       "vendor": "Pumpkin Thai"
+    },
+    {
+      "date": "2025-10-24T17:00:00",
+      "description": "Cuisine: Chicken, Sandwiches, Southern",
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "location": "Saleh's Corner",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "timezone": "PT",
+      "vendor": "Impeckable Chicken"
     }
   ],
-  "haiku": "\ud83c\udf42 October's chill bites\u2014\nT'Juana's warmth fills the hop\nshop with spiced comfort \ud83c\udf2e",
+  "haiku": "\ud83c\udf42 October's chill brings\nT'Juana's warmth to Chuck's Hop\u2014\nCraft beer, street food dreams \ud83c\udf2e",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 40,
-  "updated": "2025-10-17T07:15:19.213743+00:00"
+  "total_events": 42,
+  "updated": "2025-10-17T08:15:19.279165+00:00"
 }
