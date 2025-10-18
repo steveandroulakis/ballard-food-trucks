@@ -1,7 +1,5 @@
 {
-  "errors": [
-    "Failed to fetch information for brewery: Obec Brewing"
-  ],
+  "errors": [],
   "events": [
     {
       "date": "2025-10-18T00:00:00",
@@ -167,6 +165,17 @@
       "start_time_raw": "1:00 PM",
       "timezone": "PT",
       "vendor": "Wich Came First"
+    },
+    {
+      "date": "2025-10-18T00:00:00",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "location": "Obec Brewing",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "timezone": "PT",
+      "vendor": "Kaosamai Thai"
     },
     {
       "date": "2025-10-18T00:00:00",
@@ -466,9 +475,9 @@
       "vendor": "Maroom Thaim"
     }
   ],
-  "haiku": "\ud83c\udf41 October's chill fades\u2014\nSabor Boricua's spice warms\nChuck's Hop Shop hearts \ud83c\udf7a",
+  "haiku": "\ud83c\udf42 October's chill fades\u2014\nSabor Boricua's warmth fills\nChuck's Hop Shop tables \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 42,
-  "updated": "2025-10-18T08:15:18.906997+00:00"
+  "total_events": 43,
+  "updated": "2025-10-18T09:15:18.383778+00:00"
 }
