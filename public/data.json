@@ -2,17 +2,6 @@
   "errors": [],
   "events": [
     {
-      "date": "2025-10-17T00:00:00",
-      "description": null,
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
-      "location": "Stoup Brewing - Ballard",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
-      "timezone": "PT",
-      "vendor": "Georgia's Greek"
-    },
-    {
       "date": "2025-10-18T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
@@ -167,7 +156,7 @@
       "vendor": "Wood Shop BBQ"
     },
     {
-      "date": "2025-10-17T00:00:00",
+      "date": "2025-10-18T00:00:00",
       "description": null,
       "end_time": "9:00 PM PT",
       "end_time_raw": "9:00 PM",
@@ -365,17 +354,6 @@
       "vendor": "T'Juana"
     },
     {
-      "date": "2025-10-17T17:00:00",
-      "description": "Cuisine: Chicken, Sandwiches, Southern",
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
-      "location": "Saleh's Corner",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
-      "timezone": "PT",
-      "vendor": "Impeckable Chicken"
-    },
-    {
       "date": "2025-10-18T17:00:00",
       "description": "Cuisine: Asian, Noodles, Thai",
       "end_time": "9:00 PM PT",
@@ -453,9 +431,9 @@
       "vendor": "Impeckable Chicken"
     }
   ],
-  "haiku": "\ud83c\udf42 October's crisp air\u2014\nGeorgia's Greek meets Stoup's warm hops,\nBallard feast unfolds \ud83c\udf7a",
+  "haiku": "\ud83c\udf43 October's cool breeze\u2014\nSabor Boricua's spice warms\nChuck's Hop Shop threshold \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 41,
-  "updated": "2025-10-18T06:15:20.998088+00:00"
+  "total_events": 39,
+  "updated": "2025-10-18T07:15:18.945505+00:00"
 }
