@@ -1,5 +1,7 @@
 {
-  "errors": [],
+  "errors": [
+    "Failed to fetch information for brewery: Obec Brewing"
+  ],
   "events": [
     {
       "date": "2025-10-18T00:00:00",
@@ -79,15 +81,15 @@
       "vendor": "Off the Rez"
     },
     {
-      "date": "2025-10-17T15:30:00.064000",
+      "date": "2025-10-25T00:00:00",
       "description": null,
-      "end_time": "8:30 PM PT",
-      "end_time_raw": "8:30 PM",
-      "location": "Yonder Cider & Bale Breaker - Ballard",
-      "start_time": "3:30 PM PT",
-      "start_time_raw": "3:30 PM",
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "location": "Stoup Brewing - Ballard",
+      "start_time": "1:00 PM PT",
+      "start_time_raw": "1:00 PM",
       "timezone": "PT",
-      "vendor": "Kaosamai Thai"
+      "vendor": "Woodshop BBQ"
     },
     {
       "date": "2025-10-18T13:00:00.141000",
@@ -156,15 +158,15 @@
       "vendor": "Wood Shop BBQ"
     },
     {
-      "date": "2025-10-18T00:00:00",
+      "date": "2025-10-25T13:00:00.504000",
       "description": null,
       "end_time": "9:00 PM PT",
       "end_time_raw": "9:00 PM",
-      "location": "Obec Brewing",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
+      "location": "Yonder Cider & Bale Breaker - Ballard",
+      "start_time": "1:00 PM PT",
+      "start_time_raw": "1:00 PM",
       "timezone": "PT",
-      "vendor": "Cocina Barelas (New Mexican Cuisine)"
+      "vendor": "Wich Came First"
     },
     {
       "date": "2025-10-18T00:00:00",
@@ -233,15 +235,15 @@
       "vendor": "Birrieria Pepe El Toro LLC"
     },
     {
-      "date": "2025-10-17T00:00:00",
+      "date": "2025-10-25T00:00:00",
       "description": null,
-      "end_time": null,
-      "end_time_raw": null,
-      "location": "Wheelie Pop Brewing",
-      "start_time": null,
-      "start_time_raw": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "location": "Urban Family Brewing",
+      "start_time": "1:00 PM PT",
+      "start_time_raw": "1:00 PM",
       "timezone": "PT",
-      "vendor": "Heart in Seoul"
+      "vendor": "MomoExpress"
     },
     {
       "date": "2025-10-19T00:00:00",
@@ -266,15 +268,15 @@
       "vendor": "Kaosamai Thai"
     },
     {
-      "date": "2025-10-17T00:00:00",
-      "description": "Original event: Dinner: T'Juana",
+      "date": "2025-10-25T00:00:00",
+      "description": null,
       "end_time": null,
       "end_time_raw": null,
-      "location": "Chuck's Hop Shop Greenwood",
+      "location": "Wheelie Pop Brewing",
       "start_time": null,
       "start_time_raw": null,
       "timezone": "PT",
-      "vendor": "T'Juana"
+      "vendor": "Vandalz Taqueria"
     },
     {
       "date": "2025-10-18T00:00:00",
@@ -354,6 +356,28 @@
       "vendor": "T'Juana"
     },
     {
+      "date": "2025-10-25T00:00:00",
+      "description": "Original event: Brunch: Cocina Barelas",
+      "end_time": null,
+      "end_time_raw": null,
+      "location": "Chuck's Hop Shop Greenwood",
+      "start_time": null,
+      "start_time_raw": null,
+      "timezone": "PT",
+      "vendor": "Cocina Barelas"
+    },
+    {
+      "date": "2025-10-25T00:00:00",
+      "description": "Original event: Tat's Deli",
+      "end_time": null,
+      "end_time_raw": null,
+      "location": "Chuck's Hop Shop Greenwood",
+      "start_time": null,
+      "start_time_raw": null,
+      "timezone": "PT",
+      "vendor": "Tat's Deli"
+    },
+    {
       "date": "2025-10-18T17:00:00",
       "description": "Cuisine: Asian, Noodles, Thai",
       "end_time": "9:00 PM PT",
@@ -429,11 +453,22 @@
       "start_time_raw": "5:00 PM",
       "timezone": "PT",
       "vendor": "Impeckable Chicken"
+    },
+    {
+      "date": "2025-10-25T17:00:00",
+      "description": "Cuisine: Asian, Noodles, Thai",
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "location": "Saleh's Corner",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "timezone": "PT",
+      "vendor": "Maroom Thaim"
     }
   ],
-  "haiku": "\ud83c\udf43 October's cool breeze\u2014\nSabor Boricua's spice warms\nChuck's Hop Shop threshold \ud83c\udf7a",
+  "haiku": "\ud83c\udf41 October's chill fades\u2014\nSabor Boricua's spice warms\nChuck's Hop Shop hearts \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 39,
-  "updated": "2025-10-18T07:15:18.945505+00:00"
+  "total_events": 42,
+  "updated": "2025-10-18T08:15:18.906997+00:00"
 }
