@@ -2,17 +2,6 @@
   "errors": [],
   "events": [
     {
-      "date": "2025-10-20T00:00:00",
-      "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "location": "Stoup Brewing - Ballard",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
-      "timezone": "PT",
-      "vendor": "Russo Pizzarium"
-    },
-    {
       "date": "2025-10-21T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
@@ -156,7 +145,7 @@
       "vendor": "Tacos &amp; Beer"
     },
     {
-      "date": "2025-10-20T00:00:00",
+      "date": "2025-10-21T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -165,17 +154,6 @@
       "start_time_raw": "4:00 PM",
       "timezone": "PT",
       "vendor": "Heart in Seoul"
-    },
-    {
-      "date": "2025-10-20T00:00:00",
-      "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "location": "Urban Family Brewing",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
-      "timezone": "PT",
-      "vendor": "Tolu Modern Fijian Cuisine"
     },
     {
       "date": "2025-10-22T00:00:00",
@@ -376,17 +354,6 @@
       "vendor": "Off the Rez"
     },
     {
-      "date": "2025-10-20T17:00:00",
-      "description": "Cuisine: Asian, BBQ, Sandwiches",
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
-      "location": "Saleh's Corner",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
-      "timezone": "PT",
-      "vendor": "MOMO Express"
-    },
-    {
       "date": "2025-10-21T17:00:00",
       "description": "Cuisine: Burritos, Mexican, Tacos",
       "end_time": "9:00 PM PT",
@@ -464,9 +431,9 @@
       "vendor": "MOMO Express"
     }
   ],
-  "haiku": "\ud83c\udf42 October rain falls\u2014\nRusso's pizza meets fresh hops\nat Stoup's warm embrace \ud83c\udf55",
+  "haiku": "\ud83c\udf42 October chill fades\u2014\nTacos warm at Stoup's bright door,\nBeer flows with laughter \ud83c\udf2e",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 42,
-  "updated": "2025-10-21T06:15:18.495001+00:00"
+  "total_events": 39,
+  "updated": "2025-10-21T07:15:19.726907+00:00"
 }
