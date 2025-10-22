@@ -79,15 +79,15 @@
       "vendor": "Poke Me"
     },
     {
-      "date": "2025-10-21T16:00:00.897000",
+      "date": "2025-10-29T00:00:00",
       "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "location": "Yonder Cider & Bale Breaker - Ballard",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
+      "end_time": "8:30 PM PT",
+      "end_time_raw": "8:30 PM",
+      "location": "Stoup Brewing - Ballard",
+      "start_time": "4:30 PM PT",
+      "start_time_raw": "4:30 PM",
       "timezone": "PT",
-      "vendor": "Tummy Yummy Thai"
+      "vendor": "Kaosamai Thai"
     },
     {
       "date": "2025-10-22T16:00:00.767000",
@@ -154,6 +154,17 @@
       "start_time_raw": "4:00 PM",
       "timezone": "PT",
       "vendor": "Birrieria Pepe El Toro"
+    },
+    {
+      "date": "2025-10-29T16:00:00.238000",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "location": "Yonder Cider & Bale Breaker - Ballard",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "timezone": "PT",
+      "vendor": "Georgia\u2019s Greek"
     },
     {
       "date": "2025-10-22T00:00:00",
@@ -244,6 +255,17 @@
       "vendor": "Georgia's Greek"
     },
     {
+      "date": "2025-10-29T00:00:00",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "location": "Urban Family Brewing",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "timezone": "PT",
+      "vendor": "Impeckable Chicken"
+    },
+    {
       "date": "2025-10-23T00:00:00",
       "description": null,
       "end_time": null,
@@ -264,17 +286,6 @@
       "start_time_raw": null,
       "timezone": "PT",
       "vendor": "Vandalz Taqueria"
-    },
-    {
-      "date": "2025-10-21T00:00:00",
-      "description": "Original event: Dinner: Kaosamai Thai",
-      "end_time": null,
-      "end_time_raw": null,
-      "location": "Chuck's Hop Shop Greenwood",
-      "start_time": null,
-      "start_time_raw": null,
-      "timezone": "PT",
-      "vendor": "Kaosamai Thai"
     },
     {
       "date": "2025-10-22T00:00:00",
@@ -376,6 +387,17 @@
       "vendor": "Kaosamai Thai"
     },
     {
+      "date": "2025-10-29T00:00:00",
+      "description": "Original event: Dinner: Chick'n Fix",
+      "end_time": null,
+      "end_time_raw": null,
+      "location": "Chuck's Hop Shop Greenwood",
+      "start_time": null,
+      "start_time_raw": null,
+      "timezone": "PT",
+      "vendor": "Chick'n Fix"
+    },
+    {
       "date": "2025-10-22T17:00:00",
       "description": "Cuisine: Greek, Gyro, Halal",
       "end_time": "9:00 PM PT",
@@ -451,11 +473,22 @@
       "start_time_raw": "5:00 PM",
       "timezone": "PT",
       "vendor": "Plaza Garcia Express"
+    },
+    {
+      "date": "2025-10-29T17:00:00",
+      "description": "Cuisine: Asian, Thai, Vegetarian",
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "location": "Saleh's Corner",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "timezone": "PT",
+      "vendor": "Pumpkin Thai"
     }
   ],
-  "haiku": "\ud83c\udf55 Wood fired flames dance bright\u2014\nMarigold's crust meets Stoup's hops,\nFall rain on warm glass \ud83c\udf7a",
+  "haiku": "\ud83c\udf57 Crispy wings take flight\u2014\nImpeckable meets cold brew\nat Urban's warm hearth \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 41,
-  "updated": "2025-10-22T07:15:19.155175+00:00"
+  "total_events": 44,
+  "updated": "2025-10-22T08:15:19.148903+00:00"
 }
