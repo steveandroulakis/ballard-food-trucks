@@ -224,6 +224,17 @@
     {
       "date": "2025-10-26T00:00:00",
       "description": null,
+      "end_time": "12:00 PM PT",
+      "end_time_raw": "12:00 PM",
+      "location": "Urban Family Brewing",
+      "start_time": "8:00 AM PT",
+      "start_time_raw": "8:00 AM",
+      "timezone": "PT",
+      "vendor": "TBD"
+    },
+    {
+      "date": "2025-10-26T00:00:00",
+      "description": null,
       "end_time": "7:00 PM PT",
       "end_time_raw": "7:00 PM",
       "location": "Urban Family Brewing",
@@ -486,9 +497,9 @@
       "vendor": "Pumpkin Thai"
     }
   ],
-  "haiku": "\ud83c\udf57 October chill bites\u2014\nChick'n Fix warms Chuck's Hop crowd,\nSteam meets amber light \ud83c\udf7a",
+  "haiku": "\ud83c\udf57 Crisp October air\u2014\nImpeckable birds sizzle near\nUrban Family hops \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 44,
-  "updated": "2025-10-22T21:15:19.120236+00:00"
+  "total_events": 45,
+  "updated": "2025-10-22T22:15:19.074897+00:00"
 }
