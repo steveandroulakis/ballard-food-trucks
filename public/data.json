@@ -2,17 +2,6 @@
   "errors": [],
   "events": [
     {
-      "date": "2025-10-21T00:00:00",
-      "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "location": "Stoup Brewing - Ballard",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
-      "timezone": "PT",
-      "vendor": "Tacos & Beer"
-    },
-    {
       "date": "2025-10-22T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
@@ -167,7 +156,7 @@
       "vendor": "Birrieria Pepe El Toro"
     },
     {
-      "date": "2025-10-21T00:00:00",
+      "date": "2025-10-22T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -387,17 +376,6 @@
       "vendor": "Kaosamai Thai"
     },
     {
-      "date": "2025-10-21T17:00:00",
-      "description": "Cuisine: Burritos, Mexican, Tacos",
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
-      "location": "Saleh's Corner",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
-      "timezone": "PT",
-      "vendor": "Plaza Garcia Express"
-    },
-    {
       "date": "2025-10-22T17:00:00",
       "description": "Cuisine: Greek, Gyro, Halal",
       "end_time": "9:00 PM PT",
@@ -475,9 +453,9 @@
       "vendor": "Plaza Garcia Express"
     }
   ],
-  "haiku": "\ud83c\udf42 October chill bites\u2014\nMaroom Thai's curry steams warm\nat Obec's bright tap \ud83c\udf7a",
+  "haiku": "\ud83c\udf55 Wood fired flames dance bright\u2014\nMarigold's crust meets Stoup's hops,\nFall rain on warm glass \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 43,
-  "updated": "2025-10-22T06:15:18.957317+00:00"
+  "total_events": 41,
+  "updated": "2025-10-22T07:15:19.155175+00:00"
 }
