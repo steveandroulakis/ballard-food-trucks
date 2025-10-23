@@ -2,17 +2,6 @@
   "errors": [],
   "events": [
     {
-      "date": "2025-10-22T00:00:00",
-      "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "location": "Stoup Brewing - Ballard",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
-      "timezone": "PT",
-      "vendor": "The Marigold Wood Fired Pizza"
-    },
-    {
       "date": "2025-10-23T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
@@ -167,7 +156,7 @@
       "vendor": "Georgia\u2019s Greek"
     },
     {
-      "date": "2025-10-22T00:00:00",
+      "date": "2025-10-23T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -176,17 +165,6 @@
       "start_time_raw": "4:00 PM",
       "timezone": "PT",
       "vendor": "Empanadas el Pachi"
-    },
-    {
-      "date": "2025-10-22T00:00:00",
-      "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "location": "Urban Family Brewing",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
-      "timezone": "PT",
-      "vendor": "Impeckable Chicken"
     },
     {
       "date": "2025-10-23T00:00:00",
@@ -409,17 +387,6 @@
       "vendor": "Chick'n Fix"
     },
     {
-      "date": "2025-10-22T17:00:00",
-      "description": "Cuisine: Greek, Gyro, Halal",
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
-      "location": "Saleh's Corner",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
-      "timezone": "PT",
-      "vendor": "Theo's Gyros"
-    },
-    {
       "date": "2025-10-23T17:00:00",
       "description": "Cuisine: Asian, Thai, Vegetarian",
       "end_time": "9:00 PM PT",
@@ -497,9 +464,9 @@
       "vendor": "Pumpkin Thai"
     }
   ],
-  "haiku": "\ud83c\udf43 October rain falls\u2014\nTheo's lamb spins at Saleh's,\nwarm pita steams up \ud83e\udd59",
+  "haiku": "\ud83c\udf83 Orange spice meets Thai\u2014\nPumpkin curry steams at Saleh's,\nFall warmth in each bite \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 45,
-  "updated": "2025-10-23T06:15:19.040750+00:00"
+  "total_events": 42,
+  "updated": "2025-10-23T07:15:19.284033+00:00"
 }
