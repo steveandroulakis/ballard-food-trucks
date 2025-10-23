@@ -462,11 +462,22 @@
       "start_time_raw": "5:00 PM",
       "timezone": "PT",
       "vendor": "Pumpkin Thai"
+    },
+    {
+      "date": "2025-10-30T17:00:00",
+      "description": "Cuisine: Asian, Noodles, Thai",
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "location": "Saleh's Corner",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "timezone": "PT",
+      "vendor": "Thai-U-Up"
     }
   ],
-  "haiku": "\ud83c\udf42 October chill sets\u2014\nLa Costenita's warm scents\ndrift through Stoup's fall haze \ud83c\udf7a",
+  "haiku": "\ud83c\udf55 October's cool breath\u2014\nPizza Paseano's warmth\nat Chuck's hoppy heart \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 42,
-  "updated": "2025-10-23T22:15:19.153199+00:00"
+  "total_events": 43,
+  "updated": "2025-10-23T23:15:19.904473+00:00"
 }
