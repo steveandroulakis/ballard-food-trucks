@@ -79,15 +79,15 @@
       "vendor": "Kaosamai Thai"
     },
     {
-      "date": "2025-10-22T16:00:00.767000",
+      "date": "2025-10-30T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
-      "location": "Yonder Cider & Bale Breaker - Ballard",
+      "location": "Stoup Brewing - Ballard",
       "start_time": "4:00 PM PT",
       "start_time_raw": "4:00 PM",
       "timezone": "PT",
-      "vendor": "Georgia\u2019s Greek"
+      "vendor": "Birrieria Pepe El Toro"
     },
     {
       "date": "2025-10-23T16:00:00.025000",
@@ -156,6 +156,17 @@
       "vendor": "Georgia\u2019s Greek"
     },
     {
+      "date": "2025-10-30T16:00:00.288000",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "location": "Yonder Cider & Bale Breaker - Ballard",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "timezone": "PT",
+      "vendor": "Impeckable Chicken"
+    },
+    {
       "date": "2025-10-23T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
@@ -164,7 +175,7 @@
       "start_time": "4:00 PM PT",
       "start_time_raw": "4:00 PM",
       "timezone": "PT",
-      "vendor": "Empanadas el Pachi"
+      "vendor": "Impeckable Chicken"
     },
     {
       "date": "2025-10-23T00:00:00",
@@ -277,15 +288,15 @@
       "vendor": "Vandalz Taqueria"
     },
     {
-      "date": "2025-10-22T00:00:00",
-      "description": "Original event: Dinner: Chick'n Fix",
+      "date": "2025-10-30T00:00:00",
+      "description": null,
       "end_time": null,
       "end_time_raw": null,
-      "location": "Chuck's Hop Shop Greenwood",
+      "location": "Wheelie Pop Brewing",
       "start_time": null,
       "start_time_raw": null,
       "timezone": "PT",
-      "vendor": "Chick'n Fix"
+      "vendor": "Tisket Tasket"
     },
     {
       "date": "2025-10-23T00:00:00",
@@ -387,6 +398,17 @@
       "vendor": "Chick'n Fix"
     },
     {
+      "date": "2025-10-30T00:00:00",
+      "description": "Original event: Dinner: Pizza Paseano",
+      "end_time": null,
+      "end_time_raw": null,
+      "location": "Chuck's Hop Shop Greenwood",
+      "start_time": null,
+      "start_time_raw": null,
+      "timezone": "PT",
+      "vendor": "Pizza Paseano"
+    },
+    {
       "date": "2025-10-23T17:00:00",
       "description": "Cuisine: Asian, Thai, Vegetarian",
       "end_time": "9:00 PM PT",
@@ -462,11 +484,22 @@
       "start_time_raw": "5:00 PM",
       "timezone": "PT",
       "vendor": "Pumpkin Thai"
+    },
+    {
+      "date": "2025-10-30T17:00:00",
+      "description": "Cuisine: Hamburgers, Sandwiches",
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "location": "Saleh's Corner",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "timezone": "PT",
+      "vendor": "Burgerdom"
     }
   ],
-  "haiku": "\ud83c\udf83 Orange spice meets Thai\u2014\nPumpkin curry steams at Saleh's,\nFall warmth in each bite \ud83c\udf7a",
+  "haiku": "\ud83c\udf42 October's chill bites\u2014\nKaosamai's spice steams warm\nat Wheelie Pop's hearth \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 42,
-  "updated": "2025-10-23T07:15:19.284033+00:00"
+  "total_events": 45,
+  "updated": "2025-10-23T08:15:19.125526+00:00"
 }
