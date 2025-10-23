@@ -409,17 +409,6 @@
       "vendor": "Pizza Paseano"
     },
     {
-      "date": "2025-10-23T17:00:00",
-      "description": "Cuisine: Asian, Thai, Vegetarian",
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
-      "location": "Saleh's Corner",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
-      "timezone": "PT",
-      "vendor": "Pumpkin Thai"
-    },
-    {
       "date": "2025-10-24T17:00:00",
       "description": "Cuisine: Chicken, Sandwiches, Southern",
       "end_time": "9:00 PM PT",
@@ -497,9 +486,9 @@
       "vendor": "Burgerdom"
     }
   ],
-  "haiku": "\ud83c\udf57 October chill bites\u2014\nImpeckable warmth gathers\nat Obec's bright hearth \ud83c\udf7a",
+  "haiku": "\ud83c\udf42 October chill bites\u2014\nImpeckable wings sizzle hot\nat Yonder's warm glow \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 45,
-  "updated": "2025-10-23T14:15:19.084754+00:00"
+  "total_events": 44,
+  "updated": "2025-10-23T15:15:19.345139+00:00"
 }
