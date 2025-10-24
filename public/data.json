@@ -79,15 +79,15 @@
       "vendor": "Birrieria Pepe El Toro"
     },
     {
-      "date": "2025-10-23T16:00:00.025000",
+      "date": "2025-10-31T00:00:00",
       "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "location": "Yonder Cider & Bale Breaker - Ballard",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "location": "Stoup Brewing - Ballard",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
       "timezone": "PT",
-      "vendor": "Impeckable Chicken"
+      "vendor": "Georgia's Greek"
     },
     {
       "date": "2025-10-24T16:00:00.060000",
@@ -154,6 +154,17 @@
       "start_time_raw": "4:00 PM",
       "timezone": "PT",
       "vendor": "Impeckable Chicken"
+    },
+    {
+      "date": "2025-10-31T15:30:00.167000",
+      "description": null,
+      "end_time": "8:30 PM PT",
+      "end_time_raw": "8:30 PM",
+      "location": "Yonder Cider & Bale Breaker - Ballard",
+      "start_time": "3:30 PM PT",
+      "start_time_raw": "3:30 PM",
+      "timezone": "PT",
+      "vendor": "Kaosamai Thai"
     },
     {
       "date": "2025-10-24T00:00:00",
@@ -233,15 +244,15 @@
       "vendor": "Impeckable Chicken"
     },
     {
-      "date": "2025-10-23T00:00:00",
+      "date": "2025-10-31T00:00:00",
       "description": null,
-      "end_time": null,
-      "end_time_raw": null,
-      "location": "Wheelie Pop Brewing",
-      "start_time": null,
-      "start_time_raw": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "location": "Urban Family Brewing",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
       "timezone": "PT",
-      "vendor": "Kaosamai Thai"
+      "vendor": "Tacos & Beer"
     },
     {
       "date": "2025-10-25T00:00:00",
@@ -264,17 +275,6 @@
       "start_time_raw": null,
       "timezone": "PT",
       "vendor": "Tisket Tasket"
-    },
-    {
-      "date": "2025-10-23T00:00:00",
-      "description": "Original event: Dinner: Pizza Paseano",
-      "end_time": null,
-      "end_time_raw": null,
-      "location": "Chuck's Hop Shop Greenwood",
-      "start_time": null,
-      "start_time_raw": null,
-      "timezone": "PT",
-      "vendor": "Pizza Paseano"
     },
     {
       "date": "2025-10-24T00:00:00",
@@ -376,6 +376,17 @@
       "vendor": "Pizza Paseano"
     },
     {
+      "date": "2025-10-31T00:00:00",
+      "description": "Original event: Dinner: T'Juana",
+      "end_time": null,
+      "end_time_raw": null,
+      "location": "Chuck's Hop Shop Greenwood",
+      "start_time": null,
+      "start_time_raw": null,
+      "timezone": "PT",
+      "vendor": "T'Juana"
+    },
+    {
       "date": "2025-10-24T17:00:00",
       "description": "Cuisine: Chicken, Sandwiches, Southern",
       "end_time": "9:00 PM PT",
@@ -451,11 +462,22 @@
       "start_time_raw": "5:00 PM",
       "timezone": "PT",
       "vendor": "Thai-U-Up"
+    },
+    {
+      "date": "2025-10-31T17:00:00",
+      "description": "Cuisine: Chicken, Sandwiches, Southern",
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "location": "Saleh's Corner",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "timezone": "PT",
+      "vendor": "Impeckable Chicken"
     }
   ],
-  "haiku": "\ud83c\udf42 October's chill lifts\u2014\nPepe's birria steams at night,\nUrban hops flow warm \ud83c\udf7a",
+  "haiku": "\ud83c\udf42 October mist swirls\u2014\nOff the Rez feeds hungry souls\nat Stoup's golden taps \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 41,
-  "updated": "2025-10-24T07:15:18.984950+00:00"
+  "total_events": 43,
+  "updated": "2025-10-24T08:15:28.042545+00:00"
 }
