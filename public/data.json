@@ -2,17 +2,6 @@
   "errors": [],
   "events": [
     {
-      "date": "2025-10-24T00:00:00",
-      "description": null,
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
-      "location": "Stoup Brewing - Ballard",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
-      "timezone": "PT",
-      "vendor": "Off the Rez"
-    },
-    {
       "date": "2025-10-25T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
@@ -165,17 +154,6 @@
       "start_time_raw": "3:30 PM",
       "timezone": "PT",
       "vendor": "Kaosamai Thai"
-    },
-    {
-      "date": "2025-10-24T00:00:00",
-      "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "location": "Urban Family Brewing",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
-      "timezone": "PT",
-      "vendor": "Birrieria Pepe El Toro LLC"
     },
     {
       "date": "2025-10-25T00:00:00",
@@ -387,17 +365,6 @@
       "vendor": "T'Juana"
     },
     {
-      "date": "2025-10-24T17:00:00",
-      "description": "Cuisine: Chicken, Sandwiches, Southern",
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
-      "location": "Saleh's Corner",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
-      "timezone": "PT",
-      "vendor": "Impeckable Chicken"
-    },
-    {
       "date": "2025-10-25T17:00:00",
       "description": "Cuisine: Asian, Noodles, Thai",
       "end_time": "9:00 PM PT",
@@ -475,9 +442,9 @@
       "vendor": "Impeckable Chicken"
     }
   ],
-  "haiku": "\ud83c\udf42 October chill lifts\u2014\nT'Juana's warmth meets hop dreams\nat Chuck's Greenwood door \ud83c\udf7a",
+  "haiku": "\ud83e\udd5f Steam rises from momos\u2014\nUrban Family's warm glow\nthrough October mist \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 43,
-  "updated": "2025-10-25T06:15:18.349346+00:00"
+  "total_events": 40,
+  "updated": "2025-10-25T07:15:19.085075+00:00"
 }
