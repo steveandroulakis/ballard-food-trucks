@@ -79,15 +79,15 @@
       "vendor": "Georgia's Greek"
     },
     {
-      "date": "2025-10-24T16:00:00.060000",
+      "date": "2025-11-01T00:00:00",
       "description": null,
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
-      "location": "Yonder Cider & Bale Breaker - Ballard",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "location": "Stoup Brewing - Ballard",
+      "start_time": "1:00 PM PT",
+      "start_time_raw": "1:00 PM",
       "timezone": "PT",
-      "vendor": "Wood Shop BBQ"
+      "vendor": "Tat's Truck"
     },
     {
       "date": "2025-10-25T13:00:00.504000",
@@ -154,6 +154,17 @@
       "start_time_raw": "3:30 PM",
       "timezone": "PT",
       "vendor": "Kaosamai Thai"
+    },
+    {
+      "date": "2025-11-01T13:00:00.170000",
+      "description": null,
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "location": "Yonder Cider & Bale Breaker - Ballard",
+      "start_time": "1:00 PM PT",
+      "start_time_raw": "1:00 PM",
+      "timezone": "PT",
+      "vendor": "Georgia\u2019s Greek"
     },
     {
       "date": "2025-10-25T00:00:00",
@@ -233,6 +244,17 @@
       "vendor": "Tacos & Beer"
     },
     {
+      "date": "2025-11-01T00:00:00",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "location": "Urban Family Brewing",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "timezone": "PT",
+      "vendor": "Oskar's Pizza"
+    },
+    {
       "date": "2025-10-25T00:00:00",
       "description": null,
       "end_time": null,
@@ -255,15 +277,15 @@
       "vendor": "Tisket Tasket"
     },
     {
-      "date": "2025-10-24T00:00:00",
-      "description": "Original event: Dinner: T'Juana",
+      "date": "2025-11-01T00:00:00",
+      "description": null,
       "end_time": null,
       "end_time_raw": null,
-      "location": "Chuck's Hop Shop Greenwood",
+      "location": "Wheelie Pop Brewing",
       "start_time": null,
       "start_time_raw": null,
       "timezone": "PT",
-      "vendor": "T'Juana"
+      "vendor": "Heart in Seoul"
     },
     {
       "date": "2025-10-25T00:00:00",
@@ -365,6 +387,17 @@
       "vendor": "T'Juana"
     },
     {
+      "date": "2025-11-01T00:00:00",
+      "description": "Original event: Dinner: Sabor Boricua",
+      "end_time": null,
+      "end_time_raw": null,
+      "location": "Chuck's Hop Shop Greenwood",
+      "start_time": null,
+      "start_time_raw": null,
+      "timezone": "PT",
+      "vendor": "Sabor Boricua"
+    },
+    {
       "date": "2025-10-25T17:00:00",
       "description": "Cuisine: Asian, Noodles, Thai",
       "end_time": "9:00 PM PT",
@@ -440,11 +473,22 @@
       "start_time_raw": "5:00 PM",
       "timezone": "PT",
       "vendor": "Impeckable Chicken"
+    },
+    {
+      "date": "2025-11-01T17:00:00",
+      "description": "Cuisine: Asian, Noodles, Thai",
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "location": "Saleh's Corner",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "timezone": "PT",
+      "vendor": "Thai-U-Up"
     }
   ],
-  "haiku": "\ud83e\udd5f Steam rises from momos\u2014\nUrban Family's warm glow\nthrough October mist \ud83c\udf7a",
+  "haiku": "\ud83c\udf42 October chill sets\u2014\nMaroom Thaim's spice warms the night\nat Saleh's Corner \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 40,
-  "updated": "2025-10-25T07:15:19.085075+00:00"
+  "total_events": 44,
+  "updated": "2025-10-25T08:15:22.501999+00:00"
 }
