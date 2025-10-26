@@ -79,15 +79,15 @@
       "vendor": "Tat's Truck"
     },
     {
-      "date": "2025-10-25T13:00:00.504000",
+      "date": "2025-11-02T00:00:00",
       "description": null,
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
-      "location": "Yonder Cider & Bale Breaker - Ballard",
+      "end_time": "7:00 PM PT",
+      "end_time_raw": "7:00 PM",
+      "location": "Stoup Brewing - Ballard",
       "start_time": "1:00 PM PT",
       "start_time_raw": "1:00 PM",
       "timezone": "PT",
-      "vendor": "Wich Came First"
+      "vendor": "Johnson BBQ Provisions"
     },
     {
       "date": "2025-10-26T13:00:00.892000",
@@ -154,6 +154,17 @@
       "start_time_raw": "1:00 PM",
       "timezone": "PT",
       "vendor": "Georgia\u2019s Greek"
+    },
+    {
+      "date": "2025-11-02T13:00:00.015000",
+      "description": null,
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "location": "Yonder Cider & Bale Breaker - Ballard",
+      "start_time": "1:00 PM PT",
+      "start_time_raw": "1:00 PM",
+      "timezone": "PT",
+      "vendor": "Tacos &amp; Beer"
     },
     {
       "date": "2025-10-26T00:00:00",
@@ -233,15 +244,26 @@
       "vendor": "Oskar's Pizza"
     },
     {
-      "date": "2025-10-25T00:00:00",
+      "date": "2025-11-02T00:00:00",
       "description": null,
-      "end_time": null,
-      "end_time_raw": null,
-      "location": "Wheelie Pop Brewing",
-      "start_time": null,
-      "start_time_raw": null,
+      "end_time": "12:00 PM PT",
+      "end_time_raw": "12:00 PM",
+      "location": "Urban Family Brewing",
+      "start_time": "8:00 AM PT",
+      "start_time_raw": "8:00 AM",
       "timezone": "PT",
-      "vendor": "Vandalz Taqueria"
+      "vendor": "TBD"
+    },
+    {
+      "date": "2025-11-02T00:00:00",
+      "description": null,
+      "end_time": "7:00 PM PT",
+      "end_time_raw": "7:00 PM",
+      "location": "Urban Family Brewing",
+      "start_time": "1:00 PM PT",
+      "start_time_raw": "1:00 PM",
+      "timezone": "PT",
+      "vendor": "Burger Planet"
     },
     {
       "date": "2025-10-30T00:00:00",
@@ -264,28 +286,6 @@
       "start_time_raw": null,
       "timezone": "PT",
       "vendor": "Heart in Seoul"
-    },
-    {
-      "date": "2025-10-25T00:00:00",
-      "description": "Original event: Brunch: Cocina Barelas",
-      "end_time": null,
-      "end_time_raw": null,
-      "location": "Chuck's Hop Shop Greenwood",
-      "start_time": null,
-      "start_time_raw": null,
-      "timezone": "PT",
-      "vendor": "Cocina Barelas"
-    },
-    {
-      "date": "2025-10-25T00:00:00",
-      "description": "Original event: Tat's Deli",
-      "end_time": null,
-      "end_time_raw": null,
-      "location": "Chuck's Hop Shop Greenwood",
-      "start_time": null,
-      "start_time_raw": null,
-      "timezone": "PT",
-      "vendor": "Tat's Deli"
     },
     {
       "date": "2025-10-26T00:00:00",
@@ -376,6 +376,28 @@
       "vendor": "Sabor Boricua"
     },
     {
+      "date": "2025-11-02T00:00:00",
+      "description": "Original event: Brunch: Cocina Barelas",
+      "end_time": null,
+      "end_time_raw": null,
+      "location": "Chuck's Hop Shop Greenwood",
+      "start_time": null,
+      "start_time_raw": null,
+      "timezone": "PT",
+      "vendor": "Cocina Barelas"
+    },
+    {
+      "date": "2025-11-02T00:00:00",
+      "description": "Original event: Momo Express",
+      "end_time": null,
+      "end_time_raw": null,
+      "location": "Chuck's Hop Shop Greenwood",
+      "start_time": null,
+      "start_time_raw": null,
+      "timezone": "PT",
+      "vendor": "Momo Express"
+    },
+    {
       "date": "2025-10-26T17:00:00",
       "description": "Cuisine: Asian, Thai, Vegetarian",
       "end_time": "9:00 PM PT",
@@ -451,11 +473,22 @@
       "start_time_raw": "5:00 PM",
       "timezone": "PT",
       "vendor": "Thai-U-Up"
+    },
+    {
+      "date": "2025-11-02T17:00:00",
+      "description": "Cuisine: Asian, Vegan, Vegetarian",
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "location": "Saleh's Corner",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "timezone": "PT",
+      "vendor": "Kathmandu MoMoCha"
     }
   ],
-  "haiku": "\ud83c\udf42 October rain falls\u2014\nGeorgia's Greek warms Chuck's Hop Shop,\nFeta meets fresh hops \ud83c\udf7a",
+  "haiku": "\ud83c\udf83 Orange curry steams\u2014\nPumpkin Thai's spice warms the crowd\nat Saleh's bright door \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 41,
-  "updated": "2025-10-26T07:15:23.656163+00:00"
+  "total_events": 44,
+  "updated": "2025-10-26T08:15:18.767056+00:00"
 }
