@@ -2,17 +2,6 @@
   "errors": [],
   "events": [
     {
-      "date": "2025-10-25T00:00:00",
-      "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "location": "Stoup Brewing - Ballard",
-      "start_time": "1:00 PM PT",
-      "start_time_raw": "1:00 PM",
-      "timezone": "PT",
-      "vendor": "Woodshop BBQ"
-    },
-    {
       "date": "2025-10-26T00:00:00",
       "description": null,
       "end_time": "7:00 PM PT",
@@ -165,17 +154,6 @@
       "start_time_raw": "1:00 PM",
       "timezone": "PT",
       "vendor": "Georgia\u2019s Greek"
-    },
-    {
-      "date": "2025-10-25T00:00:00",
-      "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "location": "Urban Family Brewing",
-      "start_time": "1:00 PM PT",
-      "start_time_raw": "1:00 PM",
-      "timezone": "PT",
-      "vendor": "MomoExpress"
     },
     {
       "date": "2025-10-26T00:00:00",
@@ -398,17 +376,6 @@
       "vendor": "Sabor Boricua"
     },
     {
-      "date": "2025-10-25T17:00:00",
-      "description": "Cuisine: Asian, Noodles, Thai",
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
-      "location": "Saleh's Corner",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
-      "timezone": "PT",
-      "vendor": "Maroom Thaim"
-    },
-    {
       "date": "2025-10-26T17:00:00",
       "description": "Cuisine: Asian, Thai, Vegetarian",
       "end_time": "9:00 PM PT",
@@ -486,9 +453,9 @@
       "vendor": "Thai-U-Up"
     }
   ],
-  "haiku": "\ud83c\udf42 October chill lifts\u2014\nMaroom Thaim's spices steam warm\nat Saleh's bright tap \ud83c\udf7a",
+  "haiku": "\ud83c\udf42 October rain falls\u2014\nGeorgia's Greek warms Chuck's Hop Shop,\nFeta meets fresh hops \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 44,
-  "updated": "2025-10-26T06:15:19.248996+00:00"
+  "total_events": 41,
+  "updated": "2025-10-26T07:15:23.656163+00:00"
 }
