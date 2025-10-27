@@ -160,6 +160,17 @@
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
+      "location": "Obec Brewing",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "timezone": "PT",
+      "vendor": "Plaza Garcia"
+    },
+    {
+      "date": "2025-10-27T00:00:00",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
       "location": "Urban Family Brewing",
       "start_time": "4:00 PM PT",
       "start_time_raw": "4:00 PM",
@@ -453,9 +464,9 @@
       "vendor": "MOMO Express"
     }
   ],
-  "haiku": "\ud83c\udf42 October chill lifts\u2014\nWhere Ya At Matt warms Stoup's yard,\nbrew steam meets fall air \ud83c\udf7a",
+  "haiku": "\ud83c\udf42 October chill lifts\u2014\nPlaza Garcia's steam meets\nObec's amber warmth \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 41,
-  "updated": "2025-10-27T22:15:19.487994+00:00"
+  "total_events": 42,
+  "updated": "2025-10-27T23:15:18.774174+00:00"
 }
