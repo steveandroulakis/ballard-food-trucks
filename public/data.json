@@ -2,17 +2,6 @@
   "errors": [],
   "events": [
     {
-      "date": "2025-10-28T00:00:00",
-      "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "location": "Stoup Brewing - Ballard",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
-      "timezone": "PT",
-      "vendor": "Poke Me"
-    },
-    {
       "date": "2025-10-29T00:00:00",
       "description": null,
       "end_time": "8:30 PM PT",
@@ -167,7 +156,7 @@
       "vendor": "Tummy Yummy Thai"
     },
     {
-      "date": "2025-10-28T00:00:00",
+      "date": "2025-10-29T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -176,17 +165,6 @@
       "start_time_raw": "4:00 PM",
       "timezone": "PT",
       "vendor": "Maroom Thai"
-    },
-    {
-      "date": "2025-10-28T00:00:00",
-      "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "location": "Urban Family Brewing",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
-      "timezone": "PT",
-      "vendor": "Georgia's Greek"
     },
     {
       "date": "2025-10-29T00:00:00",
@@ -387,17 +365,6 @@
       "vendor": "Woodshop BBQ"
     },
     {
-      "date": "2025-10-28T17:00:00",
-      "description": "Cuisine: Burritos, Mexican, Tacos",
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
-      "location": "Saleh's Corner",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
-      "timezone": "PT",
-      "vendor": "Plaza Garcia Express"
-    },
-    {
       "date": "2025-10-29T17:00:00",
       "description": "Cuisine: Asian, Thai, Vegetarian",
       "end_time": "9:00 PM PT",
@@ -478,6 +445,6 @@
   "haiku": null,
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 43,
-  "updated": "2025-10-29T06:15:18.176504+00:00"
+  "total_events": 40,
+  "updated": "2025-10-29T07:15:18.277350+00:00"
 }
