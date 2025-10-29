@@ -134,6 +134,17 @@
       "vendor": "Georgia\u2019s Greek"
     },
     {
+      "date": "2025-11-01T14:00:00.504000",
+      "description": null,
+      "end_time": "7:00 PM PT",
+      "end_time_raw": "7:00 PM",
+      "location": "Yonder Cider & Bale Breaker - Ballard",
+      "start_time": "2:00 PM PT",
+      "start_time_raw": "2:00 PM",
+      "timezone": "PT",
+      "vendor": "Salish Sea Greens Oyster Pop-Up"
+    },
+    {
       "date": "2025-11-02T13:00:00.015000",
       "description": null,
       "end_time": "9:00 PM PT",
@@ -478,6 +489,6 @@
   "haiku": null,
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 43,
-  "updated": "2025-10-29T21:15:18.309600+00:00"
+  "total_events": 44,
+  "updated": "2025-10-29T22:15:18.412574+00:00"
 }
