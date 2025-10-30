@@ -2,17 +2,6 @@
   "errors": [],
   "events": [
     {
-      "date": "2025-10-29T00:00:00",
-      "description": null,
-      "end_time": "8:30 PM PT",
-      "end_time_raw": "8:30 PM",
-      "location": "Stoup Brewing - Ballard",
-      "start_time": "4:30 PM PT",
-      "start_time_raw": "4:30 PM",
-      "timezone": "PT",
-      "vendor": "Kaosamai Thai"
-    },
-    {
       "date": "2025-10-30T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
@@ -123,7 +112,7 @@
       "vendor": "Kaosamai Thai"
     },
     {
-      "date": "2025-10-29T00:00:00",
+      "date": "2025-10-30T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -132,17 +121,6 @@
       "start_time_raw": "4:00 PM",
       "timezone": "PT",
       "vendor": "Cocina Barelas (New Mexican Cuisine)"
-    },
-    {
-      "date": "2025-10-29T00:00:00",
-      "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "location": "Urban Family Brewing",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
-      "timezone": "PT",
-      "vendor": "Impeckable Chicken"
     },
     {
       "date": "2025-10-31T00:00:00",
@@ -343,17 +321,6 @@
       "vendor": "Oskar's Pizza"
     },
     {
-      "date": "2025-10-29T17:00:00",
-      "description": "Cuisine: Asian, Thai, Vegetarian",
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
-      "location": "Saleh's Corner",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
-      "timezone": "PT",
-      "vendor": "Pumpkin Thai"
-    },
-    {
       "date": "2025-10-30T17:00:00",
       "description": "Cuisine: Asian, Noodles, Thai",
       "end_time": "9:00 PM PT",
@@ -434,6 +401,6 @@
   "haiku": null,
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 39,
-  "updated": "2025-10-30T06:15:18.090890+00:00"
+  "total_events": 36,
+  "updated": "2025-10-30T07:15:18.248469+00:00"
 }
