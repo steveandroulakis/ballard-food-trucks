@@ -123,61 +123,6 @@
       "vendor": "Kaosamai Thai"
     },
     {
-      "date": "2025-11-01T13:00:00.170000",
-      "description": null,
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
-      "location": "Yonder Cider & Bale Breaker - Ballard",
-      "start_time": "1:00 PM PT",
-      "start_time_raw": "1:00 PM",
-      "timezone": "PT",
-      "vendor": "Georgia\u2019s Greek"
-    },
-    {
-      "date": "2025-11-01T14:00:00.504000",
-      "description": null,
-      "end_time": "7:00 PM PT",
-      "end_time_raw": "7:00 PM",
-      "location": "Yonder Cider & Bale Breaker - Ballard",
-      "start_time": "2:00 PM PT",
-      "start_time_raw": "2:00 PM",
-      "timezone": "PT",
-      "vendor": "Salish Sea Greens Oyster Pop-Up"
-    },
-    {
-      "date": "2025-11-02T13:00:00.015000",
-      "description": null,
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
-      "location": "Yonder Cider & Bale Breaker - Ballard",
-      "start_time": "1:00 PM PT",
-      "start_time_raw": "1:00 PM",
-      "timezone": "PT",
-      "vendor": "Tacos &amp; Beer"
-    },
-    {
-      "date": "2025-11-04T16:00:00.142000",
-      "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "location": "Yonder Cider & Bale Breaker - Ballard",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
-      "timezone": "PT",
-      "vendor": "Tummy Yummy Thai"
-    },
-    {
-      "date": "2025-11-05T16:00:00.379000",
-      "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "location": "Yonder Cider & Bale Breaker - Ballard",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
-      "timezone": "PT",
-      "vendor": "Georgia\u2019s Greek"
-    },
-    {
       "date": "2025-10-29T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
@@ -489,6 +434,6 @@
   "haiku": null,
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 44,
-  "updated": "2025-10-29T23:15:18.251494+00:00"
+  "total_events": 39,
+  "updated": "2025-10-30T00:15:27.733692+00:00"
 }
