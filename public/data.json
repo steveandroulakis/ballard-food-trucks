@@ -2,17 +2,6 @@
   "errors": [],
   "events": [
     {
-      "date": "2025-10-30T00:00:00",
-      "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "location": "Stoup Brewing - Ballard",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
-      "timezone": "PT",
-      "vendor": "Birrieria Pepe El Toro"
-    },
-    {
       "date": "2025-10-31T00:00:00",
       "description": null,
       "end_time": "9:00 PM PT",
@@ -112,15 +101,15 @@
       "vendor": "Kaosamai Thai"
     },
     {
-      "date": "2025-10-30T00:00:00",
+      "date": "2025-10-31T00:00:00",
       "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
       "location": "Obec Brewing",
       "start_time": "4:00 PM PT",
       "start_time_raw": "4:00 PM",
       "timezone": "PT",
-      "vendor": "Impeckable Chicken"
+      "vendor": "Cocina Barelas (New Mexican Cuisine)"
     },
     {
       "date": "2025-10-31T00:00:00",
@@ -343,17 +332,6 @@
       "vendor": "Impeckable Chicken"
     },
     {
-      "date": "2025-10-30T17:00:00",
-      "description": "Cuisine: Asian, Noodles, Thai",
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
-      "location": "Saleh's Corner",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
-      "timezone": "PT",
-      "vendor": "Thai-U-Up"
-    },
-    {
       "date": "2025-10-31T17:00:00",
       "description": "Cuisine: Chicken, Sandwiches, Southern",
       "end_time": "9:00 PM PT",
@@ -434,6 +412,6 @@
   "haiku": null,
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 39,
-  "updated": "2025-10-31T06:15:18.546610+00:00"
+  "total_events": 37,
+  "updated": "2025-10-31T07:15:18.464675+00:00"
 }
