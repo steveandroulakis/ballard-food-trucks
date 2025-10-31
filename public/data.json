@@ -79,15 +79,15 @@
       "vendor": "La Costenita"
     },
     {
-      "date": "2025-10-30T16:00:00.288000",
+      "date": "2025-11-07T00:00:00",
       "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "location": "Yonder Cider & Bale Breaker - Ballard",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "location": "Stoup Brewing - Ballard",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
       "timezone": "PT",
-      "vendor": "Impeckable Chicken"
+      "vendor": "Off the Rez"
     },
     {
       "date": "2025-10-31T15:30:00.167000",
@@ -200,15 +200,15 @@
       "vendor": "Alebrije"
     },
     {
-      "date": "2025-10-30T00:00:00",
+      "date": "2025-11-07T00:00:00",
       "description": null,
-      "end_time": null,
-      "end_time_raw": null,
-      "location": "Wheelie Pop Brewing",
-      "start_time": null,
-      "start_time_raw": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "location": "Urban Family Brewing",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
       "timezone": "PT",
-      "vendor": "Tisket Tasket"
+      "vendor": "Birrieria Pepe El Toro LLC"
     },
     {
       "date": "2025-11-01T00:00:00",
@@ -231,17 +231,6 @@
       "start_time_raw": null,
       "timezone": "PT",
       "vendor": "Kaosamai Thai"
-    },
-    {
-      "date": "2025-10-30T00:00:00",
-      "description": "Original event: Dinner: Pizza Paseano",
-      "end_time": null,
-      "end_time_raw": null,
-      "location": "Chuck's Hop Shop Greenwood",
-      "start_time": null,
-      "start_time_raw": null,
-      "timezone": "PT",
-      "vendor": "Pizza Paseano"
     },
     {
       "date": "2025-10-31T00:00:00",
@@ -332,6 +321,17 @@
       "vendor": "Impeckable Chicken"
     },
     {
+      "date": "2025-11-07T00:00:00",
+      "description": "Original event: Dinner: Where ya at Matt",
+      "end_time": null,
+      "end_time_raw": null,
+      "location": "Chuck's Hop Shop Greenwood",
+      "start_time": null,
+      "start_time_raw": null,
+      "timezone": "PT",
+      "vendor": "Where ya at Matt"
+    },
+    {
       "date": "2025-10-31T17:00:00",
       "description": "Cuisine: Chicken, Sandwiches, Southern",
       "end_time": "9:00 PM PT",
@@ -407,11 +407,22 @@
       "start_time_raw": "5:00 PM",
       "timezone": "PT",
       "vendor": "Pumpkin Thai"
+    },
+    {
+      "date": "2025-11-07T17:00:00",
+      "description": "Cuisine: Chicken, Sandwiches, Southern",
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "location": "Saleh's Corner",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "timezone": "PT",
+      "vendor": "Impeckable Chicken"
     }
   ],
   "haiku": null,
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 37,
-  "updated": "2025-10-31T07:15:18.464675+00:00"
+  "total_events": 38,
+  "updated": "2025-10-31T08:15:18.767447+00:00"
 }
