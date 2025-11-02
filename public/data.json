@@ -79,26 +79,15 @@
       "vendor": "Woodshop BBQ"
     },
     {
-      "date": "2025-11-01T13:00:00.170000",
-      "description": null,
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
-      "location": "Yonder Cider & Bale Breaker - Ballard",
-      "start_time": "1:00 PM PT",
-      "start_time_raw": "1:00 PM",
-      "timezone": "PT",
-      "vendor": "Georgia\u2019s Greek"
-    },
-    {
-      "date": "2025-11-01T14:00:00.504000",
+      "date": "2025-11-09T00:00:00",
       "description": null,
       "end_time": "7:00 PM PT",
       "end_time_raw": "7:00 PM",
-      "location": "Yonder Cider & Bale Breaker - Ballard",
-      "start_time": "2:00 PM PT",
-      "start_time_raw": "2:00 PM",
+      "location": "Stoup Brewing - Ballard",
+      "start_time": "1:00 PM PT",
+      "start_time_raw": "1:00 PM",
       "timezone": "PT",
-      "vendor": "Salish Sea Greens Oyster Pop-Up"
+      "vendor": "El Pirata Tortas Y Burritos / Now Make Me A Sandwich"
     },
     {
       "date": "2025-11-02T13:00:00.015000",
@@ -165,6 +154,17 @@
       "start_time_raw": "1:00 PM",
       "timezone": "PT",
       "vendor": "Wich Came First"
+    },
+    {
+      "date": "2025-11-09T13:00:00.891000",
+      "description": null,
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "location": "Yonder Cider & Bale Breaker - Ballard",
+      "start_time": "1:00 PM PT",
+      "start_time_raw": "1:00 PM",
+      "timezone": "PT",
+      "vendor": "Tacos &amp; Beer"
     },
     {
       "date": "2025-11-02T00:00:00",
@@ -266,15 +266,26 @@
       "vendor": "MomoExpress"
     },
     {
-      "date": "2025-11-01T00:00:00",
+      "date": "2025-11-09T00:00:00",
       "description": null,
-      "end_time": null,
-      "end_time_raw": null,
-      "location": "Wheelie Pop Brewing",
-      "start_time": null,
-      "start_time_raw": null,
+      "end_time": "12:00 PM PT",
+      "end_time_raw": "12:00 PM",
+      "location": "Urban Family Brewing",
+      "start_time": "8:00 AM PT",
+      "start_time_raw": "8:00 AM",
       "timezone": "PT",
-      "vendor": "Heart in Seoul"
+      "vendor": "TBD"
+    },
+    {
+      "date": "2025-11-09T00:00:00",
+      "description": null,
+      "end_time": "7:00 PM PT",
+      "end_time_raw": "7:00 PM",
+      "location": "Urban Family Brewing",
+      "start_time": "1:00 PM PT",
+      "start_time_raw": "1:00 PM",
+      "timezone": "PT",
+      "vendor": "Kaosamai Thai Restaurant"
     },
     {
       "date": "2025-11-06T00:00:00",
@@ -297,17 +308,6 @@
       "start_time_raw": null,
       "timezone": "PT",
       "vendor": "Heart in Seoul"
-    },
-    {
-      "date": "2025-11-01T00:00:00",
-      "description": "Original event: Dinner: Sabor Boricua",
-      "end_time": null,
-      "end_time_raw": null,
-      "location": "Chuck's Hop Shop Greenwood",
-      "start_time": null,
-      "start_time_raw": null,
-      "timezone": "PT",
-      "vendor": "Sabor Boricua"
     },
     {
       "date": "2025-11-02T00:00:00",
@@ -398,6 +398,28 @@
       "vendor": "Tat's Deli"
     },
     {
+      "date": "2025-11-09T00:00:00",
+      "description": "Original event: Brunch: Good Morning Tacos",
+      "end_time": null,
+      "end_time_raw": null,
+      "location": "Chuck's Hop Shop Greenwood",
+      "start_time": null,
+      "start_time_raw": null,
+      "timezone": "PT",
+      "vendor": "Good Morning Tacos"
+    },
+    {
+      "date": "2025-11-09T00:00:00",
+      "description": "Original event: Dinner: Georgia's Greek",
+      "end_time": null,
+      "end_time_raw": null,
+      "location": "Chuck's Hop Shop Greenwood",
+      "start_time": null,
+      "start_time_raw": null,
+      "timezone": "PT",
+      "vendor": "Georgia's Greek"
+    },
+    {
       "date": "2025-11-02T17:00:00",
       "description": "Cuisine: Asian, Vegan, Vegetarian",
       "end_time": "9:00 PM PT",
@@ -473,11 +495,22 @@
       "start_time_raw": "5:00 PM",
       "timezone": "PT",
       "vendor": "Thai-U-Up"
+    },
+    {
+      "date": "2025-11-09T17:00:00",
+      "description": "Cuisine: Asian, Thai, Vegetarian",
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "location": "Saleh's Corner",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "timezone": "PT",
+      "vendor": "Pumpkin Thai"
     }
   ],
-  "haiku": "\ud83c\udf42 November's chill bites\u2014\nTBD warms Urban Family,\nCraft beer, street food glow \ud83c\udf7a",
+  "haiku": "\ud83c\udf43 November chill bites\u2014\nKaosamai's steam rises warm\nat Obec's bright hearth \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 43,
-  "updated": "2025-11-02T07:15:19.735009+00:00"
+  "total_events": 46,
+  "updated": "2025-11-02T08:15:18.632648+00:00"
 }
