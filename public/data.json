@@ -2,17 +2,6 @@
   "errors": [],
   "events": [
     {
-      "date": "2025-11-01T00:00:00",
-      "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "location": "Stoup Brewing - Ballard",
-      "start_time": "1:00 PM PT",
-      "start_time_raw": "1:00 PM",
-      "timezone": "PT",
-      "vendor": "Tat's Truck"
-    },
-    {
       "date": "2025-11-02T00:00:00",
       "description": null,
       "end_time": "7:00 PM PT",
@@ -178,7 +167,7 @@
       "vendor": "Wich Came First"
     },
     {
-      "date": "2025-11-01T00:00:00",
+      "date": "2025-11-02T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -187,17 +176,6 @@
       "start_time_raw": "4:00 PM",
       "timezone": "PT",
       "vendor": "Kaosamai Thai"
-    },
-    {
-      "date": "2025-11-01T00:00:00",
-      "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "location": "Urban Family Brewing",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
-      "timezone": "PT",
-      "vendor": "Oskar's Pizza"
     },
     {
       "date": "2025-11-02T00:00:00",
@@ -420,17 +398,6 @@
       "vendor": "Tat's Deli"
     },
     {
-      "date": "2025-11-01T17:00:00",
-      "description": "Cuisine: Asian, Noodles, Thai",
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
-      "location": "Saleh's Corner",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
-      "timezone": "PT",
-      "vendor": "Thai-U-Up"
-    },
-    {
       "date": "2025-11-02T17:00:00",
       "description": "Cuisine: Asian, Vegan, Vegetarian",
       "end_time": "9:00 PM PT",
@@ -508,9 +475,9 @@
       "vendor": "Thai-U-Up"
     }
   ],
-  "haiku": "\ud83c\udf43 November chill bites\u2014\nSabor Boricua's warm spice\nat Chuck's Hop Shop heat \ud83c\udf7a",
+  "haiku": "\ud83c\udf42 November's chill bites\u2014\nTBD warms Urban Family,\nCraft beer, street food glow \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 46,
-  "updated": "2025-11-02T06:15:28.422754+00:00"
+  "total_events": 43,
+  "updated": "2025-11-02T07:15:19.735009+00:00"
 }
