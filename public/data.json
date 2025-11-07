@@ -21,7 +21,7 @@
       "start_time": "1:00 PM PT",
       "start_time_raw": "1:00 PM",
       "timezone": "PT",
-      "vendor": "Woodshop BBQ"
+      "vendor": "Johnson BBQ Provisions"
     },
     {
       "date": "2025-11-09T00:00:00",
@@ -475,9 +475,9 @@
       "vendor": "Impeckable Chicken"
     }
   ],
-  "haiku": "\ud83c\udf57 November chill bites\u2014\nImpeckable warmth gathers\nat Saleh's bright hearth \ud83c\udf7a",
+  "haiku": "\ud83c\udf27\ufe0f November rain falls\u2014\nPepe's birria steams at\nUrban Family's warmth \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
   "total_events": 43,
-  "updated": "2025-11-07T22:15:19.008073+00:00"
+  "updated": "2025-11-07T23:15:23.200275+00:00"
 }
