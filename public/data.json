@@ -2,7 +2,7 @@
   "errors": [],
   "events": [
     {
-      "date": "2025-11-06T00:00:00",
+      "date": "2025-11-07T00:00:00",
       "description": null,
       "end_time": "9:00 PM PT",
       "end_time_raw": "9:00 PM",
@@ -13,7 +13,7 @@
       "vendor": "Off the Rez"
     },
     {
-      "date": "2025-11-07T00:00:00",
+      "date": "2025-11-08T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -24,7 +24,7 @@
       "vendor": "Woodshop BBQ"
     },
     {
-      "date": "2025-11-08T00:00:00",
+      "date": "2025-11-09T00:00:00",
       "description": null,
       "end_time": "7:00 PM PT",
       "end_time_raw": "7:00 PM",
@@ -35,7 +35,7 @@
       "vendor": "El Pirata Tortas Y Burritos / Now Make Me A Sandwich"
     },
     {
-      "date": "2025-11-09T00:00:00",
+      "date": "2025-11-10T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -46,7 +46,7 @@
       "vendor": "Where Ya At Matt"
     },
     {
-      "date": "2025-11-10T00:00:00",
+      "date": "2025-11-11T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -57,7 +57,7 @@
       "vendor": "Poke Me"
     },
     {
-      "date": "2025-11-11T00:00:00",
+      "date": "2025-11-12T00:00:00",
       "description": null,
       "end_time": "8:30 PM PT",
       "end_time_raw": "8:30 PM",
@@ -68,7 +68,7 @@
       "vendor": "Kaosamai Thai"
     },
     {
-      "date": "2025-11-12T00:00:00",
+      "date": "2025-11-13T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -79,7 +79,7 @@
       "vendor": "Birrieria Pepe El Toro"
     },
     {
-      "date": "2025-11-13T00:00:00",
+      "date": "2025-11-14T00:00:00",
       "description": null,
       "end_time": "9:00 PM PT",
       "end_time_raw": "9:00 PM",
@@ -88,17 +88,6 @@
       "start_time_raw": "5:00 PM",
       "timezone": "PT",
       "vendor": "Georgia's Greek"
-    },
-    {
-      "date": "2025-11-06T16:00:00.098000",
-      "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "location": "Yonder Cider & Bale Breaker - Ballard",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
-      "timezone": "PT",
-      "vendor": "Impeckable Chicken"
     },
     {
       "date": "2025-11-07T16:00:00.505000",
@@ -167,7 +156,18 @@
       "vendor": "Impeckable Chicken"
     },
     {
-      "date": "2025-11-06T00:00:00",
+      "date": "2025-11-14T16:00:00.748000",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "location": "Yonder Cider & Bale Breaker - Ballard",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "timezone": "PT",
+      "vendor": "Paparepas"
+    },
+    {
+      "date": "2025-11-07T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -175,18 +175,7 @@
       "start_time": "4:00 PM PT",
       "start_time_raw": "4:00 PM",
       "timezone": "PT",
-      "vendor": "Impeckable Chicken"
-    },
-    {
-      "date": "2025-11-06T00:00:00",
-      "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "location": "Urban Family Brewing",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
-      "timezone": "PT",
-      "vendor": "Alebrije"
+      "vendor": "Burgerdom"
     },
     {
       "date": "2025-11-07T00:00:00",
@@ -266,15 +255,15 @@
       "vendor": "Impeckable Chicken"
     },
     {
-      "date": "2025-11-06T00:00:00",
+      "date": "2025-11-14T00:00:00",
       "description": null,
-      "end_time": null,
-      "end_time_raw": null,
-      "location": "Wheelie Pop Brewing",
-      "start_time": null,
-      "start_time_raw": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "location": "Urban Family Brewing",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
       "timezone": "PT",
-      "vendor": "Kaosamai Thai"
+      "vendor": "Tacos & Beer"
     },
     {
       "date": "2025-11-08T00:00:00",
@@ -297,17 +286,6 @@
       "start_time_raw": null,
       "timezone": "PT",
       "vendor": "Tisket Tasket"
-    },
-    {
-      "date": "2025-11-06T00:00:00",
-      "description": "Original event: Dinner: Impeckable Chicken",
-      "end_time": null,
-      "end_time_raw": null,
-      "location": "Chuck's Hop Shop Greenwood",
-      "start_time": null,
-      "start_time_raw": null,
-      "timezone": "PT",
-      "vendor": "Impeckable Chicken"
     },
     {
       "date": "2025-11-07T00:00:00",
@@ -398,15 +376,15 @@
       "vendor": "Impeckable Chicken"
     },
     {
-      "date": "2025-11-06T17:00:00",
-      "description": "Cuisine: Asian, Thai, Vegetarian",
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
-      "location": "Saleh's Corner",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
+      "date": "2025-11-14T00:00:00",
+      "description": "Original event: Dinner: Where ya at Matt",
+      "end_time": null,
+      "end_time_raw": null,
+      "location": "Chuck's Hop Shop Greenwood",
+      "start_time": null,
+      "start_time_raw": null,
       "timezone": "PT",
-      "vendor": "Pumpkin Thai"
+      "vendor": "Where ya at Matt"
     },
     {
       "date": "2025-11-07T17:00:00",
@@ -484,11 +462,22 @@
       "start_time_raw": "5:00 PM",
       "timezone": "PT",
       "vendor": "Pumpkin Thai"
+    },
+    {
+      "date": "2025-11-14T17:00:00",
+      "description": "Cuisine: Chicken, Sandwiches, Southern",
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "location": "Saleh's Corner",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "timezone": "PT",
+      "vendor": "Impeckable Chicken"
     }
   ],
-  "haiku": "\ud83c\udf57 November chill lifts\u2014\nImpeckable warmth gathers\nat Chuck's golden hops \ud83c\udf7a",
+  "haiku": "\ud83c\udf27\ufe0f November rain falls\u2014\nBirria steams at Urban's door,\nPepe's warmth calls home \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 44,
-  "updated": "2025-11-07T07:15:18.940091+00:00"
+  "total_events": 43,
+  "updated": "2025-11-07T08:15:20.355629+00:00"
 }
