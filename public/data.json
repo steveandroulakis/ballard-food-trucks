@@ -175,7 +175,7 @@
       "start_time": "4:00 PM PT",
       "start_time_raw": "4:00 PM",
       "timezone": "PT",
-      "vendor": "Kaosamai Thai"
+      "vendor": "Heart in Seoul"
     },
     {
       "date": "2025-11-09T00:00:00",
@@ -497,9 +497,9 @@
       "vendor": "Birrieria Pepe El Toro"
     }
   ],
-  "haiku": "\ud83c\udf27\ufe0f November rain falls\u2014\nTacos warm at Yonder's door,\nBallard hops and friends \ud83c\udf7a",
+  "haiku": "\ud83c\udf42 November chill bites\u2014\nHeart in Seoul steams at Obec,\nkimchi warms the soul \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
   "total_events": 45,
-  "updated": "2025-11-09T09:15:18.417222+00:00"
+  "updated": "2025-11-09T10:15:20.777763+00:00"
 }
