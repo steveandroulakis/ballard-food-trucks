@@ -4,13 +4,13 @@
     {
       "date": "2025-11-09T00:00:00",
       "description": null,
-      "end_time": "7:00 PM PT",
-      "end_time_raw": "7:00 PM",
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
       "location": "Stoup Brewing - Ballard",
-      "start_time": "1:00 PM PT",
-      "start_time_raw": "1:00 PM",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
       "timezone": "PT",
-      "vendor": "El Pirata Tortas Y Burritos / Now Make Me A Sandwich"
+      "vendor": "Where Ya At Matt"
     },
     {
       "date": "2025-11-10T00:00:00",
@@ -21,21 +21,10 @@
       "start_time": "5:00 PM PT",
       "start_time_raw": "5:00 PM",
       "timezone": "PT",
-      "vendor": "Where Ya At Matt"
-    },
-    {
-      "date": "2025-11-11T00:00:00",
-      "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "location": "Stoup Brewing - Ballard",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
-      "timezone": "PT",
       "vendor": "Poke Me"
     },
     {
-      "date": "2025-11-12T00:00:00",
+      "date": "2025-11-11T00:00:00",
       "description": null,
       "end_time": "8:30 PM PT",
       "end_time_raw": "8:30 PM",
@@ -46,7 +35,7 @@
       "vendor": "Kaosamai Thai"
     },
     {
-      "date": "2025-11-13T00:00:00",
+      "date": "2025-11-12T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -57,7 +46,7 @@
       "vendor": "Birrieria Pepe El Toro"
     },
     {
-      "date": "2025-11-14T00:00:00",
+      "date": "2025-11-13T00:00:00",
       "description": null,
       "end_time": "9:00 PM PT",
       "end_time_raw": "9:00 PM",
@@ -68,7 +57,7 @@
       "vendor": "Georgia's Greek"
     },
     {
-      "date": "2025-11-15T00:00:00",
+      "date": "2025-11-14T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -79,7 +68,7 @@
       "vendor": "Tat's Truck"
     },
     {
-      "date": "2025-11-16T00:00:00",
+      "date": "2025-11-15T00:00:00",
       "description": null,
       "end_time": "7:00 PM PT",
       "end_time_raw": "7:00 PM",
@@ -88,6 +77,17 @@
       "start_time_raw": "1:00 PM",
       "timezone": "PT",
       "vendor": "Johnson BBQ Provisions"
+    },
+    {
+      "date": "2025-11-16T00:00:00",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "location": "Stoup Brewing - Ballard",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "timezone": "PT",
+      "vendor": "Russo Pizzarium"
     },
     {
       "date": "2025-11-09T13:00:00.891000",
@@ -497,9 +497,9 @@
       "vendor": "Birrieria Pepe El Toro"
     }
   ],
-  "haiku": "\ud83c\udf42 November's chill bites\u2014\nTBD warms Urban Family,\nBrew steam meets street food \ud83c\udf7a",
+  "haiku": "\ud83c\udf5c November rain falls\u2014\nHeart in Seoul steams at Obec,\nKimchi warms the soul \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
   "total_events": 45,
-  "updated": "2025-11-10T06:15:18.977582+00:00"
+  "updated": "2025-11-10T07:15:19.024580+00:00"
 }
