@@ -1,5 +1,7 @@
 {
-  "errors": [],
+  "errors": [
+    "Failed to fetch information for brewery: Urban Family Brewing"
+  ],
   "events": [
     {
       "date": "2025-11-12T00:00:00",
@@ -176,105 +178,6 @@
       "start_time_raw": "4:00 PM",
       "timezone": "PT",
       "vendor": "Cocina Barelas (New Mexican Cuisine)"
-    },
-    {
-      "date": "2025-11-12T00:00:00",
-      "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "location": "Urban Family Brewing",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
-      "timezone": "PT",
-      "vendor": "Impeckable Chicken"
-    },
-    {
-      "date": "2025-11-13T00:00:00",
-      "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "location": "Urban Family Brewing",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
-      "timezone": "PT",
-      "vendor": "TBD"
-    },
-    {
-      "date": "2025-11-14T00:00:00",
-      "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "location": "Urban Family Brewing",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
-      "timezone": "PT",
-      "vendor": "Tacos & Beer"
-    },
-    {
-      "date": "2025-11-15T00:00:00",
-      "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "location": "Urban Family Brewing",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
-      "timezone": "PT",
-      "vendor": "Oskar's Pizza"
-    },
-    {
-      "date": "2025-11-16T00:00:00",
-      "description": null,
-      "end_time": "12:00 PM PT",
-      "end_time_raw": "12:00 PM",
-      "location": "Urban Family Brewing",
-      "start_time": "8:00 AM PT",
-      "start_time_raw": "8:00 AM",
-      "timezone": "PT",
-      "vendor": "TBD"
-    },
-    {
-      "date": "2025-11-16T00:00:00",
-      "description": null,
-      "end_time": "7:00 PM PT",
-      "end_time_raw": "7:00 PM",
-      "location": "Urban Family Brewing",
-      "start_time": "1:00 PM PT",
-      "start_time_raw": "1:00 PM",
-      "timezone": "PT",
-      "vendor": "Burger Planet"
-    },
-    {
-      "date": "2025-11-17T00:00:00",
-      "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "location": "Urban Family Brewing",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
-      "timezone": "PT",
-      "vendor": "TBD"
-    },
-    {
-      "date": "2025-11-18T00:00:00",
-      "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "location": "Urban Family Brewing",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
-      "timezone": "PT",
-      "vendor": "TBD"
-    },
-    {
-      "date": "2025-11-19T00:00:00",
-      "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "location": "Urban Family Brewing",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
-      "timezone": "PT",
-      "vendor": "Impeckable Chicken"
     },
     {
       "date": "2025-11-13T00:00:00",
@@ -486,9 +389,9 @@
       "vendor": "Theo's Gyros"
     }
   ],
-  "haiku": "\ud83c\udf43 November rain falls\u2014\nGeorgia's Greek meets Ballard hops,\nwarm pita and ale \ud83c\udf7a",
+  "haiku": "\ud83c\udf27\ufe0f November rain falls\u2014\nBarelas spice warms the night\nat Obec's bright hearth \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 44,
-  "updated": "2025-11-12T18:15:19.817815+00:00"
+  "total_events": 35,
+  "updated": "2025-11-12T19:16:08.990655+00:00"
 }
