@@ -4,17 +4,6 @@
     {
       "date": "2025-11-13T00:00:00",
       "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "location": "Stoup Brewing - Ballard",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
-      "timezone": "PT",
-      "vendor": "Birrieria Pepe El Toro"
-    },
-    {
-      "date": "2025-11-14T00:00:00",
-      "description": null,
       "end_time": "9:00 PM PT",
       "end_time_raw": "9:00 PM",
       "location": "Stoup Brewing - Ballard",
@@ -24,7 +13,7 @@
       "vendor": "Georgia's Greek"
     },
     {
-      "date": "2025-11-15T00:00:00",
+      "date": "2025-11-14T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -35,7 +24,7 @@
       "vendor": "Tat's Truck"
     },
     {
-      "date": "2025-11-16T00:00:00",
+      "date": "2025-11-15T00:00:00",
       "description": null,
       "end_time": "7:00 PM PT",
       "end_time_raw": "7:00 PM",
@@ -44,6 +33,17 @@
       "start_time_raw": "1:00 PM",
       "timezone": "PT",
       "vendor": "Johnson BBQ Provisions"
+    },
+    {
+      "date": "2025-11-16T00:00:00",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "location": "Stoup Brewing - Ballard",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "timezone": "PT",
+      "vendor": "Russo Pizzarium"
     },
     {
       "date": "2025-11-17T00:00:00",
@@ -65,7 +65,7 @@
       "start_time": "5:00 PM PT",
       "start_time_raw": "5:00 PM",
       "timezone": "PT",
-      "vendor": "Tacos & Beer"
+      "vendor": "The Marigold Wood Fired Pizza"
     },
     {
       "date": "2025-11-19T00:00:00",
@@ -76,18 +76,18 @@
       "start_time": "5:00 PM PT",
       "start_time_raw": "5:00 PM",
       "timezone": "PT",
-      "vendor": "The Marigold Wood Fired Pizza"
+      "vendor": "La Costenita"
     },
     {
       "date": "2025-11-20T00:00:00",
       "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
       "location": "Stoup Brewing - Ballard",
       "start_time": "5:00 PM PT",
       "start_time_raw": "5:00 PM",
       "timezone": "PT",
-      "vendor": "La Costenita"
+      "vendor": "Off the Rez"
     },
     {
       "date": "2025-11-13T16:00:00.051000",
@@ -497,9 +497,9 @@
       "vendor": "Pumpkin Thai"
     }
   ],
-  "haiku": "\ud83c\udf27\ufe0f November drizzle\u2014\nPepe's birria steams at Stoup,\nBallard souls gather \ud83c\udf7a",
+  "haiku": "\ud83c\udf83 November chill bites\u2014\nPumpkin Thai spices warm hearts\nat Saleh's bright glow \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
   "total_events": 45,
-  "updated": "2025-11-14T06:15:19.120025+00:00"
+  "updated": "2025-11-14T07:15:19.112084+00:00"
 }
