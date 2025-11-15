@@ -2,7 +2,7 @@
   "errors": [],
   "events": [
     {
-      "date": "2025-11-14T00:00:00",
+      "date": "2025-11-15T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -13,7 +13,7 @@
       "vendor": "Tat's Truck"
     },
     {
-      "date": "2025-11-15T00:00:00",
+      "date": "2025-11-16T00:00:00",
       "description": null,
       "end_time": "7:00 PM PT",
       "end_time_raw": "7:00 PM",
@@ -22,17 +22,6 @@
       "start_time_raw": "1:00 PM",
       "timezone": "PT",
       "vendor": "Johnson BBQ Provisions"
-    },
-    {
-      "date": "2025-11-16T00:00:00",
-      "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "location": "Stoup Brewing - Ballard",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
-      "timezone": "PT",
-      "vendor": "Russo Pizzarium"
     },
     {
       "date": "2025-11-17T00:00:00",
@@ -54,7 +43,7 @@
       "start_time": "5:00 PM PT",
       "start_time_raw": "5:00 PM",
       "timezone": "PT",
-      "vendor": "The Marigold Wood Fired Pizza"
+      "vendor": "Tacos & Beer"
     },
     {
       "date": "2025-11-19T00:00:00",
@@ -65,10 +54,21 @@
       "start_time": "5:00 PM PT",
       "start_time_raw": "5:00 PM",
       "timezone": "PT",
-      "vendor": "La Costenita"
+      "vendor": "The Marigold Wood Fired Pizza"
     },
     {
       "date": "2025-11-20T00:00:00",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "location": "Stoup Brewing - Ballard",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "timezone": "PT",
+      "vendor": "La Costenita"
+    },
+    {
+      "date": "2025-11-21T00:00:00",
       "description": null,
       "end_time": "9:00 PM PT",
       "end_time_raw": "9:00 PM",
@@ -79,7 +79,7 @@
       "vendor": "Off the Rez"
     },
     {
-      "date": "2025-11-21T00:00:00",
+      "date": "2025-11-22T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -88,17 +88,6 @@
       "start_time_raw": "1:00 PM",
       "timezone": "PT",
       "vendor": "Woodshop BBQ"
-    },
-    {
-      "date": "2025-11-14T16:00:00.748000",
-      "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "location": "Yonder Cider & Bale Breaker - Ballard",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
-      "timezone": "PT",
-      "vendor": "Paparepas"
     },
     {
       "date": "2025-11-15T13:00:00.294000",
@@ -167,26 +156,37 @@
       "vendor": "Wood Shop BBQ"
     },
     {
-      "date": "2025-11-14T00:00:00",
+      "date": "2025-11-22T13:00:00.309000",
       "description": null,
       "end_time": "9:00 PM PT",
       "end_time_raw": "9:00 PM",
+      "location": "Yonder Cider & Bale Breaker - Ballard",
+      "start_time": "1:00 PM PT",
+      "start_time_raw": "1:00 PM",
+      "timezone": "PT",
+      "vendor": "Wich Came First"
+    },
+    {
+      "date": "2025-11-22T14:00:00.546000",
+      "description": null,
+      "end_time": "7:00 PM PT",
+      "end_time_raw": "7:00 PM",
+      "location": "Yonder Cider & Bale Breaker - Ballard",
+      "start_time": "2:00 PM PT",
+      "start_time_raw": "2:00 PM",
+      "timezone": "PT",
+      "vendor": "Salish Sea Greens Oyster Pop-Up"
+    },
+    {
+      "date": "2025-11-15T00:00:00",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
       "location": "Obec Brewing",
       "start_time": "4:00 PM PT",
       "start_time_raw": "4:00 PM",
       "timezone": "PT",
-      "vendor": "Cocina Barelas (New Mexican Cuisine)"
-    },
-    {
-      "date": "2025-11-14T00:00:00",
-      "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "location": "Urban Family Brewing",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
-      "timezone": "PT",
-      "vendor": "Tacos & Beer"
+      "vendor": "Maroom Thai"
     },
     {
       "date": "2025-11-15T00:00:00",
@@ -277,6 +277,17 @@
       "vendor": "Birrieria Pepe El Toro LLC"
     },
     {
+      "date": "2025-11-22T00:00:00",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "location": "Urban Family Brewing",
+      "start_time": "1:00 PM PT",
+      "start_time_raw": "1:00 PM",
+      "timezone": "PT",
+      "vendor": "MomoExpress"
+    },
+    {
       "date": "2025-11-15T00:00:00",
       "description": null,
       "end_time": null,
@@ -299,15 +310,15 @@
       "vendor": "Kaosamai Thai"
     },
     {
-      "date": "2025-11-14T00:00:00",
-      "description": "Original event: Dinner: Where ya at Matt",
+      "date": "2025-11-22T00:00:00",
+      "description": null,
       "end_time": null,
       "end_time_raw": null,
-      "location": "Chuck's Hop Shop Greenwood",
+      "location": "Wheelie Pop Brewing",
       "start_time": null,
       "start_time_raw": null,
       "timezone": "PT",
-      "vendor": "Where ya at Matt"
+      "vendor": "Vandalz Taqueria"
     },
     {
       "date": "2025-11-15T00:00:00",
@@ -398,15 +409,15 @@
       "vendor": "Where ya at Matt"
     },
     {
-      "date": "2025-11-14T17:00:00",
-      "description": "Cuisine: Chicken, Sandwiches, Southern",
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
-      "location": "Saleh's Corner",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
+      "date": "2025-11-22T00:00:00",
+      "description": "Original event: Tat's Deli",
+      "end_time": null,
+      "end_time_raw": null,
+      "location": "Chuck's Hop Shop Greenwood",
+      "start_time": null,
+      "start_time_raw": null,
       "timezone": "PT",
-      "vendor": "Impeckable Chicken"
+      "vendor": "Tat's Deli"
     },
     {
       "date": "2025-11-15T17:00:00",
@@ -484,11 +495,22 @@
       "start_time_raw": "5:00 PM",
       "timezone": "PT",
       "vendor": "Impeckable Chicken"
+    },
+    {
+      "date": "2025-11-22T17:00:00",
+      "description": "Cuisine: Asian, Noodles, Thai",
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "location": "Saleh's Corner",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "timezone": "PT",
+      "vendor": "Maroom Thaim"
     }
   ],
-  "haiku": "\ud83c\udf7a Cold November night\u2014\nTat's sizzles at Stoup's warm glow,\nBallard souls gather \ud83c\udf27\ufe0f",
+  "haiku": "\ud83c\udf5c November's chill bites\u2014\nKaosomai's steam rises warm\nat Chuck's barley hearth \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 44,
-  "updated": "2025-11-15T07:15:20.076583+00:00"
+  "total_events": 46,
+  "updated": "2025-11-15T08:15:18.950201+00:00"
 }
