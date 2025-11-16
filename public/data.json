@@ -182,17 +182,6 @@
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
-      "location": "Obec Brewing",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
-      "timezone": "PT",
-      "vendor": "Maroom Thai"
-    },
-    {
-      "date": "2025-11-15T00:00:00",
-      "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
       "location": "Urban Family Brewing",
       "start_time": "4:00 PM PT",
       "start_time_raw": "4:00 PM",
@@ -508,9 +497,9 @@
       "vendor": "Maroom Thaim"
     }
   ],
-  "haiku": "\ud83c\udf5c November chill fades\u2014\nKaosomai's Thai spice warms\nChuck's Hop Shop crowd \ud83c\udf7a",
+  "haiku": "\ud83c\udf55 November's chill bites\u2014\nOskar's wood-fired warmth flows\nthrough Urban's brewing \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 46,
-  "updated": "2025-11-16T01:15:22.203216+00:00"
+  "total_events": 45,
+  "updated": "2025-11-16T02:15:18.934868+00:00"
 }
