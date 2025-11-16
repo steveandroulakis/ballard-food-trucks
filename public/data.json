@@ -180,6 +180,17 @@
     {
       "date": "2025-11-16T00:00:00",
       "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "location": "Obec Brewing",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "timezone": "PT",
+      "vendor": "Heart in Seoul"
+    },
+    {
+      "date": "2025-11-16T00:00:00",
+      "description": null,
       "end_time": "12:00 PM PT",
       "end_time_raw": "12:00 PM",
       "location": "Urban Family Brewing",
@@ -508,9 +519,9 @@
       "vendor": "Pumpkin Thai"
     }
   ],
-  "haiku": "\ud83c\udf27\ufe0f November rain falls\u2014\nPepe's birria steams at\nSaleh's brewing warmth \ud83c\udf7a",
+  "haiku": "\ud83c\udf54 November rain falls\u2014\nBurger Planet sizzles warm\nat Urban's gold tap \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 46,
-  "updated": "2025-11-16T08:15:18.993124+00:00"
+  "total_events": 47,
+  "updated": "2025-11-16T09:15:19.351290+00:00"
 }
