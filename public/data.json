@@ -10,7 +10,7 @@
       "start_time": "5:00 PM PT",
       "start_time_raw": "5:00 PM",
       "timezone": "PT",
-      "vendor": "El Gran Taco"
+      "vendor": "Russo Pizzarium"
     },
     {
       "date": "2025-11-18T00:00:00",
@@ -486,9 +486,9 @@
       "vendor": "MOMO Express"
     }
   ],
-  "haiku": "\ud83e\udd5f Steam rises, dumplings warm\u2014\nMOMO Express finds shelter\nat Saleh's bright hearth \ud83c\udf7a",
+  "haiku": "\ud83c\udf55 November drizzle falls\u2014\nRusso's crusts warm Stoup's bright yard\nWhere hops meet dough's song \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
   "total_events": 44,
-  "updated": "2025-11-17T23:15:20.004238+00:00"
+  "updated": "2025-11-18T00:15:19.585138+00:00"
 }
