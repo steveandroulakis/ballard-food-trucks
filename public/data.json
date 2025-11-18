@@ -2,7 +2,7 @@
   "errors": [],
   "events": [
     {
-      "date": "2025-11-17T00:00:00",
+      "date": "2025-11-18T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -13,7 +13,7 @@
       "vendor": "Tacos & Beer"
     },
     {
-      "date": "2025-11-18T00:00:00",
+      "date": "2025-11-19T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -24,7 +24,7 @@
       "vendor": "The Marigold Wood Fired Pizza"
     },
     {
-      "date": "2025-11-19T00:00:00",
+      "date": "2025-11-20T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -35,7 +35,7 @@
       "vendor": "La Costenita"
     },
     {
-      "date": "2025-11-20T00:00:00",
+      "date": "2025-11-21T00:00:00",
       "description": null,
       "end_time": "9:00 PM PT",
       "end_time_raw": "9:00 PM",
@@ -46,7 +46,7 @@
       "vendor": "Off the Rez"
     },
     {
-      "date": "2025-11-21T00:00:00",
+      "date": "2025-11-22T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -57,7 +57,7 @@
       "vendor": "Woodshop BBQ"
     },
     {
-      "date": "2025-11-22T00:00:00",
+      "date": "2025-11-23T00:00:00",
       "description": null,
       "end_time": "7:00 PM PT",
       "end_time_raw": "7:00 PM",
@@ -68,7 +68,7 @@
       "vendor": "El Pirata Tortas Y Burritos / Now Make Me A Sandwich"
     },
     {
-      "date": "2025-11-23T00:00:00",
+      "date": "2025-11-24T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -79,7 +79,7 @@
       "vendor": "Where Ya At Matt"
     },
     {
-      "date": "2025-11-24T00:00:00",
+      "date": "2025-11-25T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -167,7 +167,18 @@
       "vendor": "Tacos &amp; Beer"
     },
     {
-      "date": "2025-11-17T00:00:00",
+      "date": "2025-11-25T16:00:00.318000",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "location": "Yonder Cider & Bale Breaker - Ballard",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "timezone": "PT",
+      "vendor": "Birrieria Pepe El Toro"
+    },
+    {
+      "date": "2025-11-18T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -176,17 +187,6 @@
       "start_time_raw": "4:00 PM",
       "timezone": "PT",
       "vendor": "Plaza Garcia"
-    },
-    {
-      "date": "2025-11-17T00:00:00",
-      "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "location": "Urban Family Brewing",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
-      "timezone": "PT",
-      "vendor": "TBD"
     },
     {
       "date": "2025-11-18T00:00:00",
@@ -277,6 +277,17 @@
       "vendor": "TBD"
     },
     {
+      "date": "2025-11-25T00:00:00",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "location": "Urban Family Brewing",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "timezone": "PT",
+      "vendor": "Georgia's Greek"
+    },
+    {
       "date": "2025-11-20T00:00:00",
       "description": null,
       "end_time": null,
@@ -297,17 +308,6 @@
       "start_time_raw": null,
       "timezone": "PT",
       "vendor": "Vandalz Taqueria"
-    },
-    {
-      "date": "2025-11-17T00:00:00",
-      "description": "Original event: Dinner: T'Juana Tacos",
-      "end_time": null,
-      "end_time_raw": null,
-      "location": "Chuck's Hop Shop Greenwood",
-      "start_time": null,
-      "start_time_raw": null,
-      "timezone": "PT",
-      "vendor": "T'Juana Tacos"
     },
     {
       "date": "2025-11-18T00:00:00",
@@ -398,15 +398,15 @@
       "vendor": "TBD"
     },
     {
-      "date": "2025-11-17T17:00:00",
-      "description": "Cuisine: Asian, BBQ, Sandwiches",
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
-      "location": "Saleh's Corner",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
+      "date": "2025-11-25T00:00:00",
+      "description": "Original event: Dinner: Woodshop BBQ",
+      "end_time": null,
+      "end_time_raw": null,
+      "location": "Chuck's Hop Shop Greenwood",
+      "start_time": null,
+      "start_time_raw": null,
       "timezone": "PT",
-      "vendor": "MOMO Express"
+      "vendor": "Woodshop BBQ"
     },
     {
       "date": "2025-11-18T17:00:00",
@@ -484,11 +484,22 @@
       "start_time_raw": "5:00 PM",
       "timezone": "PT",
       "vendor": "MOMO Express"
+    },
+    {
+      "date": "2025-11-25T17:00:00",
+      "description": "Cuisine: Burritos, Mexican, Tacos",
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "location": "Saleh's Corner",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "timezone": "PT",
+      "vendor": "Plaza Garcia Express"
     }
   ],
-  "haiku": "\ud83c\udf27\ufe0f November rain falls\u2014\nT'Juana's warmth at Chuck's Hop,\nGreenwood gathers close \ud83c\udf2e",
+  "haiku": "\ud83c\udf27\ufe0f November rain falls\u2014\nTacos warm at Stoup's bright door,\nBeer foam meets cold night \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 44,
-  "updated": "2025-11-18T07:15:20.523600+00:00"
+  "total_events": 45,
+  "updated": "2025-11-18T08:15:19.398805+00:00"
 }
