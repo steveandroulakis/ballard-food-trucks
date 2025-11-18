@@ -54,7 +54,7 @@
       "start_time": "1:00 PM PT",
       "start_time_raw": "1:00 PM",
       "timezone": "PT",
-      "vendor": "Woodshop BBQ"
+      "vendor": "Johnson BBQ Provisions"
     },
     {
       "date": "2025-11-23T00:00:00",
@@ -486,9 +486,9 @@
       "vendor": "Plaza Garcia Express"
     }
   ],
-  "haiku": "\ud83c\udf27\ufe0f November rain falls\u2014\nStoup's warmth holds tacos and beer,\nBallard hearts gather \ud83c\udf7a",
+  "haiku": "\ud83c\udf5c November's chill lifts\u2014\nTummy Yummy's fragrant steam\nwarms Yonder's cold night \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
   "total_events": 44,
-  "updated": "2025-11-18T20:15:19.639734+00:00"
+  "updated": "2025-11-18T22:15:27.564805+00:00"
 }
