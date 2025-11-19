@@ -377,14 +377,14 @@
     },
     {
       "date": "2025-11-24T00:00:00",
-      "description": "Original event: Dinner: TBD",
+      "description": "Original event: Dinner: Off the Rez",
       "end_time": null,
       "end_time_raw": null,
       "location": "Chuck's Hop Shop Greenwood",
       "start_time": null,
       "start_time_raw": null,
       "timezone": "PT",
-      "vendor": "TBD"
+      "vendor": "Off the Rez"
     },
     {
       "date": "2025-11-25T00:00:00",
@@ -486,9 +486,9 @@
       "vendor": "Plaza Garcia Express"
     }
   ],
-  "haiku": "\ud83d\udd25 Smoke curls through cold air\u2014\nWoodshop's brisket meets craft hops\nat Chuck's glowing hearth \ud83c\udf7a",
+  "haiku": "\ud83c\udf27\ufe0f November rain falls\u2014\nPlaza Garcia's steam rises\nat Saleh's warm door \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
   "total_events": 44,
-  "updated": "2025-11-19T03:15:26.641820+00:00"
+  "updated": "2025-11-19T04:15:22.753643+00:00"
 }
