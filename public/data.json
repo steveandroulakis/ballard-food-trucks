@@ -182,6 +182,17 @@
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
+      "location": "Obec Brewing",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "timezone": "PT",
+      "vendor": "Empanadas el Pachi"
+    },
+    {
+      "date": "2025-11-19T00:00:00",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
       "location": "Urban Family Brewing",
       "start_time": "4:00 PM PT",
       "start_time_raw": "4:00 PM",
@@ -486,9 +497,9 @@
       "vendor": "Theo's Gyros"
     }
   ],
-  "haiku": "\ud83c\udf55 November's chill bites\u2014\nMarigold's wood flames crackle\nat Stoup's warm embrace \ud83c\udf7a",
+  "haiku": "\ud83d\udd25 Wood smoke curls upward\u2014\nMarigold's crisp crust at Stoup,\nNovember's warm hearth \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 44,
-  "updated": "2025-11-19T09:15:18.899886+00:00"
+  "total_events": 45,
+  "updated": "2025-11-19T10:15:19.045119+00:00"
 }
