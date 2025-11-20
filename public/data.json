@@ -2,7 +2,7 @@
   "errors": [],
   "events": [
     {
-      "date": "2025-11-19T00:00:00",
+      "date": "2025-11-20T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -13,7 +13,7 @@
       "vendor": "La Costenita"
     },
     {
-      "date": "2025-11-20T00:00:00",
+      "date": "2025-11-21T00:00:00",
       "description": null,
       "end_time": "9:00 PM PT",
       "end_time_raw": "9:00 PM",
@@ -24,21 +24,10 @@
       "vendor": "Off the Rez"
     },
     {
-      "date": "2025-11-21T00:00:00",
+      "date": "2025-11-22T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
-      "location": "Stoup Brewing - Ballard",
-      "start_time": "1:00 PM PT",
-      "start_time_raw": "1:00 PM",
-      "timezone": "PT",
-      "vendor": "Woodshop BBQ"
-    },
-    {
-      "date": "2025-11-22T00:00:00",
-      "description": null,
-      "end_time": "7:00 PM PT",
-      "end_time_raw": "7:00 PM",
       "location": "Stoup Brewing - Ballard",
       "start_time": "1:00 PM PT",
       "start_time_raw": "1:00 PM",
@@ -48,13 +37,13 @@
     {
       "date": "2025-11-23T00:00:00",
       "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
+      "end_time": "7:00 PM PT",
+      "end_time_raw": "7:00 PM",
       "location": "Stoup Brewing - Ballard",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
+      "start_time": "1:00 PM PT",
+      "start_time_raw": "1:00 PM",
       "timezone": "PT",
-      "vendor": "Where Ya At Matt"
+      "vendor": "El Pirata Tortas Y Burritos / Now Make Me A Sandwich"
     },
     {
       "date": "2025-11-24T00:00:00",
@@ -65,10 +54,21 @@
       "start_time": "5:00 PM PT",
       "start_time_raw": "5:00 PM",
       "timezone": "PT",
-      "vendor": "Poke Me"
+      "vendor": "Where Ya At Matt"
     },
     {
       "date": "2025-11-25T00:00:00",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "location": "Stoup Brewing - Ballard",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "timezone": "PT",
+      "vendor": "Poke Me"
+    },
+    {
+      "date": "2025-11-26T00:00:00",
       "description": null,
       "end_time": "8:30 PM PT",
       "end_time_raw": "8:30 PM",
@@ -79,7 +79,7 @@
       "vendor": "Kaosamai Thai"
     },
     {
-      "date": "2025-11-26T00:00:00",
+      "date": "2025-11-27T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -88,17 +88,6 @@
       "start_time_raw": "4:00 PM",
       "timezone": "PT",
       "vendor": "Birrieria Pepe El Toro"
-    },
-    {
-      "date": "2025-11-19T16:00:00.992000",
-      "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "location": "Yonder Cider & Bale Breaker - Ballard",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
-      "timezone": "PT",
-      "vendor": "Georgia\u2019s Greek"
     },
     {
       "date": "2025-11-20T16:00:00.838000",
@@ -178,7 +167,7 @@
       "vendor": "Georgia\u2019s Greek"
     },
     {
-      "date": "2025-11-19T00:00:00",
+      "date": "2025-11-20T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -187,17 +176,6 @@
       "start_time_raw": "4:00 PM",
       "timezone": "PT",
       "vendor": "Empanadas el Pachi"
-    },
-    {
-      "date": "2025-11-19T00:00:00",
-      "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "location": "Urban Family Brewing",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
-      "timezone": "PT",
-      "vendor": "Impeckable Chicken"
     },
     {
       "date": "2025-11-20T00:00:00",
@@ -310,15 +288,15 @@
       "vendor": "Vandalz Taqueria"
     },
     {
-      "date": "2025-11-19T00:00:00",
-      "description": "Original event: Dinner: Oskar's Pizza",
+      "date": "2025-11-27T00:00:00",
+      "description": null,
       "end_time": null,
       "end_time_raw": null,
-      "location": "Chuck's Hop Shop Greenwood",
+      "location": "Wheelie Pop Brewing",
       "start_time": null,
       "start_time_raw": null,
       "timezone": "PT",
-      "vendor": "Oskar's Pizza"
+      "vendor": "Tisket Tasket"
     },
     {
       "date": "2025-11-20T00:00:00",
@@ -409,15 +387,15 @@
       "vendor": "Oskar's Pizza"
     },
     {
-      "date": "2025-11-19T17:00:00",
-      "description": "Cuisine: Greek, Gyro, Halal",
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
-      "location": "Saleh's Corner",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
+      "date": "2025-11-27T00:00:00",
+      "description": "Original event: Dinner: Impeckable Chicken",
+      "end_time": null,
+      "end_time_raw": null,
+      "location": "Chuck's Hop Shop Greenwood",
+      "start_time": null,
+      "start_time_raw": null,
       "timezone": "PT",
-      "vendor": "Theo's Gyros"
+      "vendor": "Impeckable Chicken"
     },
     {
       "date": "2025-11-20T17:00:00",
@@ -497,9 +475,9 @@
       "vendor": "Theo's Gyros"
     }
   ],
-  "haiku": "\ud83e\udd5f November's chill lifts\u2014\nPachi's golden pastries steam\nat Obec's warm hearth \ud83c\udf7a",
+  "haiku": null,
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 45,
-  "updated": "2025-11-20T07:15:20.420178+00:00"
+  "total_events": 43,
+  "updated": "2025-11-20T08:15:25.066772+00:00"
 }
