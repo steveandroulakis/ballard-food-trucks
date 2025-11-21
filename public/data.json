@@ -120,7 +120,7 @@
       "start_time": "2:00 PM PT",
       "start_time_raw": "2:00 PM",
       "timezone": "PT",
-      "vendor": "Salish Sea Greens Oyster Pop-Up"
+      "vendor": "The Little Pearl Oyster Bar by Salish Sea Greens"
     },
     {
       "date": "2025-11-23T13:00:00.080000",
@@ -431,9 +431,9 @@
       "vendor": "Theo's Gyros"
     }
   ],
-  "haiku": "\ud83c\udf27\ufe0f November rain falls\u2014\nPepe's birria steams at\nUrban Family's hearth \ud83c\udf7a",
+  "haiku": "\ud83c\udf56 Smoky winter eve\u2014\nWood Shop's brisket pairs with cider\nat Bale Breaker's hearth \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
   "total_events": 39,
-  "updated": "2025-11-21T18:15:20.027186+00:00"
+  "updated": "2025-11-21T19:15:31.037136+00:00"
 }
