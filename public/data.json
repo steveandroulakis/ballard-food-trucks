@@ -398,17 +398,6 @@
       "vendor": "Tandem Catering and Events / Tandem Truck To Table"
     },
     {
-      "date": "2025-11-23T17:00:00",
-      "description": "Cuisine: Asian, Thai, Vegetarian",
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
-      "location": "Saleh's Corner",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
-      "timezone": "PT",
-      "vendor": "Pumpkin Thai"
-    },
-    {
       "date": "2025-11-25T17:00:00",
       "description": "Cuisine: Burritos, Mexican, Tacos",
       "end_time": "9:00 PM PT",
@@ -431,9 +420,9 @@
       "vendor": "Theo's Gyros"
     }
   ],
-  "haiku": "\ud83c\udf42 November's chill bites\u2014\nOff the Rez warms Stoup's cold yard,\nFrybread meets fresh hops \ud83c\udf7a",
+  "haiku": "\ud83c\udf5c November's chill fades\u2014\nThai U Up steams at Obec,\nwarm spice, cold beer flows \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 39,
-  "updated": "2025-11-21T16:15:19.517581+00:00"
+  "total_events": 38,
+  "updated": "2025-11-21T17:15:20.498809+00:00"
 }
