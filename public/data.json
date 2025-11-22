@@ -354,17 +354,6 @@
       "vendor": "Oskar's Pizza"
     },
     {
-      "date": "2025-11-27T00:00:00",
-      "description": "Original event: Dinner: Impeckable Chicken",
-      "end_time": null,
-      "end_time_raw": null,
-      "location": "Chuck's Hop Shop Greenwood",
-      "start_time": null,
-      "start_time_raw": null,
-      "timezone": "PT",
-      "vendor": "Impeckable Chicken"
-    },
-    {
       "date": "2025-11-28T00:00:00",
       "description": "Original event: Dinner: Where ya at Matt",
       "end_time": null,
@@ -431,9 +420,9 @@
       "vendor": "Theo's Gyros"
     }
   ],
-  "haiku": "\ud83c\udf42 November rain falls\u2014\nOff the Rez warms Stoup's cold yard,\nFry bread meets fresh hops \ud83c\udf7a",
+  "haiku": "\ud83c\udf42 Where ya at Matt waits\u2014\nChuck's Hop Shop brews warmth within\nNovember's chill night \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 39,
-  "updated": "2025-11-22T04:15:18.238828+00:00"
+  "total_events": 38,
+  "updated": "2025-11-22T05:15:17.994891+00:00"
 }
