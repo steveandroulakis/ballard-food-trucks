@@ -2,21 +2,10 @@
   "errors": [],
   "events": [
     {
-      "date": "2025-11-21T00:00:00",
+      "date": "2025-11-22T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
-      "location": "Stoup Brewing - Ballard",
-      "start_time": "1:00 PM PT",
-      "start_time_raw": "1:00 PM",
-      "timezone": "PT",
-      "vendor": "Woodshop BBQ"
-    },
-    {
-      "date": "2025-11-22T00:00:00",
-      "description": null,
-      "end_time": "7:00 PM PT",
-      "end_time_raw": "7:00 PM",
       "location": "Stoup Brewing - Ballard",
       "start_time": "1:00 PM PT",
       "start_time_raw": "1:00 PM",
@@ -26,13 +15,13 @@
     {
       "date": "2025-11-23T00:00:00",
       "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
+      "end_time": "7:00 PM PT",
+      "end_time_raw": "7:00 PM",
       "location": "Stoup Brewing - Ballard",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
+      "start_time": "1:00 PM PT",
+      "start_time_raw": "1:00 PM",
       "timezone": "PT",
-      "vendor": "Where Ya At Matt"
+      "vendor": "El Pirata Tortas Y Burritos / Now Make Me A Sandwich"
     },
     {
       "date": "2025-11-24T00:00:00",
@@ -43,10 +32,21 @@
       "start_time": "5:00 PM PT",
       "start_time_raw": "5:00 PM",
       "timezone": "PT",
-      "vendor": "Poke Me"
+      "vendor": "Where Ya At Matt"
     },
     {
       "date": "2025-11-25T00:00:00",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "location": "Stoup Brewing - Ballard",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "timezone": "PT",
+      "vendor": "Poke Me"
+    },
+    {
+      "date": "2025-11-26T00:00:00",
       "description": null,
       "end_time": "8:30 PM PT",
       "end_time_raw": "8:30 PM",
@@ -57,7 +57,7 @@
       "vendor": "Kaosamai Thai"
     },
     {
-      "date": "2025-11-26T00:00:00",
+      "date": "2025-11-27T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -68,7 +68,7 @@
       "vendor": "Birrieria Pepe El Toro"
     },
     {
-      "date": "2025-11-27T00:00:00",
+      "date": "2025-11-28T00:00:00",
       "description": null,
       "end_time": "9:00 PM PT",
       "end_time_raw": "9:00 PM",
@@ -79,7 +79,7 @@
       "vendor": "Georgia's Greek"
     },
     {
-      "date": "2025-11-28T00:00:00",
+      "date": "2025-11-29T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -88,17 +88,6 @@
       "start_time_raw": "1:00 PM",
       "timezone": "PT",
       "vendor": "Tat's Truck"
-    },
-    {
-      "date": "2025-11-21T16:00:00.521000",
-      "description": null,
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
-      "location": "Yonder Cider & Bale Breaker - Ballard",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
-      "timezone": "PT",
-      "vendor": "Wood Shop BBQ"
     },
     {
       "date": "2025-11-22T13:00:00.309000",
@@ -156,7 +145,18 @@
       "vendor": "Georgia\u2019s Greek"
     },
     {
-      "date": "2025-11-21T00:00:00",
+      "date": "2025-11-29T13:00:00.512000",
+      "description": null,
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "location": "Yonder Cider & Bale Breaker - Ballard",
+      "start_time": "1:00 PM PT",
+      "start_time_raw": "1:00 PM",
+      "timezone": "PT",
+      "vendor": "Georgia\u2019s Greek"
+    },
+    {
+      "date": "2025-11-22T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -164,18 +164,7 @@
       "start_time": "4:00 PM PT",
       "start_time_raw": "4:00 PM",
       "timezone": "PT",
-      "vendor": "Thai U Up"
-    },
-    {
-      "date": "2025-11-21T00:00:00",
-      "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "location": "Urban Family Brewing",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
-      "timezone": "PT",
-      "vendor": "Birrieria Pepe El Toro LLC"
+      "vendor": "Kaosamai Thai"
     },
     {
       "date": "2025-11-22T00:00:00",
@@ -255,6 +244,17 @@
       "vendor": "Tacos & Beer"
     },
     {
+      "date": "2025-11-29T00:00:00",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "location": "Urban Family Brewing",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "timezone": "PT",
+      "vendor": "Oskar's Pizza"
+    },
+    {
       "date": "2025-11-22T00:00:00",
       "description": null,
       "end_time": null,
@@ -277,15 +277,15 @@
       "vendor": "Tisket Tasket"
     },
     {
-      "date": "2025-11-21T00:00:00",
-      "description": "Original event: Dinner: Where ya at Matt",
+      "date": "2025-11-29T00:00:00",
+      "description": null,
       "end_time": null,
       "end_time_raw": null,
-      "location": "Chuck's Hop Shop Greenwood",
+      "location": "Wheelie Pop Brewing",
       "start_time": null,
       "start_time_raw": null,
       "timezone": "PT",
-      "vendor": "Where ya at Matt"
+      "vendor": "Vandalz Taqueria"
     },
     {
       "date": "2025-11-22T00:00:00",
@@ -365,15 +365,15 @@
       "vendor": "Where ya at Matt"
     },
     {
-      "date": "2025-11-21T17:00:00",
-      "description": "Cuisine: Chicken, Sandwiches, Southern",
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
-      "location": "Saleh's Corner",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
+      "date": "2025-11-29T00:00:00",
+      "description": "Original event: Dinner: Kaosomai Thai",
+      "end_time": null,
+      "end_time_raw": null,
+      "location": "Chuck's Hop Shop Greenwood",
+      "start_time": null,
+      "start_time_raw": null,
       "timezone": "PT",
-      "vendor": "Impeckable Chicken"
+      "vendor": "Kaosomai Thai"
     },
     {
       "date": "2025-11-22T17:00:00",
@@ -418,11 +418,22 @@
       "start_time_raw": "5:00 PM",
       "timezone": "PT",
       "vendor": "Theo's Gyros"
+    },
+    {
+      "date": "2025-11-29T17:00:00",
+      "description": "Cuisine: Asian, Noodles, Thai",
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "location": "Saleh's Corner",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "timezone": "PT",
+      "vendor": "Thai-U-Up"
     }
   ],
-  "haiku": "\ud83c\udf5c Winter rain falls soft\u2014\nThai U Up steams at Obec,\nSpice warms brewing hearts \ud83c\udf7a",
+  "haiku": "\ud83e\uddaa November's salt breeze\u2014\nPearl oysters shine at Yonder,\nCider meets the sea \ud83c\udf7b",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 38,
-  "updated": "2025-11-22T07:15:18.125809+00:00"
+  "total_events": 39,
+  "updated": "2025-11-22T08:15:18.292627+00:00"
 }
