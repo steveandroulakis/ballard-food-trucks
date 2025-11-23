@@ -150,10 +150,10 @@
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
       "location": "Obec Brewing",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
+      "start_time": "3:00 AM PT",
+      "start_time_raw": "3:00 AM",
       "timezone": "PT",
-      "vendor": "Kaosamai Thai"
+      "vendor": "Maroom Thai"
     },
     {
       "date": "2025-11-23T00:00:00",
@@ -420,9 +420,9 @@
       "vendor": "Pumpkin Thai"
     }
   ],
-  "haiku": "\ud83c\udf27\ufe0f November rain falls\u2014\nEl Pirata's warm tortas\nsteam at Stoup's bright door \ud83c\udf7a",
+  "haiku": "\ud83c\udf43 November chill bites\u2014\nMaroom Thai's steam meets craft brew,\nObec's warmth beckons \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
   "total_events": 38,
-  "updated": "2025-11-23T08:15:18.686418+00:00"
+  "updated": "2025-11-23T09:15:18.461985+00:00"
 }
