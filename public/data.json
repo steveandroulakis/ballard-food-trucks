@@ -10,7 +10,7 @@
       "start_time": "1:00 PM PT",
       "start_time_raw": "1:00 PM",
       "timezone": "PT",
-      "vendor": "Johnson BBQ Provisions"
+      "vendor": "Woodshop BBQ"
     },
     {
       "date": "2025-11-23T00:00:00",
@@ -431,9 +431,9 @@
       "vendor": "Thai-U-Up"
     }
   ],
-  "haiku": "\ud83c\udf27\ufe0f November rain falls\u2014\nVandalz steams at Wheelie Pop,\nwarm tacos, cold brew \ud83c\udf7a",
+  "haiku": "\ud83c\udf27\ufe0f November rain falls\u2014\nVandalz tacos warm the soul\nat Wheelie Pop's hearth \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
   "total_events": 39,
-  "updated": "2025-11-22T23:15:18.182266+00:00"
+  "updated": "2025-11-23T00:15:18.077756+00:00"
 }
