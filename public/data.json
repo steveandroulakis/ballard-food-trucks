@@ -32,7 +32,7 @@
       "start_time": "4:00 PM PT",
       "start_time_raw": "4:00 PM",
       "timezone": "PT",
-      "vendor": "Birrieria Pepe El Toro"
+      "vendor": "No Truck Today"
     },
     {
       "date": "2025-11-28T00:00:00",
@@ -398,9 +398,9 @@
       "vendor": "Plaza Garcia Express"
     }
   ],
-  "haiku": "\ud83c\udf27\ufe0f November rain falls\u2014\nPoke bowls warm at Stoup's bright hearth,\nBallard's comfort found \ud83c\udf7a",
+  "haiku": "\ud83c\udf5c November's chill bites\u2014\nMaroom Thai's fragrant steam meets\nObec's amber warmth \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
   "total_events": 36,
-  "updated": "2025-11-25T21:15:18.957251+00:00"
+  "updated": "2025-11-25T22:15:20.582535+00:00"
 }
