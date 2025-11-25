@@ -10,21 +10,10 @@
       "start_time": "5:00 PM PT",
       "start_time_raw": "5:00 PM",
       "timezone": "PT",
-      "vendor": "Where Ya At Matt"
-    },
-    {
-      "date": "2025-11-25T00:00:00",
-      "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "location": "Stoup Brewing - Ballard",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
-      "timezone": "PT",
       "vendor": "Poke Me"
     },
     {
-      "date": "2025-11-26T00:00:00",
+      "date": "2025-11-25T00:00:00",
       "description": null,
       "end_time": "8:30 PM PT",
       "end_time_raw": "8:30 PM",
@@ -35,7 +24,7 @@
       "vendor": "Kaosamai Thai"
     },
     {
-      "date": "2025-11-27T00:00:00",
+      "date": "2025-11-26T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -46,7 +35,7 @@
       "vendor": "Birrieria Pepe El Toro"
     },
     {
-      "date": "2025-11-28T00:00:00",
+      "date": "2025-11-27T00:00:00",
       "description": null,
       "end_time": "9:00 PM PT",
       "end_time_raw": "9:00 PM",
@@ -57,7 +46,7 @@
       "vendor": "Georgia's Greek"
     },
     {
-      "date": "2025-11-29T00:00:00",
+      "date": "2025-11-28T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -68,7 +57,7 @@
       "vendor": "Tat's Truck"
     },
     {
-      "date": "2025-11-30T00:00:00",
+      "date": "2025-11-29T00:00:00",
       "description": null,
       "end_time": "7:00 PM PT",
       "end_time_raw": "7:00 PM",
@@ -77,6 +66,17 @@
       "start_time_raw": "1:00 PM",
       "timezone": "PT",
       "vendor": "Johnson BBQ Provisions"
+    },
+    {
+      "date": "2025-11-30T00:00:00",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "location": "Stoup Brewing - Ballard",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "timezone": "PT",
+      "vendor": "Russo Pizzarium"
     },
     {
       "date": "2025-12-01T00:00:00",
@@ -387,9 +387,9 @@
       "vendor": "MOMO Express"
     }
   ],
-  "haiku": "\ud83c\udf83 Late autumn chill bites\u2014\nPumpkin Thai's warm spices steam\nat Saleh's bright hearth \ud83c\udf7a",
+  "haiku": "\ud83c\udf42 November's chill air\u2014\nTBD warms Urban crowds\nwith brew and comfort \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
   "total_events": 35,
-  "updated": "2025-11-25T06:15:19.410457+00:00"
+  "updated": "2025-11-25T07:15:18.829133+00:00"
 }
