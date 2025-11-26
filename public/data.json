@@ -171,17 +171,6 @@
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
-      "location": "Obec Brewing",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
-      "timezone": "PT",
-      "vendor": "Maroom Thai"
-    },
-    {
-      "date": "2025-11-26T00:00:00",
-      "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
       "location": "Urban Family Brewing",
       "start_time": "4:00 PM PT",
       "start_time_raw": "4:00 PM",
@@ -431,9 +420,9 @@
       "vendor": "Theo's Gyros"
     }
   ],
-  "haiku": "\ud83c\udf27\ufe0f November rain falls\u2014\nMaroom Thai's warmth steams at Obec,\nSpice cuts winter chill \ud83c\udf7a",
+  "haiku": "\ud83c\udf5c November mist swirls\u2014\nKaosamai's fragrant steam\nwarms Stoup's golden crowd \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 39,
-  "updated": "2025-11-26T08:15:19.685520+00:00"
+  "total_events": 38,
+  "updated": "2025-11-26T09:15:19.223964+00:00"
 }
