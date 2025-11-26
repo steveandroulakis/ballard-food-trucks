@@ -2,7 +2,7 @@
   "errors": [],
   "events": [
     {
-      "date": "2025-11-25T00:00:00",
+      "date": "2025-11-26T00:00:00",
       "description": null,
       "end_time": "8:30 PM PT",
       "end_time_raw": "8:30 PM",
@@ -13,7 +13,7 @@
       "vendor": "Kaosamai Thai"
     },
     {
-      "date": "2025-11-26T00:00:00",
+      "date": "2025-11-27T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -21,10 +21,10 @@
       "start_time": "4:00 PM PT",
       "start_time_raw": "4:00 PM",
       "timezone": "PT",
-      "vendor": "Birrieria Pepe El Toro"
+      "vendor": "No Truck Today"
     },
     {
-      "date": "2025-11-27T00:00:00",
+      "date": "2025-11-28T00:00:00",
       "description": null,
       "end_time": "9:00 PM PT",
       "end_time_raw": "9:00 PM",
@@ -32,10 +32,10 @@
       "start_time": "5:00 PM PT",
       "start_time_raw": "5:00 PM",
       "timezone": "PT",
-      "vendor": "No Truck Today"
+      "vendor": "Georgia's Greek"
     },
     {
-      "date": "2025-11-28T00:00:00",
+      "date": "2025-11-29T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -46,7 +46,7 @@
       "vendor": "Tat's Truck"
     },
     {
-      "date": "2025-11-29T00:00:00",
+      "date": "2025-11-30T00:00:00",
       "description": null,
       "end_time": "7:00 PM PT",
       "end_time_raw": "7:00 PM",
@@ -55,17 +55,6 @@
       "start_time_raw": "1:00 PM",
       "timezone": "PT",
       "vendor": "Johnson BBQ Provisions"
-    },
-    {
-      "date": "2025-11-30T00:00:00",
-      "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "location": "Stoup Brewing - Ballard",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
-      "timezone": "PT",
-      "vendor": "Russo Pizzarium"
     },
     {
       "date": "2025-12-01T00:00:00",
@@ -87,18 +76,18 @@
       "start_time": "5:00 PM PT",
       "start_time_raw": "5:00 PM",
       "timezone": "PT",
-      "vendor": "The Marigold Wood Fired Pizza"
+      "vendor": "Tacos & Beer"
     },
     {
-      "date": "2025-11-25T16:00:00.318000",
+      "date": "2025-12-03T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
-      "location": "Yonder Cider & Bale Breaker - Ballard",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
+      "location": "Stoup Brewing - Ballard",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
       "timezone": "PT",
-      "vendor": "Birrieria Pepe El Toro"
+      "vendor": "The Marigold Wood Fired Pizza"
     },
     {
       "date": "2025-11-26T16:00:00.878000",
@@ -167,7 +156,18 @@
       "vendor": "Tummy Yummy Thai"
     },
     {
-      "date": "2025-11-25T00:00:00",
+      "date": "2025-12-03T16:00:00.307000",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "location": "Yonder Cider & Bale Breaker - Ballard",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "timezone": "PT",
+      "vendor": "Georgia\u2019s Greek"
+    },
+    {
+      "date": "2025-11-26T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -176,17 +176,6 @@
       "start_time_raw": "4:00 PM",
       "timezone": "PT",
       "vendor": "Maroom Thai"
-    },
-    {
-      "date": "2025-11-25T00:00:00",
-      "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "location": "Urban Family Brewing",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
-      "timezone": "PT",
-      "vendor": "Georgia's Greek"
     },
     {
       "date": "2025-11-26T00:00:00",
@@ -266,6 +255,17 @@
       "vendor": "TBD"
     },
     {
+      "date": "2025-12-03T00:00:00",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "location": "Urban Family Brewing",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "timezone": "PT",
+      "vendor": "Impeckable Chicken"
+    },
+    {
       "date": "2025-11-27T00:00:00",
       "description": null,
       "end_time": null,
@@ -286,17 +286,6 @@
       "start_time_raw": null,
       "timezone": "PT",
       "vendor": "Vandalz Taqueria"
-    },
-    {
-      "date": "2025-11-25T00:00:00",
-      "description": "Original event: Dinner: Woodshop BBQ",
-      "end_time": null,
-      "end_time_raw": null,
-      "location": "Chuck's Hop Shop Greenwood",
-      "start_time": null,
-      "start_time_raw": null,
-      "timezone": "PT",
-      "vendor": "Woodshop BBQ"
     },
     {
       "date": "2025-11-26T00:00:00",
@@ -365,15 +354,15 @@
       "vendor": "Kaosamai Thai"
     },
     {
-      "date": "2025-11-25T17:00:00",
-      "description": "Cuisine: Burritos, Mexican, Tacos",
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
-      "location": "Saleh's Corner",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
+      "date": "2025-12-03T00:00:00",
+      "description": "Original event: Dinner: Chick'n Fix",
+      "end_time": null,
+      "end_time_raw": null,
+      "location": "Chuck's Hop Shop Greenwood",
+      "start_time": null,
+      "start_time_raw": null,
       "timezone": "PT",
-      "vendor": "Plaza Garcia Express"
+      "vendor": "Chick'n Fix"
     },
     {
       "date": "2025-11-26T17:00:00",
@@ -429,11 +418,22 @@
       "start_time_raw": "5:00 PM",
       "timezone": "PT",
       "vendor": "Plaza Garcia Express"
+    },
+    {
+      "date": "2025-12-03T17:00:00",
+      "description": "Cuisine: Greek, Gyro, Halal",
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "location": "Saleh's Corner",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "timezone": "PT",
+      "vendor": "Theo's Gyros"
     }
   ],
-  "haiku": "\ud83c\udf27\ufe0f Winter rain taps glass\u2014\nPepe's birria steams at Yonder,\nCider warms the soul \ud83c\udf7a",
+  "haiku": "\ud83c\udf27\ufe0f November rain falls\u2014\nMaroom Thai's warmth steams at Obec,\nSpice cuts winter chill \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
   "total_events": 39,
-  "updated": "2025-11-26T07:15:19.589460+00:00"
+  "updated": "2025-11-26T08:15:19.685520+00:00"
 }
