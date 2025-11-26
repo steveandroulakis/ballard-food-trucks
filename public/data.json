@@ -123,6 +123,17 @@
       "vendor": "Closed - Thanksgiving"
     },
     {
+      "date": "2025-11-28T16:00:00.633000",
+      "description": null,
+      "end_time": "8:30 PM PT",
+      "end_time_raw": "8:30 PM",
+      "location": "Yonder Cider & Bale Breaker - Ballard",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "timezone": "PT",
+      "vendor": "Nacho Rio"
+    },
+    {
       "date": "2025-11-29T13:00:00.512000",
       "description": null,
       "end_time": "9:00 PM PT",
@@ -420,9 +431,9 @@
       "vendor": "Plaza Garcia Express"
     }
   ],
-  "haiku": "\ud83c\udf5c November mist swirls\u2014\nMaroom Thai's fragrant steam joins\nObec's amber warmth \ud83c\udf7a",
+  "haiku": "\ud83c\udf27\ufe0f November rain falls\u2014\nPoke bowls warm at Stoup's bright door,\nBallard hearts gather \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 38,
-  "updated": "2025-11-26T01:15:18.843693+00:00"
+  "total_events": 39,
+  "updated": "2025-11-26T02:15:19.024308+00:00"
 }
