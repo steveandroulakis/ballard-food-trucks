@@ -2,7 +2,7 @@
   "errors": [],
   "events": [
     {
-      "date": "2025-11-26T00:00:00",
+      "date": "2025-11-27T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -10,10 +10,10 @@
       "start_time": "4:00 PM PT",
       "start_time_raw": "4:00 PM",
       "timezone": "PT",
-      "vendor": "Birrieria Pepe El Toro"
+      "vendor": "No Truck Today"
     },
     {
-      "date": "2025-11-27T00:00:00",
+      "date": "2025-11-28T00:00:00",
       "description": null,
       "end_time": "9:00 PM PT",
       "end_time_raw": "9:00 PM",
@@ -21,10 +21,10 @@
       "start_time": "5:00 PM PT",
       "start_time_raw": "5:00 PM",
       "timezone": "PT",
-      "vendor": "No Truck Today"
+      "vendor": "Georgia's Greek"
     },
     {
-      "date": "2025-11-28T00:00:00",
+      "date": "2025-11-29T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -35,7 +35,7 @@
       "vendor": "Tat's Truck"
     },
     {
-      "date": "2025-11-29T00:00:00",
+      "date": "2025-11-30T00:00:00",
       "description": null,
       "end_time": "7:00 PM PT",
       "end_time_raw": "7:00 PM",
@@ -44,17 +44,6 @@
       "start_time_raw": "1:00 PM",
       "timezone": "PT",
       "vendor": "Johnson BBQ Provisions"
-    },
-    {
-      "date": "2025-11-30T00:00:00",
-      "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "location": "Stoup Brewing - Ballard",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
-      "timezone": "PT",
-      "vendor": "Russo Pizzarium"
     },
     {
       "date": "2025-12-01T00:00:00",
@@ -76,7 +65,7 @@
       "start_time": "5:00 PM PT",
       "start_time_raw": "5:00 PM",
       "timezone": "PT",
-      "vendor": "The Marigold Wood Fired Pizza"
+      "vendor": "Tacos & Beer"
     },
     {
       "date": "2025-12-03T00:00:00",
@@ -87,18 +76,18 @@
       "start_time": "5:00 PM PT",
       "start_time_raw": "5:00 PM",
       "timezone": "PT",
-      "vendor": "La Costenita"
+      "vendor": "The Marigold Wood Fired Pizza"
     },
     {
-      "date": "2025-11-26T16:00:00.878000",
+      "date": "2025-12-04T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
-      "location": "Yonder Cider & Bale Breaker - Ballard",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
+      "location": "Stoup Brewing - Ballard",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
       "timezone": "PT",
-      "vendor": "Georgia\u2019s Greek"
+      "vendor": "La Costenita"
     },
     {
       "date": "2025-11-27T00:00:00.049000",
@@ -167,11 +156,11 @@
       "vendor": "Georgia\u2019s Greek"
     },
     {
-      "date": "2025-11-26T00:00:00",
+      "date": "2025-12-04T16:00:00.520000",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
-      "location": "Urban Family Brewing",
+      "location": "Yonder Cider & Bale Breaker - Ballard",
       "start_time": "4:00 PM PT",
       "start_time_raw": "4:00 PM",
       "timezone": "PT",
@@ -255,6 +244,17 @@
       "vendor": "Impeckable Chicken"
     },
     {
+      "date": "2025-12-04T00:00:00",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "location": "Urban Family Brewing",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "timezone": "PT",
+      "vendor": "Alebrije"
+    },
+    {
       "date": "2025-11-27T00:00:00",
       "description": null,
       "end_time": null,
@@ -275,17 +275,6 @@
       "start_time_raw": null,
       "timezone": "PT",
       "vendor": "Vandalz Taqueria"
-    },
-    {
-      "date": "2025-11-26T00:00:00",
-      "description": "Original event: Dinner: Oskar's Pizza",
-      "end_time": null,
-      "end_time_raw": null,
-      "location": "Chuck's Hop Shop Greenwood",
-      "start_time": null,
-      "start_time_raw": null,
-      "timezone": "PT",
-      "vendor": "Oskar's Pizza"
     },
     {
       "date": "2025-11-28T00:00:00",
@@ -354,15 +343,15 @@
       "vendor": "Chick'n Fix"
     },
     {
-      "date": "2025-11-26T17:00:00",
-      "description": "Cuisine: Greek, Gyro, Halal",
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
-      "location": "Saleh's Corner",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
+      "date": "2025-12-04T00:00:00",
+      "description": "Original event: Dinner: Pizza Paseano",
+      "end_time": null,
+      "end_time_raw": null,
+      "location": "Chuck's Hop Shop Greenwood",
+      "start_time": null,
+      "start_time_raw": null,
       "timezone": "PT",
-      "vendor": "Theo's Gyros"
+      "vendor": "Pizza Paseano"
     },
     {
       "date": "2025-11-29T17:00:00",
@@ -418,11 +407,22 @@
       "start_time_raw": "5:00 PM",
       "timezone": "PT",
       "vendor": "Theo's Gyros"
+    },
+    {
+      "date": "2025-12-04T17:00:00",
+      "description": "Cuisine: Asian, Thai, Vegetarian",
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "location": "Saleh's Corner",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "timezone": "PT",
+      "vendor": "Pumpkin Thai"
     }
   ],
-  "haiku": "\ud83c\udf43 Late autumn chill bites\u2014\nGeorgia's Greek warms Yonder's yard,\nCider meets pita \ud83c\udf7a",
+  "haiku": "\ud83e\udd83 Thanksgiving silence\u2014\nYonder Cider stands empty,\nGratitude lingers \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
   "total_events": 38,
-  "updated": "2025-11-27T07:15:19.261541+00:00"
+  "updated": "2025-11-27T08:15:19.092172+00:00"
 }
