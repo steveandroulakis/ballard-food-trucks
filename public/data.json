@@ -4,27 +4,16 @@
     {
       "date": "2025-11-26T00:00:00",
       "description": null,
-      "end_time": "8:30 PM PT",
-      "end_time_raw": "8:30 PM",
-      "location": "Stoup Brewing - Ballard",
-      "start_time": "4:30 PM PT",
-      "start_time_raw": "4:30 PM",
-      "timezone": "PT",
-      "vendor": "Kaosamai Thai"
-    },
-    {
-      "date": "2025-11-27T00:00:00",
-      "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
       "location": "Stoup Brewing - Ballard",
       "start_time": "4:00 PM PT",
       "start_time_raw": "4:00 PM",
       "timezone": "PT",
-      "vendor": "No Truck Today"
+      "vendor": "Birrieria Pepe El Toro"
     },
     {
-      "date": "2025-11-28T00:00:00",
+      "date": "2025-11-27T00:00:00",
       "description": null,
       "end_time": "9:00 PM PT",
       "end_time_raw": "9:00 PM",
@@ -32,10 +21,10 @@
       "start_time": "5:00 PM PT",
       "start_time_raw": "5:00 PM",
       "timezone": "PT",
-      "vendor": "Georgia's Greek"
+      "vendor": "No Truck Today"
     },
     {
-      "date": "2025-11-29T00:00:00",
+      "date": "2025-11-28T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -46,7 +35,7 @@
       "vendor": "Tat's Truck"
     },
     {
-      "date": "2025-11-30T00:00:00",
+      "date": "2025-11-29T00:00:00",
       "description": null,
       "end_time": "7:00 PM PT",
       "end_time_raw": "7:00 PM",
@@ -55,6 +44,17 @@
       "start_time_raw": "1:00 PM",
       "timezone": "PT",
       "vendor": "Johnson BBQ Provisions"
+    },
+    {
+      "date": "2025-11-30T00:00:00",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "location": "Stoup Brewing - Ballard",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "timezone": "PT",
+      "vendor": "Russo Pizzarium"
     },
     {
       "date": "2025-12-01T00:00:00",
@@ -76,7 +76,7 @@
       "start_time": "5:00 PM PT",
       "start_time_raw": "5:00 PM",
       "timezone": "PT",
-      "vendor": "Tacos & Beer"
+      "vendor": "The Marigold Wood Fired Pizza"
     },
     {
       "date": "2025-12-03T00:00:00",
@@ -87,7 +87,7 @@
       "start_time": "5:00 PM PT",
       "start_time_raw": "5:00 PM",
       "timezone": "PT",
-      "vendor": "The Marigold Wood Fired Pizza"
+      "vendor": "La Costenita"
     },
     {
       "date": "2025-11-26T16:00:00.878000",
@@ -420,9 +420,9 @@
       "vendor": "Theo's Gyros"
     }
   ],
-  "haiku": "\ud83c\udf5c Late autumn rain falls\u2014\nKaosamai's spice warms hearts\nat Stoup's wooden bar \ud83c\udf7a",
+  "haiku": "\ud83c\udf43 Late autumn chill bites\u2014\nGeorgia's Greek warms Yonder's yard,\nCider meets pita \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
   "total_events": 38,
-  "updated": "2025-11-27T06:15:19.558868+00:00"
+  "updated": "2025-11-27T07:15:19.261541+00:00"
 }
