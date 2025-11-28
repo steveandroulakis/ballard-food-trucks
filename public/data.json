@@ -2,7 +2,7 @@
   "errors": [],
   "events": [
     {
-      "date": "2025-11-27T00:00:00",
+      "date": "2025-11-28T00:00:00",
       "description": null,
       "end_time": "9:00 PM PT",
       "end_time_raw": "9:00 PM",
@@ -13,7 +13,7 @@
       "vendor": "Georgia's Greek"
     },
     {
-      "date": "2025-11-28T00:00:00",
+      "date": "2025-11-29T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -24,7 +24,7 @@
       "vendor": "Tat's Truck"
     },
     {
-      "date": "2025-11-29T00:00:00",
+      "date": "2025-11-30T00:00:00",
       "description": null,
       "end_time": "7:00 PM PT",
       "end_time_raw": "7:00 PM",
@@ -33,17 +33,6 @@
       "start_time_raw": "1:00 PM",
       "timezone": "PT",
       "vendor": "Johnson BBQ Provisions"
-    },
-    {
-      "date": "2025-11-30T00:00:00",
-      "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "location": "Stoup Brewing - Ballard",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
-      "timezone": "PT",
-      "vendor": "Russo Pizzarium"
     },
     {
       "date": "2025-12-01T00:00:00",
@@ -65,7 +54,7 @@
       "start_time": "5:00 PM PT",
       "start_time_raw": "5:00 PM",
       "timezone": "PT",
-      "vendor": "The Marigold Wood Fired Pizza"
+      "vendor": "Tacos & Beer"
     },
     {
       "date": "2025-12-03T00:00:00",
@@ -76,10 +65,21 @@
       "start_time": "5:00 PM PT",
       "start_time_raw": "5:00 PM",
       "timezone": "PT",
-      "vendor": "La Costenita"
+      "vendor": "The Marigold Wood Fired Pizza"
     },
     {
       "date": "2025-12-04T00:00:00",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "location": "Stoup Brewing - Ballard",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "timezone": "PT",
+      "vendor": "La Costenita"
+    },
+    {
+      "date": "2025-12-05T00:00:00",
       "description": null,
       "end_time": "9:00 PM PT",
       "end_time_raw": "9:00 PM",
@@ -88,17 +88,6 @@
       "start_time_raw": "5:00 PM",
       "timezone": "PT",
       "vendor": "Off the Rez"
-    },
-    {
-      "date": "2025-11-27T00:00:00.049000",
-      "description": null,
-      "end_time": "12:00 PM PT",
-      "end_time_raw": "12:00 PM",
-      "location": "Yonder Cider & Bale Breaker - Ballard",
-      "start_time": "12:00 AM PT",
-      "start_time_raw": "12:00 AM",
-      "timezone": "PT",
-      "vendor": "Closed - Thanksgiving"
     },
     {
       "date": "2025-11-28T16:00:00.633000",
@@ -165,6 +154,17 @@
       "start_time_raw": "4:00 PM",
       "timezone": "PT",
       "vendor": "Impeckable Chicken"
+    },
+    {
+      "date": "2025-12-05T16:00:00.740000",
+      "description": null,
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "location": "Yonder Cider & Bale Breaker - Ballard",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "timezone": "PT",
+      "vendor": "Wood Shop BBQ"
     },
     {
       "date": "2025-11-28T00:00:00",
@@ -255,15 +255,15 @@
       "vendor": "Alebrije"
     },
     {
-      "date": "2025-11-27T00:00:00",
+      "date": "2025-12-05T00:00:00",
       "description": null,
-      "end_time": null,
-      "end_time_raw": null,
-      "location": "Wheelie Pop Brewing",
-      "start_time": null,
-      "start_time_raw": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "location": "Urban Family Brewing",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
       "timezone": "PT",
-      "vendor": "Tisket Tasket"
+      "vendor": "Birrieria Pepe El Toro LLC"
     },
     {
       "date": "2025-11-29T00:00:00",
@@ -354,6 +354,17 @@
       "vendor": "Pizza Paseano"
     },
     {
+      "date": "2025-12-05T00:00:00",
+      "description": "Original event: Dinner: T'Juana",
+      "end_time": null,
+      "end_time_raw": null,
+      "location": "Chuck's Hop Shop Greenwood",
+      "start_time": null,
+      "start_time_raw": null,
+      "timezone": "PT",
+      "vendor": "T'Juana"
+    },
+    {
       "date": "2025-11-30T17:00:00",
       "description": "Cuisine: Asian, Thai, Vegetarian",
       "end_time": "9:00 PM PT",
@@ -407,11 +418,22 @@
       "start_time_raw": "5:00 PM",
       "timezone": "PT",
       "vendor": "Pumpkin Thai"
+    },
+    {
+      "date": "2025-12-05T17:00:00",
+      "description": "Cuisine: Chicken, Sandwiches, Southern",
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "location": "Saleh's Corner",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "timezone": "PT",
+      "vendor": "Impeckable Chicken"
     }
   ],
-  "haiku": "\ud83c\udf41 Empty truck stands still\u2014\nThanksgiving closes Yonder,\nGratitude lingers \ud83c\udf7a",
+  "haiku": "\ud83c\udf27\ufe0f November rain falls\u2014\nTacos warm at Urban's tap,\nBeer steams winter night \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 37,
-  "updated": "2025-11-28T07:15:20.655208+00:00"
+  "total_events": 39,
+  "updated": "2025-11-28T08:15:24.666220+00:00"
 }
