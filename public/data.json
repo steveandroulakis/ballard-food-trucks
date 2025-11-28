@@ -278,14 +278,14 @@
     },
     {
       "date": "2025-11-28T00:00:00",
-      "description": "Original event: Dinner: Where ya at Matt",
+      "description": "Original event: Dinner: NO TRUCK",
       "end_time": null,
       "end_time_raw": null,
       "location": "Chuck's Hop Shop Greenwood",
       "start_time": null,
       "start_time_raw": null,
       "timezone": "PT",
-      "vendor": "Where ya at Matt"
+      "vendor": "NO TRUCK"
     },
     {
       "date": "2025-11-29T00:00:00",
@@ -431,9 +431,9 @@
       "vendor": "Impeckable Chicken"
     }
   ],
-  "haiku": "\ud83c\udf43 Cold rain taps windows\u2014\nWhere ya at Matt warms the night\nat Chuck's hoppy glow \ud83c\udf7a",
+  "haiku": "\ud83c\udf43 November rain falls\u2014\nGeorgia's Greek warms Stoup's patio,\nFeta meets fresh hops \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
   "total_events": 39,
-  "updated": "2025-11-28T19:15:25.864550+00:00"
+  "updated": "2025-11-28T20:15:19.325541+00:00"
 }
