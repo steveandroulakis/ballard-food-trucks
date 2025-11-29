@@ -193,6 +193,17 @@
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
+      "location": "Obec Brewing",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "timezone": "PT",
+      "vendor": "Maroom Thai"
+    },
+    {
+      "date": "2025-11-29T00:00:00",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
       "location": "Urban Family Brewing",
       "start_time": "4:00 PM PT",
       "start_time_raw": "4:00 PM",
@@ -464,9 +475,9 @@
       "vendor": "Pumpkin Thai"
     }
   ],
-  "haiku": "\ud83c\udf27\ufe0f November rain falls\u2014\nGeorgia's Greek warms Yonder's hall,\nCider, feta, friends \ud83c\udf7b",
+  "haiku": "\ud83c\udf27\ufe0f Winter rain drips down\u2014\nTat's sizzles at Stoup's warm glow,\nBallard souls gather \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 42,
-  "updated": "2025-11-29T09:15:18.119784+00:00"
+  "total_events": 43,
+  "updated": "2025-11-29T10:15:37.017365+00:00"
 }
