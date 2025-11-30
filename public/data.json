@@ -4,17 +4,6 @@
     {
       "date": "2025-11-29T00:00:00",
       "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "location": "Stoup Brewing - Ballard",
-      "start_time": "1:00 PM PT",
-      "start_time_raw": "1:00 PM",
-      "timezone": "PT",
-      "vendor": "Tat's Truck"
-    },
-    {
-      "date": "2025-11-30T00:00:00",
-      "description": null,
       "end_time": "7:00 PM PT",
       "end_time_raw": "7:00 PM",
       "location": "Stoup Brewing - Ballard",
@@ -22,6 +11,17 @@
       "start_time_raw": "1:00 PM",
       "timezone": "PT",
       "vendor": "Johnson BBQ Provisions"
+    },
+    {
+      "date": "2025-11-30T00:00:00",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "location": "Stoup Brewing - Ballard",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "timezone": "PT",
+      "vendor": "Russo Pizzarium"
     },
     {
       "date": "2025-12-01T00:00:00",
@@ -43,7 +43,7 @@
       "start_time": "5:00 PM PT",
       "start_time_raw": "5:00 PM",
       "timezone": "PT",
-      "vendor": "Tacos & Beer"
+      "vendor": "The Marigold Wood Fired Pizza"
     },
     {
       "date": "2025-12-03T00:00:00",
@@ -54,21 +54,10 @@
       "start_time": "5:00 PM PT",
       "start_time_raw": "5:00 PM",
       "timezone": "PT",
-      "vendor": "The Marigold Wood Fired Pizza"
-    },
-    {
-      "date": "2025-12-04T00:00:00",
-      "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "location": "Stoup Brewing - Ballard",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
-      "timezone": "PT",
       "vendor": "La Costenita"
     },
     {
-      "date": "2025-12-05T00:00:00",
+      "date": "2025-12-04T00:00:00",
       "description": null,
       "end_time": "9:00 PM PT",
       "end_time_raw": "9:00 PM",
@@ -79,7 +68,7 @@
       "vendor": "Off the Rez"
     },
     {
-      "date": "2025-12-06T00:00:00",
+      "date": "2025-12-05T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -88,6 +77,17 @@
       "start_time_raw": "1:00 PM",
       "timezone": "PT",
       "vendor": "Woodshop BBQ"
+    },
+    {
+      "date": "2025-12-06T00:00:00",
+      "description": null,
+      "end_time": "7:00 PM PT",
+      "end_time_raw": "7:00 PM",
+      "location": "Stoup Brewing - Ballard",
+      "start_time": "1:00 PM PT",
+      "start_time_raw": "1:00 PM",
+      "timezone": "PT",
+      "vendor": "El Pirata Tortas Y Burritos / Now Make Me A Sandwich"
     },
     {
       "date": "2025-11-29T13:00:00.512000",
@@ -398,9 +398,9 @@
       "vendor": "Pumpkin Thai"
     }
   ],
-  "haiku": "\ud83c\udf55 Winter rain patters\u2014\nOskar's wood-fired warmth mingles\nwith Urban hops' glow \ud83c\udf7a",
+  "haiku": "\ud83c\udf56 Winter's breath grows cold\u2014\nJohnson's smoke meets Stoup's warm hops,\nBallard hearts gather \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
   "total_events": 36,
-  "updated": "2025-11-30T06:15:18.192949+00:00"
+  "updated": "2025-11-30T07:15:17.895127+00:00"
 }
