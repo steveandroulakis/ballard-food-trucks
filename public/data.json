@@ -2,17 +2,6 @@
   "errors": [],
   "events": [
     {
-      "date": "2025-11-30T00:00:00",
-      "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "location": "Stoup Brewing - Ballard",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
-      "timezone": "PT",
-      "vendor": "Russo Pizzarium"
-    },
-    {
       "date": "2025-12-01T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
@@ -32,7 +21,7 @@
       "start_time": "5:00 PM PT",
       "start_time_raw": "5:00 PM",
       "timezone": "PT",
-      "vendor": "The Marigold Wood Fired Pizza"
+      "vendor": "Tacos & Beer"
     },
     {
       "date": "2025-12-03T00:00:00",
@@ -43,10 +32,21 @@
       "start_time": "5:00 PM PT",
       "start_time_raw": "5:00 PM",
       "timezone": "PT",
-      "vendor": "La Costenita"
+      "vendor": "The Marigold Wood Fired Pizza"
     },
     {
       "date": "2025-12-04T00:00:00",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "location": "Stoup Brewing - Ballard",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "timezone": "PT",
+      "vendor": "La Costenita"
+    },
+    {
+      "date": "2025-12-05T00:00:00",
       "description": null,
       "end_time": "9:00 PM PT",
       "end_time_raw": "9:00 PM",
@@ -57,7 +57,7 @@
       "vendor": "Off the Rez"
     },
     {
-      "date": "2025-12-05T00:00:00",
+      "date": "2025-12-06T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -68,7 +68,7 @@
       "vendor": "Woodshop BBQ"
     },
     {
-      "date": "2025-12-06T00:00:00",
+      "date": "2025-12-07T00:00:00",
       "description": null,
       "end_time": "7:00 PM PT",
       "end_time_raw": "7:00 PM",
@@ -79,7 +79,7 @@
       "vendor": "El Pirata Tortas Y Burritos / Now Make Me A Sandwich"
     },
     {
-      "date": "2025-12-07T00:00:00",
+      "date": "2025-12-08T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -200,7 +200,7 @@
       "vendor": "Tacos &amp; Beer"
     },
     {
-      "date": "2025-11-30T00:00:00",
+      "date": "2025-12-01T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -209,28 +209,6 @@
       "start_time_raw": "4:00 PM",
       "timezone": "PT",
       "vendor": "Maroom Thai"
-    },
-    {
-      "date": "2025-11-30T00:00:00",
-      "description": null,
-      "end_time": "12:00 PM PT",
-      "end_time_raw": "12:00 PM",
-      "location": "Urban Family Brewing",
-      "start_time": "8:00 AM PT",
-      "start_time_raw": "8:00 AM",
-      "timezone": "PT",
-      "vendor": "TBD"
-    },
-    {
-      "date": "2025-11-30T00:00:00",
-      "description": null,
-      "end_time": "7:00 PM PT",
-      "end_time_raw": "7:00 PM",
-      "location": "Urban Family Brewing",
-      "start_time": "1:00 PM PT",
-      "start_time_raw": "1:00 PM",
-      "timezone": "PT",
-      "vendor": "Burger Planet"
     },
     {
       "date": "2025-12-01T00:00:00",
@@ -321,6 +299,17 @@
       "vendor": "Kaosamai Thai Restaurant"
     },
     {
+      "date": "2025-12-08T00:00:00",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "location": "Urban Family Brewing",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "timezone": "PT",
+      "vendor": "TBD"
+    },
+    {
       "date": "2025-12-04T00:00:00",
       "description": null,
       "end_time": null,
@@ -341,17 +330,6 @@
       "start_time_raw": "12:00 AM",
       "timezone": "PT",
       "vendor": "Vandalz Taqueria"
-    },
-    {
-      "date": "2025-11-30T00:00:00",
-      "description": "Original event: Momo Express",
-      "end_time": null,
-      "end_time_raw": null,
-      "location": "Chuck's Hop Shop Greenwood",
-      "start_time": null,
-      "start_time_raw": null,
-      "timezone": "PT",
-      "vendor": "Momo Express"
     },
     {
       "date": "2025-12-01T00:00:00",
@@ -442,15 +420,15 @@
       "vendor": "Georgia's Greek"
     },
     {
-      "date": "2025-11-30T17:00:00",
-      "description": "Cuisine: Asian, Thai, Vegetarian",
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
-      "location": "Saleh's Corner",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
+      "date": "2025-12-08T00:00:00",
+      "description": "Original event: Dinner: Off the Rez",
+      "end_time": null,
+      "end_time_raw": null,
+      "location": "Chuck's Hop Shop Greenwood",
+      "start_time": null,
+      "start_time_raw": null,
       "timezone": "PT",
-      "vendor": "Pumpkin Thai"
+      "vendor": "Off the Rez"
     },
     {
       "date": "2025-12-01T17:00:00",
@@ -517,11 +495,22 @@
       "start_time_raw": "5:00 PM",
       "timezone": "PT",
       "vendor": "Thai-U-Up"
+    },
+    {
+      "date": "2025-12-08T17:00:00",
+      "description": "Cuisine: Asian, BBQ, Sandwiches",
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "location": "Saleh's Corner",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "timezone": "PT",
+      "vendor": "MOMO Express"
     }
   ],
-  "haiku": "\ud83c\udf55 November rain falls\u2014\nRusso's pizza steams at Stoup,\nWarmth in Ballard's heart \ud83c\udf7a",
+  "haiku": "\ud83c\udf27\ufe0f December rain falls\u2014\nMaroom Thai spice warms the cold\nat Obec's bright hearth \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 47,
-  "updated": "2025-12-01T07:15:17.812376+00:00"
+  "total_events": 46,
+  "updated": "2025-12-01T08:15:18.755434+00:00"
 }
