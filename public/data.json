@@ -90,7 +90,106 @@
       "vendor": "El Pirata Tortas Y Burritos / Now Make Me A Sandwich"
     },
     {
-      "date": "2025-11-30T13:00:00.337000",
+      "date": "2025-12-02T16:00:00.961000",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "location": "Yonder Cider & Bale Breaker - Ballard",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "timezone": "PT",
+      "vendor": "Tummy Yummy Thai"
+    },
+    {
+      "date": "2025-12-03T16:00:00.307000",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "location": "Yonder Cider & Bale Breaker - Ballard",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "timezone": "PT",
+      "vendor": "Georgia\u2019s Greek"
+    },
+    {
+      "date": "2025-12-04T16:00:00.520000",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "location": "Yonder Cider & Bale Breaker - Ballard",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "timezone": "PT",
+      "vendor": "Impeckable Chicken"
+    },
+    {
+      "date": "2025-12-05T16:00:00.740000",
+      "description": null,
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "location": "Yonder Cider & Bale Breaker - Ballard",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "timezone": "PT",
+      "vendor": "Wood Shop BBQ"
+    },
+    {
+      "date": "2025-12-06T12:00:00.231000",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "location": "Yonder Cider & Bale Breaker - Ballard",
+      "start_time": "12:00 PM PT",
+      "start_time_raw": "12:00 PM",
+      "timezone": "PT",
+      "vendor": "The Little Pearl Oyster Bar by Salish Sea Greens"
+    },
+    {
+      "date": "2025-12-06T12:00:00.231000",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "location": "Yonder Cider & Bale Breaker - Ballard",
+      "start_time": "12:00 PM PT",
+      "start_time_raw": "12:00 PM",
+      "timezone": "PT",
+      "vendor": "Sauna Social w/ PNW Mobile Spa"
+    },
+    {
+      "date": "2025-12-06T13:00:00.384000",
+      "description": null,
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "location": "Yonder Cider & Bale Breaker - Ballard",
+      "start_time": "1:00 PM PT",
+      "start_time_raw": "1:00 PM",
+      "timezone": "PT",
+      "vendor": "Wich Came First"
+    },
+    {
+      "date": "2025-12-07T12:00:00.413000",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "location": "Yonder Cider & Bale Breaker - Ballard",
+      "start_time": "12:00 PM PT",
+      "start_time_raw": "12:00 PM",
+      "timezone": "PT",
+      "vendor": "Sauna Social w/ PNW Mobile Spa"
+    },
+    {
+      "date": "2025-12-07T12:00:00.500000",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "location": "Yonder Cider & Bale Breaker - Ballard",
+      "start_time": "12:00 PM PT",
+      "start_time_raw": "12:00 PM",
+      "timezone": "PT",
+      "vendor": "The Little Pearl Oyster Bar by Salish Sea Greens"
+    },
+    {
+      "date": "2025-12-07T13:00:00.847000",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -420,9 +519,9 @@
       "vendor": "Thai-U-Up"
     }
   ],
-  "haiku": "\ud83c\udf27\ufe0f Winter rain patters\u2014\nTBD warms Urban hearts,\nBallard's brew embrace \ud83c\udf7a",
+  "haiku": "\ud83c\udf54 Winter fog lifts slow\u2014\nBurger Planet sizzles warm\nat Urban's bright hearth \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 38,
-  "updated": "2025-11-30T23:15:18.302095+00:00"
+  "total_events": 47,
+  "updated": "2025-12-01T00:15:21.288456+00:00"
 }
