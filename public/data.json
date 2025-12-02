@@ -10,7 +10,7 @@
       "start_time": "5:00 PM PT",
       "start_time_raw": "5:00 PM",
       "timezone": "PT",
-      "vendor": "El Gran Taco"
+      "vendor": "Russo Pizzarium"
     },
     {
       "date": "2025-12-02T00:00:00",
@@ -497,9 +497,9 @@
       "vendor": "MOMO Express"
     }
   ],
-  "haiku": "\ud83c\udf27\ufe0f December rain falls\u2014\nPlaza Garcia steams hot\nat Obec's warm hearth \ud83c\udf7a",
+  "haiku": "\ud83c\udf27\ufe0f Winter rain falls soft\u2014\nTBD warms hearts at Urban,\nCraft beer, street food bond \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
   "total_events": 45,
-  "updated": "2025-12-01T23:15:27.930179+00:00"
+  "updated": "2025-12-02T00:15:18.656379+00:00"
 }
