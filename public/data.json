@@ -213,13 +213,13 @@
     {
       "date": "2025-12-05T00:00:00",
       "description": null,
-      "end_time": "7:00 PM PT",
-      "end_time_raw": "7:00 PM",
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
       "location": "Obec Brewing",
       "start_time": "4:00 PM PT",
       "start_time_raw": "4:00 PM",
       "timezone": "PT",
-      "vendor": "Split Open and Melt Cheesesteaks"
+      "vendor": "Burgerdom"
     },
     {
       "date": "2025-12-05T00:00:00",
@@ -519,9 +519,9 @@
       "vendor": "Impeckable Chicken"
     }
   ],
-  "haiku": "\ud83c\udf27\ufe0f December's cold rain\u2014\nT'Juana's warmth fills the night\nat Chuck's hoppy glow \ud83c\udf7a",
+  "haiku": "\ud83c\udf54 Winter rain taps roof\u2014\nBurgerdom's warmth meets Obec's\ngolden brew and flame \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
   "total_events": 47,
-  "updated": "2025-12-05T08:15:18.322993+00:00"
+  "updated": "2025-12-05T09:15:18.346736+00:00"
 }
