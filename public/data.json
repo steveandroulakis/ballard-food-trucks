@@ -219,7 +219,7 @@
       "start_time": "4:00 PM PT",
       "start_time_raw": "4:00 PM",
       "timezone": "PT",
-      "vendor": "Burgerdom"
+      "vendor": "Nachos and Tacos"
     },
     {
       "date": "2025-12-05T00:00:00",
@@ -519,9 +519,9 @@
       "vendor": "Impeckable Chicken"
     }
   ],
-  "haiku": "\ud83c\udf54 December's cold bite\u2014\nBurgerdom's steam meets craft beer\nat Obec's warm hearth \ud83c\udf7a",
+  "haiku": "\u2744\ufe0f Winter mist descends\u2014\nImpeckable warmth beckons\nat Saleh's bright door \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
   "total_events": 47,
-  "updated": "2025-12-05T23:15:17.825150+00:00"
+  "updated": "2025-12-06T00:15:18.452656+00:00"
 }
