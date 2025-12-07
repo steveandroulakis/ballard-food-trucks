@@ -2,7 +2,7 @@
   "errors": [],
   "events": [
     {
-      "date": "2025-12-06T00:00:00",
+      "date": "2025-12-07T00:00:00",
       "description": null,
       "end_time": "7:00 PM PT",
       "end_time_raw": "7:00 PM",
@@ -13,7 +13,7 @@
       "vendor": "El Pirata Tortas Y Burritos / Now Make Me A Sandwich"
     },
     {
-      "date": "2025-12-07T00:00:00",
+      "date": "2025-12-08T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -24,7 +24,7 @@
       "vendor": "Where Ya At Matt"
     },
     {
-      "date": "2025-12-08T00:00:00",
+      "date": "2025-12-09T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -32,10 +32,10 @@
       "start_time": "5:00 PM PT",
       "start_time_raw": "5:00 PM",
       "timezone": "PT",
-      "vendor": "Poke Me"
+      "vendor": "Split Open & Melt Cheesesteaks"
     },
     {
-      "date": "2025-12-09T00:00:00",
+      "date": "2025-12-10T00:00:00",
       "description": null,
       "end_time": "8:30 PM PT",
       "end_time_raw": "8:30 PM",
@@ -43,10 +43,10 @@
       "start_time": "4:30 PM PT",
       "start_time_raw": "4:30 PM",
       "timezone": "PT",
-      "vendor": "Split Open & Melt Cheesesteaks"
+      "vendor": "Kaosamai Thai"
     },
     {
-      "date": "2025-12-10T00:00:00",
+      "date": "2025-12-11T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -57,7 +57,7 @@
       "vendor": "Birrieria Pepe El Toro"
     },
     {
-      "date": "2025-12-11T00:00:00",
+      "date": "2025-12-12T00:00:00",
       "description": null,
       "end_time": "9:00 PM PT",
       "end_time_raw": "9:00 PM",
@@ -68,7 +68,7 @@
       "vendor": "Georgia's Greek"
     },
     {
-      "date": "2025-12-12T00:00:00",
+      "date": "2025-12-13T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -79,7 +79,7 @@
       "vendor": "Tat's Truck"
     },
     {
-      "date": "2025-12-13T00:00:00",
+      "date": "2025-12-14T00:00:00",
       "description": null,
       "end_time": "7:00 PM PT",
       "end_time_raw": "7:00 PM",
@@ -88,39 +88,6 @@
       "start_time_raw": "1:00 PM",
       "timezone": "PT",
       "vendor": "Johnson BBQ Provisions"
-    },
-    {
-      "date": "2025-12-06T12:00:00.231000",
-      "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "location": "Yonder Cider & Bale Breaker - Ballard",
-      "start_time": "12:00 PM PT",
-      "start_time_raw": "12:00 PM",
-      "timezone": "PT",
-      "vendor": "The Little Pearl Oyster Bar by Salish Sea Greens"
-    },
-    {
-      "date": "2025-12-06T12:00:00.231000",
-      "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "location": "Yonder Cider & Bale Breaker - Ballard",
-      "start_time": "12:00 PM PT",
-      "start_time_raw": "12:00 PM",
-      "timezone": "PT",
-      "vendor": "Sauna Social w/ PNW Mobile Spa"
-    },
-    {
-      "date": "2025-12-06T13:00:00.384000",
-      "description": null,
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
-      "location": "Yonder Cider & Bale Breaker - Ballard",
-      "start_time": "1:00 PM PT",
-      "start_time_raw": "1:00 PM",
-      "timezone": "PT",
-      "vendor": "Wich Came First"
     },
     {
       "date": "2025-12-07T12:00:00.413000",
@@ -222,26 +189,15 @@
       "vendor": "Georgia\u2019s Greek"
     },
     {
-      "date": "2025-12-06T00:00:00",
+      "date": "2025-12-14T13:00:00.115000",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
-      "location": "Obec Brewing",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
-      "timezone": "PT",
-      "vendor": "Kaosamai Thai"
-    },
-    {
-      "date": "2025-12-06T00:00:00",
-      "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "location": "Urban Family Brewing",
+      "location": "Yonder Cider & Bale Breaker - Ballard",
       "start_time": "1:00 PM PT",
       "start_time_raw": "1:00 PM",
       "timezone": "PT",
-      "vendor": "MomoExpress"
+      "vendor": "Tacos &amp; Beer"
     },
     {
       "date": "2025-12-07T00:00:00",
@@ -321,15 +277,26 @@
       "vendor": "Oskar's Pizza"
     },
     {
-      "date": "2025-12-06T00:00:00",
+      "date": "2025-12-14T00:00:00",
       "description": null,
-      "end_time": "1:00 AM PT",
-      "end_time_raw": "1:00 AM",
-      "location": "Wheelie Pop Brewing",
-      "start_time": "12:00 AM PT",
-      "start_time_raw": "12:00 AM",
+      "end_time": "12:00 PM PT",
+      "end_time_raw": "12:00 PM",
+      "location": "Urban Family Brewing",
+      "start_time": "8:00 AM PT",
+      "start_time_raw": "8:00 AM",
       "timezone": "PT",
-      "vendor": "Vandalz Taqueria"
+      "vendor": "TBD"
+    },
+    {
+      "date": "2025-12-14T00:00:00",
+      "description": null,
+      "end_time": "7:00 PM PT",
+      "end_time_raw": "7:00 PM",
+      "location": "Urban Family Brewing",
+      "start_time": "1:00 PM PT",
+      "start_time_raw": "1:00 PM",
+      "timezone": "PT",
+      "vendor": "Burger Planet"
     },
     {
       "date": "2025-12-11T00:00:00",
@@ -352,17 +319,6 @@
       "start_time_raw": "12:00 AM",
       "timezone": "PT",
       "vendor": "Vandalz Taqueria"
-    },
-    {
-      "date": "2025-12-06T00:00:00",
-      "description": "Original event: Tat's Deli",
-      "end_time": null,
-      "end_time_raw": null,
-      "location": "Chuck's Hop Shop Greenwood",
-      "start_time": null,
-      "start_time_raw": null,
-      "timezone": "PT",
-      "vendor": "Tat's Deli"
     },
     {
       "date": "2025-12-07T00:00:00",
@@ -453,15 +409,26 @@
       "vendor": "Sabor Boricua"
     },
     {
-      "date": "2025-12-06T17:00:00",
-      "description": "Cuisine: Gluten-Free, Italian, Pizza",
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
-      "location": "Saleh's Corner",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
+      "date": "2025-12-14T00:00:00",
+      "description": "Original event: Brunch: Cocina Barelas",
+      "end_time": null,
+      "end_time_raw": null,
+      "location": "Chuck's Hop Shop Greenwood",
+      "start_time": null,
+      "start_time_raw": null,
       "timezone": "PT",
-      "vendor": "Oskar's Pizza"
+      "vendor": "Cocina Barelas"
+    },
+    {
+      "date": "2025-12-14T00:00:00",
+      "description": "Original event: Momo Express",
+      "end_time": null,
+      "end_time_raw": null,
+      "location": "Chuck's Hop Shop Greenwood",
+      "start_time": null,
+      "start_time_raw": null,
+      "timezone": "PT",
+      "vendor": "Momo Express"
     },
     {
       "date": "2025-12-07T17:00:00",
@@ -539,11 +506,22 @@
       "start_time_raw": "5:00 PM",
       "timezone": "PT",
       "vendor": "Split Open and Melt"
+    },
+    {
+      "date": "2025-12-14T17:00:00",
+      "description": "Cuisine: Asian, Thai, Vegetarian",
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "location": "Saleh's Corner",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "timezone": "PT",
+      "vendor": "Pumpkin Thai"
     }
   ],
-  "haiku": "\ud83c\udf27\ufe0f Winter rain softens\u2014\nEl Pirata's warm tortas\nsteam at Stoup's wood tables \ud83c\udf7a",
+  "haiku": "\ud83c\udf27\ufe0f Winter rain softly falls\u2014\nKaosamai's spice warms souls\nat Urban's bright hearth \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 49,
-  "updated": "2025-12-07T07:15:18.456247+00:00"
+  "total_events": 47,
+  "updated": "2025-12-07T08:15:22.785601+00:00"
 }
