@@ -21,7 +21,7 @@
       "start_time": "4:30 PM PT",
       "start_time_raw": "4:30 PM",
       "timezone": "PT",
-      "vendor": "Kaosamai Thai"
+      "vendor": "El Gran Taco"
     },
     {
       "date": "2025-12-11T00:00:00",
@@ -65,7 +65,7 @@
       "start_time": "1:00 PM PT",
       "start_time_raw": "1:00 PM",
       "timezone": "PT",
-      "vendor": "Johnson BBQ Provisions"
+      "vendor": "Kaosamai Thai"
     },
     {
       "date": "2025-12-15T00:00:00",
@@ -76,7 +76,7 @@
       "start_time": "5:00 PM PT",
       "start_time_raw": "5:00 PM",
       "timezone": "PT",
-      "vendor": "El Gran Taco"
+      "vendor": "Bai Tong on Wheels"
     },
     {
       "date": "2025-12-16T00:00:00",
@@ -486,9 +486,9 @@
       "vendor": "Plaza Garcia Express"
     }
   ],
-  "haiku": "\ud83c\udf27\ufe0f Winter rain patters\u2014\nGeorgia's Greek warms Ballard hearts\nat Urban's bright hearth \ud83c\udf7a",
+  "haiku": "\u2744\ufe0f Winter rain taps down\u2014\nPlaza Garcia's steam meets\nSaleh's amber glow \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
   "total_events": 44,
-  "updated": "2025-12-09T20:15:19.218134+00:00"
+  "updated": "2025-12-09T21:15:19.092231+00:00"
 }
