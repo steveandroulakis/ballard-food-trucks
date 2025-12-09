@@ -10,21 +10,10 @@
       "start_time": "5:00 PM PT",
       "start_time_raw": "5:00 PM",
       "timezone": "PT",
-      "vendor": "Where Ya At Matt"
+      "vendor": "Poke Me"
     },
     {
       "date": "2025-12-09T00:00:00",
-      "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "location": "Stoup Brewing - Ballard",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
-      "timezone": "PT",
-      "vendor": "Split Open & Melt Cheesesteaks"
-    },
-    {
-      "date": "2025-12-10T00:00:00",
       "description": null,
       "end_time": "8:30 PM PT",
       "end_time_raw": "8:30 PM",
@@ -32,10 +21,10 @@
       "start_time": "4:30 PM PT",
       "start_time_raw": "4:30 PM",
       "timezone": "PT",
-      "vendor": "Kaosamai Thai"
+      "vendor": "Split Open & Melt Cheesesteaks"
     },
     {
-      "date": "2025-12-11T00:00:00",
+      "date": "2025-12-10T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -46,7 +35,7 @@
       "vendor": "Birrieria Pepe El Toro"
     },
     {
-      "date": "2025-12-12T00:00:00",
+      "date": "2025-12-11T00:00:00",
       "description": null,
       "end_time": "9:00 PM PT",
       "end_time_raw": "9:00 PM",
@@ -57,7 +46,7 @@
       "vendor": "Georgia's Greek"
     },
     {
-      "date": "2025-12-13T00:00:00",
+      "date": "2025-12-12T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -68,7 +57,7 @@
       "vendor": "Tat's Truck"
     },
     {
-      "date": "2025-12-14T00:00:00",
+      "date": "2025-12-13T00:00:00",
       "description": null,
       "end_time": "7:00 PM PT",
       "end_time_raw": "7:00 PM",
@@ -77,6 +66,17 @@
       "start_time_raw": "1:00 PM",
       "timezone": "PT",
       "vendor": "Johnson BBQ Provisions"
+    },
+    {
+      "date": "2025-12-14T00:00:00",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "location": "Stoup Brewing - Ballard",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "timezone": "PT",
+      "vendor": "Russo Pizzarium"
     },
     {
       "date": "2025-12-15T00:00:00",
@@ -475,9 +475,9 @@
       "vendor": "MOMO Express"
     }
   ],
-  "haiku": "\ud83c\udf27\ufe0f Winter rain patters\u2014\nWhere Ya At Matt steams at Stoup,\nBrew warmth fills the night \ud83c\udf7a",
+  "haiku": "\ud83c\udf27\ufe0f Winter rain falls soft\u2014\nPoke bowls warm at Stoup's tables,\nBallard's comfort found \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
   "total_events": 43,
-  "updated": "2025-12-09T06:15:19.949861+00:00"
+  "updated": "2025-12-09T07:15:18.044340+00:00"
 }
