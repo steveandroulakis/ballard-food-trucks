@@ -164,7 +164,7 @@
       "start_time": "4:00 PM PT",
       "start_time_raw": "4:00 PM",
       "timezone": "PT",
-      "vendor": "Maroom Thai"
+      "vendor": "Plaza Garcia"
     },
     {
       "date": "2025-12-15T00:00:00",
@@ -475,9 +475,9 @@
       "vendor": "Kathmandu MoMoCha"
     }
   ],
-  "haiku": "\ud83e\udd5f Winter rain softly falls\u2014\nMomo steam rises at warm\nSaleh's Corner hearth \ud83c\udf7a",
+  "haiku": "\ud83e\udd5f Winter rain falls soft\u2014\nKathmandu's steam rises warm\nat Chuck's hoppy heart \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
   "total_events": 43,
-  "updated": "2025-12-15T09:15:19.031914+00:00"
+  "updated": "2025-12-15T10:15:19.586875+00:00"
 }
