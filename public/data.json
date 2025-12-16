@@ -175,7 +175,7 @@
       "start_time": "4:00 PM PT",
       "start_time_raw": "4:00 PM",
       "timezone": "PT",
-      "vendor": "Plaza Garcia"
+      "vendor": "Maroom Thai"
     },
     {
       "date": "2025-12-16T00:00:00",
@@ -486,9 +486,9 @@
       "vendor": "Tummy Yummy"
     }
   ],
-  "haiku": "\ud83c\udf28\ufe0f Winter mist swirls cold\u2014\nPlaza Garcia's steam rises\nat Obec's warm glow \ud83c\udf7a",
+  "haiku": "\ud83c\udf27\ufe0f Winter rain softly falls\u2014\nTacos warm at Stoup's bright bar,\nBeer and laughter flow \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
   "total_events": 44,
-  "updated": "2025-12-16T09:15:18.858904+00:00"
+  "updated": "2025-12-16T10:15:20.721711+00:00"
 }
