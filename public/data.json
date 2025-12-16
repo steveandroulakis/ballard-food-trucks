@@ -2,7 +2,7 @@
   "errors": [],
   "events": [
     {
-      "date": "2025-12-15T00:00:00",
+      "date": "2025-12-16T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -13,7 +13,7 @@
       "vendor": "Tacos & Beer"
     },
     {
-      "date": "2025-12-16T00:00:00",
+      "date": "2025-12-17T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -24,7 +24,7 @@
       "vendor": "The Marigold Wood Fired Pizza"
     },
     {
-      "date": "2025-12-17T00:00:00",
+      "date": "2025-12-18T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -35,7 +35,7 @@
       "vendor": "La Costenita"
     },
     {
-      "date": "2025-12-18T00:00:00",
+      "date": "2025-12-19T00:00:00",
       "description": null,
       "end_time": "9:00 PM PT",
       "end_time_raw": "9:00 PM",
@@ -46,7 +46,7 @@
       "vendor": "Off the Rez"
     },
     {
-      "date": "2025-12-19T00:00:00",
+      "date": "2025-12-20T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -57,7 +57,7 @@
       "vendor": "Johnson BBQ Provisions"
     },
     {
-      "date": "2025-12-20T00:00:00",
+      "date": "2025-12-21T00:00:00",
       "description": null,
       "end_time": "7:00 PM PT",
       "end_time_raw": "7:00 PM",
@@ -68,7 +68,7 @@
       "vendor": "El Pirata Tortas Y Burritos / Now Make Me A Sandwich"
     },
     {
-      "date": "2025-12-21T00:00:00",
+      "date": "2025-12-22T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -79,7 +79,7 @@
       "vendor": "Where Ya At Matt"
     },
     {
-      "date": "2025-12-22T00:00:00",
+      "date": "2025-12-23T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -156,7 +156,18 @@
       "vendor": "Tacos &amp; Beer"
     },
     {
-      "date": "2025-12-15T00:00:00",
+      "date": "2025-12-23T16:00:00.338000",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "location": "Yonder Cider & Bale Breaker - Ballard",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "timezone": "PT",
+      "vendor": "Birrieria Pepe El Toro"
+    },
+    {
+      "date": "2025-12-16T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -165,17 +176,6 @@
       "start_time_raw": "4:00 PM",
       "timezone": "PT",
       "vendor": "Plaza Garcia"
-    },
-    {
-      "date": "2025-12-15T00:00:00",
-      "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "location": "Urban Family Brewing",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
-      "timezone": "PT",
-      "vendor": "TBD"
     },
     {
       "date": "2025-12-16T00:00:00",
@@ -266,6 +266,17 @@
       "vendor": "TBD"
     },
     {
+      "date": "2025-12-23T00:00:00",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "location": "Urban Family Brewing",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "timezone": "PT",
+      "vendor": "Georgia's Greek"
+    },
+    {
       "date": "2025-12-18T00:00:00",
       "description": null,
       "end_time": "1:00 AM PT",
@@ -286,17 +297,6 @@
       "start_time_raw": "12:00 AM",
       "timezone": "PT",
       "vendor": "Vandalz Taqueria"
-    },
-    {
-      "date": "2025-12-15T00:00:00",
-      "description": "Original event: Dinner: Kathmandu Dumplings",
-      "end_time": null,
-      "end_time_raw": null,
-      "location": "Chuck's Hop Shop Greenwood",
-      "start_time": null,
-      "start_time_raw": null,
-      "timezone": "PT",
-      "vendor": "Kathmandu Dumplings"
     },
     {
       "date": "2025-12-16T00:00:00",
@@ -387,6 +387,17 @@
       "vendor": "Off the Rez"
     },
     {
+      "date": "2025-12-23T00:00:00",
+      "description": "Original event: Dinner: Kaosamai Thai",
+      "end_time": null,
+      "end_time_raw": null,
+      "location": "Chuck's Hop Shop Greenwood",
+      "start_time": null,
+      "start_time_raw": null,
+      "timezone": "PT",
+      "vendor": "Kaosamai Thai"
+    },
+    {
       "date": "2025-12-16T17:00:00",
       "description": "Cuisine: Burritos, Mexican, Tacos",
       "end_time": "9:00 PM PT",
@@ -462,11 +473,22 @@
       "start_time_raw": "5:00 PM",
       "timezone": "PT",
       "vendor": "Kathmandu MoMoCha"
+    },
+    {
+      "date": "2025-12-23T17:00:00",
+      "description": "Cuisine: Asian, Thai, Vietnamese",
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "location": "Saleh's Corner",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "timezone": "PT",
+      "vendor": "Tummy Yummy"
     }
   ],
-  "haiku": "\ud83e\udd5f Winter's chill retreats\u2014\nKathmandu's steam rises warm\nat Chuck's hoppy hearth \ud83c\udf7a",
+  "haiku": "\ud83c\udf27\ufe0f December rain falls\u2014\nTacos steam at Stoup's warm glow,\nBeer and comfort found \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 42,
-  "updated": "2025-12-16T07:15:19.196845+00:00"
+  "total_events": 44,
+  "updated": "2025-12-16T08:15:19.093864+00:00"
 }
