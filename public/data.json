@@ -175,7 +175,7 @@
       "start_time": "4:00 PM PT",
       "start_time_raw": "4:00 PM",
       "timezone": "PT",
-      "vendor": "Maroom Thai"
+      "vendor": "Empanadas el Pachi"
     },
     {
       "date": "2025-12-17T00:00:00",
@@ -486,9 +486,9 @@
       "vendor": "Blackstar Kebab"
     }
   ],
-  "haiku": "\ud83c\udf57 Winter rain patters\u2014\nImpeckable birds sizzle\nat Urban's warm tap \ud83c\udf7a",
+  "haiku": "\ud83c\udf57 Winter rain patters\u2014\nImpeckable warmth awaits\nat Urban's warm hearth \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
   "total_events": 44,
-  "updated": "2025-12-17T08:15:23.169031+00:00"
+  "updated": "2025-12-17T09:15:24.000517+00:00"
 }
