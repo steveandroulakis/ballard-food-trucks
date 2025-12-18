@@ -1,10 +1,8 @@
 {
-  "errors": [
-    "Failed to fetch information for brewery: Obec Brewing"
-  ],
+  "errors": [],
   "events": [
     {
-      "date": "2025-12-17T00:00:00",
+      "date": "2025-12-18T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -15,7 +13,7 @@
       "vendor": "La Costenita"
     },
     {
-      "date": "2025-12-18T00:00:00",
+      "date": "2025-12-19T00:00:00",
       "description": null,
       "end_time": "9:00 PM PT",
       "end_time_raw": "9:00 PM",
@@ -26,7 +24,7 @@
       "vendor": "Off the Rez"
     },
     {
-      "date": "2025-12-19T00:00:00",
+      "date": "2025-12-20T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -37,7 +35,7 @@
       "vendor": "Johnson BBQ Provisions"
     },
     {
-      "date": "2025-12-20T00:00:00",
+      "date": "2025-12-21T00:00:00",
       "description": null,
       "end_time": "7:00 PM PT",
       "end_time_raw": "7:00 PM",
@@ -48,7 +46,7 @@
       "vendor": "El Pirata Tortas Y Burritos / Now Make Me A Sandwich"
     },
     {
-      "date": "2025-12-21T00:00:00",
+      "date": "2025-12-22T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -59,7 +57,7 @@
       "vendor": "Where Ya At Matt"
     },
     {
-      "date": "2025-12-22T00:00:00",
+      "date": "2025-12-23T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -70,7 +68,7 @@
       "vendor": "Split Open & Melt Cheesesteaks"
     },
     {
-      "date": "2025-12-23T00:00:00",
+      "date": "2025-12-24T00:00:00",
       "description": null,
       "end_time": "8:30 PM PT",
       "end_time_raw": "8:30 PM",
@@ -78,10 +76,10 @@
       "start_time": "4:30 PM PT",
       "start_time_raw": "4:30 PM",
       "timezone": "PT",
-      "vendor": "Split Open & Melt Cheesesteaks"
+      "vendor": "El Gran Taco"
     },
     {
-      "date": "2025-12-24T00:00:00",
+      "date": "2025-12-25T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -90,17 +88,6 @@
       "start_time_raw": "4:00 PM",
       "timezone": "PT",
       "vendor": "Birrieria Pepe El Toro"
-    },
-    {
-      "date": "2025-12-17T16:00:00.370000",
-      "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "location": "Yonder Cider & Bale Breaker - Ballard",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
-      "timezone": "PT",
-      "vendor": "Georgia\u2019s Greek"
     },
     {
       "date": "2025-12-18T16:00:00.623000",
@@ -169,15 +156,26 @@
       "vendor": "Closed - Christmas Eve"
     },
     {
-      "date": "2025-12-17T00:00:00",
+      "date": "2025-12-25T00:00:00.661000",
+      "description": null,
+      "end_time": "12:00 PM PT",
+      "end_time_raw": "12:00 PM",
+      "location": "Yonder Cider & Bale Breaker - Ballard",
+      "start_time": "12:00 AM PT",
+      "start_time_raw": "12:00 AM",
+      "timezone": "PT",
+      "vendor": "Closed - Christmas"
+    },
+    {
+      "date": "2025-12-18T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
-      "location": "Urban Family Brewing",
+      "location": "Obec Brewing",
       "start_time": "4:00 PM PT",
       "start_time_raw": "4:00 PM",
       "timezone": "PT",
-      "vendor": "Impeckable Chicken"
+      "vendor": "Empanadas el Pachi"
     },
     {
       "date": "2025-12-18T00:00:00",
@@ -290,17 +288,6 @@
       "vendor": "Vandalz Taqueria"
     },
     {
-      "date": "2025-12-17T00:00:00",
-      "description": "Original event: Dinner: Chick'n Fix",
-      "end_time": null,
-      "end_time_raw": null,
-      "location": "Chuck's Hop Shop Greenwood",
-      "start_time": null,
-      "start_time_raw": null,
-      "timezone": "PT",
-      "vendor": "Chick'n Fix"
-    },
-    {
       "date": "2025-12-18T00:00:00",
       "description": "Original event: Dinner: Pizza Paseano",
       "end_time": null,
@@ -389,17 +376,6 @@
       "vendor": "NO TRUCK"
     },
     {
-      "date": "2025-12-17T17:00:00",
-      "description": "Cuisine: Greek, Gyro, Halal",
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
-      "location": "Saleh's Corner",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
-      "timezone": "PT",
-      "vendor": "Theo's Gyros"
-    },
-    {
       "date": "2025-12-18T17:00:00",
       "description": "Cuisine: Asian, Thai, Vegetarian",
       "end_time": "9:00 PM PT",
@@ -477,9 +453,9 @@
       "vendor": "Blackstar Kebab"
     }
   ],
-  "haiku": "\ud83c\udf57 Winter rain patters\u2014\nImpeckable steam rises\nat Urban's warm tap \ud83c\udf7a",
+  "haiku": "\ud83c\udf28\ufe0f Winter's chill retreats\u2014\nAlebrije's spice warms hearts\nat Urban's bright hearth \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 43,
-  "updated": "2025-12-18T07:15:32.412870+00:00"
+  "total_events": 41,
+  "updated": "2025-12-18T08:15:30.603877+00:00"
 }
