@@ -169,13 +169,13 @@
     {
       "date": "2025-12-18T00:00:00",
       "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
+      "end_time": "7:00 PM PT",
+      "end_time_raw": "7:00 PM",
       "location": "Obec Brewing",
       "start_time": "4:00 PM PT",
       "start_time_raw": "4:00 PM",
       "timezone": "PT",
-      "vendor": "Empanadas el Pachi"
+      "vendor": "Split Open and Melt Cheesesteaks"
     },
     {
       "date": "2025-12-18T00:00:00",
@@ -453,9 +453,9 @@
       "vendor": "Blackstar Kebab"
     }
   ],
-  "haiku": "\ud83c\udf28\ufe0f Winter's chill retreats\u2014\nAlebrije's spice warms hearts\nat Urban's bright hearth \ud83c\udf7a",
+  "haiku": "\ud83c\udf83 Winter rain whispers\u2014\nPumpkin Thai spice warms the soul\nat Saleh's corner \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
   "total_events": 41,
-  "updated": "2025-12-18T08:15:30.603877+00:00"
+  "updated": "2025-12-18T09:15:21.019850+00:00"
 }
