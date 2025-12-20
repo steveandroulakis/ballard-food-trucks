@@ -376,17 +376,6 @@
       "vendor": "Impeckable Chicken"
     },
     {
-      "date": "2025-12-20T17:00:00",
-      "description": "Cuisine: Gyro, Mediterranean, Vegetarian",
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
-      "location": "Saleh's Corner",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
-      "timezone": "PT",
-      "vendor": "Levantine Cuisine"
-    },
-    {
       "date": "2025-12-21T17:00:00",
       "description": "Cuisine: African, Halal, Vegetarian",
       "end_time": "9:00 PM PT",
@@ -442,9 +431,9 @@
       "vendor": "Impeckable Chicken"
     }
   ],
-  "haiku": "\ud83c\udf27\ufe0f Winter rain falls soft\u2014\nOff the Rez warms Stoup's cold night,\nBallard souls gather \ud83c\udf7a",
+  "haiku": "\ud83c\udf28\ufe0f December's cold bite\u2014\nT'Juana's warmth at Chuck's Hop,\nSteam meets winter brew \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 40,
-  "updated": "2025-12-20T04:15:19.015079+00:00"
+  "total_events": 39,
+  "updated": "2025-12-20T05:15:19.523668+00:00"
 }
