@@ -169,17 +169,6 @@
     {
       "date": "2025-12-21T00:00:00",
       "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "location": "Obec Brewing",
-      "start_time": "3:00 AM PT",
-      "start_time_raw": "3:00 AM",
-      "timezone": "PT",
-      "vendor": "Kaosamai Thai"
-    },
-    {
-      "date": "2025-12-21T00:00:00",
-      "description": null,
       "end_time": "12:00 PM PT",
       "end_time_raw": "12:00 PM",
       "location": "Urban Family Brewing",
@@ -442,9 +431,9 @@
       "vendor": "Split Open and Melt"
     }
   ],
-  "haiku": "\ud83c\udf28\ufe0f Winter's chill retreats\u2014\nKaosamai's spice warms souls\nat Urban's bright tap \ud83c\udf7a",
+  "haiku": "\ud83c\udf27\ufe0f Winter rain falls soft\u2014\nTacos warm at Yonder's bar,\nCider soothes cold hearts \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 40,
-  "updated": "2025-12-21T09:15:18.227743+00:00"
+  "total_events": 39,
+  "updated": "2025-12-21T10:15:18.377926+00:00"
 }
