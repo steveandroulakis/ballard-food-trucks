@@ -2,7 +2,7 @@
   "errors": [],
   "events": [
     {
-      "date": "2025-12-20T00:00:00",
+      "date": "2025-12-21T00:00:00",
       "description": null,
       "end_time": "7:00 PM PT",
       "end_time_raw": "7:00 PM",
@@ -13,7 +13,7 @@
       "vendor": "El Pirata Tortas Y Burritos / Now Make Me A Sandwich"
     },
     {
-      "date": "2025-12-21T00:00:00",
+      "date": "2025-12-22T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -24,7 +24,7 @@
       "vendor": "Where Ya At Matt"
     },
     {
-      "date": "2025-12-22T00:00:00",
+      "date": "2025-12-23T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -35,7 +35,7 @@
       "vendor": "Split Open & Melt Cheesesteaks"
     },
     {
-      "date": "2025-12-23T00:00:00",
+      "date": "2025-12-24T00:00:00",
       "description": null,
       "end_time": "8:30 PM PT",
       "end_time_raw": "8:30 PM",
@@ -43,10 +43,10 @@
       "start_time": "4:30 PM PT",
       "start_time_raw": "4:30 PM",
       "timezone": "PT",
-      "vendor": "Split Open & Melt Cheesesteaks"
+      "vendor": "El Gran Taco"
     },
     {
-      "date": "2025-12-24T00:00:00",
+      "date": "2025-12-25T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -57,7 +57,7 @@
       "vendor": "Birrieria Pepe El Toro"
     },
     {
-      "date": "2025-12-25T00:00:00",
+      "date": "2025-12-26T00:00:00",
       "description": null,
       "end_time": "9:00 PM PT",
       "end_time_raw": "9:00 PM",
@@ -68,7 +68,7 @@
       "vendor": "Georgia's Greek"
     },
     {
-      "date": "2025-12-26T00:00:00",
+      "date": "2025-12-27T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -79,7 +79,7 @@
       "vendor": "Tat's Truck"
     },
     {
-      "date": "2025-12-27T00:00:00",
+      "date": "2025-12-28T00:00:00",
       "description": null,
       "end_time": "7:00 PM PT",
       "end_time_raw": "7:00 PM",
@@ -88,17 +88,6 @@
       "start_time_raw": "1:00 PM",
       "timezone": "PT",
       "vendor": "Kaosamai Thai"
-    },
-    {
-      "date": "2025-12-20T13:00:00.986000",
-      "description": null,
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
-      "location": "Yonder Cider & Bale Breaker - Ballard",
-      "start_time": "1:00 PM PT",
-      "start_time_raw": "1:00 PM",
-      "timezone": "PT",
-      "vendor": "Buddha Bruddah"
     },
     {
       "date": "2025-12-21T13:00:00.887000",
@@ -167,7 +156,18 @@
       "vendor": "Georgia\u2019s Greek"
     },
     {
-      "date": "2025-12-20T00:00:00",
+      "date": "2025-12-28T13:00:00.546000",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "location": "Yonder Cider & Bale Breaker - Ballard",
+      "start_time": "1:00 PM PT",
+      "start_time_raw": "1:00 PM",
+      "timezone": "PT",
+      "vendor": "Tacos &amp; Beer"
+    },
+    {
+      "date": "2025-12-21T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -176,17 +176,6 @@
       "start_time_raw": "3:00 AM",
       "timezone": "PT",
       "vendor": "Kaosamai Thai"
-    },
-    {
-      "date": "2025-12-20T00:00:00",
-      "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "location": "Urban Family Brewing",
-      "start_time": "1:00 PM PT",
-      "start_time_raw": "1:00 PM",
-      "timezone": "PT",
-      "vendor": "MomoExpress"
     },
     {
       "date": "2025-12-21T00:00:00",
@@ -266,26 +255,26 @@
       "vendor": "Oskar's Pizza"
     },
     {
-      "date": "2025-12-20T00:00:00",
+      "date": "2025-12-28T00:00:00",
       "description": null,
-      "end_time": "1:00 AM PT",
-      "end_time_raw": "1:00 AM",
-      "location": "Wheelie Pop Brewing",
-      "start_time": "12:00 AM PT",
-      "start_time_raw": "12:00 AM",
+      "end_time": "12:00 PM PT",
+      "end_time_raw": "12:00 PM",
+      "location": "Urban Family Brewing",
+      "start_time": "8:00 AM PT",
+      "start_time_raw": "8:00 AM",
       "timezone": "PT",
-      "vendor": "Vandalz Taqueria"
+      "vendor": "TBD"
     },
     {
-      "date": "2025-12-20T00:00:00",
-      "description": "Original event: Tat's Deli",
-      "end_time": null,
-      "end_time_raw": null,
-      "location": "Chuck's Hop Shop Greenwood",
-      "start_time": null,
-      "start_time_raw": null,
+      "date": "2025-12-28T00:00:00",
+      "description": null,
+      "end_time": "7:00 PM PT",
+      "end_time_raw": "7:00 PM",
+      "location": "Urban Family Brewing",
+      "start_time": "1:00 PM PT",
+      "start_time_raw": "1:00 PM",
       "timezone": "PT",
-      "vendor": "Tat's Deli"
+      "vendor": "Burger Planet"
     },
     {
       "date": "2025-12-21T00:00:00",
@@ -365,6 +354,17 @@
       "vendor": "Sabor Boricua"
     },
     {
+      "date": "2025-12-28T00:00:00",
+      "description": "Original event: Momo Express",
+      "end_time": null,
+      "end_time_raw": null,
+      "location": "Chuck's Hop Shop Greenwood",
+      "start_time": null,
+      "start_time_raw": null,
+      "timezone": "PT",
+      "vendor": "Momo Express"
+    },
+    {
       "date": "2025-12-21T17:00:00",
       "description": "Cuisine: African, Halal, Vegetarian",
       "end_time": "9:00 PM PT",
@@ -429,11 +429,22 @@
       "start_time_raw": "5:00 PM",
       "timezone": "PT",
       "vendor": "Oskar's Pizza"
+    },
+    {
+      "date": "2025-12-28T17:00:00",
+      "description": "Cuisine: American, Cheesesteaks",
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "location": "Saleh's Corner",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "timezone": "PT",
+      "vendor": "Split Open and Melt"
     }
   ],
-  "haiku": "\ud83c\udf28\ufe0f Winter's crisp embrace\u2014\nKaosamai's spice warms souls\nat Obec's hearth \ud83c\udf7a",
+  "haiku": "\u2744\ufe0f Winter solstice night\u2014\nTBD's mystery waits\nat Urban's warm glow \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 39,
-  "updated": "2025-12-21T07:15:18.203066+00:00"
+  "total_events": 40,
+  "updated": "2025-12-21T08:15:18.395143+00:00"
 }
