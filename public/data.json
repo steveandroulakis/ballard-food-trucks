@@ -4,13 +4,13 @@
     {
       "date": "2025-12-21T00:00:00",
       "description": null,
-      "end_time": "7:00 PM PT",
-      "end_time_raw": "7:00 PM",
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
       "location": "Stoup Brewing - Ballard",
-      "start_time": "1:00 PM PT",
-      "start_time_raw": "1:00 PM",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
       "timezone": "PT",
-      "vendor": "El Pirata Tortas Y Burritos / Now Make Me A Sandwich"
+      "vendor": "Where Ya At Matt"
     },
     {
       "date": "2025-12-22T00:00:00",
@@ -21,21 +21,10 @@
       "start_time": "5:00 PM PT",
       "start_time_raw": "5:00 PM",
       "timezone": "PT",
-      "vendor": "Where Ya At Matt"
-    },
-    {
-      "date": "2025-12-23T00:00:00",
-      "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "location": "Stoup Brewing - Ballard",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
-      "timezone": "PT",
       "vendor": "Split Open & Melt Cheesesteaks"
     },
     {
-      "date": "2025-12-24T00:00:00",
+      "date": "2025-12-23T00:00:00",
       "description": null,
       "end_time": "8:30 PM PT",
       "end_time_raw": "8:30 PM",
@@ -43,10 +32,10 @@
       "start_time": "4:30 PM PT",
       "start_time_raw": "4:30 PM",
       "timezone": "PT",
-      "vendor": "El Gran Taco"
+      "vendor": "Split Open & Melt Cheesesteaks"
     },
     {
-      "date": "2025-12-25T00:00:00",
+      "date": "2025-12-24T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -57,7 +46,7 @@
       "vendor": "Birrieria Pepe El Toro"
     },
     {
-      "date": "2025-12-26T00:00:00",
+      "date": "2025-12-25T00:00:00",
       "description": null,
       "end_time": "9:00 PM PT",
       "end_time_raw": "9:00 PM",
@@ -68,7 +57,7 @@
       "vendor": "Georgia's Greek"
     },
     {
-      "date": "2025-12-27T00:00:00",
+      "date": "2025-12-26T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -79,7 +68,7 @@
       "vendor": "Tat's Truck"
     },
     {
-      "date": "2025-12-28T00:00:00",
+      "date": "2025-12-27T00:00:00",
       "description": null,
       "end_time": "7:00 PM PT",
       "end_time_raw": "7:00 PM",
@@ -88,6 +77,17 @@
       "start_time_raw": "1:00 PM",
       "timezone": "PT",
       "vendor": "Kaosamai Thai"
+    },
+    {
+      "date": "2025-12-28T00:00:00",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "location": "Stoup Brewing - Ballard",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "timezone": "PT",
+      "vendor": "Russo Pizzarium"
     },
     {
       "date": "2025-12-21T13:00:00.887000",
@@ -431,9 +431,9 @@
       "vendor": "Split Open and Melt"
     }
   ],
-  "haiku": "\ud83c\udf19 Winter's longest night\u2014\nBlackstar's warmth at Saleh's gleams,\nkebab steam rising \ud83c\udf7a",
+  "haiku": "\ud83c\udf28\ufe0f Winter solstice dawn\u2014\nGood Morning Tacos steaming\nat Chuck's hoppy warmth \ud83c\udf2e",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
   "total_events": 39,
-  "updated": "2025-12-22T06:15:21.201161+00:00"
+  "updated": "2025-12-22T07:15:18.511136+00:00"
 }
