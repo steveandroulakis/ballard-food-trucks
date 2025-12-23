@@ -2,7 +2,7 @@
   "errors": [],
   "events": [
     {
-      "date": "2025-12-22T00:00:00",
+      "date": "2025-12-23T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -13,7 +13,7 @@
       "vendor": "Split Open & Melt Cheesesteaks"
     },
     {
-      "date": "2025-12-23T00:00:00",
+      "date": "2025-12-24T00:00:00",
       "description": null,
       "end_time": "8:30 PM PT",
       "end_time_raw": "8:30 PM",
@@ -21,10 +21,10 @@
       "start_time": "4:30 PM PT",
       "start_time_raw": "4:30 PM",
       "timezone": "PT",
-      "vendor": "Split Open & Melt Cheesesteaks"
+      "vendor": "El Gran Taco"
     },
     {
-      "date": "2025-12-24T00:00:00",
+      "date": "2025-12-25T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -35,7 +35,7 @@
       "vendor": "Birrieria Pepe El Toro"
     },
     {
-      "date": "2025-12-25T00:00:00",
+      "date": "2025-12-26T00:00:00",
       "description": null,
       "end_time": "9:00 PM PT",
       "end_time_raw": "9:00 PM",
@@ -46,7 +46,7 @@
       "vendor": "Georgia's Greek"
     },
     {
-      "date": "2025-12-26T00:00:00",
+      "date": "2025-12-27T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -57,7 +57,7 @@
       "vendor": "Tat's Truck"
     },
     {
-      "date": "2025-12-27T00:00:00",
+      "date": "2025-12-28T00:00:00",
       "description": null,
       "end_time": "7:00 PM PT",
       "end_time_raw": "7:00 PM",
@@ -66,17 +66,6 @@
       "start_time_raw": "1:00 PM",
       "timezone": "PT",
       "vendor": "Kaosamai Thai"
-    },
-    {
-      "date": "2025-12-28T00:00:00",
-      "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "location": "Stoup Brewing - Ballard",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
-      "timezone": "PT",
-      "vendor": "Russo Pizzarium"
     },
     {
       "date": "2025-12-29T00:00:00",
@@ -88,6 +77,17 @@
       "start_time_raw": "5:00 PM",
       "timezone": "PT",
       "vendor": "Bai Tong on Wheels"
+    },
+    {
+      "date": "2025-12-30T00:00:00",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "location": "Stoup Brewing - Ballard",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "timezone": "PT",
+      "vendor": "Tacos & Beer"
     },
     {
       "date": "2025-12-23T16:00:00.338000",
@@ -156,15 +156,15 @@
       "vendor": "Tacos &amp; Beer"
     },
     {
-      "date": "2025-12-22T00:00:00",
+      "date": "2025-12-30T16:00:00.821000",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
-      "location": "Urban Family Brewing",
+      "location": "Yonder Cider & Bale Breaker - Ballard",
       "start_time": "4:00 PM PT",
       "start_time_raw": "4:00 PM",
       "timezone": "PT",
-      "vendor": "TBD"
+      "vendor": "Tummy Yummy Thai"
     },
     {
       "date": "2025-12-23T00:00:00",
@@ -244,15 +244,15 @@
       "vendor": "TBD"
     },
     {
-      "date": "2025-12-22T00:00:00",
-      "description": "Original event: Dinner: Off the Rez",
-      "end_time": null,
-      "end_time_raw": null,
-      "location": "Chuck's Hop Shop Greenwood",
-      "start_time": null,
-      "start_time_raw": null,
+      "date": "2025-12-30T00:00:00",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "location": "Urban Family Brewing",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
       "timezone": "PT",
-      "vendor": "Off the Rez"
+      "vendor": "TBD"
     },
     {
       "date": "2025-12-23T00:00:00",
@@ -321,15 +321,15 @@
       "vendor": "Off the Rez"
     },
     {
-      "date": "2025-12-22T17:00:00",
-      "description": "Cuisine: Asian, Vegan, Vegetarian",
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
-      "location": "Saleh's Corner",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
+      "date": "2025-12-30T00:00:00",
+      "description": "Original event: Dinner: Kaosamai Thai",
+      "end_time": null,
+      "end_time_raw": null,
+      "location": "Chuck's Hop Shop Greenwood",
+      "start_time": null,
+      "start_time_raw": null,
       "timezone": "PT",
-      "vendor": "Kathmandu MoMoCha"
+      "vendor": "Kaosamai Thai"
     },
     {
       "date": "2025-12-23T17:00:00",
@@ -396,11 +396,22 @@
       "start_time_raw": "5:00 PM",
       "timezone": "PT",
       "vendor": "Pumpkin Thai"
+    },
+    {
+      "date": "2025-12-30T17:00:00",
+      "description": "Cuisine: Burritos, Mexican, Tacos",
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "location": "Saleh's Corner",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "timezone": "PT",
+      "vendor": "Plaza Garcia Express"
     }
   ],
-  "haiku": "\ud83e\uddc0 Winter steam rises\u2014\nSplit Open melts at Stoup's bar,\nCheese dreams warm the cold \u2744\ufe0f",
+  "haiku": "\ud83c\udf28\ufe0f Winter chill retreats\u2014\nBirria steam at Yonder's yard,\nCider warms the soul \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 36,
-  "updated": "2025-12-23T07:15:18.427333+00:00"
+  "total_events": 37,
+  "updated": "2025-12-23T08:15:20.534770+00:00"
 }
