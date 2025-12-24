@@ -2,7 +2,7 @@
   "errors": [],
   "events": [
     {
-      "date": "2025-12-23T00:00:00",
+      "date": "2025-12-24T00:00:00",
       "description": null,
       "end_time": "8:30 PM PT",
       "end_time_raw": "8:30 PM",
@@ -13,7 +13,7 @@
       "vendor": "El Gran Taco"
     },
     {
-      "date": "2025-12-24T00:00:00",
+      "date": "2025-12-25T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -24,7 +24,7 @@
       "vendor": "Birrieria Pepe El Toro"
     },
     {
-      "date": "2025-12-25T00:00:00",
+      "date": "2025-12-26T00:00:00",
       "description": null,
       "end_time": "9:00 PM PT",
       "end_time_raw": "9:00 PM",
@@ -35,7 +35,7 @@
       "vendor": "Georgia's Greek"
     },
     {
-      "date": "2025-12-26T00:00:00",
+      "date": "2025-12-27T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -46,7 +46,7 @@
       "vendor": "Tat's Truck"
     },
     {
-      "date": "2025-12-27T00:00:00",
+      "date": "2025-12-28T00:00:00",
       "description": null,
       "end_time": "7:00 PM PT",
       "end_time_raw": "7:00 PM",
@@ -55,17 +55,6 @@
       "start_time_raw": "1:00 PM",
       "timezone": "PT",
       "vendor": "Kaosamai Thai"
-    },
-    {
-      "date": "2025-12-28T00:00:00",
-      "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "location": "Stoup Brewing - Ballard",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
-      "timezone": "PT",
-      "vendor": "Russo Pizzarium"
     },
     {
       "date": "2025-12-29T00:00:00",
@@ -87,18 +76,18 @@
       "start_time": "5:00 PM PT",
       "start_time_raw": "5:00 PM",
       "timezone": "PT",
-      "vendor": "The Marigold Wood Fired Pizza"
+      "vendor": "Tacos & Beer"
     },
     {
-      "date": "2025-12-23T16:00:00.338000",
+      "date": "2025-12-31T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
-      "location": "Yonder Cider & Bale Breaker - Ballard",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
+      "location": "Stoup Brewing - Ballard",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
       "timezone": "PT",
-      "vendor": "Birrieria Pepe El Toro"
+      "vendor": "The Marigold Wood Fired Pizza"
     },
     {
       "date": "2025-12-24T00:00:00.992000",
@@ -167,15 +156,26 @@
       "vendor": "Tummy Yummy Thai"
     },
     {
-      "date": "2025-12-23T00:00:00",
+      "date": "2025-12-31T12:00:00.044000",
       "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "location": "Urban Family Brewing",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
+      "end_time": "6:00 PM PT",
+      "end_time_raw": "6:00 PM",
+      "location": "Yonder Cider & Bale Breaker - Ballard",
+      "start_time": "12:00 PM PT",
+      "start_time_raw": "12:00 PM",
       "timezone": "PT",
-      "vendor": "Georgia's Greek"
+      "vendor": "Georgia\u2019s Greek"
+    },
+    {
+      "date": "2025-12-31T12:00:00.645000",
+      "description": null,
+      "end_time": "6:00 PM PT",
+      "end_time_raw": "6:00 PM",
+      "location": "Yonder Cider & Bale Breaker - Ballard",
+      "start_time": "12:00 PM PT",
+      "start_time_raw": "12:00 PM",
+      "timezone": "PT",
+      "vendor": "Limited Hours - New Year\u2019s Eve"
     },
     {
       "date": "2025-12-24T00:00:00",
@@ -255,15 +255,15 @@
       "vendor": "TBD"
     },
     {
-      "date": "2025-12-23T00:00:00",
-      "description": "Original event: Dinner: Kaosamai Thai",
-      "end_time": null,
-      "end_time_raw": null,
-      "location": "Chuck's Hop Shop Greenwood",
-      "start_time": null,
-      "start_time_raw": null,
+      "date": "2025-12-31T00:00:00",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "location": "Urban Family Brewing",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
       "timezone": "PT",
-      "vendor": "Kaosamai Thai"
+      "vendor": "Impeckable Chicken"
     },
     {
       "date": "2025-12-24T00:00:00",
@@ -332,15 +332,15 @@
       "vendor": "Kaosamai Thai"
     },
     {
-      "date": "2025-12-23T17:00:00",
-      "description": "Cuisine: Asian, Thai, Vietnamese",
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
-      "location": "Saleh's Corner",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
+      "date": "2025-12-31T00:00:00",
+      "description": "Original event: Dinner: NO TRUCK",
+      "end_time": null,
+      "end_time_raw": null,
+      "location": "Chuck's Hop Shop Greenwood",
+      "start_time": null,
+      "start_time_raw": null,
       "timezone": "PT",
-      "vendor": "Tummy Yummy"
+      "vendor": "NO TRUCK"
     },
     {
       "date": "2025-12-24T17:00:00",
@@ -407,11 +407,22 @@
       "start_time_raw": "5:00 PM",
       "timezone": "PT",
       "vendor": "Plaza Garcia Express"
+    },
+    {
+      "date": "2025-12-31T17:00:00",
+      "description": "Cuisine: African, Halal, Vegetarian",
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "location": "Saleh's Corner",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "timezone": "PT",
+      "vendor": "Blackstar Kebab"
     }
   ],
-  "haiku": "\ud83c\udf84 Winter's cold embrace\u2014\nGeorgia's warmth meets hoppy brew\nat Urban's bright hearth \ud83c\udf7a",
+  "haiku": "\ud83c\udf28\ufe0f Winter's cold embrace\u2014\nEl Gran Taco steams at Stoup,\nwarmth in every bite \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 37,
-  "updated": "2025-12-24T07:15:18.773985+00:00"
+  "total_events": 38,
+  "updated": "2025-12-24T08:15:18.140087+00:00"
 }
