@@ -158,6 +158,17 @@
     {
       "date": "2025-12-27T00:00:00",
       "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "location": "Obec Brewing",
+      "start_time": "3:00 AM PT",
+      "start_time_raw": "3:00 AM",
+      "timezone": "PT",
+      "vendor": "Kaosamai Thai"
+    },
+    {
+      "date": "2025-12-27T00:00:00",
+      "description": null,
       "end_time": "7:00 PM PT",
       "end_time_raw": "7:00 PM",
       "location": "Urban Family Brewing",
@@ -398,9 +409,9 @@
       "vendor": "Thai-U-Up"
     }
   ],
-  "haiku": "\ud83c\udf55 Winter's cold bite fades\u2014\nOskar's oven warmth mingles\nwith Saleh's bright hearth \ud83c\udf7a",
+  "haiku": "\ud83c\udf27\ufe0f Winter rain patters\u2014\nSabor Boricua's warmth steams\nat Chuck's hoppy hearth \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 36,
-  "updated": "2025-12-27T09:15:18.319205+00:00"
+  "total_events": 37,
+  "updated": "2025-12-27T10:15:19.072960+00:00"
 }
