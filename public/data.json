@@ -299,17 +299,6 @@
       "vendor": "Georgia's Greek"
     },
     {
-      "date": "2025-12-28T17:00:00",
-      "description": "Cuisine: American, Cheesesteaks",
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
-      "location": "Saleh's Corner",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
-      "timezone": "PT",
-      "vendor": "Split Open and Melt"
-    },
-    {
       "date": "2025-12-29T17:00:00",
       "description": "Cuisine: Asian, Thai, Vegetarian",
       "end_time": "9:00 PM PT",
@@ -387,9 +376,9 @@
       "vendor": "Kathmandu MoMoCha"
     }
   ],
-  "haiku": "\ud83c\udf27\ufe0f Winter rain on glass\u2014\nKaosamai's spice steams warm\nat Stoup's golden tap \ud83c\udf7a",
+  "haiku": "\ud83c\udf27\ufe0f Winter rain on glass\u2014\nTacos warm at Yonder's bar,\nCider meets cold night \ud83c\udf7b",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 35,
-  "updated": "2025-12-28T21:15:19.793545+00:00"
+  "total_events": 34,
+  "updated": "2025-12-28T22:15:18.659826+00:00"
 }
