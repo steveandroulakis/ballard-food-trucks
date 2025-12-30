@@ -10,7 +10,7 @@
       "start_time": "5:00 PM PT",
       "start_time_raw": "5:00 PM",
       "timezone": "PT",
-      "vendor": "Bai Tong on Wheels"
+      "vendor": "Russo Pizzarium"
     },
     {
       "date": "2025-12-30T00:00:00",
@@ -365,9 +365,9 @@
       "vendor": "MOMO Express"
     }
   ],
-  "haiku": "\ud83c\udf27\ufe0f Winter rain drums soft\u2014\nTBD warms Urban hearts,\nBrew steam meets street food \ud83c\udf7a",
+  "haiku": "\ud83c\udf27\ufe0f Winter rain softens\u2014\nOff the Rez warms Chuck's Hop Shop,\nFry bread meets fresh hops \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
   "total_events": 33,
-  "updated": "2025-12-29T23:15:19.206713+00:00"
+  "updated": "2025-12-30T00:15:18.661870+00:00"
 }
