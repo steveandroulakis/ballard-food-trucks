@@ -12,7 +12,7 @@
       "start_time": "5:00 PM PT",
       "start_time_raw": "5:00 PM",
       "timezone": "PT",
-      "vendor": "Tacos & Beer"
+      "vendor": "The Marigold Wood Fired Pizza"
     },
     {
       "date": "2025-12-31T00:00:00",
@@ -23,21 +23,10 @@
       "start_time": "5:00 PM PT",
       "start_time_raw": "5:00 PM",
       "timezone": "PT",
-      "vendor": "The Marigold Wood Fired Pizza"
-    },
-    {
-      "date": "2026-01-01T00:00:00",
-      "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "location": "Stoup Brewing - Ballard",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
-      "timezone": "PT",
       "vendor": "La Costenita"
     },
     {
-      "date": "2026-01-02T00:00:00",
+      "date": "2026-01-01T00:00:00",
       "description": null,
       "end_time": "9:00 PM PT",
       "end_time_raw": "9:00 PM",
@@ -48,7 +37,7 @@
       "vendor": "Off the Rez"
     },
     {
-      "date": "2026-01-03T00:00:00",
+      "date": "2026-01-02T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -59,7 +48,7 @@
       "vendor": "Johnson BBQ Provisions"
     },
     {
-      "date": "2026-01-04T00:00:00",
+      "date": "2026-01-03T00:00:00",
       "description": null,
       "end_time": "7:00 PM PT",
       "end_time_raw": "7:00 PM",
@@ -70,7 +59,7 @@
       "vendor": "El Pirata Tortas Y Burritos / Now Make Me A Sandwich"
     },
     {
-      "date": "2026-01-05T00:00:00",
+      "date": "2026-01-04T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -81,13 +70,24 @@
       "vendor": "Where Ya At Matt"
     },
     {
-      "date": "2026-01-06T00:00:00",
+      "date": "2026-01-05T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
       "location": "Stoup Brewing - Ballard",
       "start_time": "5:00 PM PT",
       "start_time_raw": "5:00 PM",
+      "timezone": "PT",
+      "vendor": "Split Open & Melt Cheesesteaks"
+    },
+    {
+      "date": "2026-01-06T00:00:00",
+      "description": null,
+      "end_time": "8:30 PM PT",
+      "end_time_raw": "8:30 PM",
+      "location": "Stoup Brewing - Ballard",
+      "start_time": "4:30 PM PT",
+      "start_time_raw": "4:30 PM",
       "timezone": "PT",
       "vendor": "Split Open & Melt Cheesesteaks"
     },
@@ -312,9 +312,9 @@
       "vendor": "Plaza Garcia Express"
     }
   ],
-  "haiku": "\ud83c\udf28\ufe0f Winter's final breath\u2014\nKaosamai's spice warms souls\nat Chuck's hoppy hearth \ud83c\udf7a",
+  "haiku": "\ud83d\udd25 Winter's chill retreats\u2014\nMarigold's flames kiss dough thin\nat Stoup's warming hearth \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
   "total_events": 28,
-  "updated": "2025-12-31T06:15:20.337060+00:00"
+  "updated": "2025-12-31T07:15:18.071539+00:00"
 }
