@@ -123,17 +123,6 @@
       "vendor": "Limited Hours - New Year\u2019s Eve"
     },
     {
-      "date": "2026-01-01T00:00:00.144000",
-      "description": null,
-      "end_time": "12:00 PM PT",
-      "end_time_raw": "12:00 PM",
-      "location": "Yonder Cider & Bale Breaker - Ballard",
-      "start_time": "12:00 AM PT",
-      "start_time_raw": "12:00 AM",
-      "timezone": "PT",
-      "vendor": "Closed - January 1st thru 7th"
-    },
-    {
       "date": "2025-12-30T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
@@ -343,9 +332,9 @@
       "vendor": "Plaza Garcia Express"
     }
   ],
-  "haiku": "\ud83c\udf27\ufe0f Winter rain taps roof\u2014\nKaosamai's steam rises\nat Chuck's warm retreat \ud83c\udf7a",
+  "haiku": "\ud83c\udf27\ufe0f Winter rain falls soft\u2014\nPlaza Garcia's warmth glows\nat Saleh's bright door \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 31,
-  "updated": "2025-12-30T23:15:18.694848+00:00"
+  "total_events": 30,
+  "updated": "2025-12-31T00:15:18.017851+00:00"
 }
