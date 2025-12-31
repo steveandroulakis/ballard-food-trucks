@@ -4,7 +4,7 @@
   ],
   "events": [
     {
-      "date": "2025-12-30T00:00:00",
+      "date": "2025-12-31T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -15,7 +15,7 @@
       "vendor": "The Marigold Wood Fired Pizza"
     },
     {
-      "date": "2025-12-31T00:00:00",
+      "date": "2026-01-01T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -26,7 +26,7 @@
       "vendor": "La Costenita"
     },
     {
-      "date": "2026-01-01T00:00:00",
+      "date": "2026-01-02T00:00:00",
       "description": null,
       "end_time": "9:00 PM PT",
       "end_time_raw": "9:00 PM",
@@ -37,7 +37,7 @@
       "vendor": "Off the Rez"
     },
     {
-      "date": "2026-01-02T00:00:00",
+      "date": "2026-01-03T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -48,7 +48,7 @@
       "vendor": "Johnson BBQ Provisions"
     },
     {
-      "date": "2026-01-03T00:00:00",
+      "date": "2026-01-04T00:00:00",
       "description": null,
       "end_time": "7:00 PM PT",
       "end_time_raw": "7:00 PM",
@@ -59,7 +59,7 @@
       "vendor": "El Pirata Tortas Y Burritos / Now Make Me A Sandwich"
     },
     {
-      "date": "2026-01-04T00:00:00",
+      "date": "2026-01-05T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -70,7 +70,7 @@
       "vendor": "Where Ya At Matt"
     },
     {
-      "date": "2026-01-05T00:00:00",
+      "date": "2026-01-06T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -81,7 +81,7 @@
       "vendor": "Split Open & Melt Cheesesteaks"
     },
     {
-      "date": "2026-01-06T00:00:00",
+      "date": "2026-01-07T00:00:00",
       "description": null,
       "end_time": "8:30 PM PT",
       "end_time_raw": "8:30 PM",
@@ -89,18 +89,7 @@
       "start_time": "4:30 PM PT",
       "start_time_raw": "4:30 PM",
       "timezone": "PT",
-      "vendor": "Split Open & Melt Cheesesteaks"
-    },
-    {
-      "date": "2025-12-30T16:00:00.821000",
-      "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "location": "Yonder Cider & Bale Breaker - Ballard",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
-      "timezone": "PT",
-      "vendor": "Tummy Yummy Thai"
+      "vendor": "El Gran Taco"
     },
     {
       "date": "2025-12-31T12:00:00.044000",
@@ -123,17 +112,6 @@
       "start_time_raw": "12:00 PM",
       "timezone": "PT",
       "vendor": "Limited Hours - New Year\u2019s Eve"
-    },
-    {
-      "date": "2025-12-30T00:00:00",
-      "description": "Original event: Dinner: Kaosamai Thai",
-      "end_time": null,
-      "end_time_raw": null,
-      "location": "Chuck's Hop Shop Greenwood",
-      "start_time": null,
-      "start_time_raw": null,
-      "timezone": "PT",
-      "vendor": "Kaosamai Thai"
     },
     {
       "date": "2025-12-31T00:00:00",
@@ -224,15 +202,15 @@
       "vendor": "Woodshop BBQ"
     },
     {
-      "date": "2025-12-30T17:00:00",
-      "description": "Cuisine: Burritos, Mexican, Tacos",
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
-      "location": "Saleh's Corner",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
+      "date": "2026-01-07T00:00:00",
+      "description": "Original event: Dinner: Oskar's Pizza",
+      "end_time": null,
+      "end_time_raw": null,
+      "location": "Chuck's Hop Shop Greenwood",
+      "start_time": null,
+      "start_time_raw": null,
       "timezone": "PT",
-      "vendor": "Plaza Garcia Express"
+      "vendor": "Oskar's Pizza"
     },
     {
       "date": "2025-12-31T17:00:00",
@@ -310,11 +288,22 @@
       "start_time_raw": "5:00 PM",
       "timezone": "PT",
       "vendor": "Plaza Garcia Express"
+    },
+    {
+      "date": "2026-01-07T17:00:00",
+      "description": "Cuisine: Greek, Gyro, Halal",
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "location": "Saleh's Corner",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "timezone": "PT",
+      "vendor": "Theo's Gyros"
     }
   ],
-  "haiku": "\ud83d\udd25 Winter's chill retreats\u2014\nMarigold's flames kiss dough thin\nat Stoup's warming hearth \ud83c\udf7a",
+  "haiku": "\ud83c\udf86 New Year's last light fades\u2014\nBlackstar's spiced lamb at Saleh's,\nwarm brew ends the year \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 28,
-  "updated": "2025-12-31T07:15:18.071539+00:00"
+  "total_events": 27,
+  "updated": "2025-12-31T08:15:19.396070+00:00"
 }
