@@ -1,5 +1,7 @@
 {
-  "errors": [],
+  "errors": [
+    "Failed to fetch information for brewery: Urban Family Brewing"
+  ],
   "events": [
     {
       "date": "2025-12-30T00:00:00",
@@ -121,28 +123,6 @@
       "start_time_raw": "12:00 PM",
       "timezone": "PT",
       "vendor": "Limited Hours - New Year\u2019s Eve"
-    },
-    {
-      "date": "2025-12-30T00:00:00",
-      "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "location": "Urban Family Brewing",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
-      "timezone": "PT",
-      "vendor": "TBD"
-    },
-    {
-      "date": "2025-12-31T00:00:00",
-      "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "location": "Urban Family Brewing",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
-      "timezone": "PT",
-      "vendor": "Impeckable Chicken"
     },
     {
       "date": "2025-12-30T00:00:00",
@@ -332,9 +312,9 @@
       "vendor": "Plaza Garcia Express"
     }
   ],
-  "haiku": "\ud83c\udf5c Winter's chill retreats\u2014\nTummy Yummy's fragrant steam\nwarms Yonder's beer hall \ud83c\udf7a",
+  "haiku": "\ud83c\udf27\ufe0f Winter rain drums down\u2014\nTacos warm at Stoup's bright door,\nBeer foam caps the year \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 30,
-  "updated": "2025-12-31T02:15:17.922639+00:00"
+  "total_events": 28,
+  "updated": "2025-12-31T03:15:18.991890+00:00"
 }
