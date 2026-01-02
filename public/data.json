@@ -115,6 +115,17 @@
     },
     {
       "date": "2026-01-02T00:00:00",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "location": "Obec Brewing",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "timezone": "PT",
+      "vendor": "Burgerdom"
+    },
+    {
+      "date": "2026-01-02T00:00:00",
       "description": "Original event: Dinner: Where ya at Matt",
       "end_time": null,
       "end_time_raw": null,
@@ -301,9 +312,9 @@
       "vendor": "Impeckable Chicken"
     }
   ],
-  "haiku": "\ud83c\udf27\ufe0f January rain falls\u2014\nWhere ya at Matt warms the hops,\nChuck's bright winter glow \ud83c\udf7a",
+  "haiku": "\u2744\ufe0f Winter fog lifts slow\u2014\nWhere ya at Matt warms the crowd\nat Chuck's hoppy door \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 27,
-  "updated": "2026-01-02T08:15:18.207951+00:00"
+  "total_events": 28,
+  "updated": "2026-01-02T09:15:17.955977+00:00"
 }
