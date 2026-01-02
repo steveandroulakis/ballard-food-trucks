@@ -4,7 +4,7 @@
   ],
   "events": [
     {
-      "date": "2026-01-01T00:00:00",
+      "date": "2026-01-02T00:00:00",
       "description": null,
       "end_time": "9:00 PM PT",
       "end_time_raw": "9:00 PM",
@@ -15,7 +15,7 @@
       "vendor": "Off the Rez"
     },
     {
-      "date": "2026-01-02T00:00:00",
+      "date": "2026-01-03T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -26,7 +26,7 @@
       "vendor": "Johnson BBQ Provisions"
     },
     {
-      "date": "2026-01-03T00:00:00",
+      "date": "2026-01-04T00:00:00",
       "description": null,
       "end_time": "7:00 PM PT",
       "end_time_raw": "7:00 PM",
@@ -37,7 +37,7 @@
       "vendor": "El Pirata Tortas Y Burritos / Now Make Me A Sandwich"
     },
     {
-      "date": "2026-01-04T00:00:00",
+      "date": "2026-01-05T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -48,7 +48,7 @@
       "vendor": "Where Ya At Matt"
     },
     {
-      "date": "2026-01-05T00:00:00",
+      "date": "2026-01-06T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -59,7 +59,7 @@
       "vendor": "Split Open & Melt Cheesesteaks"
     },
     {
-      "date": "2026-01-06T00:00:00",
+      "date": "2026-01-07T00:00:00",
       "description": null,
       "end_time": "8:30 PM PT",
       "end_time_raw": "8:30 PM",
@@ -67,10 +67,10 @@
       "start_time": "4:30 PM PT",
       "start_time_raw": "4:30 PM",
       "timezone": "PT",
-      "vendor": "Split Open & Melt Cheesesteaks"
+      "vendor": "El Gran Taco"
     },
     {
-      "date": "2026-01-07T00:00:00",
+      "date": "2026-01-08T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -81,7 +81,7 @@
       "vendor": "Birrieria Pepe El Toro"
     },
     {
-      "date": "2026-01-08T00:00:00",
+      "date": "2026-01-09T00:00:00",
       "description": null,
       "end_time": "9:00 PM PT",
       "end_time_raw": "9:00 PM",
@@ -90,17 +90,6 @@
       "start_time_raw": "5:00 PM",
       "timezone": "PT",
       "vendor": "Georgia's Greek"
-    },
-    {
-      "date": "2026-01-01T00:00:00.144000",
-      "description": null,
-      "end_time": "12:00 PM PT",
-      "end_time_raw": "12:00 PM",
-      "location": "Yonder Cider & Bale Breaker - Ballard",
-      "start_time": "12:00 AM PT",
-      "start_time_raw": "12:00 AM",
-      "timezone": "PT",
-      "vendor": "Closed - January 1st thru 7th"
     },
     {
       "date": "2026-01-08T16:00:00.430000",
@@ -114,15 +103,15 @@
       "vendor": "Impeckable Chicken"
     },
     {
-      "date": "2026-01-01T00:00:00",
-      "description": "Original event: Dinner: NO TRUCK",
-      "end_time": null,
-      "end_time_raw": null,
-      "location": "Chuck's Hop Shop Greenwood",
-      "start_time": null,
-      "start_time_raw": null,
+      "date": "2026-01-09T16:00:00.694000",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "location": "Yonder Cider & Bale Breaker - Ballard",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
       "timezone": "PT",
-      "vendor": "NO TRUCK"
+      "vendor": "Paparepas"
     },
     {
       "date": "2026-01-02T00:00:00",
@@ -213,15 +202,15 @@
       "vendor": "Impeckable"
     },
     {
-      "date": "2026-01-01T17:00:00",
-      "description": "Cuisine: Asian, Vegan, Vegetarian",
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
-      "location": "Saleh's Corner",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
+      "date": "2026-01-09T00:00:00",
+      "description": "Original event: Dinner: Where ya at Matt",
+      "end_time": null,
+      "end_time_raw": null,
+      "location": "Chuck's Hop Shop Greenwood",
+      "start_time": null,
+      "start_time_raw": null,
       "timezone": "PT",
-      "vendor": "Kathmandu MoMoCha"
+      "vendor": "Where ya at Matt"
     },
     {
       "date": "2026-01-02T17:00:00",
@@ -299,11 +288,22 @@
       "start_time_raw": "5:00 PM",
       "timezone": "PT",
       "vendor": "Pumpkin Thai"
+    },
+    {
+      "date": "2026-01-09T17:00:00",
+      "description": "Cuisine: Chicken, Sandwiches, Southern",
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "location": "Saleh's Corner",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "timezone": "PT",
+      "vendor": "Impeckable Chicken"
     }
   ],
-  "haiku": "\ud83c\udf43 New year's quiet door\u2014\nYonder waits through winter's pause,\nBallard dreams of spring \ud83c\udf7a",
+  "haiku": "\ud83c\udf27\ufe0f January rain falls\u2014\nWhere ya at Matt warms the hops,\nChuck's bright winter glow \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
   "total_events": 27,
-  "updated": "2026-01-02T07:15:18.895927+00:00"
+  "updated": "2026-01-02T08:15:18.207951+00:00"
 }
