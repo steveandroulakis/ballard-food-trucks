@@ -136,17 +136,6 @@
       "vendor": "Tacos &amp; Beer"
     },
     {
-      "date": "2026-01-04T00:00:00",
-      "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "location": "Obec Brewing",
-      "start_time": "3:00 AM PT",
-      "start_time_raw": "3:00 AM",
-      "timezone": "PT",
-      "vendor": "Kaosamai Thai"
-    },
-    {
       "date": "2026-01-08T00:00:00",
       "description": null,
       "end_time": null,
@@ -367,9 +356,9 @@
       "vendor": "Kathmandu MoMoCha"
     }
   ],
-  "haiku": "\ud83c\udf27\ufe0f January rain falls\u2014\nEl Pirata's warm tortas\nsteam at Stoup's bright bar \ud83c\udf7a",
+  "haiku": "\ud83e\udd5f Winter rain falls soft\u2014\nMoMoCha steams at Saleh's,\nwarm dumplings, cold brew \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 33,
-  "updated": "2026-01-04T09:15:18.152162+00:00"
+  "total_events": 32,
+  "updated": "2026-01-04T10:15:44.287217+00:00"
 }
