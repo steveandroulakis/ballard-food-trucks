@@ -125,6 +125,17 @@
       "vendor": "Georgia\u2019s Greek"
     },
     {
+      "date": "2026-01-03T00:00:00",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "location": "Obec Brewing",
+      "start_time": "3:00 AM PT",
+      "start_time_raw": "3:00 AM",
+      "timezone": "PT",
+      "vendor": "Kaosamai Thai"
+    },
+    {
       "date": "2026-01-08T00:00:00",
       "description": null,
       "end_time": null,
@@ -334,9 +345,9 @@
       "vendor": "Oskar's Pizza"
     }
   ],
-  "haiku": "\u2744\ufe0f Winter's cold breath stirs\u2014\nJohnson's smoke meets Stoup's warm hops,\nBallard hearts gather \ud83c\udf7a",
+  "haiku": "\ud83c\udf27\ufe0f Winter rain patters\u2014\nKaosamai's spice steams up\nObec's brewery \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 30,
-  "updated": "2026-01-04T00:15:18.099807+00:00"
+  "total_events": 31,
+  "updated": "2026-01-04T01:15:17.955703+00:00"
 }
