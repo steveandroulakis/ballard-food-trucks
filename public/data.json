@@ -1,7 +1,5 @@
 {
-  "errors": [
-    "Failed to fetch information for brewery: Urban Family Brewing"
-  ],
+  "errors": [],
   "events": [
     {
       "date": "2026-01-07T00:00:00",
@@ -378,9 +376,9 @@
       "vendor": "Theo's Gyros"
     }
   ],
-  "haiku": "\ud83c\udf27\ufe0f January's cold rain\u2014\nBarelas' chile warmth steams\nat Obec's bright hearth \ud83c\udf7a",
+  "haiku": "\ud83c\udf27\ufe0f Winter rain drums soft\u2014\nBarelas spice warms the soul\nat Obec's bright hearth \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
   "total_events": 34,
-  "updated": "2026-01-07T20:15:18.873542+00:00"
+  "updated": "2026-01-07T21:15:27.913158+00:00"
 }
