@@ -214,14 +214,14 @@
     },
     {
       "date": "2026-01-10T00:00:00",
-      "description": "Original event: Dinner: TBD",
+      "description": "Original event: Dinner: Tacos and Beer",
       "end_time": null,
       "end_time_raw": null,
       "location": "Chuck's Hop Shop Greenwood",
       "start_time": null,
       "start_time_raw": null,
       "timezone": "PT",
-      "vendor": "TBD"
+      "vendor": "Tacos and Beer"
     },
     {
       "date": "2026-01-11T00:00:00",
@@ -356,9 +356,9 @@
       "vendor": "Plaza Garcia Express"
     }
   ],
-  "haiku": "\ud83d\udd25 Winter smoke curls up\u2014\nWoodshop's brisket meets cold hops\nat Chuck's warm refuge \ud83c\udf7a",
+  "haiku": "\ud83e\udd6a Winter rain patters\u2014\nSplit Open steams at Stoup's door,\nCheese melts, hearts gather \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
   "total_events": 32,
-  "updated": "2026-01-07T01:15:19.362313+00:00"
+  "updated": "2026-01-07T02:15:27.273677+00:00"
 }
