@@ -112,6 +112,17 @@
       "vendor": "Paparepas"
     },
     {
+      "date": "2026-01-10T12:00:00.065000",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "location": "Yonder Cider & Bale Breaker - Ballard",
+      "start_time": "12:00 PM PT",
+      "start_time_raw": "12:00 PM",
+      "timezone": "PT",
+      "vendor": "Sauna Social w/ PNW Mobile Spa"
+    },
+    {
       "date": "2026-01-10T13:00:00.606000",
       "description": null,
       "end_time": "9:00 PM PT",
@@ -121,6 +132,17 @@
       "start_time_raw": "1:00 PM",
       "timezone": "PT",
       "vendor": "Georgia\u2019s Greek"
+    },
+    {
+      "date": "2026-01-11T12:00:00.405000",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "location": "Yonder Cider & Bale Breaker - Ballard",
+      "start_time": "12:00 PM PT",
+      "start_time_raw": "12:00 PM",
+      "timezone": "PT",
+      "vendor": "Sauna Social w/ PNW Mobile Spa"
     },
     {
       "date": "2026-01-11T13:00:00.372000",
@@ -387,9 +409,9 @@
       "vendor": "Pumpkin Thai"
     }
   ],
-  "haiku": "\ud83c\udf27\ufe0f January rain falls\u2014\nTisket Tasket's warmth steams up\nat Wheelie Pop's door \ud83c\udf7a",
+  "haiku": "\u2744\ufe0f Winter fog lifts slow\u2014\nTisket Tasket steams at Pop,\nBrewing warmth and joy \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 35,
-  "updated": "2026-01-08T23:15:19.348749+00:00"
+  "total_events": 37,
+  "updated": "2026-01-09T00:15:22.948754+00:00"
 }
