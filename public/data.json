@@ -191,13 +191,13 @@
     {
       "date": "2026-01-10T00:00:00",
       "description": null,
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
       "location": "Obec Brewing",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
+      "start_time": "3:00 AM PT",
+      "start_time_raw": "3:00 AM",
       "timezone": "PT",
-      "vendor": "Cocina Barelas (New Mexican Cuisine)"
+      "vendor": "Kaosamai Thai"
     },
     {
       "date": "2026-01-10T00:00:00",
@@ -431,9 +431,9 @@
       "vendor": "Thai-U-Up"
     }
   ],
-  "haiku": "\u2744\ufe0f Winter rain patters\u2014\nTat's sizzles at Stoup Brewing,\nwarm bread, cold hops flow \ud83c\udf7a",
+  "haiku": "\ud83c\udf27\ufe0f Winter rain patters\u2014\nVandalz heat warms Wheelie Pop,\nSteam meets craft beer foam \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
   "total_events": 39,
-  "updated": "2026-01-10T09:15:18.238133+00:00"
+  "updated": "2026-01-10T10:15:56.273108+00:00"
 }
