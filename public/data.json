@@ -156,6 +156,17 @@
       "vendor": "Tacos &amp; Beer"
     },
     {
+      "date": "2026-01-12T00:00:00",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "location": "Obec Brewing",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "timezone": "PT",
+      "vendor": "Plaza Garcia"
+    },
+    {
       "date": "2026-01-13T00:00:00",
       "description": null,
       "end_time": "9:00 PM PT",
@@ -376,9 +387,9 @@
       "vendor": "Pumpkin Thai"
     }
   ],
-  "haiku": "\ud83c\udf55 January cold\u2014\nRusso's warm slices waiting\nat Stoup's brewing hearth \ud83c\udf7a",
+  "haiku": "\ud83c\udf27\ufe0f January rain falls\u2014\nPepe's birria steams at Chuck's,\nWarm broth, cold hops flow \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 34,
-  "updated": "2026-01-12T09:15:18.522870+00:00"
+  "total_events": 35,
+  "updated": "2026-01-12T10:15:31.671561+00:00"
 }
