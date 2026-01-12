@@ -2,7 +2,7 @@
   "errors": [],
   "events": [
     {
-      "date": "2026-01-11T00:00:00",
+      "date": "2026-01-12T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -13,7 +13,7 @@
       "vendor": "Russo Pizzarium"
     },
     {
-      "date": "2026-01-12T00:00:00",
+      "date": "2026-01-13T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -24,7 +24,7 @@
       "vendor": "Tacos & Beer"
     },
     {
-      "date": "2026-01-13T00:00:00",
+      "date": "2026-01-14T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -35,7 +35,7 @@
       "vendor": "The Marigold Wood Fired Pizza"
     },
     {
-      "date": "2026-01-14T00:00:00",
+      "date": "2026-01-15T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -46,7 +46,7 @@
       "vendor": "La Costenita"
     },
     {
-      "date": "2026-01-15T00:00:00",
+      "date": "2026-01-16T00:00:00",
       "description": null,
       "end_time": "9:00 PM PT",
       "end_time_raw": "9:00 PM",
@@ -57,7 +57,7 @@
       "vendor": "Off the Rez"
     },
     {
-      "date": "2026-01-16T00:00:00",
+      "date": "2026-01-17T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -68,7 +68,7 @@
       "vendor": "Johnson BBQ Provisions"
     },
     {
-      "date": "2026-01-17T00:00:00",
+      "date": "2026-01-18T00:00:00",
       "description": null,
       "end_time": "7:00 PM PT",
       "end_time_raw": "7:00 PM",
@@ -79,7 +79,7 @@
       "vendor": "El Pirata Tortas Y Burritos / Now Make Me A Sandwich"
     },
     {
-      "date": "2026-01-18T00:00:00",
+      "date": "2026-01-19T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -88,28 +88,6 @@
       "start_time_raw": "5:00 PM",
       "timezone": "PT",
       "vendor": "Where Ya At Matt"
-    },
-    {
-      "date": "2026-01-11T12:00:00.405000",
-      "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "location": "Yonder Cider & Bale Breaker - Ballard",
-      "start_time": "12:00 PM PT",
-      "start_time_raw": "12:00 PM",
-      "timezone": "PT",
-      "vendor": "Sauna Social w/ PNW Mobile Spa"
-    },
-    {
-      "date": "2026-01-11T13:00:00.372000",
-      "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "location": "Yonder Cider & Bale Breaker - Ballard",
-      "start_time": "1:00 PM PT",
-      "start_time_raw": "1:00 PM",
-      "timezone": "PT",
-      "vendor": "Tacos &amp; Beer"
     },
     {
       "date": "2026-01-13T16:00:00.307000",
@@ -211,28 +189,6 @@
       "vendor": "Vandalz Taqueria"
     },
     {
-      "date": "2026-01-11T00:00:00",
-      "description": "Original event: Cocina Barelas",
-      "end_time": null,
-      "end_time_raw": null,
-      "location": "Chuck's Hop Shop Greenwood",
-      "start_time": null,
-      "start_time_raw": null,
-      "timezone": "PT",
-      "vendor": "Cocina Barelas"
-    },
-    {
-      "date": "2026-01-11T00:00:00",
-      "description": "Original event: Momo Express",
-      "end_time": null,
-      "end_time_raw": null,
-      "location": "Chuck's Hop Shop Greenwood",
-      "start_time": null,
-      "start_time_raw": null,
-      "timezone": "PT",
-      "vendor": "Momo Express"
-    },
-    {
       "date": "2026-01-12T00:00:00",
       "description": "Original event: Dinner: Birrieria Pepe El Toro",
       "end_time": null,
@@ -321,15 +277,15 @@
       "vendor": "Georgia's Greek"
     },
     {
-      "date": "2026-01-11T17:00:00",
-      "description": "Cuisine: Asian, Vegan, Vegetarian",
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
-      "location": "Saleh's Corner",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
+      "date": "2026-01-19T00:00:00",
+      "description": "Original event: Dinner: Birrieria Pepe El Toro",
+      "end_time": null,
+      "end_time_raw": null,
+      "location": "Chuck's Hop Shop Greenwood",
+      "start_time": null,
+      "start_time_raw": null,
       "timezone": "PT",
-      "vendor": "Kathmandu MoMoCha"
+      "vendor": "Birrieria Pepe El Toro"
     },
     {
       "date": "2026-01-12T17:00:00",
@@ -407,11 +363,22 @@
       "start_time_raw": "5:00 PM",
       "timezone": "PT",
       "vendor": "Heart In Seoul"
+    },
+    {
+      "date": "2026-01-19T17:00:00",
+      "description": "Cuisine: Asian, Thai, Vegetarian",
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "location": "Saleh's Corner",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "timezone": "PT",
+      "vendor": "Pumpkin Thai"
     }
   ],
-  "haiku": "\ud83c\udf55 Winter rain taps roof\u2014\nRusso's pizza meets Stoup's hops,\nBallard souls gather \ud83c\udf7a",
+  "haiku": "\ud83e\udd5f Winter mist swirls thick\u2014\nMOMO's steam at Saleh's door,\nWarmth shared, hearts gathered \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 37,
-  "updated": "2026-01-12T07:15:17.985664+00:00"
+  "total_events": 34,
+  "updated": "2026-01-12T08:15:21.195007+00:00"
 }
