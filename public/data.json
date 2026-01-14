@@ -167,6 +167,17 @@
       "vendor": "Now Make Me A Sandwich"
     },
     {
+      "date": "2026-01-14T00:00:00",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "location": "Obec Brewing",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "timezone": "PT",
+      "vendor": "Empanadas el Pachi"
+    },
+    {
       "date": "2026-01-15T00:00:00",
       "description": null,
       "end_time": "7:00 PM PT",
@@ -376,9 +387,9 @@
       "vendor": "Theo's Gyros"
     }
   ],
-  "haiku": "\ud83d\udd25 January chill fades\u2014\nMarigold's wood fired warmth\nwarms Stoup's winter hearts \ud83c\udf55",
+  "haiku": "\ud83c\udf27\ufe0f January rain falls\u2014\nTheo's lamb turns at Saleh's,\nwarm pita waits here \ud83e\udd59",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 34,
-  "updated": "2026-01-14T09:15:18.921253+00:00"
+  "total_events": 35,
+  "updated": "2026-01-14T10:15:19.177796+00:00"
 }
