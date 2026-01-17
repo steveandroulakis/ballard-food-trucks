@@ -172,10 +172,10 @@
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
       "location": "Obec Brewing",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
+      "start_time": "3:00 AM PT",
+      "start_time_raw": "3:00 AM",
       "timezone": "PT",
-      "vendor": "Burgerdom"
+      "vendor": "Kaosamai Thai"
     },
     {
       "date": "2026-01-17T00:00:00",
@@ -398,9 +398,9 @@
       "vendor": "Oskar's Pizza"
     }
   ],
-  "haiku": "\ud83c\udf27\ufe0f Winter rain drizzles\u2014\nTat's warm sandwiches gather\nat Chuck's hoppy hearth \ud83c\udf7a",
+  "haiku": "\u2744\ufe0f Winter rain drips down\u2014\nTat's warm sandwiches waiting\nat Chuck's hoppy hearth \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
   "total_events": 36,
-  "updated": "2026-01-17T09:15:18.412206+00:00"
+  "updated": "2026-01-17T10:15:22.237978+00:00"
 }
