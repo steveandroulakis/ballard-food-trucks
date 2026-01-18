@@ -223,17 +223,6 @@
     },
     {
       "date": "2026-01-18T00:00:00",
-      "description": "Original event: Brunch: TBD",
-      "end_time": null,
-      "end_time_raw": null,
-      "location": "Chuck's Hop Shop Greenwood",
-      "start_time": null,
-      "start_time_raw": null,
-      "timezone": "PT",
-      "vendor": "TBD"
-    },
-    {
-      "date": "2026-01-18T00:00:00",
       "description": "Original event: Dinner: Georgia's Greek",
       "end_time": null,
       "end_time_raw": null,
@@ -398,9 +387,9 @@
       "vendor": "Oskar's Pizza"
     }
   ],
-  "haiku": "\ud83e\udd6a Winter rain retreats\u2014\nWich Came First meets cider's warmth\nin Ballard's bright glow \ud83c\udf7b",
+  "haiku": "\ud83c\udf27\ufe0f January mist swirls\u2014\nVandalz tacos steam at Wheelie,\nWinter warmth shared here \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 36,
-  "updated": "2026-01-18T05:15:17.936304+00:00"
+  "total_events": 35,
+  "updated": "2026-01-18T06:15:18.064764+00:00"
 }
