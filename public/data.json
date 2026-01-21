@@ -2,7 +2,7 @@
   "errors": [],
   "events": [
     {
-      "date": "2026-01-20T00:00:00",
+      "date": "2026-01-21T00:00:00",
       "description": null,
       "end_time": "8:30 PM PT",
       "end_time_raw": "8:30 PM",
@@ -13,7 +13,7 @@
       "vendor": "El Gran Taco"
     },
     {
-      "date": "2026-01-21T00:00:00",
+      "date": "2026-01-22T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -24,7 +24,7 @@
       "vendor": "Birrieria Pepe El Toro"
     },
     {
-      "date": "2026-01-22T00:00:00",
+      "date": "2026-01-23T00:00:00",
       "description": null,
       "end_time": "9:00 PM PT",
       "end_time_raw": "9:00 PM",
@@ -35,7 +35,7 @@
       "vendor": "Georgia's Greek"
     },
     {
-      "date": "2026-01-23T00:00:00",
+      "date": "2026-01-24T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -46,7 +46,7 @@
       "vendor": "Tat's Truck"
     },
     {
-      "date": "2026-01-24T00:00:00",
+      "date": "2026-01-25T00:00:00",
       "description": null,
       "end_time": "7:00 PM PT",
       "end_time_raw": "7:00 PM",
@@ -57,7 +57,7 @@
       "vendor": "Kaosamai Thai"
     },
     {
-      "date": "2026-01-25T00:00:00",
+      "date": "2026-01-26T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -68,7 +68,7 @@
       "vendor": "Russo Pizzarium"
     },
     {
-      "date": "2026-01-26T00:00:00",
+      "date": "2026-01-27T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -79,7 +79,7 @@
       "vendor": "Tacos & Beer"
     },
     {
-      "date": "2026-01-27T00:00:00",
+      "date": "2026-01-28T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -88,17 +88,6 @@
       "start_time_raw": "5:00 PM",
       "timezone": "PT",
       "vendor": "The Marigold Wood Fired Pizza"
-    },
-    {
-      "date": "2026-01-20T16:00:00.203000",
-      "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "location": "Yonder Cider & Bale Breaker - Ballard",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
-      "timezone": "PT",
-      "vendor": "Birrieria Pepe El Toro"
     },
     {
       "date": "2026-01-21T16:00:00.044000",
@@ -167,6 +156,17 @@
       "vendor": "Tummy Yummy Thai"
     },
     {
+      "date": "2026-01-28T16:00:00.425000",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "location": "Yonder Cider & Bale Breaker - Ballard",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "timezone": "PT",
+      "vendor": "Georgia\u2019s Greek"
+    },
+    {
       "date": "2026-01-22T00:00:00",
       "description": null,
       "end_time": "7:00 PM PT",
@@ -198,17 +198,6 @@
       "start_time_raw": "7:00 PM",
       "timezone": "PT",
       "vendor": "Shuffle Dating"
-    },
-    {
-      "date": "2026-01-20T00:00:00",
-      "description": "Original event: Dinner: Woodshop BBQ",
-      "end_time": null,
-      "end_time_raw": null,
-      "location": "Chuck's Hop Shop Greenwood",
-      "start_time": null,
-      "start_time_raw": null,
-      "timezone": "PT",
-      "vendor": "Woodshop BBQ"
     },
     {
       "date": "2026-01-21T00:00:00",
@@ -299,15 +288,15 @@
       "vendor": "Woodshop BBQ"
     },
     {
-      "date": "2026-01-20T17:00:00",
-      "description": "Cuisine: Burritos, Mexican, Tacos",
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
-      "location": "Saleh's Corner",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
+      "date": "2026-01-28T00:00:00",
+      "description": "Original event: Dinner: Oskar's Pizza",
+      "end_time": null,
+      "end_time_raw": null,
+      "location": "Chuck's Hop Shop Greenwood",
+      "start_time": null,
+      "start_time_raw": null,
       "timezone": "PT",
-      "vendor": "Plaza Garcia Express"
+      "vendor": "Oskar's Pizza"
     },
     {
       "date": "2026-01-21T17:00:00",
@@ -385,11 +374,22 @@
       "start_time_raw": "5:00 PM",
       "timezone": "PT",
       "vendor": "Plaza Garcia Express"
+    },
+    {
+      "date": "2026-01-28T17:00:00",
+      "description": "Cuisine: Greek, Gyro, Halal",
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "location": "Saleh's Corner",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "timezone": "PT",
+      "vendor": "Theo's Gyros"
     }
   ],
-  "haiku": "\ud83c\udf27\ufe0f January rain falls\u2014\nEl Gran Taco's steam rises\nwarm at Stoup's wood bar \ud83c\udf7a",
+  "haiku": "\ud83c\udf55 Winter rain patters\u2014\nOskar's wood-fired warmth calls out\nat Chuck's hoppy hearth \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
   "total_events": 35,
-  "updated": "2026-01-21T07:15:18.792020+00:00"
+  "updated": "2026-01-21T08:15:19.262155+00:00"
 }
