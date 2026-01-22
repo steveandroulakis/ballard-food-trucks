@@ -2,7 +2,7 @@
   "errors": [],
   "events": [
     {
-      "date": "2026-01-21T00:00:00",
+      "date": "2026-01-22T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -13,7 +13,7 @@
       "vendor": "Birrieria Pepe El Toro"
     },
     {
-      "date": "2026-01-22T00:00:00",
+      "date": "2026-01-23T00:00:00",
       "description": null,
       "end_time": "9:00 PM PT",
       "end_time_raw": "9:00 PM",
@@ -24,7 +24,7 @@
       "vendor": "Georgia's Greek"
     },
     {
-      "date": "2026-01-23T00:00:00",
+      "date": "2026-01-24T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -35,7 +35,7 @@
       "vendor": "Tat's Truck"
     },
     {
-      "date": "2026-01-24T00:00:00",
+      "date": "2026-01-25T00:00:00",
       "description": null,
       "end_time": "7:00 PM PT",
       "end_time_raw": "7:00 PM",
@@ -46,7 +46,7 @@
       "vendor": "Kaosamai Thai"
     },
     {
-      "date": "2026-01-25T00:00:00",
+      "date": "2026-01-26T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -57,7 +57,7 @@
       "vendor": "Russo Pizzarium"
     },
     {
-      "date": "2026-01-26T00:00:00",
+      "date": "2026-01-27T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -68,7 +68,7 @@
       "vendor": "Tacos & Beer"
     },
     {
-      "date": "2026-01-27T00:00:00",
+      "date": "2026-01-28T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -79,7 +79,7 @@
       "vendor": "The Marigold Wood Fired Pizza"
     },
     {
-      "date": "2026-01-28T00:00:00",
+      "date": "2026-01-29T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -88,17 +88,6 @@
       "start_time_raw": "5:00 PM",
       "timezone": "PT",
       "vendor": "La Costenita"
-    },
-    {
-      "date": "2026-01-21T16:00:00.044000",
-      "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "location": "Yonder Cider & Bale Breaker - Ballard",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
-      "timezone": "PT",
-      "vendor": "Now Make Me A Sandwich"
     },
     {
       "date": "2026-01-22T16:00:00.759000",
@@ -167,7 +156,18 @@
       "vendor": "Georgia\u2019s Greek"
     },
     {
-      "date": "2026-01-21T00:00:00",
+      "date": "2026-01-29T16:00:00.421000",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "location": "Yonder Cider & Bale Breaker - Ballard",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "timezone": "PT",
+      "vendor": "Impeckable Chicken"
+    },
+    {
+      "date": "2026-01-22T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -211,15 +211,15 @@
       "vendor": "Shuffle Dating"
     },
     {
-      "date": "2026-01-21T00:00:00",
-      "description": "Original event: Dinner: Oskar's Pizza",
-      "end_time": null,
-      "end_time_raw": null,
-      "location": "Chuck's Hop Shop Greenwood",
-      "start_time": null,
-      "start_time_raw": null,
+      "date": "2026-01-29T00:00:00",
+      "description": null,
+      "end_time": "7:00 PM PT",
+      "end_time_raw": "7:00 PM",
+      "location": "Wheelie Pop Brewing",
+      "start_time": "6:00 PM PT",
+      "start_time_raw": "6:00 PM",
       "timezone": "PT",
-      "vendor": "Oskar's Pizza"
+      "vendor": "Kaosamai Thai"
     },
     {
       "date": "2026-01-22T00:00:00",
@@ -310,15 +310,15 @@
       "vendor": "Oskar's Pizza"
     },
     {
-      "date": "2026-01-21T17:00:00",
-      "description": "Cuisine: Greek, Gyro, Halal",
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
-      "location": "Saleh's Corner",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
+      "date": "2026-01-29T00:00:00",
+      "description": "Original event: Dinner: Impeckable",
+      "end_time": null,
+      "end_time_raw": null,
+      "location": "Chuck's Hop Shop Greenwood",
+      "start_time": null,
+      "start_time_raw": null,
       "timezone": "PT",
-      "vendor": "Theo's Gyros"
+      "vendor": "Impeckable"
     },
     {
       "date": "2026-01-22T17:00:00",
@@ -396,11 +396,22 @@
       "start_time_raw": "5:00 PM",
       "timezone": "PT",
       "vendor": "Theo's Gyros"
+    },
+    {
+      "date": "2026-01-29T17:00:00",
+      "description": "Cuisine: Asian, Thai, Vegetarian",
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "location": "Saleh's Corner",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "timezone": "PT",
+      "vendor": "Pumpkin Thai"
     }
   ],
-  "haiku": "\ud83c\udf27\ufe0f January rain falls\u2014\nTheo's lamb sizzles warm at\nSaleh's Corner bar \ud83c\udf7a",
+  "haiku": "\ud83c\udf27\ufe0f Winter rain drums soft\u2014\nBarelas spice warms the soul\nat Obec's bright hearth \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 36,
-  "updated": "2026-01-22T07:15:18.905134+00:00"
+  "total_events": 37,
+  "updated": "2026-01-22T08:15:18.872857+00:00"
 }
