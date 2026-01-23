@@ -169,13 +169,13 @@
     {
       "date": "2026-01-23T00:00:00",
       "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
       "location": "Obec Brewing",
       "start_time": "4:00 PM PT",
       "start_time_raw": "4:00 PM",
       "timezone": "PT",
-      "vendor": "Split Open and Melt"
+      "vendor": "Cocina Barelas (New Mexican Cuisine)"
     },
     {
       "date": "2026-01-24T00:00:00",
@@ -398,9 +398,9 @@
       "vendor": "Impeckable Chicken"
     }
   ],
-  "haiku": "\ud83c\udf27\ufe0f January rain falls\u2014\nGeorgia's Greek warms Stoup's cold porch,\nTzatziki and hops \ud83c\udf7a",
+  "haiku": "\ud83c\udf27\ufe0f Winter rain taps soft\u2014\nWhere ya at Matt warms the heart\nat Chuck's hoppy door \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
   "total_events": 36,
-  "updated": "2026-01-23T08:15:19.341562+00:00"
+  "updated": "2026-01-23T09:15:25.872208+00:00"
 }
