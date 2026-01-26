@@ -201,14 +201,14 @@
     },
     {
       "date": "2026-01-26T00:00:00",
-      "description": "Original event: Dinner: Birrieria Pepe El Toro",
+      "description": "Original event: Dinner: Thai U Up",
       "end_time": null,
       "end_time_raw": null,
       "location": "Chuck's Hop Shop Greenwood",
       "start_time": null,
       "start_time_raw": null,
       "timezone": "PT",
-      "vendor": "Birrieria Pepe El Toro"
+      "vendor": "Thai U Up"
     },
     {
       "date": "2026-01-27T00:00:00",
@@ -387,9 +387,9 @@
       "vendor": "Thai-U-Up"
     }
   ],
-  "haiku": "\ud83e\udd67 Winter rain patters\u2014\nPumpkin Thai spice warms the soul\nat Saleh's bright hearth \ud83c\udf7a",
+  "haiku": "\ud83c\udf27\ufe0f January rain falls\u2014\nPlaza Garcia's spice warms\nObec's winter crowd \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
   "total_events": 35,
-  "updated": "2026-01-26T22:15:18.826975+00:00"
+  "updated": "2026-01-26T23:15:17.983812+00:00"
 }
