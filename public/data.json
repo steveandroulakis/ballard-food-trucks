@@ -2,7 +2,7 @@
   "errors": [],
   "events": [
     {
-      "date": "2026-01-26T00:00:00",
+      "date": "2026-01-27T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -13,7 +13,7 @@
       "vendor": "Tacos & Beer"
     },
     {
-      "date": "2026-01-27T00:00:00",
+      "date": "2026-01-28T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -24,7 +24,7 @@
       "vendor": "The Marigold Wood Fired Pizza"
     },
     {
-      "date": "2026-01-28T00:00:00",
+      "date": "2026-01-29T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -35,7 +35,7 @@
       "vendor": "La Costenita"
     },
     {
-      "date": "2026-01-29T00:00:00",
+      "date": "2026-01-30T00:00:00",
       "description": null,
       "end_time": "9:00 PM PT",
       "end_time_raw": "9:00 PM",
@@ -46,7 +46,7 @@
       "vendor": "Off the Rez"
     },
     {
-      "date": "2026-01-30T00:00:00",
+      "date": "2026-01-31T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -57,7 +57,7 @@
       "vendor": "Johnson BBQ Provisions"
     },
     {
-      "date": "2026-01-31T00:00:00",
+      "date": "2026-02-01T00:00:00",
       "description": null,
       "end_time": "7:00 PM PT",
       "end_time_raw": "7:00 PM",
@@ -68,7 +68,7 @@
       "vendor": "El Pirata Tortas Y Burritos / Now Make Me A Sandwich"
     },
     {
-      "date": "2026-02-01T00:00:00",
+      "date": "2026-02-02T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -79,7 +79,7 @@
       "vendor": "Where Ya At Matt"
     },
     {
-      "date": "2026-02-02T00:00:00",
+      "date": "2026-02-03T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -156,7 +156,7 @@
       "vendor": "Tacos &amp; Beer"
     },
     {
-      "date": "2026-01-26T00:00:00",
+      "date": "2026-01-27T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -200,15 +200,15 @@
       "vendor": "Vandalz Taqueria"
     },
     {
-      "date": "2026-01-26T00:00:00",
-      "description": "Original event: Dinner: Thai U Up",
-      "end_time": null,
-      "end_time_raw": null,
-      "location": "Chuck's Hop Shop Greenwood",
-      "start_time": null,
-      "start_time_raw": null,
+      "date": "2026-02-03T00:00:00",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "location": "Wheelie Pop Brewing",
+      "start_time": "7:00 PM PT",
+      "start_time_raw": "7:00 PM",
       "timezone": "PT",
-      "vendor": "Thai U Up"
+      "vendor": "Shuffle Dating"
     },
     {
       "date": "2026-01-27T00:00:00",
@@ -299,15 +299,15 @@
       "vendor": "Off the Rez"
     },
     {
-      "date": "2026-01-26T17:00:00",
-      "description": "Cuisine: Asian, Thai, Vegetarian",
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
-      "location": "Saleh's Corner",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
+      "date": "2026-02-03T00:00:00",
+      "description": "Original event: Dinner: Kaosomai Thai",
+      "end_time": null,
+      "end_time_raw": null,
+      "location": "Chuck's Hop Shop Greenwood",
+      "start_time": null,
+      "start_time_raw": null,
       "timezone": "PT",
-      "vendor": "Pumpkin Thai"
+      "vendor": "Kaosomai Thai"
     },
     {
       "date": "2026-01-27T17:00:00",
@@ -385,11 +385,22 @@
       "start_time_raw": "5:00 PM",
       "timezone": "PT",
       "vendor": "Thai-U-Up"
+    },
+    {
+      "date": "2026-02-03T17:00:00",
+      "description": "Cuisine: Burritos, Mexican, Tacos",
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "location": "Saleh's Corner",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "timezone": "PT",
+      "vendor": "Plaza Garcia Express"
     }
   ],
-  "haiku": "\ud83e\udd67 Winter rain patters\u2014\nPumpkin Thai's warm spices steam\nat Saleh's haven \ud83c\udf7a",
+  "haiku": "\ud83c\udf27\ufe0f January rain falls\u2014\nTacos warm at Stoup's bright door,\nBeer foam meets winter \u2744\ufe0f",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 35,
-  "updated": "2026-01-27T07:15:18.034157+00:00"
+  "total_events": 36,
+  "updated": "2026-01-27T08:15:18.922768+00:00"
 }
