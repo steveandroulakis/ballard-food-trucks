@@ -134,6 +134,17 @@
       "vendor": "Wich Came First"
     },
     {
+      "date": "2026-01-28T00:00:00",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "location": "Obec Brewing",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "timezone": "PT",
+      "vendor": "Empanadas el Pachi"
+    },
+    {
       "date": "2026-01-29T00:00:00",
       "description": null,
       "end_time": "7:00 PM PT",
@@ -354,9 +365,9 @@
       "vendor": "Theo's Gyros"
     }
   ],
-  "haiku": "\ud83e\udd59 Winter rain taps down\u2014\nTheo's lamb sizzles warm bright\nat Saleh's front door \ud83c\udf7a",
+  "haiku": "\ud83e\udd5f Winter rain patters\u2014\nPachi's golden crescents warm\nObec's steamy glass \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 32,
-  "updated": "2026-01-28T09:15:18.707758+00:00"
+  "total_events": 33,
+  "updated": "2026-01-28T10:15:33.120043+00:00"
 }
