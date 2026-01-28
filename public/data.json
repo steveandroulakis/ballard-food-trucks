@@ -145,17 +145,6 @@
       "vendor": "Wich Came First"
     },
     {
-      "date": "2026-02-01T13:00:00.590000",
-      "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "location": "Yonder Cider & Bale Breaker - Ballard",
-      "start_time": "1:00 PM PT",
-      "start_time_raw": "1:00 PM",
-      "timezone": "PT",
-      "vendor": "Tacos &amp; Beer"
-    },
-    {
       "date": "2026-01-27T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
@@ -387,9 +376,9 @@
       "vendor": "Plaza Garcia Express"
     }
   ],
-  "haiku": "\ud83d\udd25 Winter smoke curls high\u2014\nWoodshop's brisket meets cold hops\nat Chuck's warm refuge \ud83c\udf7a",
+  "haiku": "\ud83c\udf27\ufe0f January rain falls\u2014\nTacos warm the winter night\nat Stoup's bright gold glow \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 35,
-  "updated": "2026-01-27T23:15:42.995178+00:00"
+  "total_events": 34,
+  "updated": "2026-01-28T00:15:18.598623+00:00"
 }
