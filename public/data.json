@@ -125,13 +125,13 @@
     {
       "date": "2026-01-29T00:00:00",
       "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
       "location": "Obec Brewing",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
       "timezone": "PT",
-      "vendor": "Empanadas el Pachi"
+      "vendor": "Tummy Yummy Thai"
     },
     {
       "date": "2026-01-29T00:00:00",
@@ -354,9 +354,9 @@
       "vendor": "Pumpkin Thai"
     }
   ],
-  "haiku": "\ud83c\udf27\ufe0f Winter rain patters\u2014\nLa Costenita's warmth steams\nat Stoup's golden taps \ud83c\udf7a",
+  "haiku": "\ud83c\udf27\ufe0f Winter rain drums soft\u2014\nLa Costenita's warmth steams\nat Stoup's brewing heart \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
   "total_events": 32,
-  "updated": "2026-01-29T08:15:19.820772+00:00"
+  "updated": "2026-01-29T09:15:23.155758+00:00"
 }
