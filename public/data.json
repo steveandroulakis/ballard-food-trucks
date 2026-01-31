@@ -98,7 +98,7 @@
       "start_time": "4:00 PM PT",
       "start_time_raw": "4:00 PM",
       "timezone": "PT",
-      "vendor": "Wood Shop BBQ"
+      "vendor": "The Panini Truck"
     },
     {
       "date": "2026-01-31T13:00:00.664000",
@@ -332,9 +332,9 @@
       "vendor": "Impeckable Chicken"
     }
   ],
-  "haiku": "\ud83c\udf27\ufe0f Winter rain whispers\u2014\nWhere ya at Matt warms the heart\nat Chuck's hoppy hearth \ud83c\udf7a",
+  "haiku": "\ud83c\udf27\ufe0f Winter rain whispers\u2014\nWhere ya at Matt warms the hop\nshop with Friday joy \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
   "total_events": 30,
-  "updated": "2026-01-30T23:15:18.689389+00:00"
+  "updated": "2026-01-31T00:15:19.115257+00:00"
 }
