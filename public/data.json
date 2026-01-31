@@ -90,15 +90,15 @@
       "vendor": "Tat's Truck"
     },
     {
-      "date": "2026-01-31T13:00:00.664000",
+      "date": "2026-01-31T14:30:00.633000",
       "description": null,
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
+      "end_time": "8:30 PM PT",
+      "end_time_raw": "8:30 PM",
       "location": "Yonder Cider & Bale Breaker - Ballard",
-      "start_time": "1:00 PM PT",
-      "start_time_raw": "1:00 PM",
+      "start_time": "2:30 PM PT",
+      "start_time_raw": "2:30 PM",
       "timezone": "PT",
-      "vendor": "Wich Came First"
+      "vendor": "Nacho Rio"
     },
     {
       "date": "2026-01-31T00:00:00",
@@ -321,9 +321,9 @@
       "vendor": "Birrieria Pepe El Toro"
     }
   ],
-  "haiku": "\ud83e\udd6a Winter rain tapping\u2014\nPanini press hisses warm\nat Obec's bright hearth \ud83c\udf7a",
+  "haiku": "\ud83c\udf27\ufe0f January rain falls\u2014\nTat's hot sandwiches steaming\nat Chuck's warm tap room \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
   "total_events": 29,
-  "updated": "2026-01-31T20:15:18.296965+00:00"
+  "updated": "2026-01-31T21:15:18.215500+00:00"
 }
