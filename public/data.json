@@ -2,7 +2,7 @@
   "errors": [],
   "events": [
     {
-      "date": "2026-01-30T00:00:00",
+      "date": "2026-01-31T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -13,7 +13,7 @@
       "vendor": "Johnson BBQ Provisions"
     },
     {
-      "date": "2026-01-31T00:00:00",
+      "date": "2026-02-01T00:00:00",
       "description": null,
       "end_time": "7:00 PM PT",
       "end_time_raw": "7:00 PM",
@@ -24,7 +24,7 @@
       "vendor": "El Pirata Tortas Y Burritos / Now Make Me A Sandwich"
     },
     {
-      "date": "2026-02-01T00:00:00",
+      "date": "2026-02-02T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -35,7 +35,7 @@
       "vendor": "Where Ya At Matt"
     },
     {
-      "date": "2026-02-02T00:00:00",
+      "date": "2026-02-03T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -46,7 +46,7 @@
       "vendor": "Split Open & Melt Cheesesteaks"
     },
     {
-      "date": "2026-02-03T00:00:00",
+      "date": "2026-02-04T00:00:00",
       "description": null,
       "end_time": "8:30 PM PT",
       "end_time_raw": "8:30 PM",
@@ -57,7 +57,7 @@
       "vendor": "El Gran Taco"
     },
     {
-      "date": "2026-02-04T00:00:00",
+      "date": "2026-02-05T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -68,7 +68,7 @@
       "vendor": "Birrieria Pepe El Toro"
     },
     {
-      "date": "2026-02-05T00:00:00",
+      "date": "2026-02-06T00:00:00",
       "description": null,
       "end_time": "9:00 PM PT",
       "end_time_raw": "9:00 PM",
@@ -79,7 +79,7 @@
       "vendor": "Georgia's Greek"
     },
     {
-      "date": "2026-02-06T00:00:00",
+      "date": "2026-02-07T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -88,17 +88,6 @@
       "start_time_raw": "1:00 PM",
       "timezone": "PT",
       "vendor": "Tat's Truck"
-    },
-    {
-      "date": "2026-01-30T16:00:00.975000",
-      "description": null,
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
-      "location": "Yonder Cider & Bale Breaker - Ballard",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
-      "timezone": "PT",
-      "vendor": "The Panini Truck"
     },
     {
       "date": "2026-01-31T13:00:00.664000",
@@ -112,7 +101,7 @@
       "vendor": "Wich Came First"
     },
     {
-      "date": "2026-01-30T00:00:00",
+      "date": "2026-01-31T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -143,17 +132,6 @@
       "start_time_raw": "7:00 PM",
       "timezone": "PT",
       "vendor": "Shuffle Dating"
-    },
-    {
-      "date": "2026-01-30T00:00:00",
-      "description": "Original event: Dinner: Where ya at Matt",
-      "end_time": null,
-      "end_time_raw": null,
-      "location": "Chuck's Hop Shop Greenwood",
-      "start_time": null,
-      "start_time_raw": null,
-      "timezone": "PT",
-      "vendor": "Where ya at Matt"
     },
     {
       "date": "2026-01-31T00:00:00",
@@ -244,15 +222,15 @@
       "vendor": "T'Juana"
     },
     {
-      "date": "2026-01-30T17:00:00",
-      "description": "Cuisine: Chicken, Sandwiches, Southern",
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
-      "location": "Saleh's Corner",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
+      "date": "2026-02-07T00:00:00",
+      "description": "Original event: Dinner: Sabor Boricua",
+      "end_time": null,
+      "end_time_raw": null,
+      "location": "Chuck's Hop Shop Greenwood",
+      "start_time": null,
+      "start_time_raw": null,
       "timezone": "PT",
-      "vendor": "Impeckable Chicken"
+      "vendor": "Sabor Boricua"
     },
     {
       "date": "2026-01-31T17:00:00",
@@ -330,11 +308,22 @@
       "start_time_raw": "5:00 PM",
       "timezone": "PT",
       "vendor": "Impeckable Chicken"
+    },
+    {
+      "date": "2026-02-07T17:00:00",
+      "description": "Cuisine: Mexican, Tacos",
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "location": "Saleh's Corner",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "timezone": "PT",
+      "vendor": "Birrieria Pepe El Toro"
     }
   ],
-  "haiku": "\ud83e\udd6a Winter rain patters\u2014\nPanini press hisses warm\nat Yonder's bright glow \ud83c\udf7a",
+  "haiku": "\ud83c\udf27\ufe0f Winter rain taps roof\u2014\nKottu sizzles at Obec,\nspiced warmth fills cold air \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 30,
-  "updated": "2026-01-31T07:15:26.130024+00:00"
+  "total_events": 29,
+  "updated": "2026-01-31T08:15:18.612804+00:00"
 }
