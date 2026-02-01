@@ -201,102 +201,102 @@
     },
     {
       "date": "2026-01-31T00:00:00",
-      "description": "Original event: Tat's Deli",
+      "description": "Original event: #VALUE!",
       "end_time": null,
       "end_time_raw": null,
       "location": "Chuck's Hop Shop Greenwood",
       "start_time": null,
       "start_time_raw": null,
       "timezone": "PT",
-      "vendor": "Tat's Deli"
+      "vendor": "#VALUE!"
     },
     {
       "date": "2026-02-01T00:00:00",
-      "description": "Original event: Brunch: Good Morning Tacos",
+      "description": "Original event: #VALUE!",
       "end_time": null,
       "end_time_raw": null,
       "location": "Chuck's Hop Shop Greenwood",
       "start_time": null,
       "start_time_raw": null,
       "timezone": "PT",
-      "vendor": "Good Morning Tacos"
+      "vendor": "#VALUE!"
     },
     {
       "date": "2026-02-01T00:00:00",
-      "description": "Original event: Dinner: Georgia's Greek",
+      "description": "Original event: #VALUE!",
       "end_time": null,
       "end_time_raw": null,
       "location": "Chuck's Hop Shop Greenwood",
       "start_time": null,
       "start_time_raw": null,
       "timezone": "PT",
-      "vendor": "Georgia's Greek"
+      "vendor": "#VALUE!"
     },
     {
       "date": "2026-02-02T00:00:00",
-      "description": "Original event: Dinner: Off the Rez",
+      "description": "Original event: #VALUE!",
       "end_time": null,
       "end_time_raw": null,
       "location": "Chuck's Hop Shop Greenwood",
       "start_time": null,
       "start_time_raw": null,
       "timezone": "PT",
-      "vendor": "Off the Rez"
+      "vendor": "#VALUE!"
     },
     {
       "date": "2026-02-03T00:00:00",
-      "description": "Original event: Dinner: Kaosomai Thai",
+      "description": "Original event: #VALUE!",
       "end_time": null,
       "end_time_raw": null,
       "location": "Chuck's Hop Shop Greenwood",
       "start_time": null,
       "start_time_raw": null,
       "timezone": "PT",
-      "vendor": "Kaosomai Thai"
+      "vendor": "#VALUE!"
     },
     {
       "date": "2026-02-04T00:00:00",
-      "description": "Original event: Dinner: Chick'n Fix",
+      "description": "Original event: #VALUE!",
       "end_time": null,
       "end_time_raw": null,
       "location": "Chuck's Hop Shop Greenwood",
       "start_time": null,
       "start_time_raw": null,
       "timezone": "PT",
-      "vendor": "Chick'n Fix"
+      "vendor": "#VALUE!"
     },
     {
       "date": "2026-02-05T00:00:00",
-      "description": "Original event: Dinner: Pizza Paseano",
+      "description": "Original event: #VALUE!",
       "end_time": null,
       "end_time_raw": null,
       "location": "Chuck's Hop Shop Greenwood",
       "start_time": null,
       "start_time_raw": null,
       "timezone": "PT",
-      "vendor": "Pizza Paseano"
+      "vendor": "#VALUE!"
     },
     {
       "date": "2026-02-06T00:00:00",
-      "description": "Original event: Dinner: T'Juana",
+      "description": "Original event: #VALUE!",
       "end_time": null,
       "end_time_raw": null,
       "location": "Chuck's Hop Shop Greenwood",
       "start_time": null,
       "start_time_raw": null,
       "timezone": "PT",
-      "vendor": "T'Juana"
+      "vendor": "#VALUE!"
     },
     {
       "date": "2026-02-07T00:00:00",
-      "description": "Original event: Dinner: Sabor Boricua",
+      "description": "Original event: #VALUE!",
       "end_time": null,
       "end_time_raw": null,
       "location": "Chuck's Hop Shop Greenwood",
       "start_time": null,
       "start_time_raw": null,
       "timezone": "PT",
-      "vendor": "Sabor Boricua"
+      "vendor": "#VALUE!"
     },
     {
       "date": "2026-01-31T17:00:00",
@@ -387,9 +387,9 @@
       "vendor": "Birrieria Pepe El Toro"
     }
   ],
-  "haiku": "\ud83d\udd25 Winter smoke curls high\u2014\nJohnson's brisket meets Stoup's hops,\nBallard warmth shared close \ud83c\udf7a",
+  "haiku": "\ud83c\udf27\ufe0f Winter rain pelts down\u2014\nThai-U-Up warms Saleh's crowd,\nSteam meets hoppy cheer \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
   "total_events": 35,
-  "updated": "2026-02-01T02:15:18.468374+00:00"
+  "updated": "2026-02-01T03:15:18.880606+00:00"
 }
