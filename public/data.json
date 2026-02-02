@@ -1,7 +1,5 @@
 {
-  "errors": [
-    "Failed to fetch information for brewery: Obec Brewing"
-  ],
+  "errors": [],
   "events": [
     {
       "date": "2026-02-02T00:00:00",
@@ -156,6 +154,17 @@
       "start_time_raw": "1:00 PM",
       "timezone": "PT",
       "vendor": "Tacos &amp; Beer"
+    },
+    {
+      "date": "2026-02-02T00:00:00",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "location": "Obec Brewing",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "timezone": "PT",
+      "vendor": "Plaza Garcia"
     },
     {
       "date": "2026-02-03T00:00:00",
@@ -356,9 +365,9 @@
       "vendor": "Thai-U-Up"
     }
   ],
-  "haiku": "\ud83c\udf27\ufe0f February rain falls\u2014\nThai-U-Up steams at Saleh's,\nWarm spice cuts cold air \ud83c\udf5c",
+  "haiku": "\ud83c\udf27\ufe0f February mist swirls\u2014\nThai-U-Up's spice warms the soul\nat Saleh's bright hearth \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 32,
-  "updated": "2026-02-02T16:16:08.982122+00:00"
+  "total_events": 33,
+  "updated": "2026-02-02T17:15:19.995449+00:00"
 }
