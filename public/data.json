@@ -164,7 +164,7 @@
       "start_time": "4:00 PM PT",
       "start_time_raw": "4:00 PM",
       "timezone": "PT",
-      "vendor": "Heart in Seoul"
+      "vendor": "Plaza Garcia"
     },
     {
       "date": "2026-02-03T00:00:00",
@@ -365,9 +365,9 @@
       "vendor": "Thai-U-Up"
     }
   ],
-  "haiku": "\ud83c\udf27\ufe0f February drizzle\u2014\nWhere Ya At Matt steams at Stoup,\nBrew warmth meets comfort \ud83c\udf7a",
+  "haiku": "\ud83c\udf27\ufe0f February drizzle\u2014\nOff the Rez warms Chuck's cold hop shop,\nFry bread meets pale ale \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
   "total_events": 33,
-  "updated": "2026-02-02T08:15:18.687140+00:00"
+  "updated": "2026-02-02T09:15:19.096133+00:00"
 }
