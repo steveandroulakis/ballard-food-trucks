@@ -332,6 +332,17 @@
       "vendor": "Impeckable Chicken"
     },
     {
+      "date": "2026-02-07T17:00:00",
+      "description": "Cuisine: Asian, Thai, Vegetarian",
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "location": "Saleh's Corner",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "timezone": "PT",
+      "vendor": "Pumpkin Thai"
+    },
+    {
       "date": "2026-02-08T17:00:00",
       "description": "Cuisine: African, Halal, Vegetarian",
       "end_time": "9:00 PM PT",
@@ -365,9 +376,9 @@
       "vendor": "Plaza Garcia Express"
     }
   ],
-  "haiku": "\ud83c\udf27\ufe0f February rain falls\u2014\nPlaza Garcia's steam rises\nat Saleh's warm glow \ud83c\udf7a",
+  "haiku": "\ud83c\udf27\ufe0f February rain falls\u2014\nPlaza Garcia's steam rises\nat Saleh's warm light \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 33,
-  "updated": "2026-02-03T21:15:20.495085+00:00"
+  "total_events": 34,
+  "updated": "2026-02-03T22:15:43.498459+00:00"
 }
