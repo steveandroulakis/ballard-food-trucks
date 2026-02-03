@@ -1,5 +1,7 @@
 {
-  "errors": [],
+  "errors": [
+    "Failed to fetch information for brewery: Obec Brewing"
+  ],
   "events": [
     {
       "date": "2026-02-03T00:00:00",
@@ -365,9 +367,9 @@
       "vendor": "Plaza Garcia Express"
     }
   ],
-  "haiku": "\ud83c\udf27\ufe0f February rain falls\u2014\nBirria steam meets Ballard hops,\nPepe's warmth flows free \ud83c\udf7a",
+  "haiku": "\ud83e\udd69 February rain falls\u2014\nSplit Open melts cheese and bread\nat Stoup's warm hearth fire \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
   "total_events": 33,
-  "updated": "2026-02-03T15:15:20.801853+00:00"
+  "updated": "2026-02-03T16:16:09.223015+00:00"
 }
