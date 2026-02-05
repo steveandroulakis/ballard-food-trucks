@@ -175,7 +175,7 @@
       "start_time": "4:00 PM PT",
       "start_time_raw": "4:00 PM",
       "timezone": "PT",
-      "vendor": "Cocina Barelas (New Mexican Cuisine)"
+      "vendor": "Split Open and Melt"
     },
     {
       "date": "2026-02-10T00:00:00",
@@ -376,9 +376,9 @@
       "vendor": "Pumpkin Thai"
     }
   ],
-  "haiku": "\ud83c\udf55 February chill\u2014\nPizza Paesano's warm pies\nat Chuck's hoppy heart \ud83c\udf7a",
+  "haiku": "\ud83c\udf55 February chill\u2014\nPizza Paesano's warmth steams\nat Chuck's hoppy hearth \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
   "total_events": 34,
-  "updated": "2026-02-05T08:15:18.471301+00:00"
+  "updated": "2026-02-05T09:15:17.877251+00:00"
 }
