@@ -1,7 +1,5 @@
 {
-  "errors": [
-    "Failed to fetch information for brewery: Obec Brewing"
-  ],
+  "errors": [],
   "events": [
     {
       "date": "2026-02-04T00:00:00",
@@ -169,6 +167,17 @@
       "vendor": "Georgia\u2019s Greek"
     },
     {
+      "date": "2026-02-04T00:00:00",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "location": "Obec Brewing",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "timezone": "PT",
+      "vendor": "Cocina Barelas (New Mexican Cuisine)"
+    },
+    {
       "date": "2026-02-10T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
@@ -192,14 +201,14 @@
     },
     {
       "date": "2026-02-05T00:00:00",
-      "description": "Original event: Dinner: Pizza Paseano",
+      "description": "Original event: Dinner: Pizza Paesano",
       "end_time": null,
       "end_time_raw": null,
       "location": "Chuck's Hop Shop Greenwood",
       "start_time": null,
       "start_time_raw": null,
       "timezone": "PT",
-      "vendor": "Pizza Paseano"
+      "vendor": "Pizza Paesano"
     },
     {
       "date": "2026-02-06T00:00:00",
@@ -367,9 +376,9 @@
       "vendor": "Theo's Gyros"
     }
   ],
-  "haiku": "\ud83c\udf27\ufe0f February rain falls\u2014\nGeorgia's pita warms hearts\nat Yonder's bright hearth \ud83c\udf7a",
+  "haiku": "\ud83c\udf27\ufe0f February rain falls\u2014\nTheo's lamb spins warm and bright\nat Saleh's corner \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 33,
-  "updated": "2026-02-05T00:15:44.282413+00:00"
+  "total_events": 34,
+  "updated": "2026-02-05T01:15:20.399617+00:00"
 }
