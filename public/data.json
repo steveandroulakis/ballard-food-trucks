@@ -1,5 +1,7 @@
 {
-  "errors": [],
+  "errors": [
+    "Failed to fetch information for brewery: Obec Brewing"
+  ],
   "events": [
     {
       "date": "2026-02-04T00:00:00",
@@ -165,17 +167,6 @@
       "start_time_raw": "4:00 PM",
       "timezone": "PT",
       "vendor": "Georgia\u2019s Greek"
-    },
-    {
-      "date": "2026-02-04T00:00:00",
-      "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "location": "Obec Brewing",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
-      "timezone": "PT",
-      "vendor": "Cocina Barelas (New Mexican Cuisine)"
     },
     {
       "date": "2026-02-10T00:00:00",
@@ -376,9 +367,9 @@
       "vendor": "Theo's Gyros"
     }
   ],
-  "haiku": "\ud83e\udd59 Winter's chill retreats\u2014\nGeorgia's lamb steams at Yonder,\nCider warms cold hearts \ud83c\udf7a",
+  "haiku": "\ud83c\udf27\ufe0f February rain falls\u2014\nGeorgia's pita warms hearts\nat Yonder's bright hearth \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 34,
-  "updated": "2026-02-04T23:15:18.784874+00:00"
+  "total_events": 33,
+  "updated": "2026-02-05T00:15:44.282413+00:00"
 }
