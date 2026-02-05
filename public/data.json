@@ -178,6 +178,28 @@
       "vendor": "Split Open and Melt"
     },
     {
+      "date": "2026-02-05T00:00:00",
+      "description": null,
+      "end_time": null,
+      "end_time_raw": null,
+      "location": "Wheelie Pop Brewing",
+      "start_time": null,
+      "start_time_raw": null,
+      "timezone": "PT",
+      "vendor": "Kaosamai Thai"
+    },
+    {
+      "date": "2026-02-07T00:00:00",
+      "description": null,
+      "end_time": "1:00 AM PT",
+      "end_time_raw": "1:00 AM",
+      "location": "Wheelie Pop Brewing",
+      "start_time": "12:00 AM PT",
+      "start_time_raw": "12:00 AM",
+      "timezone": "PT",
+      "vendor": "Heart in Seoul"
+    },
+    {
       "date": "2026-02-10T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
@@ -187,6 +209,17 @@
       "start_time_raw": "7:00 PM",
       "timezone": "PT",
       "vendor": "Shuffle Dating"
+    },
+    {
+      "date": "2026-02-12T00:00:00",
+      "description": null,
+      "end_time": "1:00 AM PT",
+      "end_time_raw": "1:00 AM",
+      "location": "Wheelie Pop Brewing",
+      "start_time": "12:00 AM PT",
+      "start_time_raw": "12:00 AM",
+      "timezone": "PT",
+      "vendor": "Tisket Tasket"
     },
     {
       "date": "2026-02-05T00:00:00",
@@ -376,9 +409,9 @@
       "vendor": "Pumpkin Thai"
     }
   ],
-  "haiku": "\ud83e\udd62 Winter rain softens\u2014\nPumpkin Thai's spiced warmth mingles\nwith Saleh's brew steam \ud83c\udf7a",
+  "haiku": "\ud83c\udf27\ufe0f Winter rain drips down\u2014\nPepe's birria steams at Stoup,\nwarm broth, cold hops flow \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 34,
-  "updated": "2026-02-05T18:15:31.064119+00:00"
+  "total_events": 37,
+  "updated": "2026-02-05T19:15:18.818742+00:00"
 }
