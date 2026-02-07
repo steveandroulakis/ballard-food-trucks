@@ -112,7 +112,7 @@
       "vendor": "Georgia\u2019s Greek"
     },
     {
-      "date": "2026-02-08T13:00:00.273000",
+      "date": "2026-02-08T13:00:00.425000",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -120,7 +120,7 @@
       "start_time": "1:00 PM PT",
       "start_time_raw": "1:00 PM",
       "timezone": "PT",
-      "vendor": "Tacos &amp; Beer"
+      "vendor": "Georgia\u2019s Greek"
     },
     {
       "date": "2026-02-10T16:00:00.307000",
@@ -402,5 +402,5 @@
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
   "total_events": 36,
-  "updated": "2026-02-06T23:15:19.185120+00:00"
+  "updated": "2026-02-07T00:15:18.181486+00:00"
 }
