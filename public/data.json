@@ -1,7 +1,5 @@
 {
-  "errors": [
-    "Failed to fetch information for brewery: Obec Brewing"
-  ],
+  "errors": [],
   "events": [
     {
       "date": "2026-02-07T00:00:00",
@@ -167,6 +165,17 @@
       "start_time_raw": "1:00 PM",
       "timezone": "PT",
       "vendor": "Wich Came First"
+    },
+    {
+      "date": "2026-02-07T00:00:00",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "location": "Obec Brewing",
+      "start_time": "3:00 AM PT",
+      "start_time_raw": "3:00 AM",
+      "timezone": "PT",
+      "vendor": "Kaosamai Thai"
     },
     {
       "date": "2026-02-07T00:00:00",
@@ -389,9 +398,9 @@
       "vendor": "Impeckable Chicken"
     }
   ],
-  "haiku": "\ud83c\udf27\ufe0f February drizzle\u2014\nHeart in Seoul steams at Wheelie,\nKimchi warms the soul \ud83c\udf7a",
+  "haiku": "\ud83e\udd5c February chill\u2014\nPumpkin Thai steams at Saleh's,\nWinter warmth shared close \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 35,
-  "updated": "2026-02-07T10:16:08.614689+00:00"
+  "total_events": 36,
+  "updated": "2026-02-07T11:15:18.271383+00:00"
 }
