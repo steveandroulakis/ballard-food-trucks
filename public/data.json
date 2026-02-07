@@ -1,5 +1,7 @@
 {
-  "errors": [],
+  "errors": [
+    "Failed to fetch information for brewery: Obec Brewing"
+  ],
   "events": [
     {
       "date": "2026-02-07T00:00:00",
@@ -165,17 +167,6 @@
       "start_time_raw": "1:00 PM",
       "timezone": "PT",
       "vendor": "Wich Came First"
-    },
-    {
-      "date": "2026-02-07T00:00:00",
-      "description": null,
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
-      "location": "Obec Brewing",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
-      "timezone": "PT",
-      "vendor": "Cocina Barelas (New Mexican Cuisine)"
     },
     {
       "date": "2026-02-07T00:00:00",
@@ -398,9 +389,9 @@
       "vendor": "Impeckable Chicken"
     }
   ],
-  "haiku": "\ud83c\udf27\ufe0f February rain falls\u2014\nSabor Boricua's warmth glows\nat Chuck's Hop Shop door \ud83c\udf7a",
+  "haiku": "\ud83c\udf27\ufe0f February drizzle\u2014\nHeart in Seoul steams at Wheelie,\nKimchi warms the soul \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 36,
-  "updated": "2026-02-07T09:15:18.338906+00:00"
+  "total_events": 35,
+  "updated": "2026-02-07T10:16:08.614689+00:00"
 }
