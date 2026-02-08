@@ -172,10 +172,10 @@
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
       "location": "Obec Brewing",
-      "start_time": "3:00 AM PT",
-      "start_time_raw": "3:00 AM",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
       "timezone": "PT",
-      "vendor": "Kaosamai Thai"
+      "vendor": "Heart in Seoul"
     },
     {
       "date": "2026-02-10T00:00:00",
@@ -409,9 +409,9 @@
       "vendor": "Blackstar Kebab"
     }
   ],
-  "haiku": "\ud83e\udd5f Winter dumplings steam\u2014\nMomo Express warms the heart\nat Chuck's hoppy haven \ud83c\udf7a",
+  "haiku": "\ud83e\udd5f Winter dumplings steam\u2014\nMomo Express warms the hearts\nat Chuck's hoppy refuge \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
   "total_events": 37,
-  "updated": "2026-02-08T09:15:19.880922+00:00"
+  "updated": "2026-02-08T10:15:20.685376+00:00"
 }
