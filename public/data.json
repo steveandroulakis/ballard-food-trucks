@@ -161,10 +161,10 @@
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
       "location": "Obec Brewing",
-      "start_time": "3:00 AM PT",
-      "start_time_raw": "3:00 AM",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
       "timezone": "PT",
-      "vendor": "Heart in Seoul"
+      "vendor": "Plaza Garcia"
     },
     {
       "date": "2026-02-10T00:00:00",
@@ -387,9 +387,9 @@
       "vendor": "Tacos el Alebrije"
     }
   ],
-  "haiku": "\ud83c\udf55 February rain falls\u2014\nRusso's pizza meets Stoup's hops,\nBallard warmth inside \ud83c\udf7a",
+  "haiku": "\ud83c\udf55 February chill\u2014\nRusso's warm slices await\nat Stoup's hoppy hearth \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
   "total_events": 35,
-  "updated": "2026-02-09T09:15:21.134419+00:00"
+  "updated": "2026-02-09T10:15:21.990280+00:00"
 }
