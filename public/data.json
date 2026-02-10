@@ -171,17 +171,6 @@
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
-      "location": "Obec Brewing",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
-      "timezone": "PT",
-      "vendor": "Plaza Garcia"
-    },
-    {
-      "date": "2026-02-10T00:00:00",
-      "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
       "location": "Wheelie Pop Brewing",
       "start_time": "7:00 PM PT",
       "start_time_raw": "7:00 PM",
@@ -409,9 +398,9 @@
       "vendor": "Plaza Garcia Express"
     }
   ],
-  "haiku": "\ud83c\udf27\ufe0f February rain falls\u2014\nTacos warm at Stoup's bright door,\nBeer and laughter flow \ud83c\udf7a",
+  "haiku": "\ud83c\udf27\ufe0f February chill\u2014\nTacos warm at Stoup's bright door,\nBeer flows, laughter blooms \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 37,
-  "updated": "2026-02-10T08:15:18.739103+00:00"
+  "total_events": 36,
+  "updated": "2026-02-10T09:15:25.496261+00:00"
 }
