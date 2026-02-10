@@ -2,7 +2,7 @@
   "errors": [],
   "events": [
     {
-      "date": "2026-02-09T00:00:00",
+      "date": "2026-02-10T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -13,7 +13,7 @@
       "vendor": "Tacos & Beer"
     },
     {
-      "date": "2026-02-10T00:00:00",
+      "date": "2026-02-11T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -24,7 +24,7 @@
       "vendor": "The Marigold Wood Fired Pizza"
     },
     {
-      "date": "2026-02-11T00:00:00",
+      "date": "2026-02-12T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -35,7 +35,7 @@
       "vendor": "La Costenita"
     },
     {
-      "date": "2026-02-12T00:00:00",
+      "date": "2026-02-13T00:00:00",
       "description": null,
       "end_time": "9:00 PM PT",
       "end_time_raw": "9:00 PM",
@@ -46,7 +46,7 @@
       "vendor": "Off the Rez"
     },
     {
-      "date": "2026-02-13T00:00:00",
+      "date": "2026-02-14T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -57,7 +57,7 @@
       "vendor": "Johnson BBQ Provisions"
     },
     {
-      "date": "2026-02-14T00:00:00",
+      "date": "2026-02-15T00:00:00",
       "description": null,
       "end_time": "7:00 PM PT",
       "end_time_raw": "7:00 PM",
@@ -68,7 +68,7 @@
       "vendor": "El Pirata Tortas Y Burritos / Now Make Me A Sandwich"
     },
     {
-      "date": "2026-02-15T00:00:00",
+      "date": "2026-02-16T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -79,7 +79,7 @@
       "vendor": "Where Ya At Matt"
     },
     {
-      "date": "2026-02-16T00:00:00",
+      "date": "2026-02-17T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -156,7 +156,18 @@
       "vendor": "Tacos &amp; Beer"
     },
     {
-      "date": "2026-02-09T00:00:00",
+      "date": "2026-02-17T16:00:00.307000",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "location": "Yonder Cider & Bale Breaker - Ballard",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "timezone": "PT",
+      "vendor": "McLendon\u2019s Family Deli"
+    },
+    {
+      "date": "2026-02-10T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -200,15 +211,15 @@
       "vendor": "Vandalz Taqueria"
     },
     {
-      "date": "2026-02-09T00:00:00",
-      "description": "Original event: Dinner: Off the Rez",
-      "end_time": null,
-      "end_time_raw": null,
-      "location": "Chuck's Hop Shop Greenwood",
-      "start_time": null,
-      "start_time_raw": null,
+      "date": "2026-02-17T00:00:00",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "location": "Wheelie Pop Brewing",
+      "start_time": "7:00 PM PT",
+      "start_time_raw": "7:00 PM",
       "timezone": "PT",
-      "vendor": "Off the Rez"
+      "vendor": "Shuffle Dating"
     },
     {
       "date": "2026-02-10T00:00:00",
@@ -299,15 +310,15 @@
       "vendor": "Off the Rez"
     },
     {
-      "date": "2026-02-09T17:00:00",
-      "description": "Cuisine: Asian, Noodles, Thai",
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
-      "location": "Saleh's Corner",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
+      "date": "2026-02-17T00:00:00",
+      "description": "Original event: Dinner: Where ya at Matt?",
+      "end_time": null,
+      "end_time_raw": null,
+      "location": "Chuck's Hop Shop Greenwood",
+      "start_time": null,
+      "start_time_raw": null,
       "timezone": "PT",
-      "vendor": "Thai-U-Up"
+      "vendor": "Where ya at Matt?"
     },
     {
       "date": "2026-02-10T17:00:00",
@@ -385,11 +396,22 @@
       "start_time_raw": "5:00 PM",
       "timezone": "PT",
       "vendor": "Tacos el Alebrije"
+    },
+    {
+      "date": "2026-02-17T17:00:00",
+      "description": "Cuisine: Burritos, Mexican, Tacos",
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "location": "Saleh's Corner",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "timezone": "PT",
+      "vendor": "Plaza Garcia Express"
     }
   ],
-  "haiku": "\ud83c\udf27\ufe0f February rain falls\u2014\nOff the Rez warms Chuck's Hop Shop,\nCraft beer, fry bread joy \ud83c\udf7a",
+  "haiku": "\ud83c\udf27\ufe0f February rain falls\u2014\nTacos warm at Stoup's bright door,\nBeer and laughter flow \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 35,
-  "updated": "2026-02-10T07:15:18.588803+00:00"
+  "total_events": 37,
+  "updated": "2026-02-10T08:15:18.739103+00:00"
 }
