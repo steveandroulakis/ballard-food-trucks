@@ -167,6 +167,17 @@
       "vendor": "Georgia\u2019s Greek"
     },
     {
+      "date": "2026-02-11T00:00:00",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "location": "Obec Brewing",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "timezone": "PT",
+      "vendor": "Empanadas el Pachi"
+    },
+    {
       "date": "2026-02-12T00:00:00",
       "description": null,
       "end_time": "1:00 AM PT",
@@ -387,9 +398,9 @@
       "vendor": "Theo's Gyros"
     }
   ],
-  "haiku": "\ud83d\udd25 Winter chill retreats\u2014\nMarigold's flames dance at Stoup,\nBallard hearts gather \ud83c\udf55",
+  "haiku": "\ud83c\udf27\ufe0f February chill\u2014\nChick'n Fix warms Chuck's cold yard,\nGreenwood hops and steam \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 35,
-  "updated": "2026-02-11T08:15:17.858136+00:00"
+  "total_events": 36,
+  "updated": "2026-02-11T09:15:50.460992+00:00"
 }
