@@ -10,7 +10,7 @@
       "start_time": "5:00 PM PT",
       "start_time_raw": "5:00 PM",
       "timezone": "PT",
-      "vendor": "Tacos & Beer"
+      "vendor": "The Marigold Wood Fired Pizza"
     },
     {
       "date": "2026-02-11T00:00:00",
@@ -21,21 +21,10 @@
       "start_time": "5:00 PM PT",
       "start_time_raw": "5:00 PM",
       "timezone": "PT",
-      "vendor": "The Marigold Wood Fired Pizza"
-    },
-    {
-      "date": "2026-02-12T00:00:00",
-      "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "location": "Stoup Brewing - Ballard",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
-      "timezone": "PT",
       "vendor": "La Costenita"
     },
     {
-      "date": "2026-02-13T00:00:00",
+      "date": "2026-02-12T00:00:00",
       "description": null,
       "end_time": "9:00 PM PT",
       "end_time_raw": "9:00 PM",
@@ -46,7 +35,7 @@
       "vendor": "Off the Rez"
     },
     {
-      "date": "2026-02-14T00:00:00",
+      "date": "2026-02-13T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -57,7 +46,7 @@
       "vendor": "Johnson BBQ Provisions"
     },
     {
-      "date": "2026-02-15T00:00:00",
+      "date": "2026-02-14T00:00:00",
       "description": null,
       "end_time": "7:00 PM PT",
       "end_time_raw": "7:00 PM",
@@ -68,7 +57,7 @@
       "vendor": "El Pirata Tortas Y Burritos / Now Make Me A Sandwich"
     },
     {
-      "date": "2026-02-16T00:00:00",
+      "date": "2026-02-15T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -79,7 +68,7 @@
       "vendor": "Where Ya At Matt"
     },
     {
-      "date": "2026-02-17T00:00:00",
+      "date": "2026-02-16T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -88,6 +77,17 @@
       "start_time_raw": "5:00 PM",
       "timezone": "PT",
       "vendor": "Split Open & Melt Cheesesteaks"
+    },
+    {
+      "date": "2026-02-17T00:00:00",
+      "description": null,
+      "end_time": "8:30 PM PT",
+      "end_time_raw": "8:30 PM",
+      "location": "Stoup Brewing - Ballard",
+      "start_time": "4:30 PM PT",
+      "start_time_raw": "4:30 PM",
+      "timezone": "PT",
+      "vendor": "El Gran Taco"
     },
     {
       "date": "2026-02-10T16:00:00.307000",
@@ -398,9 +398,9 @@
       "vendor": "Plaza Garcia Express"
     }
   ],
-  "haiku": "\u2744\ufe0f February chill\u2014\nShuffle Dating warms the heart\nat Wheelie Pop's brew \ud83c\udf7a",
+  "haiku": "\ud83c\udf27\ufe0f February drizzle\u2014\nPlaza Garcia's steam rises\nat Saleh's warm glow \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
   "total_events": 36,
-  "updated": "2026-02-11T06:15:18.212474+00:00"
+  "updated": "2026-02-11T07:15:19.680031+00:00"
 }
