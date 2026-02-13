@@ -180,13 +180,13 @@
     {
       "date": "2026-02-13T00:00:00",
       "description": null,
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
       "location": "Obec Brewing",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
       "timezone": "PT",
-      "vendor": "The Panini Truck"
+      "vendor": "Burgerdom"
     },
     {
       "date": "2026-02-14T00:00:00",
@@ -409,9 +409,9 @@
       "vendor": "Impeckable Chicken"
     }
   ],
-  "haiku": "\ud83e\udd6a February chill\u2014\nwarm panini press hisses\nat Obec's bright hearth \ud83c\udf7a",
+  "haiku": "\ud83d\udd25 Wood smoke drifts through rain\u2014\nBrisket meets cider's crisp bite\nat Ballard's warm heart \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
   "total_events": 37,
-  "updated": "2026-02-13T08:15:19.674748+00:00"
+  "updated": "2026-02-13T09:15:19.274504+00:00"
 }
