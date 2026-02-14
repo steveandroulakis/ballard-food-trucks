@@ -4,17 +4,6 @@
     {
       "date": "2026-02-13T00:00:00",
       "description": null,
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
-      "location": "Stoup Brewing - Ballard",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
-      "timezone": "PT",
-      "vendor": "Off the Rez"
-    },
-    {
-      "date": "2026-02-14T00:00:00",
-      "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
       "location": "Stoup Brewing - Ballard",
@@ -24,7 +13,7 @@
       "vendor": "Johnson BBQ Provisions"
     },
     {
-      "date": "2026-02-15T00:00:00",
+      "date": "2026-02-14T00:00:00",
       "description": null,
       "end_time": "7:00 PM PT",
       "end_time_raw": "7:00 PM",
@@ -35,7 +24,7 @@
       "vendor": "El Pirata Tortas Y Burritos / Now Make Me A Sandwich"
     },
     {
-      "date": "2026-02-16T00:00:00",
+      "date": "2026-02-15T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -46,7 +35,7 @@
       "vendor": "Where Ya At Matt"
     },
     {
-      "date": "2026-02-17T00:00:00",
+      "date": "2026-02-16T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -57,7 +46,7 @@
       "vendor": "Split Open & Melt Cheesesteaks"
     },
     {
-      "date": "2026-02-18T00:00:00",
+      "date": "2026-02-17T00:00:00",
       "description": null,
       "end_time": "8:30 PM PT",
       "end_time_raw": "8:30 PM",
@@ -68,7 +57,7 @@
       "vendor": "El Gran Taco"
     },
     {
-      "date": "2026-02-19T00:00:00",
+      "date": "2026-02-18T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -79,7 +68,7 @@
       "vendor": "Birrieria Pepe El Toro"
     },
     {
-      "date": "2026-02-20T00:00:00",
+      "date": "2026-02-19T00:00:00",
       "description": null,
       "end_time": "9:00 PM PT",
       "end_time_raw": "9:00 PM",
@@ -88,6 +77,17 @@
       "start_time_raw": "5:00 PM",
       "timezone": "PT",
       "vendor": "Georgia's Greek"
+    },
+    {
+      "date": "2026-02-20T00:00:00",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "location": "Stoup Brewing - Ballard",
+      "start_time": "1:00 PM PT",
+      "start_time_raw": "1:00 PM",
+      "timezone": "PT",
+      "vendor": "Tat's Truck"
     },
     {
       "date": "2026-02-13T16:00:00.975000",
@@ -409,9 +409,9 @@
       "vendor": "Impeckable Chicken"
     }
   ],
-  "haiku": "\ud83d\udd25 February's chill\u2014\nWood Shop smoke meets Ballard hops,\nwarmth in winter's grip \ud83c\udf7b",
+  "haiku": "\ud83c\udf27\ufe0f February rain falls\u2014\nImpeckable warmth awaits\nat Saleh's bright hearth \ud83c\udf57",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
   "total_events": 37,
-  "updated": "2026-02-14T06:15:18.424152+00:00"
+  "updated": "2026-02-14T07:15:18.335446+00:00"
 }
