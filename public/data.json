@@ -2,7 +2,7 @@
   "errors": [],
   "events": [
     {
-      "date": "2026-02-16T00:00:00",
+      "date": "2026-02-17T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -13,7 +13,7 @@
       "vendor": "Split Open & Melt Cheesesteaks"
     },
     {
-      "date": "2026-02-17T00:00:00",
+      "date": "2026-02-18T00:00:00",
       "description": null,
       "end_time": "8:30 PM PT",
       "end_time_raw": "8:30 PM",
@@ -24,7 +24,7 @@
       "vendor": "El Gran Taco"
     },
     {
-      "date": "2026-02-18T00:00:00",
+      "date": "2026-02-19T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -35,7 +35,7 @@
       "vendor": "Birrieria Pepe El Toro"
     },
     {
-      "date": "2026-02-19T00:00:00",
+      "date": "2026-02-20T00:00:00",
       "description": null,
       "end_time": "9:00 PM PT",
       "end_time_raw": "9:00 PM",
@@ -46,7 +46,7 @@
       "vendor": "Georgia's Greek"
     },
     {
-      "date": "2026-02-20T00:00:00",
+      "date": "2026-02-21T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -57,7 +57,7 @@
       "vendor": "Tat's Truck"
     },
     {
-      "date": "2026-02-21T00:00:00",
+      "date": "2026-02-22T00:00:00",
       "description": null,
       "end_time": "7:00 PM PT",
       "end_time_raw": "7:00 PM",
@@ -68,7 +68,7 @@
       "vendor": "Kaosamai Thai"
     },
     {
-      "date": "2026-02-22T00:00:00",
+      "date": "2026-02-23T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -79,7 +79,7 @@
       "vendor": "Russo Pizzarium"
     },
     {
-      "date": "2026-02-23T00:00:00",
+      "date": "2026-02-24T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -167,7 +167,18 @@
       "vendor": "Tacos &amp; Beer"
     },
     {
-      "date": "2026-02-16T00:00:00",
+      "date": "2026-02-24T16:00:00.307000",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "location": "Yonder Cider & Bale Breaker - Ballard",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "timezone": "PT",
+      "vendor": "Tummy Yummy Thai"
+    },
+    {
+      "date": "2026-02-17T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -222,15 +233,15 @@
       "vendor": "Bonsai Bar"
     },
     {
-      "date": "2026-02-16T00:00:00",
-      "description": "Original event: Dinner: Off the Rez",
-      "end_time": null,
-      "end_time_raw": null,
-      "location": "Chuck's Hop Shop Greenwood",
-      "start_time": null,
-      "start_time_raw": null,
+      "date": "2026-02-24T00:00:00",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "location": "Wheelie Pop Brewing",
+      "start_time": "7:00 PM PT",
+      "start_time_raw": "7:00 PM",
       "timezone": "PT",
-      "vendor": "Off the Rez"
+      "vendor": "Shuffle Dating"
     },
     {
       "date": "2026-02-17T00:00:00",
@@ -321,15 +332,15 @@
       "vendor": "Off the Rez"
     },
     {
-      "date": "2026-02-16T17:00:00",
-      "description": "Cuisine: Latin American, Mexican, Tacos",
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
-      "location": "Saleh's Corner",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
+      "date": "2026-02-24T00:00:00",
+      "description": "Original event: Dinner: Kaosomai Thai",
+      "end_time": null,
+      "end_time_raw": null,
+      "location": "Chuck's Hop Shop Greenwood",
+      "start_time": null,
+      "start_time_raw": null,
       "timezone": "PT",
-      "vendor": "Tacos el Alebrije"
+      "vendor": "Kaosomai Thai"
     },
     {
       "date": "2026-02-17T17:00:00",
@@ -407,11 +418,22 @@
       "start_time_raw": "5:00 PM",
       "timezone": "PT",
       "vendor": "Thai-U-Up"
+    },
+    {
+      "date": "2026-02-24T17:00:00",
+      "description": "Cuisine: Burritos, Mexican, Tacos",
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "location": "Saleh's Corner",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "timezone": "PT",
+      "vendor": "Plaza Garcia Express"
     }
   ],
-  "haiku": "\ud83c\udf27\ufe0f February drizzle\u2014\nOff the Rez warms Chuck's Hop Shop,\nCraft beer, frybread heat \ud83c\udf7a",
+  "haiku": "\ud83c\udf27\ufe0f February rain falls\u2014\nPlaza Garcia's warmth steams\nat Saleh's corner \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 37,
-  "updated": "2026-02-17T07:15:18.669671+00:00"
+  "total_events": 39,
+  "updated": "2026-02-17T08:15:19.746094+00:00"
 }
