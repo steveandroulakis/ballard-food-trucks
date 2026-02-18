@@ -186,7 +186,7 @@
       "start_time": "4:00 PM PT",
       "start_time_raw": "4:00 PM",
       "timezone": "PT",
-      "vendor": "Maroom Thai"
+      "vendor": "Cocina Barelas (New Mexican Cuisine)"
     },
     {
       "date": "2026-02-19T00:00:00",
@@ -420,9 +420,9 @@
       "vendor": "Theo's Gyros"
     }
   ],
-  "haiku": "\ud83c\udf27\ufe0f February rain falls\u2014\nTheo's lamb turns at Saleh's,\nwarm pita waits here \ud83e\udd59",
+  "haiku": "\ud83c\udf27\ufe0f February rain falls\u2014\nChick'n Fix warms Chuck's Hop Shop,\nBeer and comfort meet \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
   "total_events": 38,
-  "updated": "2026-02-18T09:15:19.254582+00:00"
+  "updated": "2026-02-18T10:15:18.516252+00:00"
 }
