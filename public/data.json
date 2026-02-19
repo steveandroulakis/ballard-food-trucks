@@ -186,7 +186,7 @@
       "start_time": "4:00 PM PT",
       "start_time_raw": "4:00 PM",
       "timezone": "PT",
-      "vendor": "Cocina Barelas (New Mexican Cuisine)"
+      "vendor": "Heart in Seoul"
     },
     {
       "date": "2026-02-19T00:00:00",
@@ -431,9 +431,9 @@
       "vendor": "Fish Basket NW"
     }
   ],
-  "haiku": "\ud83c\udf27\ufe0f February rain falls\u2014\nKaosamai's spice warms hearts\nat Wheelie Pop's bar \ud83c\udf7a",
+  "haiku": "\ud83c\udf38 February rain falls\u2014\nKaosamai's spice warms souls\nat Wheelie Pop's bar \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
   "total_events": 39,
-  "updated": "2026-02-19T08:15:19.240673+00:00"
+  "updated": "2026-02-19T09:15:20.617049+00:00"
 }
