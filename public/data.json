@@ -169,13 +169,13 @@
     {
       "date": "2026-02-20T00:00:00",
       "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
       "location": "Obec Brewing",
       "start_time": "4:00 PM PT",
       "start_time_raw": "4:00 PM",
       "timezone": "PT",
-      "vendor": "Heart in Seoul"
+      "vendor": "Cocina Barelas (New Mexican Cuisine)"
     },
     {
       "date": "2026-02-21T00:00:00",
@@ -420,9 +420,9 @@
       "vendor": "Impeckable Chicken"
     }
   ],
-  "haiku": "\ud83c\udf27\ufe0f February rain falls\u2014\nImpeckable birds sizzle hot\nat Saleh's warm tap \ud83c\udf7a",
+  "haiku": "\ud83c\udf27\ufe0f February drizzle\u2014\nGeorgia's Greek warms Stoup's courtyard,\nFeta meets fresh hops \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
   "total_events": 38,
-  "updated": "2026-02-20T09:15:18.763850+00:00"
+  "updated": "2026-02-20T10:15:32.152206+00:00"
 }
