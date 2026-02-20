@@ -2,7 +2,7 @@
   "errors": [],
   "events": [
     {
-      "date": "2026-02-19T00:00:00",
+      "date": "2026-02-20T00:00:00",
       "description": null,
       "end_time": "9:00 PM PT",
       "end_time_raw": "9:00 PM",
@@ -13,7 +13,7 @@
       "vendor": "Georgia's Greek"
     },
     {
-      "date": "2026-02-20T00:00:00",
+      "date": "2026-02-21T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -24,7 +24,7 @@
       "vendor": "Tat's Truck"
     },
     {
-      "date": "2026-02-21T00:00:00",
+      "date": "2026-02-22T00:00:00",
       "description": null,
       "end_time": "7:00 PM PT",
       "end_time_raw": "7:00 PM",
@@ -35,7 +35,7 @@
       "vendor": "Kaosamai Thai"
     },
     {
-      "date": "2026-02-22T00:00:00",
+      "date": "2026-02-23T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -46,7 +46,7 @@
       "vendor": "Russo Pizzarium"
     },
     {
-      "date": "2026-02-23T00:00:00",
+      "date": "2026-02-24T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -57,7 +57,7 @@
       "vendor": "Tacos & Beer"
     },
     {
-      "date": "2026-02-24T00:00:00",
+      "date": "2026-02-25T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -68,7 +68,7 @@
       "vendor": "The Marigold Wood Fired Pizza"
     },
     {
-      "date": "2026-02-25T00:00:00",
+      "date": "2026-02-26T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -79,7 +79,7 @@
       "vendor": "La Costenita"
     },
     {
-      "date": "2026-02-26T00:00:00",
+      "date": "2026-02-27T00:00:00",
       "description": null,
       "end_time": "9:00 PM PT",
       "end_time_raw": "9:00 PM",
@@ -88,28 +88,6 @@
       "start_time_raw": "5:00 PM",
       "timezone": "PT",
       "vendor": "Off the Rez"
-    },
-    {
-      "date": "2026-02-19T10:10:00.689000",
-      "description": null,
-      "end_time": "3:00 PM PT",
-      "end_time_raw": "3:00 PM",
-      "location": "Yonder Cider & Bale Breaker - Ballard",
-      "start_time": "10:10 AM PT",
-      "start_time_raw": "10:10 AM",
-      "timezone": "PT",
-      "vendor": "Good Morning Tacos"
-    },
-    {
-      "date": "2026-02-19T16:00:00.027000",
-      "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "location": "Yonder Cider & Bale Breaker - Ballard",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
-      "timezone": "PT",
-      "vendor": "Impeckable Chicken"
     },
     {
       "date": "2026-02-20T16:00:00.430000",
@@ -178,7 +156,18 @@
       "vendor": "Impeckable Chicken"
     },
     {
-      "date": "2026-02-19T00:00:00",
+      "date": "2026-02-27T16:00:00.975000",
+      "description": null,
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "location": "Yonder Cider & Bale Breaker - Ballard",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "timezone": "PT",
+      "vendor": "Wood Shop BBQ"
+    },
+    {
+      "date": "2026-02-20T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -187,17 +176,6 @@
       "start_time_raw": "4:00 PM",
       "timezone": "PT",
       "vendor": "Heart in Seoul"
-    },
-    {
-      "date": "2026-02-19T00:00:00",
-      "description": null,
-      "end_time": "1:00 AM PT",
-      "end_time_raw": "1:00 AM",
-      "location": "Wheelie Pop Brewing",
-      "start_time": "12:00 AM PT",
-      "start_time_raw": "12:00 AM",
-      "timezone": "PT",
-      "vendor": "Kaosamai Thai"
     },
     {
       "date": "2026-02-21T00:00:00",
@@ -244,15 +222,15 @@
       "vendor": "Kaosamai Thai"
     },
     {
-      "date": "2026-02-19T00:00:00",
-      "description": "Original event: Dinner: Pizza Paesano",
-      "end_time": null,
-      "end_time_raw": null,
-      "location": "Chuck's Hop Shop Greenwood",
-      "start_time": null,
-      "start_time_raw": null,
+      "date": "2026-02-27T00:00:00",
+      "description": null,
+      "end_time": "1:00 AM PT",
+      "end_time_raw": "1:00 AM",
+      "location": "Wheelie Pop Brewing",
+      "start_time": "12:00 AM PT",
+      "start_time_raw": "12:00 AM",
       "timezone": "PT",
-      "vendor": "Pizza Paesano"
+      "vendor": "El Pachi Empanadas"
     },
     {
       "date": "2026-02-20T00:00:00",
@@ -343,15 +321,15 @@
       "vendor": "Pizza Paesano"
     },
     {
-      "date": "2026-02-19T17:00:00",
-      "description": "Cuisine: Seafood",
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
-      "location": "Saleh's Corner",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
+      "date": "2026-02-27T00:00:00",
+      "description": "Original event: Dinner: T'Juana",
+      "end_time": null,
+      "end_time_raw": null,
+      "location": "Chuck's Hop Shop Greenwood",
+      "start_time": null,
+      "start_time_raw": null,
       "timezone": "PT",
-      "vendor": "Fish Basket NW"
+      "vendor": "T'Juana"
     },
     {
       "date": "2026-02-20T17:00:00",
@@ -429,11 +407,22 @@
       "start_time_raw": "5:00 PM",
       "timezone": "PT",
       "vendor": "Fish Basket NW"
+    },
+    {
+      "date": "2026-02-27T17:00:00",
+      "description": "Cuisine: Chicken, Sandwiches, Southern",
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "location": "Saleh's Corner",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "timezone": "PT",
+      "vendor": "Impeckable Chicken"
     }
   ],
-  "haiku": "\ud83c\udf28\ufe0f February chill lifts\u2014\nGeorgia's Greek warms Stoup's courtyard,\nBallard hearts gather \ud83c\udf7a",
+  "haiku": "\ud83c\udf38 February mist clears\u2014\nSeoul's heart beats at Obec's bar,\nkimchi meets cold brew \u2615",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 39,
-  "updated": "2026-02-20T07:15:18.668895+00:00"
+  "total_events": 38,
+  "updated": "2026-02-20T08:15:20.365556+00:00"
 }
