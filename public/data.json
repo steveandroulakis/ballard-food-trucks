@@ -234,14 +234,14 @@
     },
     {
       "date": "2026-02-20T00:00:00",
-      "description": "Original event: Dinner: T'Juana",
+      "description": "Original event: Dinner: No Food Truck :(",
       "end_time": null,
       "end_time_raw": null,
       "location": "Chuck's Hop Shop Greenwood",
       "start_time": null,
       "start_time_raw": null,
       "timezone": "PT",
-      "vendor": "T'Juana"
+      "vendor": "No Food Truck :("
     },
     {
       "date": "2026-02-21T00:00:00",
@@ -420,9 +420,9 @@
       "vendor": "Impeckable Chicken"
     }
   ],
-  "haiku": "\ud83c\udf27\ufe0f February rain falls\u2014\nT'Juana's warmth at Chuck's Hop,\nCraft beer, tacos shared \ud83c\udf2e",
+  "haiku": "\ud83c\udf27\ufe0f February rain falls\u2014\nEmpty lot at Chuck's Hop Shop,\nDreams of trucks return \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
   "total_events": 38,
-  "updated": "2026-02-20T23:15:18.630811+00:00"
+  "updated": "2026-02-21T00:15:18.446603+00:00"
 }
