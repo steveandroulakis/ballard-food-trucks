@@ -418,11 +418,22 @@
       "start_time_raw": "5:00 PM",
       "timezone": "PT",
       "vendor": "Impeckable Chicken"
+    },
+    {
+      "date": "2026-02-28T17:00:00",
+      "description": "Cuisine: Asian, Noodles, Thai",
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "location": "Saleh's Corner",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "timezone": "PT",
+      "vendor": "Thai-U-Up"
     }
   ],
-  "haiku": "\ud83c\udf55 February chill lifts\u2014\nProject's wood-fired pies steaming\nat Yonder's warm tap \ud83c\udf7a",
+  "haiku": "\ud83c\udf27\ufe0f February rain falls\u2014\nVandalz tacos warm the souls\nat Wheelie Pop's brew \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 38,
-  "updated": "2026-02-22T03:15:18.187573+00:00"
+  "total_events": 39,
+  "updated": "2026-02-22T04:15:18.171937+00:00"
 }
