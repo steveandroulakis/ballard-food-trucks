@@ -2,7 +2,7 @@
   "errors": [],
   "events": [
     {
-      "date": "2026-02-23T00:00:00",
+      "date": "2026-02-24T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -13,7 +13,7 @@
       "vendor": "Tacos & Beer"
     },
     {
-      "date": "2026-02-24T00:00:00",
+      "date": "2026-02-25T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -24,7 +24,7 @@
       "vendor": "The Marigold Wood Fired Pizza"
     },
     {
-      "date": "2026-02-25T00:00:00",
+      "date": "2026-02-26T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -35,7 +35,7 @@
       "vendor": "La Costenita"
     },
     {
-      "date": "2026-02-26T00:00:00",
+      "date": "2026-02-27T00:00:00",
       "description": null,
       "end_time": "9:00 PM PT",
       "end_time_raw": "9:00 PM",
@@ -46,7 +46,7 @@
       "vendor": "Off the Rez"
     },
     {
-      "date": "2026-02-27T00:00:00",
+      "date": "2026-02-28T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -57,7 +57,7 @@
       "vendor": "Johnson BBQ Provisions"
     },
     {
-      "date": "2026-02-28T00:00:00",
+      "date": "2026-03-01T00:00:00",
       "description": null,
       "end_time": "7:00 PM PT",
       "end_time_raw": "7:00 PM",
@@ -68,7 +68,7 @@
       "vendor": "El Pirata Tortas Y Burritos / Now Make Me A Sandwich"
     },
     {
-      "date": "2026-03-01T00:00:00",
+      "date": "2026-03-02T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -79,7 +79,7 @@
       "vendor": "Where Ya At Matt"
     },
     {
-      "date": "2026-03-02T00:00:00",
+      "date": "2026-03-03T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -156,7 +156,18 @@
       "vendor": "Tacos &amp; Beer"
     },
     {
-      "date": "2026-02-23T00:00:00",
+      "date": "2026-03-03T16:00:00.203000",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "location": "Yonder Cider & Bale Breaker - Ballard",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "timezone": "PT",
+      "vendor": "Birrieria Pepe El Toro"
+    },
+    {
+      "date": "2026-02-24T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -164,7 +175,7 @@
       "start_time": "4:00 PM PT",
       "start_time_raw": "4:00 PM",
       "timezone": "PT",
-      "vendor": "Plaza Garcia"
+      "vendor": "La Coste\u00f1ita Cuisine"
     },
     {
       "date": "2026-02-24T00:00:00",
@@ -220,17 +231,6 @@
       "start_time_raw": "2:00 PM",
       "timezone": "PT",
       "vendor": "Thailand"
-    },
-    {
-      "date": "2026-02-23T00:00:00",
-      "description": "Original event: Dinner: Off the Rez",
-      "end_time": null,
-      "end_time_raw": null,
-      "location": "Chuck's Hop Shop Greenwood",
-      "start_time": null,
-      "start_time_raw": null,
-      "timezone": "PT",
-      "vendor": "Off the Rez"
     },
     {
       "date": "2026-02-24T00:00:00",
@@ -321,15 +321,15 @@
       "vendor": "Birrieria Pepe El Toro"
     },
     {
-      "date": "2026-02-23T17:00:00",
-      "description": "Cuisine: Asian, Noodles, Thai",
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
-      "location": "Saleh's Corner",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
+      "date": "2026-03-03T00:00:00",
+      "description": "Original event: Dinner: Woodshop BBQ",
+      "end_time": null,
+      "end_time_raw": null,
+      "location": "Chuck's Hop Shop Greenwood",
+      "start_time": null,
+      "start_time_raw": null,
       "timezone": "PT",
-      "vendor": "Thai-U-Up"
+      "vendor": "Woodshop BBQ"
     },
     {
       "date": "2026-02-24T17:00:00",
@@ -407,11 +407,22 @@
       "start_time_raw": "5:00 PM",
       "timezone": "PT",
       "vendor": "MOMO Express"
+    },
+    {
+      "date": "2026-03-03T17:00:00",
+      "description": "Cuisine: Burritos, Mexican, Tacos",
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "location": "Saleh's Corner",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "timezone": "PT",
+      "vendor": "Plaza Garcia Express"
     }
   ],
-  "haiku": "\ud83c\udf38 February rain falls\u2014\nThai-U-Up steams at Saleh's,\nSpring whispers through hops \ud83c\udf7a",
+  "haiku": "\ud83c\udf38 February's chill lifts\u2014\nTummy Yummy's spice steams warm\nat Yonder's bright tap \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 37,
-  "updated": "2026-02-24T07:15:17.857787+00:00"
+  "total_events": 38,
+  "updated": "2026-02-24T08:15:34.386045+00:00"
 }
