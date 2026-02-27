@@ -321,17 +321,6 @@
       "vendor": "Impeckable Chicken"
     },
     {
-      "date": "2026-02-26T17:00:00",
-      "description": "Cuisine: Seafood",
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
-      "location": "Saleh's Corner",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
-      "timezone": "PT",
-      "vendor": "Fish Basket NW"
-    },
-    {
       "date": "2026-02-27T17:00:00",
       "description": "Cuisine: Chicken, Sandwiches, Southern",
       "end_time": "9:00 PM PT",
@@ -409,9 +398,9 @@
       "vendor": "Pumpkin Thai"
     }
   ],
-  "haiku": "\ud83c\udf38 Late winter's last breath\u2014\nKaosamai's spice warms hearts\nat Wheelie Pop's bar \ud83c\udf7a",
+  "haiku": "\ud83c\udf38 Late winter's last chill\u2014\nImpeckable warmth awaits\nat Yonder's gold tap \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 37,
-  "updated": "2026-02-27T00:15:19.952024+00:00"
+  "total_events": 36,
+  "updated": "2026-02-27T01:15:18.102026+00:00"
 }
