@@ -169,13 +169,13 @@
     {
       "date": "2026-02-27T00:00:00",
       "description": null,
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
       "location": "Obec Brewing",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
       "timezone": "PT",
-      "vendor": "Tummy Yummy Thai"
+      "vendor": "Kathmandu Momocha"
     },
     {
       "date": "2026-02-27T00:00:00",
@@ -398,9 +398,9 @@
       "vendor": "Impeckable Chicken"
     }
   ],
-  "haiku": "\ud83c\udf27\ufe0f February rain falls\u2014\nWood Shop's smoke meets Yonder's craft,\nBallard warmth shared close \ud83c\udf7a",
+  "haiku": "\ud83c\udf27\ufe0f February rain falls\u2014\nOff the Rez warms Stoup's cold night,\nBallard hearts gather \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
   "total_events": 36,
-  "updated": "2026-02-27T08:15:18.215814+00:00"
+  "updated": "2026-02-27T09:15:20.584277+00:00"
 }
