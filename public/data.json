@@ -103,6 +103,17 @@
     {
       "date": "2026-02-28T00:00:00",
       "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "location": "Obec Brewing",
+      "start_time": "3:00 AM PT",
+      "start_time_raw": "3:00 AM",
+      "timezone": "PT",
+      "vendor": "Kaosamai Thai"
+    },
+    {
+      "date": "2026-02-28T00:00:00",
+      "description": null,
       "end_time": "1:00 AM PT",
       "end_time_raw": "1:00 AM",
       "location": "Wheelie Pop Brewing",
@@ -299,9 +310,9 @@
       "vendor": "Impeckable Chicken"
     }
   ],
-  "haiku": "\ud83c\udf27\ufe0f Late winter drizzle\u2014\nTat's pastrami steams at Chuck's,\nHops warm the cold night \ud83c\udf7a",
+  "haiku": "\ud83c\udf38 Late winter's last breath\u2014\nWich Came First sizzles beside\nYonder's crisp cider \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 27,
-  "updated": "2026-02-28T08:15:18.483007+00:00"
+  "total_events": 28,
+  "updated": "2026-02-28T09:15:25.420662+00:00"
 }
