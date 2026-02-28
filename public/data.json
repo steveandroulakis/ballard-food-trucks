@@ -135,102 +135,102 @@
     },
     {
       "date": "2026-02-28T00:00:00",
-      "description": "Original event: #VALUE!",
+      "description": "Original event: Tat's Deli",
       "end_time": null,
       "end_time_raw": null,
       "location": "Chuck's Hop Shop Greenwood",
       "start_time": null,
       "start_time_raw": null,
       "timezone": "PT",
-      "vendor": "#VALUE!"
+      "vendor": "Tat's Deli"
     },
     {
       "date": "2026-03-01T00:00:00",
-      "description": "Original event: #VALUE!",
+      "description": "Original event: Brunch: Good Morning Tacos",
       "end_time": null,
       "end_time_raw": null,
       "location": "Chuck's Hop Shop Greenwood",
       "start_time": null,
       "start_time_raw": null,
       "timezone": "PT",
-      "vendor": "#VALUE!"
+      "vendor": "Good Morning Tacos"
     },
     {
       "date": "2026-03-01T00:00:00",
-      "description": "Original event: #VALUE!",
+      "description": "Original event: Dinner: Georgia's Greek",
       "end_time": null,
       "end_time_raw": null,
       "location": "Chuck's Hop Shop Greenwood",
       "start_time": null,
       "start_time_raw": null,
       "timezone": "PT",
-      "vendor": "#VALUE!"
+      "vendor": "Georgia's Greek"
     },
     {
       "date": "2026-03-02T00:00:00",
-      "description": "Original event: #VALUE!",
+      "description": "Original event: Dinner: Birrieria Pepe El Toro",
       "end_time": null,
       "end_time_raw": null,
       "location": "Chuck's Hop Shop Greenwood",
       "start_time": null,
       "start_time_raw": null,
       "timezone": "PT",
-      "vendor": "#VALUE!"
+      "vendor": "Birrieria Pepe El Toro"
     },
     {
       "date": "2026-03-03T00:00:00",
-      "description": "Original event: #VALUE!",
+      "description": "Original event: Dinner: Woodshop BBQ",
       "end_time": null,
       "end_time_raw": null,
       "location": "Chuck's Hop Shop Greenwood",
       "start_time": null,
       "start_time_raw": null,
       "timezone": "PT",
-      "vendor": "#VALUE!"
+      "vendor": "Woodshop BBQ"
     },
     {
       "date": "2026-03-04T00:00:00",
-      "description": "Original event: #VALUE!",
+      "description": "Original event: Dinner: Oskar's Pizza",
       "end_time": null,
       "end_time_raw": null,
       "location": "Chuck's Hop Shop Greenwood",
       "start_time": null,
       "start_time_raw": null,
       "timezone": "PT",
-      "vendor": "#VALUE!"
+      "vendor": "Oskar's Pizza"
     },
     {
       "date": "2026-03-05T00:00:00",
-      "description": "Original event: #VALUE!",
+      "description": "Original event: Dinner: Impeckable Chicken",
       "end_time": null,
       "end_time_raw": null,
       "location": "Chuck's Hop Shop Greenwood",
       "start_time": null,
       "start_time_raw": null,
       "timezone": "PT",
-      "vendor": "#VALUE!"
+      "vendor": "Impeckable Chicken"
     },
     {
       "date": "2026-03-06T00:00:00",
-      "description": "Original event: #VALUE!",
+      "description": "Original event: Dinner: Kaosomai Thai",
       "end_time": null,
       "end_time_raw": null,
       "location": "Chuck's Hop Shop Greenwood",
       "start_time": null,
       "start_time_raw": null,
       "timezone": "PT",
-      "vendor": "#VALUE!"
+      "vendor": "Kaosomai Thai"
     },
     {
       "date": "2026-03-07T00:00:00",
-      "description": "Original event: #VALUE!",
+      "description": "Original event: Dinner: Sabor Boricua",
       "end_time": null,
       "end_time_raw": null,
       "location": "Chuck's Hop Shop Greenwood",
       "start_time": null,
       "start_time_raw": null,
       "timezone": "PT",
-      "vendor": "#VALUE!"
+      "vendor": "Sabor Boricua"
     },
     {
       "date": "2026-02-28T17:00:00",
@@ -308,11 +308,22 @@
       "start_time_raw": "5:00 PM",
       "timezone": "PT",
       "vendor": "Impeckable Chicken"
+    },
+    {
+      "date": "2026-03-07T17:00:00",
+      "description": "Cuisine: Asian, Noodles, Thai",
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "location": "Saleh's Corner",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "timezone": "PT",
+      "vendor": "Thai-U-Up"
     }
   ],
-  "haiku": "\ud83c\udf38 Late winter's last breath\u2014\nThai-U-Up's spice warms the soul\nat Saleh's bright hearth \ud83c\udf7a",
+  "haiku": "\ud83c\udf38 Late winter's last breath\u2014\nTisket Tasket steams beside\nWheelie Pop's warm glow \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 28,
-  "updated": "2026-02-28T15:15:18.668310+00:00"
+  "total_events": 29,
+  "updated": "2026-02-28T16:15:18.802138+00:00"
 }
