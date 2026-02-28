@@ -114,11 +114,11 @@
     {
       "date": "2026-02-27T00:00:00",
       "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
+      "end_time": "10:00 PM PT",
+      "end_time_raw": "10:00 PM",
       "location": "Obec Brewing",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
+      "start_time": "6:00 PM PT",
+      "start_time_raw": "6:00 PM",
       "timezone": "PT",
       "vendor": "Kathmandu Momocha"
     },
@@ -343,9 +343,9 @@
       "vendor": "Impeckable Chicken"
     }
   ],
-  "haiku": "\ud83c\udf38 Late winter's last breath\u2014\nEl Pachi's golden pockets\nwarm Wheelie Pop's hearth \ud83c\udf7a",
+  "haiku": "\ud83c\udf38 February's chill fades\u2014\nEl Pachi's warm pastries steam\nat Wheelie Pop's hearth \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
   "total_events": 31,
-  "updated": "2026-02-28T00:15:29.253084+00:00"
+  "updated": "2026-02-28T01:15:18.774239+00:00"
 }
