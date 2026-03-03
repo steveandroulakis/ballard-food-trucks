@@ -1,7 +1,5 @@
 {
-  "errors": [
-    "Failed to fetch information for brewery: Obec Brewing"
-  ],
+  "errors": [],
   "events": [
     {
       "date": "2026-03-03T00:00:00",
@@ -167,6 +165,17 @@
       "start_time_raw": "4:00 PM",
       "timezone": "PT",
       "vendor": "Tummy Yummy Thai"
+    },
+    {
+      "date": "2026-03-03T00:00:00",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "location": "Obec Brewing",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "timezone": "PT",
+      "vendor": "La Coste\u00f1ita Cuisine"
     },
     {
       "date": "2026-03-03T00:00:00",
@@ -466,9 +475,9 @@
       "vendor": "Plaza Garcia Express"
     }
   ],
-  "haiku": "\ud83c\udf31 Spring rain softens ground\u2014\nGeorgia's Greek warms Urban hearts,\nBallard hops and feta \ud83c\udf7a",
+  "haiku": "\ud83c\udf31 March light stretches long\u2014\nGeorgia's lamb meets hoppy warmth\nat Urban's wood rails \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 42,
-  "updated": "2026-03-03T12:16:10.977273+00:00"
+  "total_events": 43,
+  "updated": "2026-03-03T13:15:26.709678+00:00"
 }
