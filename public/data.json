@@ -168,6 +168,105 @@
     },
     {
       "date": "2026-03-02T00:00:00",
+      "description": "https://urbanfamilybrewing.com/events/chickn-fix-2/",
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "location": "Urban Family Brewing",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "timezone": "PT",
+      "vendor": "Chick'n Fix"
+    },
+    {
+      "date": "2026-03-03T00:00:00",
+      "description": "https://urbanfamilybrewing.com/events/georgias-greek-4/",
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "location": "Urban Family Brewing",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "timezone": "PT",
+      "vendor": "Georgia's Greek"
+    },
+    {
+      "date": "2026-03-04T00:00:00",
+      "description": "https://urbanfamilybrewing.com/events/impeccable-chicken-5/",
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "location": "Urban Family Brewing",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "timezone": "PT",
+      "vendor": "Impeccable Chicken"
+    },
+    {
+      "date": "2026-03-05T00:00:00",
+      "description": "https://urbanfamilybrewing.com/events/alebrijes-4/",
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "location": "Urban Family Brewing",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "timezone": "PT",
+      "vendor": "Alebrijes"
+    },
+    {
+      "date": "2026-03-06T00:00:00",
+      "description": "https://urbanfamilybrewing.com/events/tacos-and-beer-3/",
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "location": "Urban Family Brewing",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "timezone": "PT",
+      "vendor": "Tacos and Beer"
+    },
+    {
+      "date": "2026-03-07T00:00:00",
+      "description": "https://urbanfamilybrewing.com/events/oskars-pizza-5/",
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "location": "Urban Family Brewing",
+      "start_time": "1:00 PM PT",
+      "start_time_raw": "1:00 PM",
+      "timezone": "PT",
+      "vendor": "Oskar's Pizza"
+    },
+    {
+      "date": "2026-03-08T00:00:00",
+      "description": "https://urbanfamilybrewing.com/events/9th-and-hennepin-9/",
+      "end_time": "12:00 PM PT",
+      "end_time_raw": "12:00 PM",
+      "location": "Urban Family Brewing",
+      "start_time": "8:00 AM PT",
+      "start_time_raw": "8:00 AM",
+      "timezone": "PT",
+      "vendor": "9th and Hennepin"
+    },
+    {
+      "date": "2026-03-08T00:00:00",
+      "description": "https://urbanfamilybrewing.com/events/now-make-me-a-sandwich-4/",
+      "end_time": "7:00 PM PT",
+      "end_time_raw": "7:00 PM",
+      "location": "Urban Family Brewing",
+      "start_time": "1:00 PM PT",
+      "start_time_raw": "1:00 PM",
+      "timezone": "PT",
+      "vendor": "Now Make Me A Sandwich"
+    },
+    {
+      "date": "2026-03-09T00:00:00",
+      "description": "https://urbanfamilybrewing.com/events/empanadas-el-pachi-5/",
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "location": "Urban Family Brewing",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "timezone": "PT",
+      "vendor": "Empanadas El Pachi"
+    },
+    {
+      "date": "2026-03-02T00:00:00",
       "description": "Original event: Dinner: Birrieria Pepe El Toro",
       "end_time": null,
       "end_time_raw": null,
@@ -354,9 +453,9 @@
       "vendor": "MOMO Express"
     }
   ],
-  "haiku": "\ud83c\udf38 March drizzle softens\u2014\nPepe's birria steams at Chuck's,\nHop Shop warmth awaits \ud83c\udf7a",
+  "haiku": "\ud83e\udd5f Spring rain softly falls\u2014\nMomo steam rises at Saleh's,\nWarm dumplings shared here \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 32,
-  "updated": "2026-03-03T05:15:18.939608+00:00"
+  "total_events": 41,
+  "updated": "2026-03-03T05:23:25.935689+00:00"
 }
