@@ -2,7 +2,7 @@
   "errors": [],
   "events": [
     {
-      "date": "2026-03-02T00:00:00",
+      "date": "2026-03-03T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -13,7 +13,7 @@
       "vendor": "Split Open & Melt Cheesesteaks"
     },
     {
-      "date": "2026-03-03T00:00:00",
+      "date": "2026-03-04T00:00:00",
       "description": null,
       "end_time": "8:30 PM PT",
       "end_time_raw": "8:30 PM",
@@ -24,7 +24,7 @@
       "vendor": "El Gran Taco"
     },
     {
-      "date": "2026-03-04T00:00:00",
+      "date": "2026-03-05T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -35,7 +35,7 @@
       "vendor": "Birrieria Pepe El Toro"
     },
     {
-      "date": "2026-03-05T00:00:00",
+      "date": "2026-03-06T00:00:00",
       "description": null,
       "end_time": "9:00 PM PT",
       "end_time_raw": "9:00 PM",
@@ -46,7 +46,7 @@
       "vendor": "Georgia's Greek"
     },
     {
-      "date": "2026-03-06T00:00:00",
+      "date": "2026-03-07T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -57,7 +57,7 @@
       "vendor": "Tat's Truck"
     },
     {
-      "date": "2026-03-07T00:00:00",
+      "date": "2026-03-08T00:00:00",
       "description": null,
       "end_time": "7:00 PM PT",
       "end_time_raw": "7:00 PM",
@@ -68,7 +68,7 @@
       "vendor": "Kaosamai Thai"
     },
     {
-      "date": "2026-03-08T00:00:00",
+      "date": "2026-03-09T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -79,7 +79,7 @@
       "vendor": "Russo Pizzarium"
     },
     {
-      "date": "2026-03-09T00:00:00",
+      "date": "2026-03-10T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -156,7 +156,18 @@
       "vendor": "Tacos &amp; Beer"
     },
     {
-      "date": "2026-03-02T00:00:00",
+      "date": "2026-03-10T16:00:00.307000",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "location": "Yonder Cider & Bale Breaker - Ballard",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "timezone": "PT",
+      "vendor": "Tummy Yummy Thai"
+    },
+    {
+      "date": "2026-03-03T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -165,17 +176,6 @@
       "start_time_raw": "4:00 PM",
       "timezone": "PT",
       "vendor": "Plaza Garcia"
-    },
-    {
-      "date": "2026-03-02T00:00:00",
-      "description": "https://urbanfamilybrewing.com/events/chickn-fix-2/",
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "location": "Urban Family Brewing",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
-      "timezone": "PT",
-      "vendor": "Chick'n Fix"
     },
     {
       "date": "2026-03-03T00:00:00",
@@ -266,15 +266,26 @@
       "vendor": "Empanadas El Pachi"
     },
     {
-      "date": "2026-03-02T00:00:00",
-      "description": "Original event: Dinner: Birrieria Pepe El Toro",
+      "date": "2026-03-10T00:00:00",
+      "description": "https://urbanfamilybrewing.com/events/burgerdom-4/",
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "location": "Urban Family Brewing",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "timezone": "PT",
+      "vendor": "BurgerDOM"
+    },
+    {
+      "date": "2026-03-10T00:00:00",
+      "description": null,
       "end_time": null,
       "end_time_raw": null,
-      "location": "Chuck's Hop Shop Greenwood",
+      "location": "Wheelie Pop Brewing",
       "start_time": null,
       "start_time_raw": null,
       "timezone": "PT",
-      "vendor": "Birrieria Pepe El Toro"
+      "vendor": "Shuffle Dating"
     },
     {
       "date": "2026-03-03T00:00:00",
@@ -365,15 +376,15 @@
       "vendor": "Birrieria Pepe El Toro"
     },
     {
-      "date": "2026-03-02T17:00:00",
-      "description": "Cuisine: Asian, BBQ, Sandwiches",
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
-      "location": "Saleh's Corner",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
+      "date": "2026-03-10T00:00:00",
+      "description": "Original event: Dinner: Woodshop BBQ",
+      "end_time": null,
+      "end_time_raw": null,
+      "location": "Chuck's Hop Shop Greenwood",
+      "start_time": null,
+      "start_time_raw": null,
       "timezone": "PT",
-      "vendor": "MOMO Express"
+      "vendor": "Woodshop BBQ"
     },
     {
       "date": "2026-03-03T17:00:00",
@@ -451,11 +462,22 @@
       "start_time_raw": "5:00 PM",
       "timezone": "PT",
       "vendor": "MOMO Express"
+    },
+    {
+      "date": "2026-03-10T17:00:00",
+      "description": "Cuisine: Burritos, Mexican, Tacos",
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "location": "Saleh's Corner",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "timezone": "PT",
+      "vendor": "Plaza Garcia Express"
     }
   ],
-  "haiku": "\ud83c\udf38 March wind carries scents\u2014\nPlaza Garcia's spice meets\nObec's brewing steam \ud83c\udf7a",
+  "haiku": "\ud83c\udf31 March winds carry scents\u2014\nSplit Open melts at Stoup's door,\ncheese meets hoppy dreams \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 41,
-  "updated": "2026-03-03T07:15:20.376755+00:00"
+  "total_events": 43,
+  "updated": "2026-03-03T08:15:18.174890+00:00"
 }
