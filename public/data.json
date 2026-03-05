@@ -21,7 +21,7 @@
       "start_time": "4:00 PM PT",
       "start_time_raw": "4:00 PM",
       "timezone": "PT",
-      "vendor": "Birrieria Pepe El Toro"
+      "vendor": "El Pirata Tortas Y Burritos / Now Make Me A Sandwich"
     },
     {
       "date": "2026-03-06T00:00:00",
@@ -277,6 +277,28 @@
       "vendor": "Katmandu Momocha"
     },
     {
+      "date": "2026-03-05T00:00:00",
+      "description": null,
+      "end_time": null,
+      "end_time_raw": null,
+      "location": "Wheelie Pop Brewing",
+      "start_time": null,
+      "start_time_raw": null,
+      "timezone": "PT",
+      "vendor": "Kaosamai Thai"
+    },
+    {
+      "date": "2026-03-07T00:00:00",
+      "description": null,
+      "end_time": "1:00 AM PT",
+      "end_time_raw": "1:00 AM",
+      "location": "Wheelie Pop Brewing",
+      "start_time": "12:00 AM PT",
+      "start_time_raw": "12:00 AM",
+      "timezone": "PT",
+      "vendor": "Vandalz Taqueria"
+    },
+    {
       "date": "2026-03-10T00:00:00",
       "description": null,
       "end_time": null,
@@ -475,9 +497,9 @@
       "vendor": "Theo's Gyros"
     }
   ],
-  "haiku": "\ud83c\udf38 March rain softly falls\u2014\nOskar's crust meets hoppy warmth\nat Chuck's gathering \ud83c\udf55",
+  "haiku": "\ud83c\udf31 March winds carry scent\u2014\nBarelas' green chile warms\nObec's brewing hearts \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 43,
-  "updated": "2026-03-05T00:15:18.674446+00:00"
+  "total_events": 45,
+  "updated": "2026-03-05T01:15:18.412011+00:00"
 }
