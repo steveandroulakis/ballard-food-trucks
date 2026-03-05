@@ -322,102 +322,102 @@
     },
     {
       "date": "2026-03-05T00:00:00",
-      "description": "Original event: Dinner: Impeckable Chicken",
+      "description": "Original event: #VALUE!",
       "end_time": null,
       "end_time_raw": null,
       "location": "Chuck's Hop Shop Greenwood",
       "start_time": null,
       "start_time_raw": null,
       "timezone": "PT",
-      "vendor": "Impeckable Chicken"
+      "vendor": "#VALUE!"
     },
     {
       "date": "2026-03-06T00:00:00",
-      "description": "Original event: Dinner: Kaosomai Thai",
+      "description": "Original event: #VALUE!",
       "end_time": null,
       "end_time_raw": null,
       "location": "Chuck's Hop Shop Greenwood",
       "start_time": null,
       "start_time_raw": null,
       "timezone": "PT",
-      "vendor": "Kaosomai Thai"
+      "vendor": "#VALUE!"
     },
     {
       "date": "2026-03-07T00:00:00",
-      "description": "Original event: Dinner: Sabor Boricua",
+      "description": "Original event: #VALUE!",
       "end_time": null,
       "end_time_raw": null,
       "location": "Chuck's Hop Shop Greenwood",
       "start_time": null,
       "start_time_raw": null,
       "timezone": "PT",
-      "vendor": "Sabor Boricua"
+      "vendor": "#VALUE!"
     },
     {
       "date": "2026-03-08T00:00:00",
-      "description": "Original event: Cocina Barelas",
+      "description": "Original event: #VALUE!",
       "end_time": null,
       "end_time_raw": null,
       "location": "Chuck's Hop Shop Greenwood",
       "start_time": null,
       "start_time_raw": null,
       "timezone": "PT",
-      "vendor": "Cocina Barelas"
+      "vendor": "#VALUE!"
     },
     {
       "date": "2026-03-08T00:00:00",
-      "description": "Original event: Momo Express",
+      "description": "Original event: #VALUE!",
       "end_time": null,
       "end_time_raw": null,
       "location": "Chuck's Hop Shop Greenwood",
       "start_time": null,
       "start_time_raw": null,
       "timezone": "PT",
-      "vendor": "Momo Express"
+      "vendor": "#VALUE!"
     },
     {
       "date": "2026-03-09T00:00:00",
-      "description": "Original event: Dinner: Birrieria Pepe El Toro",
+      "description": "Original event: #VALUE!",
       "end_time": null,
       "end_time_raw": null,
       "location": "Chuck's Hop Shop Greenwood",
       "start_time": null,
       "start_time_raw": null,
       "timezone": "PT",
-      "vendor": "Birrieria Pepe El Toro"
+      "vendor": "#VALUE!"
     },
     {
       "date": "2026-03-10T00:00:00",
-      "description": "Original event: Dinner: Woodshop BBQ",
+      "description": "Original event: #VALUE!",
       "end_time": null,
       "end_time_raw": null,
       "location": "Chuck's Hop Shop Greenwood",
       "start_time": null,
       "start_time_raw": null,
       "timezone": "PT",
-      "vendor": "Woodshop BBQ"
+      "vendor": "#VALUE!"
     },
     {
       "date": "2026-03-11T00:00:00",
-      "description": "Original event: Dinner: Oskar's Pizza",
+      "description": "Original event: #VALUE!",
       "end_time": null,
       "end_time_raw": null,
       "location": "Chuck's Hop Shop Greenwood",
       "start_time": null,
       "start_time_raw": null,
       "timezone": "PT",
-      "vendor": "Oskar's Pizza"
+      "vendor": "#VALUE!"
     },
     {
       "date": "2026-03-12T00:00:00",
-      "description": "Original event: Dinner: Impeckable Chicken",
+      "description": "Original event: #VALUE!",
       "end_time": null,
       "end_time_raw": null,
       "location": "Chuck's Hop Shop Greenwood",
       "start_time": null,
       "start_time_raw": null,
       "timezone": "PT",
-      "vendor": "Impeckable Chicken"
+      "vendor": "#VALUE!"
     },
     {
       "date": "2026-03-05T17:00:00",
@@ -508,9 +508,9 @@
       "vendor": "Split Open and Melt"
     }
   ],
-  "haiku": "\ud83c\udf38 Spring rain softly falls\u2014\nEl Pirata's tortas warm\nStoup's hoppy refuge \ud83c\udf7a",
+  "haiku": "\ud83c\udf38 March winds carry scents\u2014\nAlebrijes' colors bloom\nat Urban's long tables \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
   "total_events": 46,
-  "updated": "2026-03-05T21:15:38.564136+00:00"
+  "updated": "2026-03-05T22:15:20.492213+00:00"
 }
