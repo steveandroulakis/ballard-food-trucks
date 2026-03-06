@@ -10,7 +10,7 @@
       "start_time": "4:00 PM PT",
       "start_time_raw": "4:00 PM",
       "timezone": "PT",
-      "vendor": "El Pirata Tortas Y Burritos / Now Make Me A Sandwich"
+      "vendor": "Birrieria Pepe El Toro"
     },
     {
       "date": "2026-03-06T00:00:00",
@@ -508,9 +508,9 @@
       "vendor": "Split Open and Melt"
     }
   ],
-  "haiku": "\ud83c\udf38 Spring warmth brings us close\u2014\nImpeckable birds sizzle\nat Chuck's hoppy hearth \ud83c\udf7a",
+  "haiku": "\ud83c\udf27\ufe0f March rain softly falls\u2014\nPepe's birria steams at Stoup,\nwarm broth meets cold hops \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
   "total_events": 46,
-  "updated": "2026-03-05T23:15:18.420580+00:00"
+  "updated": "2026-03-06T00:15:18.475705+00:00"
 }
