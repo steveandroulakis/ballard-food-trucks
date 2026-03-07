@@ -1,5 +1,7 @@
 {
-  "errors": [],
+  "errors": [
+    "Failed to fetch information for brewery: Obec Brewing"
+  ],
   "events": [
     {
       "date": "2026-03-07T00:00:00",
@@ -165,17 +167,6 @@
       "start_time_raw": "1:00 PM",
       "timezone": "PT",
       "vendor": "Wich Came First"
-    },
-    {
-      "date": "2026-03-07T00:00:00",
-      "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "location": "Obec Brewing",
-      "start_time": "3:00 AM PT",
-      "start_time_raw": "3:00 AM",
-      "timezone": "PT",
-      "vendor": "Kaosamai Thai"
     },
     {
       "date": "2026-03-07T00:00:00",
@@ -508,9 +499,9 @@
       "vendor": "Impeckable Chicken"
     }
   ],
-  "haiku": "\ud83c\udf38 Spring rain softly falls\u2014\nThai-U-Up steams at Saleh's,\nwarmth shared over bowls \ud83c\udf5c",
+  "haiku": "\ud83c\udf38 Spring rain softly falls\u2014\nOskar's crust meets hoppy warmth\nat Urban's bright hearth \ud83c\udf55",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 46,
-  "updated": "2026-03-07T10:15:23.293379+00:00"
+  "total_events": 45,
+  "updated": "2026-03-07T11:15:19.878486+00:00"
 }
