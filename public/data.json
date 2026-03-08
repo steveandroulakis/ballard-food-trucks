@@ -301,33 +301,33 @@
     {
       "date": "2026-03-12T00:00:00",
       "description": null,
-      "end_time": "2:00 AM PT",
-      "end_time_raw": "2:00 AM",
+      "end_time": "1:00 AM PT",
+      "end_time_raw": "1:00 AM",
       "location": "Wheelie Pop Brewing",
-      "start_time": "1:00 AM PT",
-      "start_time_raw": "1:00 AM",
+      "start_time": "12:00 AM PT",
+      "start_time_raw": "12:00 AM",
       "timezone": "PT",
       "vendor": "Heart in Seoul"
     },
     {
       "date": "2026-03-13T00:00:00",
       "description": null,
-      "end_time": "2:00 AM PT",
-      "end_time_raw": "2:00 AM",
+      "end_time": "1:00 AM PT",
+      "end_time_raw": "1:00 AM",
       "location": "Wheelie Pop Brewing",
-      "start_time": "1:00 AM PT",
-      "start_time_raw": "1:00 AM",
+      "start_time": "12:00 AM PT",
+      "start_time_raw": "12:00 AM",
       "timezone": "PT",
       "vendor": "El Pachi Empanadas"
     },
     {
       "date": "2026-03-14T00:00:00",
       "description": null,
-      "end_time": "2:00 AM PT",
-      "end_time_raw": "2:00 AM",
+      "end_time": "1:00 AM PT",
+      "end_time_raw": "1:00 AM",
       "location": "Wheelie Pop Brewing",
-      "start_time": "1:00 AM PT",
-      "start_time_raw": "1:00 AM",
+      "start_time": "12:00 AM PT",
+      "start_time_raw": "12:00 AM",
       "timezone": "PT",
       "vendor": "Tisket Tasket"
     },
@@ -519,9 +519,9 @@
       "vendor": "Pizzadillaz"
     }
   ],
-  "haiku": "\ud83c\udf38 March winds carry scents\u2014\nSandwich dreams at Urban's tap,\nSpring hops meet fresh bread \ud83e\udd6a",
+  "haiku": "\ud83c\udf38 March warmth awakens\u2014\nKaosamai's spice mingles\nwith Stoup's golden brew \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
   "total_events": 47,
-  "updated": "2026-03-08T09:15:26.654132+00:00"
+  "updated": "2026-03-08T10:15:18.487328+00:00"
 }
