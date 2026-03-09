@@ -311,102 +311,102 @@
     },
     {
       "date": "2026-03-09T00:00:00",
-      "description": "Original event: Dinner: Birrieria Pepe El Toro",
+      "description": "Original event: #VALUE!",
       "end_time": null,
       "end_time_raw": null,
       "location": "Chuck's Hop Shop Greenwood",
       "start_time": null,
       "start_time_raw": null,
       "timezone": "PT",
-      "vendor": "Birrieria Pepe El Toro"
+      "vendor": "#VALUE!"
     },
     {
       "date": "2026-03-10T00:00:00",
-      "description": "Original event: Dinner: Woodshop BBQ",
+      "description": "Original event: #VALUE!",
       "end_time": null,
       "end_time_raw": null,
       "location": "Chuck's Hop Shop Greenwood",
       "start_time": null,
       "start_time_raw": null,
       "timezone": "PT",
-      "vendor": "Woodshop BBQ"
+      "vendor": "#VALUE!"
     },
     {
       "date": "2026-03-11T00:00:00",
-      "description": "Original event: Dinner: Oskar's Pizza",
+      "description": "Original event: #VALUE!",
       "end_time": null,
       "end_time_raw": null,
       "location": "Chuck's Hop Shop Greenwood",
       "start_time": null,
       "start_time_raw": null,
       "timezone": "PT",
-      "vendor": "Oskar's Pizza"
+      "vendor": "#VALUE!"
     },
     {
       "date": "2026-03-12T00:00:00",
-      "description": "Original event: Dinner: Impeckable Chicken",
+      "description": "Original event: #VALUE!",
       "end_time": null,
       "end_time_raw": null,
       "location": "Chuck's Hop Shop Greenwood",
       "start_time": null,
       "start_time_raw": null,
       "timezone": "PT",
-      "vendor": "Impeckable Chicken"
+      "vendor": "#VALUE!"
     },
     {
       "date": "2026-03-13T00:00:00",
-      "description": "Original event: Dinner: Where ya at Matt",
+      "description": "Original event: #VALUE!",
       "end_time": null,
       "end_time_raw": null,
       "location": "Chuck's Hop Shop Greenwood",
       "start_time": null,
       "start_time_raw": null,
       "timezone": "PT",
-      "vendor": "Where ya at Matt"
+      "vendor": "#VALUE!"
     },
     {
       "date": "2026-03-14T00:00:00",
-      "description": "Original event: Tat's Deli",
+      "description": "Original event: #VALUE!",
       "end_time": null,
       "end_time_raw": null,
       "location": "Chuck's Hop Shop Greenwood",
       "start_time": null,
       "start_time_raw": null,
       "timezone": "PT",
-      "vendor": "Tat's Deli"
+      "vendor": "#VALUE!"
     },
     {
       "date": "2026-03-15T00:00:00",
-      "description": "Original event: Brunch: Good Morning Tacos",
+      "description": "Original event: #VALUE!",
       "end_time": null,
       "end_time_raw": null,
       "location": "Chuck's Hop Shop Greenwood",
       "start_time": null,
       "start_time_raw": null,
       "timezone": "PT",
-      "vendor": "Good Morning Tacos"
+      "vendor": "#VALUE!"
     },
     {
       "date": "2026-03-15T00:00:00",
-      "description": "Original event: Dinner: Georgia's Greek",
+      "description": "Original event: #VALUE!",
       "end_time": null,
       "end_time_raw": null,
       "location": "Chuck's Hop Shop Greenwood",
       "start_time": null,
       "start_time_raw": null,
       "timezone": "PT",
-      "vendor": "Georgia's Greek"
+      "vendor": "#VALUE!"
     },
     {
       "date": "2026-03-16T00:00:00",
-      "description": "Original event: Dinner: Birrieria Pepe El Toro",
+      "description": "Original event: #VALUE!",
       "end_time": null,
       "end_time_raw": null,
       "location": "Chuck's Hop Shop Greenwood",
       "start_time": null,
       "start_time_raw": null,
       "timezone": "PT",
-      "vendor": "Birrieria Pepe El Toro"
+      "vendor": "#VALUE!"
     },
     {
       "date": "2026-03-09T17:00:00",
@@ -486,9 +486,9 @@
       "vendor": "MOMO Express"
     }
   ],
-  "haiku": "\ud83c\udf38 March rain softly falls\u2014\nPepe's birria steams at Chuck's,\nHops warm winter's end \ud83c\udf7a",
+  "haiku": "\ud83c\udf38 March wind stirs the hops\u2014\nPlaza Garcia's smoke meets\nObec's golden pour \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
   "total_events": 44,
-  "updated": "2026-03-09T18:15:28.770133+00:00"
+  "updated": "2026-03-09T19:15:19.856631+00:00"
 }
