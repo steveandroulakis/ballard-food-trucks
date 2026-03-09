@@ -79,15 +79,15 @@
       "vendor": "El Pirata Tortas Y Burritos / Now Make Me A Sandwich"
     },
     {
-      "date": "2026-03-08T13:00:00.793000",
+      "date": "2026-03-16T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
-      "location": "Yonder Cider & Bale Breaker - Ballard",
-      "start_time": "1:00 PM PT",
-      "start_time_raw": "1:00 PM",
+      "location": "Stoup Brewing - Ballard",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
       "timezone": "PT",
-      "vendor": "Tacos &amp; Beer"
+      "vendor": "Where Ya At Matt"
     },
     {
       "date": "2026-03-10T16:00:00.307000",
@@ -165,28 +165,6 @@
       "start_time_raw": "4:00 PM",
       "timezone": "PT",
       "vendor": "Heart in Seoul"
-    },
-    {
-      "date": "2026-03-08T00:00:00",
-      "description": "https://urbanfamilybrewing.com/events/9th-and-hennepin-9/",
-      "end_time": "12:00 PM PT",
-      "end_time_raw": "12:00 PM",
-      "location": "Urban Family Brewing",
-      "start_time": "8:00 AM PT",
-      "start_time_raw": "8:00 AM",
-      "timezone": "PT",
-      "vendor": "9th and Hennepin"
-    },
-    {
-      "date": "2026-03-08T00:00:00",
-      "description": "https://urbanfamilybrewing.com/events/now-make-me-a-sandwich-4/",
-      "end_time": "7:00 PM PT",
-      "end_time_raw": "7:00 PM",
-      "location": "Urban Family Brewing",
-      "start_time": "1:00 PM PT",
-      "start_time_raw": "1:00 PM",
-      "timezone": "PT",
-      "vendor": "Now Make Me A Sandwich"
     },
     {
       "date": "2026-03-09T00:00:00",
@@ -277,6 +255,17 @@
       "vendor": "Kaosamai"
     },
     {
+      "date": "2026-03-16T00:00:00",
+      "description": "https://urbanfamilybrewing.com/events/la-riviera-maya-6/",
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "location": "Urban Family Brewing",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "timezone": "PT",
+      "vendor": "La Riviera Maya"
+    },
+    {
       "date": "2026-03-10T00:00:00",
       "description": null,
       "end_time": null,
@@ -319,28 +308,6 @@
       "start_time_raw": "12:00 AM",
       "timezone": "PT",
       "vendor": "Tisket Tasket"
-    },
-    {
-      "date": "2026-03-08T00:00:00",
-      "description": "Original event: Cocina Barelas",
-      "end_time": null,
-      "end_time_raw": null,
-      "location": "Chuck's Hop Shop Greenwood",
-      "start_time": null,
-      "start_time_raw": null,
-      "timezone": "PT",
-      "vendor": "Cocina Barelas"
-    },
-    {
-      "date": "2026-03-08T00:00:00",
-      "description": "Original event: Momo Express",
-      "end_time": null,
-      "end_time_raw": null,
-      "location": "Chuck's Hop Shop Greenwood",
-      "start_time": null,
-      "start_time_raw": null,
-      "timezone": "PT",
-      "vendor": "Momo Express"
     },
     {
       "date": "2026-03-09T00:00:00",
@@ -431,6 +398,17 @@
       "vendor": "Georgia's Greek"
     },
     {
+      "date": "2026-03-16T00:00:00",
+      "description": "Original event: Dinner: Birrieria Pepe El Toro",
+      "end_time": null,
+      "end_time_raw": null,
+      "location": "Chuck's Hop Shop Greenwood",
+      "start_time": null,
+      "start_time_raw": null,
+      "timezone": "PT",
+      "vendor": "Birrieria Pepe El Toro"
+    },
+    {
       "date": "2026-03-09T17:00:00",
       "description": "Cuisine: Asian, BBQ, Sandwiches",
       "end_time": "9:00 PM PT",
@@ -495,11 +473,22 @@
       "start_time_raw": "5:00 PM",
       "timezone": "PT",
       "vendor": "Pizzadillaz"
+    },
+    {
+      "date": "2026-03-16T17:00:00",
+      "description": "Cuisine: Asian, BBQ, Sandwiches",
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "location": "Saleh's Corner",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "timezone": "PT",
+      "vendor": "MOMO Express"
     }
   ],
-  "haiku": "\ud83c\udf38 Spring rain softly falls\u2014\nMOMO steam rises at Saleh's,\ndumplings warm the soul \ud83c\udf7a",
+  "haiku": "\ud83c\udf38 March winds carry scents\u2014\nRusso's pizza meets fresh hops\nat Stoup's buzzing heart \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 45,
-  "updated": "2026-03-09T07:15:18.937725+00:00"
+  "total_events": 44,
+  "updated": "2026-03-09T08:15:20.329721+00:00"
 }
