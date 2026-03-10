@@ -79,6 +79,17 @@
       "vendor": "Where Ya At Matt"
     },
     {
+      "date": "2026-03-17T00:00:00",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "location": "Stoup Brewing - Ballard",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "timezone": "PT",
+      "vendor": "Split Open & Melt Cheesesteaks"
+    },
+    {
       "date": "2026-03-10T16:00:00.307000",
       "description": null,
       "end_time": "8:00 PM PT",
@@ -145,6 +156,17 @@
       "vendor": "Tacos &amp; Beer"
     },
     {
+      "date": "2026-03-17T16:00:00.203000",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "location": "Yonder Cider & Bale Breaker - Ballard",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "timezone": "PT",
+      "vendor": "Birrieria Pepe El Toro"
+    },
+    {
       "date": "2026-03-10T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
@@ -154,17 +176,6 @@
       "start_time_raw": "4:00 PM",
       "timezone": "PT",
       "vendor": "CHECK STATUS: Maroom Thai"
-    },
-    {
-      "date": "2026-03-09T00:00:00",
-      "description": "https://urbanfamilybrewing.com/events/empanadas-el-pachi-5/",
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "location": "Urban Family Brewing",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
-      "timezone": "PT",
-      "vendor": "Empanadas El Pachi"
     },
     {
       "date": "2026-03-10T00:00:00",
@@ -255,6 +266,17 @@
       "vendor": "La Riviera Maya"
     },
     {
+      "date": "2026-03-17T00:00:00",
+      "description": "https://urbanfamilybrewing.com/events/georgias-greek-5/",
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "location": "Urban Family Brewing",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "timezone": "PT",
+      "vendor": "Georgia's Greek"
+    },
+    {
       "date": "2026-03-10T00:00:00",
       "description": null,
       "end_time": null,
@@ -297,17 +319,6 @@
       "start_time_raw": "12:00 AM",
       "timezone": "PT",
       "vendor": "Tisket Tasket"
-    },
-    {
-      "date": "2026-03-09T00:00:00",
-      "description": "Original event: Dinner: Birrieria Pepe El Toro",
-      "end_time": null,
-      "end_time_raw": null,
-      "location": "Chuck's Hop Shop Greenwood",
-      "start_time": null,
-      "start_time_raw": null,
-      "timezone": "PT",
-      "vendor": "Birrieria Pepe El Toro"
     },
     {
       "date": "2026-03-10T00:00:00",
@@ -398,6 +409,17 @@
       "vendor": "Birrieria Pepe El Toro"
     },
     {
+      "date": "2026-03-17T00:00:00",
+      "description": "Original event: Dinner: Woodshop BBQ",
+      "end_time": null,
+      "end_time_raw": null,
+      "location": "Chuck's Hop Shop Greenwood",
+      "start_time": null,
+      "start_time_raw": null,
+      "timezone": "PT",
+      "vendor": "Woodshop BBQ"
+    },
+    {
       "date": "2026-03-10T17:00:00",
       "description": "Cuisine: Burritos, Mexican, Tacos",
       "end_time": "9:00 PM PT",
@@ -462,11 +484,22 @@
       "start_time_raw": "5:00 PM",
       "timezone": "PT",
       "vendor": "MOMO Express"
+    },
+    {
+      "date": "2026-03-17T17:00:00",
+      "description": "Cuisine: Burritos, Mexican, Tacos",
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "location": "Saleh's Corner",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "timezone": "PT",
+      "vendor": "Plaza Garcia Express"
     }
   ],
-  "haiku": "\ud83c\udf38 March rain softly falls\u2014\nMaroom Thai spice warms the soul\nat Obec's bright door \ud83c\udf7a",
+  "haiku": "\ud83c\udf38 Spring warmth draws hearts close\u2014\nShuffle Dating trucks at Wheelie Pop,\nLove brews with fresh hops \ud83d\udc95",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 42,
-  "updated": "2026-03-10T07:15:19.998065+00:00"
+  "total_events": 45,
+  "updated": "2026-03-10T08:15:22.516945+00:00"
 }
