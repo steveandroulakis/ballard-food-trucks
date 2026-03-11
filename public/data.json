@@ -79,15 +79,15 @@
       "vendor": "Split Open & Melt Cheesesteaks"
     },
     {
-      "date": "2026-03-10T16:00:00.307000",
+      "date": "2026-03-18T00:00:00",
       "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "location": "Yonder Cider & Bale Breaker - Ballard",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
+      "end_time": "8:30 PM PT",
+      "end_time_raw": "8:30 PM",
+      "location": "Stoup Brewing - Ballard",
+      "start_time": "4:30 PM PT",
+      "start_time_raw": "4:30 PM",
       "timezone": "PT",
-      "vendor": "Tummy Yummy Thai"
+      "vendor": "El Gran Taco"
     },
     {
       "date": "2026-03-11T16:00:00.425000",
@@ -156,15 +156,26 @@
       "vendor": "Birrieria Pepe El Toro"
     },
     {
-      "date": "2026-03-10T00:00:00",
-      "description": "https://urbanfamilybrewing.com/events/burgerdom-4/",
+      "date": "2026-03-18T16:00:00.425000",
+      "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
-      "location": "Urban Family Brewing",
+      "location": "Yonder Cider & Bale Breaker - Ballard",
       "start_time": "4:00 PM PT",
       "start_time_raw": "4:00 PM",
       "timezone": "PT",
-      "vendor": "BurgerDOM"
+      "vendor": "Georgia\u2019s Greek"
+    },
+    {
+      "date": "2026-03-11T00:00:00",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "location": "Obec Brewing",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "timezone": "PT",
+      "vendor": "Empanadas el Pachi"
     },
     {
       "date": "2026-03-11T00:00:00",
@@ -255,15 +266,15 @@
       "vendor": "Georgia's Greek"
     },
     {
-      "date": "2026-03-10T00:00:00",
-      "description": null,
-      "end_time": null,
-      "end_time_raw": null,
-      "location": "Wheelie Pop Brewing",
-      "start_time": null,
-      "start_time_raw": null,
+      "date": "2026-03-18T00:00:00",
+      "description": "https://urbanfamilybrewing.com/events/impeccable-chicken-6/",
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "location": "Urban Family Brewing",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
       "timezone": "PT",
-      "vendor": "Shuffle Dating"
+      "vendor": "Impeccable Chicken"
     },
     {
       "date": "2026-03-12T00:00:00",
@@ -297,17 +308,6 @@
       "start_time_raw": "12:00 AM",
       "timezone": "PT",
       "vendor": "Tisket Tasket"
-    },
-    {
-      "date": "2026-03-10T00:00:00",
-      "description": "Original event: Dinner: Woodshop BBQ",
-      "end_time": null,
-      "end_time_raw": null,
-      "location": "Chuck's Hop Shop Greenwood",
-      "start_time": null,
-      "start_time_raw": null,
-      "timezone": "PT",
-      "vendor": "Woodshop BBQ"
     },
     {
       "date": "2026-03-11T00:00:00",
@@ -398,6 +398,17 @@
       "vendor": "Woodshop BBQ"
     },
     {
+      "date": "2026-03-18T00:00:00",
+      "description": "Original event: Dinner: Oskar's Pizza",
+      "end_time": null,
+      "end_time_raw": null,
+      "location": "Chuck's Hop Shop Greenwood",
+      "start_time": null,
+      "start_time_raw": null,
+      "timezone": "PT",
+      "vendor": "Oskar's Pizza"
+    },
+    {
       "date": "2026-03-11T17:00:00",
       "description": "Cuisine: Greek, Gyro, Halal",
       "end_time": "9:00 PM PT",
@@ -462,11 +473,22 @@
       "start_time_raw": "5:00 PM",
       "timezone": "PT",
       "vendor": "Plaza Garcia Express"
+    },
+    {
+      "date": "2026-03-18T17:00:00",
+      "description": "Cuisine: Greek, Gyro, Halal",
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "location": "Saleh's Corner",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "timezone": "PT",
+      "vendor": "Theo's Gyros"
     }
   ],
-  "haiku": "\ud83c\udf38 March rain softly falls\u2014\nMarigold's wood fire crackles\nat Stoup's warm embrace \ud83c\udf55",
+  "haiku": "\ud83c\udf38 Spring rain softly falls\u2014\nTheo's lamb sizzles warm steam\nat Saleh's bright door \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 42,
-  "updated": "2026-03-11T07:15:21.236391+00:00"
+  "total_events": 44,
+  "updated": "2026-03-11T08:15:39.913199+00:00"
 }
