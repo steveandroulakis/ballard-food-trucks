@@ -311,80 +311,80 @@
     },
     {
       "date": "2026-03-11T00:00:00",
-      "description": "Original event: Dinner: Oskar's Pizza",
+      "description": "Original event: #VALUE!",
       "end_time": null,
       "end_time_raw": null,
       "location": "Chuck's Hop Shop Greenwood",
       "start_time": null,
       "start_time_raw": null,
       "timezone": "PT",
-      "vendor": "Oskar's Pizza"
+      "vendor": "#VALUE!"
     },
     {
       "date": "2026-03-12T00:00:00",
-      "description": "Original event: Dinner: Impeckable Chicken",
+      "description": "Original event: #VALUE!",
       "end_time": null,
       "end_time_raw": null,
       "location": "Chuck's Hop Shop Greenwood",
       "start_time": null,
       "start_time_raw": null,
       "timezone": "PT",
-      "vendor": "Impeckable Chicken"
+      "vendor": "#VALUE!"
     },
     {
       "date": "2026-03-13T00:00:00",
-      "description": "Original event: Dinner: Where ya at Matt",
+      "description": "Original event: #VALUE!",
       "end_time": null,
       "end_time_raw": null,
       "location": "Chuck's Hop Shop Greenwood",
       "start_time": null,
       "start_time_raw": null,
       "timezone": "PT",
-      "vendor": "Where ya at Matt"
+      "vendor": "#VALUE!"
     },
     {
       "date": "2026-03-14T00:00:00",
-      "description": "Original event: Tat's Deli",
+      "description": "Original event: #VALUE!",
       "end_time": null,
       "end_time_raw": null,
       "location": "Chuck's Hop Shop Greenwood",
       "start_time": null,
       "start_time_raw": null,
       "timezone": "PT",
-      "vendor": "Tat's Deli"
+      "vendor": "#VALUE!"
     },
     {
       "date": "2026-03-15T00:00:00",
-      "description": "Original event: Brunch: Good Morning Tacos",
+      "description": "Original event: #VALUE!",
       "end_time": null,
       "end_time_raw": null,
       "location": "Chuck's Hop Shop Greenwood",
       "start_time": null,
       "start_time_raw": null,
       "timezone": "PT",
-      "vendor": "Good Morning Tacos"
+      "vendor": "#VALUE!"
     },
     {
       "date": "2026-03-15T00:00:00",
-      "description": "Original event: Dinner: Georgia's Greek",
+      "description": "Original event: #VALUE!",
       "end_time": null,
       "end_time_raw": null,
       "location": "Chuck's Hop Shop Greenwood",
       "start_time": null,
       "start_time_raw": null,
       "timezone": "PT",
-      "vendor": "Georgia's Greek"
+      "vendor": "#VALUE!"
     },
     {
       "date": "2026-03-16T00:00:00",
-      "description": "Original event: Dinner: Birrieria Pepe El Toro",
+      "description": "Original event: #VALUE!",
       "end_time": null,
       "end_time_raw": null,
       "location": "Chuck's Hop Shop Greenwood",
       "start_time": null,
       "start_time_raw": null,
       "timezone": "PT",
-      "vendor": "Birrieria Pepe El Toro"
+      "vendor": "#VALUE!"
     },
     {
       "date": "2026-03-17T00:00:00",
@@ -486,9 +486,9 @@
       "vendor": "Theo's Gyros"
     }
   ],
-  "haiku": "\ud83c\udf38 Spring rain softly falls\u2014\nMomocha's steam meets craft beer\nat Urban Family \ud83c\udf7a",
+  "haiku": "\ud83c\udf38 Spring rain kisses Greek\nolives at Yonder's tables\u2014\ncider, warmth, and friends \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
   "total_events": 44,
-  "updated": "2026-03-11T18:15:18.017118+00:00"
+  "updated": "2026-03-11T19:15:34.927894+00:00"
 }
