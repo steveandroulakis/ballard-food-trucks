@@ -2,17 +2,6 @@
   "errors": [],
   "events": [
     {
-      "date": "2026-03-12T00:00:00",
-      "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "location": "Stoup Brewing - Ballard",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
-      "timezone": "PT",
-      "vendor": "La Costenita"
-    },
-    {
       "date": "2026-03-13T00:00:00",
       "description": null,
       "end_time": "9:00 PM PT",
@@ -167,15 +156,15 @@
       "vendor": "Impeckable Chicken"
     },
     {
-      "date": "2026-03-12T00:00:00",
+      "date": "2026-03-13T00:00:00",
       "description": null,
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
       "location": "Obec Brewing",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
       "timezone": "PT",
-      "vendor": "Tummy Yummy Thai"
+      "vendor": "Burgerdom"
     },
     {
       "date": "2026-03-12T00:00:00",
@@ -420,17 +409,6 @@
       "vendor": "Impeckable Chicken"
     },
     {
-      "date": "2026-03-12T17:00:00",
-      "description": "Cuisine: American, Cheesesteaks",
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
-      "location": "Saleh's Corner",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
-      "timezone": "PT",
-      "vendor": "Split Open and Melt"
-    },
-    {
       "date": "2026-03-13T17:00:00",
       "description": "Cuisine: Chicken, Sandwiches, Southern",
       "end_time": "9:00 PM PT",
@@ -497,9 +475,9 @@
       "vendor": "Fish Basket NW"
     }
   ],
-  "haiku": "\ud83c\udf38 Spring warmth breaks winter\u2014\nSplit Open melts at Saleh's,\nCraft beer meets comfort \ud83c\udf7a",
+  "haiku": "\ud83c\udf38 Spring rain softly falls\u2014\nBurgerdom's sizzle calls out\nfrom Obec's bright door \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 45,
-  "updated": "2026-03-13T06:15:19.761661+00:00"
+  "total_events": 43,
+  "updated": "2026-03-13T07:15:54.101025+00:00"
 }
