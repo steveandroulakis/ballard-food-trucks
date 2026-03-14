@@ -79,15 +79,15 @@
       "vendor": "Georgia's Greek"
     },
     {
-      "date": "2026-03-13T16:00:00.975000",
+      "date": "2026-03-21T00:00:00",
       "description": null,
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
-      "location": "Yonder Cider & Bale Breaker - Ballard",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "location": "Stoup Brewing - Ballard",
+      "start_time": "1:00 PM PT",
+      "start_time_raw": "1:00 PM",
       "timezone": "PT",
-      "vendor": "Wood Shop BBQ"
+      "vendor": "Tat's Truck"
     },
     {
       "date": "2026-03-14T13:00:00.664000",
@@ -156,15 +156,15 @@
       "vendor": "Paparepas"
     },
     {
-      "date": "2026-03-13T00:00:00",
-      "description": "https://urbanfamilybrewing.com/events/birrieria-pepe-el-toro-5/",
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "location": "Urban Family Brewing",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
+      "date": "2026-03-21T13:00:00.425000",
+      "description": null,
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "location": "Yonder Cider & Bale Breaker - Ballard",
+      "start_time": "1:00 PM PT",
+      "start_time_raw": "1:00 PM",
       "timezone": "PT",
-      "vendor": "Birrieria Pepe El Toro"
+      "vendor": "Georgia\u2019s Greek"
     },
     {
       "date": "2026-03-14T00:00:00",
@@ -255,15 +255,15 @@
       "vendor": "Tacos and Beer"
     },
     {
-      "date": "2026-03-13T00:00:00",
-      "description": null,
-      "end_time": "1:00 AM PT",
-      "end_time_raw": "1:00 AM",
-      "location": "Wheelie Pop Brewing",
-      "start_time": "12:00 AM PT",
-      "start_time_raw": "12:00 AM",
+      "date": "2026-03-21T00:00:00",
+      "description": "https://urbanfamilybrewing.com/events/oskars-pizza-6/",
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "location": "Urban Family Brewing",
+      "start_time": "1:00 PM PT",
+      "start_time_raw": "1:00 PM",
       "timezone": "PT",
-      "vendor": "El Pachi Empanadas"
+      "vendor": "Oskar's Pizza"
     },
     {
       "date": "2026-03-14T00:00:00",
@@ -288,15 +288,15 @@
       "vendor": "Kaosamai Thai"
     },
     {
-      "date": "2026-03-13T00:00:00",
-      "description": "Original event: Dinner: Where ya at Matt",
-      "end_time": null,
-      "end_time_raw": null,
-      "location": "Chuck's Hop Shop Greenwood",
-      "start_time": null,
-      "start_time_raw": null,
+      "date": "2026-03-21T00:00:00",
+      "description": null,
+      "end_time": "1:00 AM PT",
+      "end_time_raw": "1:00 AM",
+      "location": "Wheelie Pop Brewing",
+      "start_time": "12:00 AM PT",
+      "start_time_raw": "12:00 AM",
       "timezone": "PT",
-      "vendor": "Where ya at Matt"
+      "vendor": "Vandalz Taqueria"
     },
     {
       "date": "2026-03-14T00:00:00",
@@ -387,6 +387,17 @@
       "vendor": "Where ya at Matt"
     },
     {
+      "date": "2026-03-21T00:00:00",
+      "description": "Original event: Dinner: Sabor Boricua",
+      "end_time": null,
+      "end_time_raw": null,
+      "location": "Chuck's Hop Shop Greenwood",
+      "start_time": null,
+      "start_time_raw": null,
+      "timezone": "PT",
+      "vendor": "Sabor Boricua"
+    },
+    {
       "date": "2026-03-15T17:00:00",
       "description": "Cuisine: Italian, Mexican",
       "end_time": "9:00 PM PT",
@@ -453,9 +464,9 @@
       "vendor": "Impeckable Chicken"
     }
   ],
-  "haiku": "\ud83c\udf38 Spring's first warm weekend\u2014\nWich Came First sizzles beside\nYonder's crisp cider \ud83c\udf7b",
+  "haiku": "\ud83c\udf38 Spring warmth draws us close\u2014\nJohnson's smoke meets Stoup's fresh hops,\nBallard friends gather \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 41,
-  "updated": "2026-03-14T07:15:19.158511+00:00"
+  "total_events": 42,
+  "updated": "2026-03-14T08:15:17.979767+00:00"
 }
