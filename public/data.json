@@ -1,7 +1,5 @@
 {
-  "errors": [
-    "Failed to fetch information for brewery: Obec Brewing"
-  ],
+  "errors": [],
   "events": [
     {
       "date": "2026-03-15T00:00:00",
@@ -167,6 +165,17 @@
       "start_time_raw": "1:00 PM",
       "timezone": "PT",
       "vendor": "Tacos &amp; Beer"
+    },
+    {
+      "date": "2026-03-15T00:00:00",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "location": "Obec Brewing",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "timezone": "PT",
+      "vendor": "Heart in Seoul"
     },
     {
       "date": "2026-03-15T00:00:00",
@@ -499,9 +508,9 @@
       "vendor": "Split Open and Melt"
     }
   ],
-  "haiku": "\ud83c\udf38 Spring rain softly falls\u2014\nPizzadillaz steams at warm\nSaleh's Corner booth \ud83c\udf55",
+  "haiku": "\ud83c\udf38 Spring light warms the street\u2014\nNinth and Hennepin's steam rises\nat Urban's bright tap \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 45,
-  "updated": "2026-03-15T21:15:17.973049+00:00"
+  "total_events": 46,
+  "updated": "2026-03-15T22:15:18.473761+00:00"
 }
