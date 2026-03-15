@@ -79,15 +79,15 @@
       "vendor": "Tat's Truck"
     },
     {
-      "date": "2026-03-14T13:00:00.664000",
+      "date": "2026-03-22T00:00:00",
       "description": null,
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
-      "location": "Yonder Cider & Bale Breaker - Ballard",
+      "end_time": "7:00 PM PT",
+      "end_time_raw": "7:00 PM",
+      "location": "Stoup Brewing - Ballard",
       "start_time": "1:00 PM PT",
       "start_time_raw": "1:00 PM",
       "timezone": "PT",
-      "vendor": "Wich Came First"
+      "vendor": "Kaosamai Thai"
     },
     {
       "date": "2026-03-15T13:00:00.461000",
@@ -156,26 +156,26 @@
       "vendor": "Georgia\u2019s Greek"
     },
     {
+      "date": "2026-03-22T13:00:00.336000",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "location": "Yonder Cider & Bale Breaker - Ballard",
+      "start_time": "1:00 PM PT",
+      "start_time_raw": "1:00 PM",
+      "timezone": "PT",
+      "vendor": "Tacos &amp; Beer"
+    },
+    {
       "date": "2026-03-15T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
       "location": "Obec Brewing",
-      "start_time": "3:00 AM PT",
-      "start_time_raw": "3:00 AM",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
       "timezone": "PT",
-      "vendor": "Kaosamai Thai"
-    },
-    {
-      "date": "2026-03-14T00:00:00",
-      "description": "https://urbanfamilybrewing.com/events/momo-express-6/",
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "location": "Urban Family Brewing",
-      "start_time": "1:00 PM PT",
-      "start_time_raw": "1:00 PM",
-      "timezone": "PT",
-      "vendor": "Momo Express"
+      "vendor": "Heart in Seoul"
     },
     {
       "date": "2026-03-15T00:00:00",
@@ -266,15 +266,26 @@
       "vendor": "Oskar's Pizza"
     },
     {
-      "date": "2026-03-14T00:00:00",
-      "description": null,
-      "end_time": "1:00 AM PT",
-      "end_time_raw": "1:00 AM",
-      "location": "Wheelie Pop Brewing",
-      "start_time": "12:00 AM PT",
-      "start_time_raw": "12:00 AM",
+      "date": "2026-03-22T00:00:00",
+      "description": "https://urbanfamilybrewing.com/events/9th-and-hennepin-11/",
+      "end_time": "12:00 PM PT",
+      "end_time_raw": "12:00 PM",
+      "location": "Urban Family Brewing",
+      "start_time": "8:00 AM PT",
+      "start_time_raw": "8:00 AM",
       "timezone": "PT",
-      "vendor": "Tisket Tasket"
+      "vendor": "9th and Hennepin"
+    },
+    {
+      "date": "2026-03-22T00:00:00",
+      "description": "https://urbanfamilybrewing.com/events/now-make-me-a-sandwich-5/",
+      "end_time": "7:00 PM PT",
+      "end_time_raw": "7:00 PM",
+      "location": "Urban Family Brewing",
+      "start_time": "1:00 PM PT",
+      "start_time_raw": "1:00 PM",
+      "timezone": "PT",
+      "vendor": "Now Make Me A Sandwich"
     },
     {
       "date": "2026-03-19T00:00:00",
@@ -299,15 +310,15 @@
       "vendor": "Vandalz Taqueria"
     },
     {
-      "date": "2026-03-14T00:00:00",
-      "description": "Original event: Tat's Deli",
-      "end_time": null,
-      "end_time_raw": null,
-      "location": "Chuck's Hop Shop Greenwood",
-      "start_time": null,
-      "start_time_raw": null,
+      "date": "2026-03-22T00:00:00",
+      "description": null,
+      "end_time": "4:00 PM PT",
+      "end_time_raw": "4:00 PM",
+      "location": "Wheelie Pop Brewing",
+      "start_time": "3:00 PM PT",
+      "start_time_raw": "3:00 PM",
       "timezone": "PT",
-      "vendor": "Tat's Deli"
+      "vendor": "Bonsai Bar"
     },
     {
       "date": "2026-03-15T00:00:00",
@@ -398,6 +409,28 @@
       "vendor": "Sabor Boricua"
     },
     {
+      "date": "2026-03-22T00:00:00",
+      "description": "Original event: Cocina Barelas",
+      "end_time": null,
+      "end_time_raw": null,
+      "location": "Chuck's Hop Shop Greenwood",
+      "start_time": null,
+      "start_time_raw": null,
+      "timezone": "PT",
+      "vendor": "Cocina Barelas"
+    },
+    {
+      "date": "2026-03-22T00:00:00",
+      "description": "Original event: Momo Express",
+      "end_time": null,
+      "end_time_raw": null,
+      "location": "Chuck's Hop Shop Greenwood",
+      "start_time": null,
+      "start_time_raw": null,
+      "timezone": "PT",
+      "vendor": "Momo Express"
+    },
+    {
       "date": "2026-03-15T17:00:00",
       "description": "Cuisine: Italian, Mexican",
       "end_time": "9:00 PM PT",
@@ -462,11 +495,22 @@
       "start_time_raw": "5:00 PM",
       "timezone": "PT",
       "vendor": "Impeckable Chicken"
+    },
+    {
+      "date": "2026-03-22T17:00:00",
+      "description": "Cuisine: American, Cheesesteaks",
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "location": "Saleh's Corner",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "timezone": "PT",
+      "vendor": "Split Open and Melt"
     }
   ],
-  "haiku": "\ud83c\udf38 Spring rain softly falls\u2014\nTacos warm at Yonder's yard,\nCider flows with lime \ud83c\udf7a",
+  "haiku": "\ud83c\udf38 Spring's first warm Sunday\u2014\nGeorgia's Greek meets hoppy pints\nat Chuck's northern home \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 42,
-  "updated": "2026-03-15T07:15:23.315999+00:00"
+  "total_events": 46,
+  "updated": "2026-03-15T08:15:46.190161+00:00"
 }
