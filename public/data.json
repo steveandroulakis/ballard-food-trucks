@@ -10,7 +10,7 @@
       "start_time": "1:00 PM PT",
       "start_time_raw": "1:00 PM",
       "timezone": "PT",
-      "vendor": "Johnson BBQ Smash Burgers & Outsider BBQ"
+      "vendor": "Johnson BBQ Provisions"
     },
     {
       "date": "2026-03-15T00:00:00",
@@ -475,9 +475,9 @@
       "vendor": "Impeckable Chicken"
     }
   ],
-  "haiku": "\ud83c\udf38 March winds carry scents\u2014\nTat's pastrami meets hoppy pours\nat Chuck's welcoming door \ud83c\udf7a",
+  "haiku": "\ud83c\udf38 Spring dumplings steaming\u2014\nMomo Express meets craft brew\nat Urban's warm door \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
   "total_events": 43,
-  "updated": "2026-03-14T23:15:25.312416+00:00"
+  "updated": "2026-03-15T00:15:18.133691+00:00"
 }
