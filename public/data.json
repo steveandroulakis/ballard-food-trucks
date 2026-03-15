@@ -2,17 +2,6 @@
   "errors": [],
   "events": [
     {
-      "date": "2026-03-14T00:00:00",
-      "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "location": "Stoup Brewing - Ballard",
-      "start_time": "1:00 PM PT",
-      "start_time_raw": "1:00 PM",
-      "timezone": "PT",
-      "vendor": "Johnson BBQ Provisions"
-    },
-    {
       "date": "2026-03-15T00:00:00",
       "description": null,
       "end_time": "7:00 PM PT",
@@ -167,7 +156,7 @@
       "vendor": "Georgia\u2019s Greek"
     },
     {
-      "date": "2026-03-14T00:00:00",
+      "date": "2026-03-15T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -475,9 +464,9 @@
       "vendor": "Impeckable Chicken"
     }
   ],
-  "haiku": "\ud83c\udf38 Spring rain softly falls\u2014\nMomo steam meets hoppy warmth\nat Urban's bright door \ud83c\udf7a",
+  "haiku": "\ud83c\udf38 Spring rain softly falls\u2014\nTacos warm at Yonder's yard,\nCider flows with lime \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 43,
-  "updated": "2026-03-15T06:15:18.741905+00:00"
+  "total_events": 42,
+  "updated": "2026-03-15T07:15:23.315999+00:00"
 }
