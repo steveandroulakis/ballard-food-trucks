@@ -164,7 +164,7 @@
       "start_time": "4:00 PM PT",
       "start_time_raw": "4:00 PM",
       "timezone": "PT",
-      "vendor": "Heart in Seoul"
+      "vendor": "Plaza Garcia"
     },
     {
       "date": "2026-03-16T00:00:00",
@@ -475,9 +475,9 @@
       "vendor": "MOMO Express"
     }
   ],
-  "haiku": "\ud83c\udf38 Spring rain softly falls\u2014\nHeart in Seoul's warmth steams at\nObec's welcomed door \ud83c\udf7a",
+  "haiku": "\ud83c\udf38 Spring rain softly falls\u2014\nWhere Ya At Matt serves up warmth\nat Stoup's brewing heart \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
   "total_events": 43,
-  "updated": "2026-03-16T08:15:18.734196+00:00"
+  "updated": "2026-03-16T09:15:18.569352+00:00"
 }
