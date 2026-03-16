@@ -2,17 +2,6 @@
   "errors": [],
   "events": [
     {
-      "date": "2026-03-15T00:00:00",
-      "description": null,
-      "end_time": "7:00 PM PT",
-      "end_time_raw": "7:00 PM",
-      "location": "Stoup Brewing - Ballard",
-      "start_time": "1:00 PM PT",
-      "start_time_raw": "1:00 PM",
-      "timezone": "PT",
-      "vendor": "El Pirata Tortas Y Burritos / Now Make Me A Sandwich"
-    },
-    {
       "date": "2026-03-16T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
@@ -167,7 +156,7 @@
       "vendor": "Tacos &amp; Beer"
     },
     {
-      "date": "2026-03-15T00:00:00",
+      "date": "2026-03-16T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -431,17 +420,6 @@
       "vendor": "Momo Express"
     },
     {
-      "date": "2026-03-15T17:00:00",
-      "description": "Cuisine: Italian, Mexican",
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
-      "location": "Saleh's Corner",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
-      "timezone": "PT",
-      "vendor": "Pizzadillaz"
-    },
-    {
       "date": "2026-03-16T17:00:00",
       "description": "Cuisine: Asian, BBQ, Sandwiches",
       "end_time": "9:00 PM PT",
@@ -508,9 +486,9 @@
       "vendor": "Split Open and Melt"
     }
   ],
-  "haiku": "\ud83c\udf38 Spring warmth awakens\u2014\nHeart in Seoul's kimchi sizzles\nat Obec's bright door \ud83c\udf7a",
+  "haiku": "\ud83c\udf38 Spring rain softly falls\u2014\nMOMO steams at Saleh's corner,\ndumplings warm the heart \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 46,
-  "updated": "2026-03-16T06:15:44.867755+00:00"
+  "total_events": 44,
+  "updated": "2026-03-16T07:15:20.071932+00:00"
 }
