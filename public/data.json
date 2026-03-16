@@ -79,15 +79,15 @@
       "vendor": "Kaosamai Thai"
     },
     {
-      "date": "2026-03-15T13:00:00.461000",
+      "date": "2026-03-23T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
-      "location": "Yonder Cider & Bale Breaker - Ballard",
-      "start_time": "1:00 PM PT",
-      "start_time_raw": "1:00 PM",
+      "location": "Stoup Brewing - Ballard",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
       "timezone": "PT",
-      "vendor": "Tacos &amp; Beer"
+      "vendor": "Russo Pizzarium"
     },
     {
       "date": "2026-03-17T16:00:00.203000",
@@ -165,28 +165,6 @@
       "start_time_raw": "4:00 PM",
       "timezone": "PT",
       "vendor": "Heart in Seoul"
-    },
-    {
-      "date": "2026-03-15T00:00:00",
-      "description": "https://urbanfamilybrewing.com/events/9th-and-hennepin-10/",
-      "end_time": "12:00 PM PT",
-      "end_time_raw": "12:00 PM",
-      "location": "Urban Family Brewing",
-      "start_time": "8:00 AM PT",
-      "start_time_raw": "8:00 AM",
-      "timezone": "PT",
-      "vendor": "9th and Hennepin"
-    },
-    {
-      "date": "2026-03-15T00:00:00",
-      "description": "https://urbanfamilybrewing.com/events/kaosamai-3/",
-      "end_time": "7:00 PM PT",
-      "end_time_raw": "7:00 PM",
-      "location": "Urban Family Brewing",
-      "start_time": "1:00 PM PT",
-      "start_time_raw": "1:00 PM",
-      "timezone": "PT",
-      "vendor": "Kaosamai"
     },
     {
       "date": "2026-03-16T00:00:00",
@@ -277,6 +255,17 @@
       "vendor": "Now Make Me A Sandwich"
     },
     {
+      "date": "2026-03-23T00:00:00",
+      "description": "https://urbanfamilybrewing.com/events/empanadas-el-pachi-6/",
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "location": "Urban Family Brewing",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "timezone": "PT",
+      "vendor": "Empanadas El Pachi"
+    },
+    {
       "date": "2026-03-19T00:00:00",
       "description": null,
       "end_time": "1:00 AM PT",
@@ -308,28 +297,6 @@
       "start_time_raw": "3:00 PM",
       "timezone": "PT",
       "vendor": "Bonsai Bar"
-    },
-    {
-      "date": "2026-03-15T00:00:00",
-      "description": "Original event: Brunch: Good Morning Tacos",
-      "end_time": null,
-      "end_time_raw": null,
-      "location": "Chuck's Hop Shop Greenwood",
-      "start_time": null,
-      "start_time_raw": null,
-      "timezone": "PT",
-      "vendor": "Good Morning Tacos"
-    },
-    {
-      "date": "2026-03-15T00:00:00",
-      "description": "Original event: Dinner: Georgia's Greek",
-      "end_time": null,
-      "end_time_raw": null,
-      "location": "Chuck's Hop Shop Greenwood",
-      "start_time": null,
-      "start_time_raw": null,
-      "timezone": "PT",
-      "vendor": "Georgia's Greek"
     },
     {
       "date": "2026-03-16T00:00:00",
@@ -420,6 +387,17 @@
       "vendor": "Momo Express"
     },
     {
+      "date": "2026-03-23T00:00:00",
+      "description": "Original event: Dinner: Birrieria Pepe El Toro",
+      "end_time": null,
+      "end_time_raw": null,
+      "location": "Chuck's Hop Shop Greenwood",
+      "start_time": null,
+      "start_time_raw": null,
+      "timezone": "PT",
+      "vendor": "Birrieria Pepe El Toro"
+    },
+    {
       "date": "2026-03-16T17:00:00",
       "description": "Cuisine: Asian, BBQ, Sandwiches",
       "end_time": "9:00 PM PT",
@@ -484,11 +462,22 @@
       "start_time_raw": "5:00 PM",
       "timezone": "PT",
       "vendor": "Split Open and Melt"
+    },
+    {
+      "date": "2026-03-23T17:00:00",
+      "description": "Cuisine: Asian, BBQ, Sandwiches",
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "location": "Saleh's Corner",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "timezone": "PT",
+      "vendor": "MOMO Express"
     }
   ],
-  "haiku": "\ud83c\udf38 Spring rain softly falls\u2014\nMOMO steams at Saleh's corner,\ndumplings warm the heart \ud83c\udf7a",
+  "haiku": "\ud83c\udf38 Spring rain softly falls\u2014\nHeart in Seoul's warmth steams at\nObec's welcomed door \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 44,
-  "updated": "2026-03-16T07:15:20.071932+00:00"
+  "total_events": 43,
+  "updated": "2026-03-16T08:15:18.734196+00:00"
 }
