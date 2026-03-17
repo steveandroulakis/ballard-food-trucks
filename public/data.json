@@ -2,17 +2,6 @@
   "errors": [],
   "events": [
     {
-      "date": "2026-03-16T00:00:00",
-      "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "location": "Stoup Brewing - Ballard",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
-      "timezone": "PT",
-      "vendor": "Where Ya At Matt"
-    },
-    {
       "date": "2026-03-17T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
@@ -387,17 +376,6 @@
       "vendor": "Birrieria Pepe El Toro"
     },
     {
-      "date": "2026-03-16T17:00:00",
-      "description": "Cuisine: Asian, BBQ, Sandwiches",
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
-      "location": "Saleh's Corner",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
-      "timezone": "PT",
-      "vendor": "MOMO Express"
-    },
-    {
       "date": "2026-03-17T17:00:00",
       "description": "Cuisine: Burritos, Mexican, Tacos",
       "end_time": "9:00 PM PT",
@@ -464,9 +442,9 @@
       "vendor": "MOMO Express"
     }
   ],
-  "haiku": "\ud83c\udf38 Spring rain softly falls\u2014\nPepe's birria steams at Chuck's,\nHop shop warmth awaits \ud83c\udf7a",
+  "haiku": "\ud83c\udf38 Spring rain softly falls\u2014\nPlaza Garcia's steam rises\nat Saleh's warm door \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 42,
-  "updated": "2026-03-17T06:15:22.086226+00:00"
+  "total_events": 40,
+  "updated": "2026-03-17T07:15:20.614209+00:00"
 }
