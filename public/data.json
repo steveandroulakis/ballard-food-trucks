@@ -1,7 +1,5 @@
 {
-  "errors": [
-    "Failed to fetch information for brewery: Obec Brewing"
-  ],
+  "errors": [],
   "events": [
     {
       "date": "2026-03-19T00:00:00",
@@ -510,9 +508,9 @@
       "vendor": "Fish Basket NW"
     }
   ],
-  "haiku": "\ud83c\udf38 Spring rain softly falls\u2014\nPepe's birria steams at Stoup,\nBroth warms gathering hearts \ud83c\udf7a",
+  "haiku": "\ud83c\udf38 Spring rain softly falls\u2014\nPepe's birria steams at Stoup,\nBroth warms Ballard hearts \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
   "total_events": 46,
-  "updated": "2026-03-19T11:15:39.329288+00:00"
+  "updated": "2026-03-19T12:15:21.222897+00:00"
 }
