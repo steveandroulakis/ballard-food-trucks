@@ -1,7 +1,5 @@
 {
-  "errors": [
-    "Failed to fetch information for brewery: Obec Brewing"
-  ],
+  "errors": [],
   "events": [
     {
       "date": "2026-03-20T00:00:00",
@@ -510,9 +508,9 @@
       "vendor": "Impeckable Chicken"
     }
   ],
-  "haiku": "\ud83c\udf38 Spring air carries smoke\u2014\nImpeckable birds sizzle\nat Saleh's warm corner \ud83c\udf57",
+  "haiku": "\ud83c\udf38 Spring light finds Matt's cart\u2014\nChuck's Hop Shop buzzes with friends,\nFresh hops, warmer days \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
   "total_events": 46,
-  "updated": "2026-03-20T10:16:08.109604+00:00"
+  "updated": "2026-03-20T11:15:24.975381+00:00"
 }
