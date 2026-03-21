@@ -79,15 +79,15 @@
       "vendor": "Off the Rez"
     },
     {
-      "date": "2026-03-20T16:00:00.571000",
+      "date": "2026-03-28T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
-      "location": "Yonder Cider & Bale Breaker - Ballard",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
+      "location": "Stoup Brewing - Ballard",
+      "start_time": "1:00 PM PT",
+      "start_time_raw": "1:00 PM",
       "timezone": "PT",
-      "vendor": "Paparepas"
+      "vendor": "Johnson BBQ Provisions"
     },
     {
       "date": "2026-03-21T13:00:00.425000",
@@ -156,15 +156,15 @@
       "vendor": "Wood Shop BBQ"
     },
     {
-      "date": "2026-03-20T00:00:00",
-      "description": "https://urbanfamilybrewing.com/events/tacos-and-beer-4/",
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "location": "Urban Family Brewing",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
+      "date": "2026-03-28T13:00:00.664000",
+      "description": null,
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "location": "Yonder Cider & Bale Breaker - Ballard",
+      "start_time": "1:00 PM PT",
+      "start_time_raw": "1:00 PM",
       "timezone": "PT",
-      "vendor": "Tacos and Beer"
+      "vendor": "Wich Came First"
     },
     {
       "date": "2026-03-21T00:00:00",
@@ -255,6 +255,17 @@
       "vendor": "Birrieria Pepe El Toro"
     },
     {
+      "date": "2026-03-28T00:00:00",
+      "description": "https://urbanfamilybrewing.com/events/momo-express-7/",
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "location": "Urban Family Brewing",
+      "start_time": "1:00 PM PT",
+      "start_time_raw": "1:00 PM",
+      "timezone": "PT",
+      "vendor": "Momo Express"
+    },
+    {
       "date": "2026-03-21T00:00:00",
       "description": null,
       "end_time": "1:00 AM PT",
@@ -321,15 +332,15 @@
       "vendor": "El Pachi Empanadas"
     },
     {
-      "date": "2026-03-20T00:00:00",
-      "description": "Original event: Dinner: Where ya at Matt",
-      "end_time": null,
-      "end_time_raw": null,
-      "location": "Chuck's Hop Shop Greenwood",
-      "start_time": null,
-      "start_time_raw": null,
+      "date": "2026-03-28T00:00:00",
+      "description": null,
+      "end_time": "1:00 AM PT",
+      "end_time_raw": "1:00 AM",
+      "location": "Wheelie Pop Brewing",
+      "start_time": "12:00 AM PT",
+      "start_time_raw": "12:00 AM",
       "timezone": "PT",
-      "vendor": "Where ya at Matt"
+      "vendor": "Tisket Tasket"
     },
     {
       "date": "2026-03-21T00:00:00",
@@ -420,6 +431,28 @@
       "vendor": "Where ya at Matt"
     },
     {
+      "date": "2026-03-28T00:00:00",
+      "description": "Original event: Tat's Deli",
+      "end_time": null,
+      "end_time_raw": null,
+      "location": "Chuck's Hop Shop Greenwood",
+      "start_time": null,
+      "start_time_raw": null,
+      "timezone": "PT",
+      "vendor": "Tat's Deli"
+    },
+    {
+      "date": "2026-03-28T00:00:00",
+      "description": null,
+      "end_time": "7:30 PM PT",
+      "end_time_raw": "7:30 PM",
+      "location": "Lucky Envelope Brewing",
+      "start_time": "4:30 PM PT",
+      "start_time_raw": "4:30 PM",
+      "timezone": "PT",
+      "vendor": "Sea Dawgs"
+    },
+    {
       "date": "2026-03-22T17:00:00",
       "description": "Cuisine: American, Cheesesteaks",
       "end_time": "9:00 PM PT",
@@ -484,11 +517,22 @@
       "start_time_raw": "5:00 PM",
       "timezone": "PT",
       "vendor": "Impeckable Chicken"
+    },
+    {
+      "date": "2026-03-28T17:00:00",
+      "description": "Cuisine: Gluten-Free, Italian, Pizza",
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "location": "Saleh's Corner",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "timezone": "PT",
+      "vendor": "Oskar's Pizza"
     }
   ],
-  "haiku": "\ud83c\udf38 Spring light warms the yard\u2014\nOskar's crust meets hoppy brew\nat Urban's long bench \ud83c\udf55",
+  "haiku": "\ud83c\udf38 Spring rain softly falls\u2014\nOskar's crust meets Urban's hops,\nBallard's warmth unfolds \ud83c\udf55",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 44,
-  "updated": "2026-03-21T07:15:19.811257+00:00"
+  "total_events": 48,
+  "updated": "2026-03-21T08:15:18.736320+00:00"
 }
