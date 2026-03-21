@@ -2,17 +2,6 @@
   "errors": [],
   "events": [
     {
-      "date": "2026-03-20T00:00:00",
-      "description": null,
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
-      "location": "Stoup Brewing - Ballard",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
-      "timezone": "PT",
-      "vendor": "Georgia's Greek"
-    },
-    {
       "date": "2026-03-21T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
@@ -431,17 +420,6 @@
       "vendor": "Where ya at Matt"
     },
     {
-      "date": "2026-03-20T17:00:00",
-      "description": "Cuisine: Chicken, Sandwiches, Southern",
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
-      "location": "Saleh's Corner",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
-      "timezone": "PT",
-      "vendor": "Impeckable Chicken"
-    },
-    {
       "date": "2026-03-22T17:00:00",
       "description": "Cuisine: American, Cheesesteaks",
       "end_time": "9:00 PM PT",
@@ -508,9 +486,9 @@
       "vendor": "Impeckable Chicken"
     }
   ],
-  "haiku": "\ud83c\udf38 Spring air fills Ballard\u2014\nPaparepas meets cider,\nYonder's tables bloom \ud83c\udf7a",
+  "haiku": "\ud83c\udf38 Spring light warms the yard\u2014\nOskar's crust meets hoppy brew\nat Urban's long bench \ud83c\udf55",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 46,
-  "updated": "2026-03-21T06:15:18.577110+00:00"
+  "total_events": 44,
+  "updated": "2026-03-21T07:15:19.811257+00:00"
 }
