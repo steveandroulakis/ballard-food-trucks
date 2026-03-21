@@ -1,5 +1,7 @@
 {
-  "errors": [],
+  "errors": [
+    "Failed to fetch information for brewery: Obec Brewing"
+  ],
   "events": [
     {
       "date": "2026-03-21T00:00:00",
@@ -530,9 +532,9 @@
       "vendor": "Oskar's Pizza"
     }
   ],
-  "haiku": "\ud83c\udf38 Spring's first warm weekend\u2014\nGeorgia's Greek meets Ballard hops,\nFeta, cider, joy \ud83c\udf7b",
+  "haiku": "\ud83c\udf38 Spring light warms the yard\u2014\nOskar's crust meets Urban brew,\nBallard voices blend \ud83c\udf55",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
   "total_events": 48,
-  "updated": "2026-03-21T15:15:21.618274+00:00"
+  "updated": "2026-03-21T16:16:07.711215+00:00"
 }
