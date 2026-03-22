@@ -2,17 +2,6 @@
   "errors": [],
   "events": [
     {
-      "date": "2026-03-21T00:00:00",
-      "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "location": "Stoup Brewing - Ballard",
-      "start_time": "1:00 PM PT",
-      "start_time_raw": "1:00 PM",
-      "timezone": "PT",
-      "vendor": "Tat's Truck"
-    },
-    {
       "date": "2026-03-22T00:00:00",
       "description": null,
       "end_time": "7:00 PM PT",
@@ -530,9 +519,9 @@
       "vendor": "Oskar's Pizza"
     }
   ],
-  "haiku": "\ud83c\udf38 Spring rain softly falls\u2014\nOskar's wood-fired pies steam warm\nat Urban's bright tap \ud83c\udf55",
+  "haiku": "\ud83c\udf38 Spring rain softly falls\u2014\nSandwich craft meets brewing art\nat Urban's warm heart \ud83e\udd6a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 48,
-  "updated": "2026-03-22T06:16:15.217180+00:00"
+  "total_events": 47,
+  "updated": "2026-03-22T07:15:18.069221+00:00"
 }
