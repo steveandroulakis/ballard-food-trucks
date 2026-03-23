@@ -79,15 +79,15 @@
       "vendor": "El Pirata Tortas Y Burritos / Now Make Me A Sandwich"
     },
     {
-      "date": "2026-03-22T13:00:00.336000",
+      "date": "2026-03-30T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
-      "location": "Yonder Cider & Bale Breaker - Ballard",
-      "start_time": "1:00 PM PT",
-      "start_time_raw": "1:00 PM",
+      "location": "Stoup Brewing - Ballard",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
       "timezone": "PT",
-      "vendor": "Tacos &amp; Beer"
+      "vendor": "Where Ya At Matt"
     },
     {
       "date": "2026-03-24T16:00:00.307000",
@@ -154,28 +154,6 @@
       "start_time_raw": "1:00 PM",
       "timezone": "PT",
       "vendor": "Tacos &amp; Beer"
-    },
-    {
-      "date": "2026-03-22T00:00:00",
-      "description": "https://urbanfamilybrewing.com/events/9th-and-hennepin-11/",
-      "end_time": "12:00 PM PT",
-      "end_time_raw": "12:00 PM",
-      "location": "Urban Family Brewing",
-      "start_time": "8:00 AM PT",
-      "start_time_raw": "8:00 AM",
-      "timezone": "PT",
-      "vendor": "9th and Hennepin"
-    },
-    {
-      "date": "2026-03-22T00:00:00",
-      "description": "https://urbanfamilybrewing.com/events/now-make-me-a-sandwich-5/",
-      "end_time": "7:00 PM PT",
-      "end_time_raw": "7:00 PM",
-      "location": "Urban Family Brewing",
-      "start_time": "1:00 PM PT",
-      "start_time_raw": "1:00 PM",
-      "timezone": "PT",
-      "vendor": "Now Make Me A Sandwich"
     },
     {
       "date": "2026-03-23T00:00:00",
@@ -266,15 +244,15 @@
       "vendor": "Kaosamai"
     },
     {
-      "date": "2026-03-22T00:00:00",
-      "description": null,
-      "end_time": "4:00 PM PT",
-      "end_time_raw": "4:00 PM",
-      "location": "Wheelie Pop Brewing",
-      "start_time": "3:00 PM PT",
-      "start_time_raw": "3:00 PM",
+      "date": "2026-03-30T00:00:00",
+      "description": "https://urbanfamilybrewing.com/events/la-riviera-maya-7/",
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "location": "Urban Family Brewing",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
       "timezone": "PT",
-      "vendor": "Bonsai Bar"
+      "vendor": "La Riviera Maya"
     },
     {
       "date": "2026-03-24T00:00:00",
@@ -330,28 +308,6 @@
       "start_time_raw": "12:00 AM",
       "timezone": "PT",
       "vendor": "Tisket Tasket"
-    },
-    {
-      "date": "2026-03-22T00:00:00",
-      "description": "Original event: Cocina Barelas",
-      "end_time": null,
-      "end_time_raw": null,
-      "location": "Chuck's Hop Shop Greenwood",
-      "start_time": null,
-      "start_time_raw": null,
-      "timezone": "PT",
-      "vendor": "Cocina Barelas"
-    },
-    {
-      "date": "2026-03-22T00:00:00",
-      "description": "Original event: Momo Express",
-      "end_time": null,
-      "end_time_raw": null,
-      "location": "Chuck's Hop Shop Greenwood",
-      "start_time": null,
-      "start_time_raw": null,
-      "timezone": "PT",
-      "vendor": "Momo Express"
     },
     {
       "date": "2026-03-23T00:00:00",
@@ -442,6 +398,17 @@
       "vendor": "Georgia's Greek"
     },
     {
+      "date": "2026-03-30T00:00:00",
+      "description": "Original event: Dinner: Birrieria Pepe El Toro",
+      "end_time": null,
+      "end_time_raw": null,
+      "location": "Chuck's Hop Shop Greenwood",
+      "start_time": null,
+      "start_time_raw": null,
+      "timezone": "PT",
+      "vendor": "Birrieria Pepe El Toro"
+    },
+    {
       "date": "2026-03-28T00:00:00",
       "description": null,
       "end_time": "7:30 PM PT",
@@ -517,11 +484,22 @@
       "start_time_raw": "5:00 PM",
       "timezone": "PT",
       "vendor": "Burgerdom"
+    },
+    {
+      "date": "2026-03-30T17:00:00",
+      "description": "Cuisine: Asian, BBQ, Sandwiches",
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "location": "Saleh's Corner",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "timezone": "PT",
+      "vendor": "MOMO Express"
     }
   ],
-  "haiku": "\ud83c\udf38 Spring rain softly falls\u2014\nEl Pachi's golden pastries\nwarm Urban's cold brew \ud83c\udf7a",
+  "haiku": "\ud83c\udf38 Spring rain softly falls\u2014\nRusso's pizza meets craft beer\nat Stoup's warm tables \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 47,
-  "updated": "2026-03-23T07:15:21.185520+00:00"
+  "total_events": 45,
+  "updated": "2026-03-23T08:15:19.945436+00:00"
 }
