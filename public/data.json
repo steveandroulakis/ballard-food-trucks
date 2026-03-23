@@ -2,17 +2,6 @@
   "errors": [],
   "events": [
     {
-      "date": "2026-03-22T00:00:00",
-      "description": null,
-      "end_time": "7:00 PM PT",
-      "end_time_raw": "7:00 PM",
-      "location": "Stoup Brewing - Ballard",
-      "start_time": "1:00 PM PT",
-      "start_time_raw": "1:00 PM",
-      "timezone": "PT",
-      "vendor": "Kaosamai Thai"
-    },
-    {
       "date": "2026-03-23T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
@@ -464,17 +453,6 @@
       "vendor": "Sea Dawgs"
     },
     {
-      "date": "2026-03-22T17:00:00",
-      "description": "Cuisine: American, Cheesesteaks",
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
-      "location": "Saleh's Corner",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
-      "timezone": "PT",
-      "vendor": "Split Open and Melt"
-    },
-    {
       "date": "2026-03-23T17:00:00",
       "description": "Cuisine: Asian, BBQ, Sandwiches",
       "end_time": "9:00 PM PT",
@@ -541,9 +519,9 @@
       "vendor": "Burgerdom"
     }
   ],
-  "haiku": "\ud83c\udf38 Spring rain softly falls\u2014\nMomo steam at Chuck's warm door,\nHops and dumplings shared \ud83c\udf7a",
+  "haiku": "\ud83c\udf38 Spring rain softly falls\u2014\nEl Pachi's golden pastries\nwarm Urban's cold brew \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 49,
-  "updated": "2026-03-23T06:15:18.609908+00:00"
+  "total_events": 47,
+  "updated": "2026-03-23T07:15:21.185520+00:00"
 }
