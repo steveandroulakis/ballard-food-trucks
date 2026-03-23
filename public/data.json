@@ -296,18 +296,18 @@
       "start_time": "7:00 PM PT",
       "start_time_raw": "7:00 PM",
       "timezone": "PT",
-      "vendor": "Shuffle Dating"
+      "vendor": "Speed Puzzling"
     },
     {
-      "date": "2026-03-24T00:00:00",
+      "date": "2026-03-25T00:00:00",
       "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
+      "end_time": null,
+      "end_time_raw": null,
       "location": "Wheelie Pop Brewing",
-      "start_time": "7:00 PM PT",
-      "start_time_raw": "7:00 PM",
+      "start_time": null,
+      "start_time_raw": null,
       "timezone": "PT",
-      "vendor": "Speed Puzzling"
+      "vendor": "Paint & Sip - 6 PM"
     },
     {
       "date": "2026-03-26T00:00:00",
@@ -530,17 +530,6 @@
       "vendor": "Impeckable Chicken"
     },
     {
-      "date": "2026-03-28T17:00:00",
-      "description": "Cuisine: Gluten-Free, Italian, Pizza",
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
-      "location": "Saleh's Corner",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
-      "timezone": "PT",
-      "vendor": "Oskar's Pizza"
-    },
-    {
       "date": "2026-03-29T17:00:00",
       "description": "Cuisine: Hamburgers, Sandwiches",
       "end_time": "9:00 PM PT",
@@ -552,9 +541,9 @@
       "vendor": "Burgerdom"
     }
   ],
-  "haiku": "\ud83c\udf38 Spring warmth splits the air\u2014\nMelted cheese at Saleh's yard,\nSunday crowds gather \ud83c\udf7a",
+  "haiku": "\ud83c\udf38 Spring warmth splits the day\u2014\nMelted cheese at Saleh's fold,\nCorner crowds gather \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 50,
-  "updated": "2026-03-23T00:15:19.038158+00:00"
+  "total_events": 49,
+  "updated": "2026-03-23T01:15:19.101317+00:00"
 }
