@@ -2,17 +2,6 @@
   "errors": [],
   "events": [
     {
-      "date": "2026-03-23T00:00:00",
-      "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "location": "Stoup Brewing - Ballard",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
-      "timezone": "PT",
-      "vendor": "Russo Pizzarium"
-    },
-    {
       "date": "2026-03-24T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
@@ -420,28 +409,6 @@
       "vendor": "Sea Dawgs"
     },
     {
-      "date": "2026-03-23T17:00:00",
-      "description": "Cuisine: Asian, BBQ, Sandwiches",
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
-      "location": "Saleh's Corner",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
-      "timezone": "PT",
-      "vendor": "MOMO Express"
-    },
-    {
-      "date": "2026-03-24T17:00:00",
-      "description": "Cuisine: Burritos, Mexican, Tacos",
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
-      "location": "Saleh's Corner",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
-      "timezone": "PT",
-      "vendor": "Plaza Garcia Express"
-    },
-    {
       "date": "2026-03-25T17:00:00",
       "description": "Cuisine: Greek, Gyro, Halal",
       "end_time": "9:00 PM PT",
@@ -497,9 +464,9 @@
       "vendor": "MOMO Express"
     }
   ],
-  "haiku": "\ud83c\udf38 Spring rain softly falls\u2014\nEl Pachi's golden pastries\nwarm Urban's cold brew \ud83c\udf7a",
+  "haiku": "\ud83c\udf38 Spring rain softly falls\u2014\nTacos steam at Stoup's bright door,\nBeer and warmth unite \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 45,
-  "updated": "2026-03-24T06:15:28.783229+00:00"
+  "total_events": 42,
+  "updated": "2026-03-24T07:15:20.514057+00:00"
 }
