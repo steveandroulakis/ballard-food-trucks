@@ -2,17 +2,6 @@
   "errors": [],
   "events": [
     {
-      "date": "2026-03-24T00:00:00",
-      "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "location": "Stoup Brewing - Ballard",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
-      "timezone": "PT",
-      "vendor": "Tacos & Beer"
-    },
-    {
       "date": "2026-03-25T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
@@ -497,9 +486,9 @@
       "vendor": "Plaza Garcia Express"
     }
   ],
-  "haiku": "\ud83c\udf38 Spring rain softly falls\u2014\nBurgerDOM sizzles at Urban,\nHops and patties meet \ud83c\udf7a",
+  "haiku": "\ud83c\udf38 Spring rain softly falls\u2014\nMarigold's flames dance at Stoup,\nWood smoke meets fresh hops \ud83c\udf55",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 45,
-  "updated": "2026-03-25T06:15:18.261158+00:00"
+  "total_events": 44,
+  "updated": "2026-03-25T07:15:27.562034+00:00"
 }
