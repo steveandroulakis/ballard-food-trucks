@@ -311,102 +311,102 @@
     },
     {
       "date": "2026-03-25T00:00:00",
-      "description": "Original event: Dinner: Oskar's Pizza",
+      "description": "Original event: #VALUE!",
       "end_time": null,
       "end_time_raw": null,
       "location": "Chuck's Hop Shop Greenwood",
       "start_time": null,
       "start_time_raw": null,
       "timezone": "PT",
-      "vendor": "Oskar's Pizza"
+      "vendor": "#VALUE!"
     },
     {
       "date": "2026-03-26T00:00:00",
-      "description": "Original event: Dinner: Impeckable Chicken",
+      "description": "Original event: #VALUE!",
       "end_time": null,
       "end_time_raw": null,
       "location": "Chuck's Hop Shop Greenwood",
       "start_time": null,
       "start_time_raw": null,
       "timezone": "PT",
-      "vendor": "Impeckable Chicken"
+      "vendor": "#VALUE!"
     },
     {
       "date": "2026-03-27T00:00:00",
-      "description": "Original event: Dinner: Where ya at Matt",
+      "description": "Original event: #VALUE!",
       "end_time": null,
       "end_time_raw": null,
       "location": "Chuck's Hop Shop Greenwood",
       "start_time": null,
       "start_time_raw": null,
       "timezone": "PT",
-      "vendor": "Where ya at Matt"
+      "vendor": "#VALUE!"
     },
     {
       "date": "2026-03-28T00:00:00",
-      "description": "Original event: Tat's Deli",
+      "description": "Original event: #VALUE!",
       "end_time": null,
       "end_time_raw": null,
       "location": "Chuck's Hop Shop Greenwood",
       "start_time": null,
       "start_time_raw": null,
       "timezone": "PT",
-      "vendor": "Tat's Deli"
+      "vendor": "#VALUE!"
     },
     {
       "date": "2026-03-29T00:00:00",
-      "description": "Original event: Brunch: Good Morning Tacos",
+      "description": "Original event: #VALUE!",
       "end_time": null,
       "end_time_raw": null,
       "location": "Chuck's Hop Shop Greenwood",
       "start_time": null,
       "start_time_raw": null,
       "timezone": "PT",
-      "vendor": "Good Morning Tacos"
+      "vendor": "#VALUE!"
     },
     {
       "date": "2026-03-29T00:00:00",
-      "description": "Original event: Dinner: Georgia's Greek",
+      "description": "Original event: #VALUE!",
       "end_time": null,
       "end_time_raw": null,
       "location": "Chuck's Hop Shop Greenwood",
       "start_time": null,
       "start_time_raw": null,
       "timezone": "PT",
-      "vendor": "Georgia's Greek"
+      "vendor": "#VALUE!"
     },
     {
       "date": "2026-03-30T00:00:00",
-      "description": "Original event: Dinner: Birrieria Pepe El Toro",
+      "description": "Original event: #VALUE!",
       "end_time": null,
       "end_time_raw": null,
       "location": "Chuck's Hop Shop Greenwood",
       "start_time": null,
       "start_time_raw": null,
       "timezone": "PT",
-      "vendor": "Birrieria Pepe El Toro"
+      "vendor": "#VALUE!"
     },
     {
       "date": "2026-03-31T00:00:00",
-      "description": "Original event: Dinner: Woodshop BBQ",
+      "description": "Original event: #VALUE!",
       "end_time": null,
       "end_time_raw": null,
       "location": "Chuck's Hop Shop Greenwood",
       "start_time": null,
       "start_time_raw": null,
       "timezone": "PT",
-      "vendor": "Woodshop BBQ"
+      "vendor": "#VALUE!"
     },
     {
       "date": "2026-04-01T00:00:00",
-      "description": "Original event: Dinner: Chick'n Fix",
+      "description": "Original event: #VALUE!",
       "end_time": null,
       "end_time_raw": null,
       "location": "Chuck's Hop Shop Greenwood",
       "start_time": null,
       "start_time_raw": null,
       "timezone": "PT",
-      "vendor": "Chick'n Fix"
+      "vendor": "#VALUE!"
     },
     {
       "date": "2026-03-28T00:00:00",
@@ -497,9 +497,9 @@
       "vendor": "Theo's Gyros"
     }
   ],
-  "haiku": "\ud83c\udf38 Spring rain softly falls\u2014\nMarigold's wood fire crackles\nat Stoup's warm embrace \ud83c\udf55",
+  "haiku": "\ud83c\udf38 Spring rain softly falls\u2014\nError messages can't mask\nChuck's hopeful brewing \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
   "total_events": 45,
-  "updated": "2026-03-25T13:16:05.022119+00:00"
+  "updated": "2026-03-25T14:15:42.552449+00:00"
 }
