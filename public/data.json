@@ -21,7 +21,7 @@
       "start_time": "5:00 PM PT",
       "start_time_raw": "5:00 PM",
       "timezone": "PT",
-      "vendor": "La Costenita"
+      "vendor": "Kottu Seattle"
     },
     {
       "date": "2026-03-27T00:00:00",
@@ -76,7 +76,7 @@
       "start_time": "5:00 PM PT",
       "start_time_raw": "5:00 PM",
       "timezone": "PT",
-      "vendor": "Split Open & Melt Cheesesteaks"
+      "vendor": "Impeccable Chicken"
     },
     {
       "date": "2026-04-01T00:00:00",
@@ -497,9 +497,9 @@
       "vendor": "Theo's Gyros"
     }
   ],
-  "haiku": "\ud83c\udf38 Spring rain gently falls\u2014\nTheo's lamb turns at Saleh's,\nwarm pita and brew \ud83c\udf7a",
+  "haiku": "\ud83c\udf38 Spring rain softly falls\u2014\nTheo's lamb spins at Saleh's,\nwarm pita and beer \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
   "total_events": 45,
-  "updated": "2026-03-25T23:15:28.873143+00:00"
+  "updated": "2026-03-26T00:15:17.782434+00:00"
 }
