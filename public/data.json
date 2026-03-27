@@ -79,15 +79,15 @@
       "vendor": "Birrieria Pepe El Toro"
     },
     {
-      "date": "2026-03-26T16:00:00.127000",
+      "date": "2026-04-03T00:00:00",
       "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "location": "Yonder Cider & Bale Breaker - Ballard",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "location": "Stoup Brewing - Ballard",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
       "timezone": "PT",
-      "vendor": "Impeckable Chicken"
+      "vendor": "Georgia's Greek"
     },
     {
       "date": "2026-03-27T16:00:00.975000",
@@ -156,15 +156,15 @@
       "vendor": "Impeckable Chicken"
     },
     {
-      "date": "2026-03-26T00:00:00",
-      "description": "https://urbanfamilybrewing.com/events/burger-planet-7/",
+      "date": "2026-04-03T16:00:00.571000",
+      "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
-      "location": "Urban Family Brewing",
+      "location": "Yonder Cider & Bale Breaker - Ballard",
       "start_time": "4:00 PM PT",
       "start_time_raw": "4:00 PM",
       "timezone": "PT",
-      "vendor": "Burger Planet"
+      "vendor": "Paparepas"
     },
     {
       "date": "2026-03-27T00:00:00",
@@ -255,15 +255,15 @@
       "vendor": "Alebrijes"
     },
     {
-      "date": "2026-03-26T00:00:00",
-      "description": null,
-      "end_time": "1:00 AM PT",
-      "end_time_raw": "1:00 AM",
-      "location": "Wheelie Pop Brewing",
-      "start_time": "12:00 AM PT",
-      "start_time_raw": "12:00 AM",
+      "date": "2026-04-03T00:00:00",
+      "description": "https://urbanfamilybrewing.com/events/tacos-and-beer-5/",
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "location": "Urban Family Brewing",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
       "timezone": "PT",
-      "vendor": "Heart in Seoul"
+      "vendor": "Tacos and Beer"
     },
     {
       "date": "2026-03-27T00:00:00",
@@ -286,17 +286,6 @@
       "start_time_raw": "12:00 AM",
       "timezone": "PT",
       "vendor": "Tisket Tasket"
-    },
-    {
-      "date": "2026-03-26T00:00:00",
-      "description": "Original event: Dinner: Impeckable Chicken",
-      "end_time": null,
-      "end_time_raw": null,
-      "location": "Chuck's Hop Shop Greenwood",
-      "start_time": null,
-      "start_time_raw": null,
-      "timezone": "PT",
-      "vendor": "Impeckable Chicken"
     },
     {
       "date": "2026-03-27T00:00:00",
@@ -387,6 +376,17 @@
       "vendor": "Pizza Paseano"
     },
     {
+      "date": "2026-04-03T00:00:00",
+      "description": "Original event: Dinner: T'Juana",
+      "end_time": null,
+      "end_time_raw": null,
+      "location": "Chuck's Hop Shop Greenwood",
+      "start_time": null,
+      "start_time_raw": null,
+      "timezone": "PT",
+      "vendor": "T'Juana"
+    },
+    {
       "date": "2026-03-28T00:00:00",
       "description": null,
       "end_time": "7:30 PM PT",
@@ -462,11 +462,22 @@
       "start_time_raw": "5:00 PM",
       "timezone": "PT",
       "vendor": "Oskar's Pizza"
+    },
+    {
+      "date": "2026-04-03T17:00:00",
+      "description": "Cuisine: Chicken, Sandwiches, Southern",
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "location": "Saleh's Corner",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "timezone": "PT",
+      "vendor": "Impeckable Chicken"
     }
   ],
-  "haiku": "\ud83c\udf38 Spring rain gently falls\u2014\nImpeckable birds sizzle\nat Saleh's warm hearth \ud83c\udf7a",
+  "haiku": "\ud83c\udf38 Spring rain softly falls\u2014\nPepe's birria steams at\nUrban Family's hearth \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 42,
-  "updated": "2026-03-27T07:15:20.709794+00:00"
+  "total_events": 43,
+  "updated": "2026-03-27T08:15:19.106406+00:00"
 }
