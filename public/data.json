@@ -333,14 +333,14 @@
     },
     {
       "date": "2026-04-01T00:00:00",
-      "description": "Original event: Dinner: Chick'n Fix",
+      "description": "Original event: Dinner: Kaosamai Thai",
       "end_time": null,
       "end_time_raw": null,
       "location": "Chuck's Hop Shop Greenwood",
       "start_time": null,
       "start_time_raw": null,
       "timezone": "PT",
-      "vendor": "Chick'n Fix"
+      "vendor": "Kaosamai Thai"
     },
     {
       "date": "2026-04-02T00:00:00",
@@ -464,9 +464,9 @@
       "vendor": "Wiseguys Italian Street Food"
     }
   ],
-  "haiku": "\ud83c\udf38 Spring rain softly falls\u2014\nMomo steam meets hoppy warmth\nat Urban's bright door \ud83c\udf7a",
+  "haiku": "\ud83c\udf38 Spring rain softly falls\u2014\nTat's sandwiches at Chuck's door,\nHops and hearth unite \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
   "total_events": 42,
-  "updated": "2026-03-28T18:15:18.308701+00:00"
+  "updated": "2026-03-28T19:15:18.942954+00:00"
 }
