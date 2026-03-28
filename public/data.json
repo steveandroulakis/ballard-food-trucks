@@ -79,15 +79,15 @@
       "vendor": "Georgia's Greek"
     },
     {
-      "date": "2026-03-27T16:00:00.975000",
+      "date": "2026-04-04T00:00:00",
       "description": null,
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
-      "location": "Yonder Cider & Bale Breaker - Ballard",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "location": "Stoup Brewing - Ballard",
+      "start_time": "1:00 PM PT",
+      "start_time_raw": "1:00 PM",
       "timezone": "PT",
-      "vendor": "Wood Shop BBQ"
+      "vendor": "Tat's Truck"
     },
     {
       "date": "2026-03-28T13:00:00.664000",
@@ -156,15 +156,15 @@
       "vendor": "Paparepas"
     },
     {
-      "date": "2026-03-27T00:00:00",
-      "description": "https://urbanfamilybrewing.com/events/birrieria-pepe-el-toro-6/",
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "location": "Urban Family Brewing",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
+      "date": "2026-04-04T13:00:00.397000",
+      "description": null,
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "location": "Yonder Cider & Bale Breaker - Ballard",
+      "start_time": "1:00 PM PT",
+      "start_time_raw": "1:00 PM",
       "timezone": "PT",
-      "vendor": "Birrieria Pepe El Toro"
+      "vendor": "Project Pizza"
     },
     {
       "date": "2026-03-28T00:00:00",
@@ -255,15 +255,15 @@
       "vendor": "Tacos and Beer"
     },
     {
-      "date": "2026-03-27T00:00:00",
-      "description": null,
-      "end_time": "1:00 AM PT",
-      "end_time_raw": "1:00 AM",
-      "location": "Wheelie Pop Brewing",
-      "start_time": "12:00 AM PT",
-      "start_time_raw": "12:00 AM",
+      "date": "2026-04-04T00:00:00",
+      "description": "https://urbanfamilybrewing.com/events/oskars-pizza-7/",
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "location": "Urban Family Brewing",
+      "start_time": "1:00 PM PT",
+      "start_time_raw": "1:00 PM",
       "timezone": "PT",
-      "vendor": "El Pachi Empanadas"
+      "vendor": "Oskar's Pizza"
     },
     {
       "date": "2026-03-28T00:00:00",
@@ -275,17 +275,6 @@
       "start_time_raw": "12:00 AM",
       "timezone": "PT",
       "vendor": "Tisket Tasket"
-    },
-    {
-      "date": "2026-03-27T00:00:00",
-      "description": "Original event: Dinner: Where ya at Matt",
-      "end_time": null,
-      "end_time_raw": null,
-      "location": "Chuck's Hop Shop Greenwood",
-      "start_time": null,
-      "start_time_raw": null,
-      "timezone": "PT",
-      "vendor": "Where ya at Matt"
     },
     {
       "date": "2026-03-28T00:00:00",
@@ -376,6 +365,17 @@
       "vendor": "T'Juana"
     },
     {
+      "date": "2026-04-04T00:00:00",
+      "description": "Original event: Dinner: Sabor Boricua",
+      "end_time": null,
+      "end_time_raw": null,
+      "location": "Chuck's Hop Shop Greenwood",
+      "start_time": null,
+      "start_time_raw": null,
+      "timezone": "PT",
+      "vendor": "Sabor Boricua"
+    },
+    {
       "date": "2026-03-28T00:00:00",
       "description": null,
       "end_time": "7:30 PM PT",
@@ -385,6 +385,17 @@
       "start_time_raw": "4:30 PM",
       "timezone": "PT",
       "vendor": "Sea Dawgs"
+    },
+    {
+      "date": "2026-04-04T00:00:00",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "location": "Lucky Envelope Brewing",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "timezone": "PT",
+      "vendor": "El Koreano"
     },
     {
       "date": "2026-03-30T17:00:00",
@@ -440,11 +451,22 @@
       "start_time_raw": "5:00 PM",
       "timezone": "PT",
       "vendor": "Impeckable Chicken"
+    },
+    {
+      "date": "2026-04-04T17:00:00",
+      "description": "Cuisine: Italian, Sandwiches",
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "location": "Saleh's Corner",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "timezone": "PT",
+      "vendor": "Wiseguys Italian Street Food"
     }
   ],
-  "haiku": "\ud83c\udf38 Spring cherry blossoms\u2014\nTat's pastrami meets craft hops\nat Chuck's gathering \ud83c\udf7a",
+  "haiku": "\ud83c\udf38 Spring light warms the block\u2014\nTat's sandwiches paired with hops\nat Chuck's gathering \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 40,
-  "updated": "2026-03-28T07:15:19.033639+00:00"
+  "total_events": 42,
+  "updated": "2026-03-28T08:15:30.152368+00:00"
 }
