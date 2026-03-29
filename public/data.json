@@ -79,15 +79,15 @@
       "vendor": "Tat's Truck"
     },
     {
-      "date": "2026-03-28T13:00:00.664000",
+      "date": "2026-04-05T00:00:00",
       "description": null,
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
-      "location": "Yonder Cider & Bale Breaker - Ballard",
+      "end_time": "7:00 PM PT",
+      "end_time_raw": "7:00 PM",
+      "location": "Stoup Brewing - Ballard",
       "start_time": "1:00 PM PT",
       "start_time_raw": "1:00 PM",
       "timezone": "PT",
-      "vendor": "Wich Came First"
+      "vendor": "Kaosamai Thai"
     },
     {
       "date": "2026-03-29T13:00:00.474000",
@@ -156,15 +156,15 @@
       "vendor": "Project Pizza"
     },
     {
-      "date": "2026-03-28T00:00:00",
-      "description": "https://urbanfamilybrewing.com/events/momo-express-7/",
+      "date": "2026-04-05T13:00:00.336000",
+      "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
-      "location": "Urban Family Brewing",
+      "location": "Yonder Cider & Bale Breaker - Ballard",
       "start_time": "1:00 PM PT",
       "start_time_raw": "1:00 PM",
       "timezone": "PT",
-      "vendor": "Momo Express"
+      "vendor": "Tacos &amp; Beer"
     },
     {
       "date": "2026-03-29T00:00:00",
@@ -255,26 +255,26 @@
       "vendor": "Oskar's Pizza"
     },
     {
-      "date": "2026-03-28T00:00:00",
-      "description": null,
-      "end_time": "1:00 AM PT",
-      "end_time_raw": "1:00 AM",
-      "location": "Wheelie Pop Brewing",
-      "start_time": "12:00 AM PT",
-      "start_time_raw": "12:00 AM",
+      "date": "2026-04-05T00:00:00",
+      "description": "https://urbanfamilybrewing.com/events/9th-and-hennepin-13/",
+      "end_time": "12:00 PM PT",
+      "end_time_raw": "12:00 PM",
+      "location": "Urban Family Brewing",
+      "start_time": "8:00 AM PT",
+      "start_time_raw": "8:00 AM",
       "timezone": "PT",
-      "vendor": "Tisket Tasket"
+      "vendor": "9th and Hennepin"
     },
     {
-      "date": "2026-03-28T00:00:00",
-      "description": "Original event: Tat's Deli",
-      "end_time": null,
-      "end_time_raw": null,
-      "location": "Chuck's Hop Shop Greenwood",
-      "start_time": null,
-      "start_time_raw": null,
+      "date": "2026-04-05T00:00:00",
+      "description": "https://urbanfamilybrewing.com/events/now-make-me-a-sandwich-6/",
+      "end_time": "7:00 PM PT",
+      "end_time_raw": "7:00 PM",
+      "location": "Urban Family Brewing",
+      "start_time": "1:00 PM PT",
+      "start_time_raw": "1:00 PM",
       "timezone": "PT",
-      "vendor": "Tat's Deli"
+      "vendor": "Now Make Me A Sandwich"
     },
     {
       "date": "2026-03-29T00:00:00",
@@ -365,15 +365,26 @@
       "vendor": "Sabor Boricua"
     },
     {
-      "date": "2026-03-28T00:00:00",
-      "description": null,
-      "end_time": "7:30 PM PT",
-      "end_time_raw": "7:30 PM",
-      "location": "Lucky Envelope Brewing",
-      "start_time": "4:30 PM PT",
-      "start_time_raw": "4:30 PM",
+      "date": "2026-04-05T00:00:00",
+      "description": "Original event: Brunch: Cocina Barelas",
+      "end_time": null,
+      "end_time_raw": null,
+      "location": "Chuck's Hop Shop Greenwood",
+      "start_time": null,
+      "start_time_raw": null,
       "timezone": "PT",
-      "vendor": "Sea Dawgs"
+      "vendor": "Cocina Barelas"
+    },
+    {
+      "date": "2026-04-05T00:00:00",
+      "description": "Original event: Momo Express",
+      "end_time": null,
+      "end_time_raw": null,
+      "location": "Chuck's Hop Shop Greenwood",
+      "start_time": null,
+      "start_time_raw": null,
+      "timezone": "PT",
+      "vendor": "Momo Express"
     },
     {
       "date": "2026-04-04T00:00:00",
@@ -451,11 +462,22 @@
       "start_time_raw": "5:00 PM",
       "timezone": "PT",
       "vendor": "Wiseguys Italian Street Food"
+    },
+    {
+      "date": "2026-04-05T17:00:00",
+      "description": "Cuisine: Asian, Thai, Vegetarian",
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "location": "Saleh's Corner",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "timezone": "PT",
+      "vendor": "Pumpkin Thai"
     }
   ],
-  "haiku": "\u2744\ufe0f El Pirata's warmth\u2014\nsoft flakes dust Stoup's open door,\ntortas, cold hands, beer \ud83c\udf7a",
+  "haiku": "\u2744\ufe0f Kaosamai's steam\ncurls through snow at Urban Family\u2014\ncold hands, warm pint glass \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 41,
-  "updated": "2026-03-29T07:15:24.373289+00:00"
+  "total_events": 43,
+  "updated": "2026-03-29T08:15:23.932179+00:00"
 }
