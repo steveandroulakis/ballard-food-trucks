@@ -432,14 +432,14 @@
     },
     {
       "date": "2026-04-02T17:00:00",
-      "description": "Cuisine: Gluten-Free, Italian, Pizza",
+      "description": "Cuisine: Seafood",
       "end_time": "9:00 PM PT",
       "end_time_raw": "9:00 PM",
       "location": "Saleh's Corner",
       "start_time": "5:00 PM PT",
       "start_time_raw": "5:00 PM",
       "timezone": "PT",
-      "vendor": "Oskar's Pizza"
+      "vendor": "Fish Basket NW"
     },
     {
       "date": "2026-04-03T17:00:00",
@@ -475,9 +475,9 @@
       "vendor": "Pumpkin Thai"
     }
   ],
-  "haiku": "\ud83c\udf2c\ufe0f Kaosamai's broth\nsteams against the pressing air\u2014\nUrban Family pints \ud83c\udf7a",
+  "haiku": "\ud83c\udf5c Kaosamai's steam\ncurls as breezy skies threaten\u2014\nUrban Family pints \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
   "total_events": 43,
-  "updated": "2026-03-29T18:15:24.199003+00:00"
+  "updated": "2026-03-29T19:15:34.806184+00:00"
 }
