@@ -1,7 +1,5 @@
 {
-  "errors": [
-    "Failed to fetch information for brewery: Obec Brewing"
-  ],
+  "errors": [],
   "events": [
     {
       "date": "2026-03-30T00:00:00",
@@ -400,9 +398,9 @@
       "vendor": "MOMO Express"
     }
   ],
-  "haiku": "\ud83c\udf7a Where Ya At Matt's spice\nlifts on the bright, cool breeze\u2014\nStoup pints, clear skies hold \ud83c\udf24\ufe0f",
+  "haiku": "\ud83c\udf2e Birrieria Pepe El Toro's steam\nrises into the cool gray breeze\u2014\nChuck's pints, gather close \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
   "total_events": 36,
-  "updated": "2026-03-30T13:16:16.868033+00:00"
+  "updated": "2026-03-30T14:15:25.316916+00:00"
 }
