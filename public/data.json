@@ -1,5 +1,7 @@
 {
-  "errors": [],
+  "errors": [
+    "Failed to fetch information for brewery: Obec Brewing"
+  ],
   "events": [
     {
       "date": "2026-03-30T00:00:00",
@@ -398,9 +400,9 @@
       "vendor": "MOMO Express"
     }
   ],
-  "haiku": "\ud83e\udd5f MOMO Express steams\u2014\nSaleh's Corner, cold wind hums,\ndumplings warm the hands \ud83c\udf7a",
+  "haiku": "\ud83c\udf7a Where Ya At Matt's spice\nlifts on the bright, cool breeze\u2014\nStoup pints, clear skies hold \ud83c\udf24\ufe0f",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
   "total_events": 36,
-  "updated": "2026-03-30T12:15:25.974330+00:00"
+  "updated": "2026-03-30T13:16:16.868033+00:00"
 }
