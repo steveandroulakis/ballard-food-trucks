@@ -1,7 +1,5 @@
 {
-  "errors": [
-    "Failed to fetch information for brewery: Obec Brewing"
-  ],
+  "errors": [],
   "events": [
     {
       "date": "2026-03-30T00:00:00",
@@ -202,6 +200,50 @@
       "vendor": "Empanadas El Pachi"
     },
     {
+      "date": "2026-03-31T00:00:00",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "location": "Channel Marker Cider",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "timezone": "PT",
+      "vendor": "Where Ya At, Matt?"
+    },
+    {
+      "date": "2026-04-01T00:00:00",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "location": "Channel Marker Cider",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "timezone": "PT",
+      "vendor": "La Rivera Maya"
+    },
+    {
+      "date": "2026-04-02T00:00:00",
+      "description": null,
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "location": "Channel Marker Cider",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "timezone": "PT",
+      "vendor": "La Costenita"
+    },
+    {
+      "date": "2026-04-03T00:00:00",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "location": "Channel Marker Cider",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "timezone": "PT",
+      "vendor": "Now Make Me A Sandwich"
+    },
+    {
       "date": "2026-03-30T00:00:00",
       "description": "Original event: Dinner: Birrieria Pepe El Toro",
       "end_time": null,
@@ -400,9 +442,9 @@
       "vendor": "MOMO Express"
     }
   ],
-  "haiku": "\ud83c\udf19 MOMO Express steams\u2014\nSaleh's Corner, clear cold air,\nbreezy pints, hands cupped \ud83c\udf7a",
+  "haiku": "\ud83e\udd5f MOMO Express steams\u2014\nSaleh's Corner fills with laughter,\nclear night, cold wind hums \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 36,
-  "updated": "2026-03-31T02:16:13.967655+00:00"
+  "total_events": 40,
+  "updated": "2026-03-31T02:53:11.277330+00:00"
 }
