@@ -79,6 +79,17 @@
       "vendor": "Russo Pizzarium"
     },
     {
+      "date": "2026-04-07T00:00:00",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "location": "Stoup Brewing - Ballard",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "timezone": "PT",
+      "vendor": "Tacos & Beer"
+    },
+    {
       "date": "2026-03-31T16:00:00.203000",
       "description": null,
       "end_time": "8:00 PM PT",
@@ -88,17 +99,6 @@
       "start_time_raw": "4:00 PM",
       "timezone": "PT",
       "vendor": "Birrieria Pepe El Toro"
-    },
-    {
-      "date": "2026-03-30T00:00:00",
-      "description": "https://urbanfamilybrewing.com/events/la-riviera-maya-7/",
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "location": "Urban Family Brewing",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
-      "timezone": "PT",
-      "vendor": "La Riviera Maya"
     },
     {
       "date": "2026-03-31T00:00:00",
@@ -189,6 +189,17 @@
       "vendor": "Empanadas El Pachi"
     },
     {
+      "date": "2026-04-07T00:00:00",
+      "description": "https://urbanfamilybrewing.com/events/burgerdom-6/",
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "location": "Urban Family Brewing",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "timezone": "PT",
+      "vendor": "BurgerDOM"
+    },
+    {
       "date": "2026-03-31T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
@@ -231,17 +242,6 @@
       "start_time_raw": "5:00 PM",
       "timezone": "PT",
       "vendor": "Now Make Me A Sandwich"
-    },
-    {
-      "date": "2026-03-30T00:00:00",
-      "description": "Original event: Dinner: Birrieria Pepe El Toro",
-      "end_time": null,
-      "end_time_raw": null,
-      "location": "Chuck's Hop Shop Greenwood",
-      "start_time": null,
-      "start_time_raw": null,
-      "timezone": "PT",
-      "vendor": "Birrieria Pepe El Toro"
     },
     {
       "date": "2026-03-31T00:00:00",
@@ -332,6 +332,17 @@
       "vendor": "Off the Rez"
     },
     {
+      "date": "2026-04-07T00:00:00",
+      "description": "Original event: Dinner: Kaosomai Thai",
+      "end_time": null,
+      "end_time_raw": null,
+      "location": "Chuck's Hop Shop Greenwood",
+      "start_time": null,
+      "start_time_raw": null,
+      "timezone": "PT",
+      "vendor": "Kaosomai Thai"
+    },
+    {
       "date": "2026-04-04T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
@@ -418,11 +429,22 @@
       "start_time_raw": "5:00 PM",
       "timezone": "PT",
       "vendor": "MOMO Express"
+    },
+    {
+      "date": "2026-04-07T17:00:00",
+      "description": "Cuisine: Burritos, Mexican, Tacos",
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "location": "Saleh's Corner",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "timezone": "PT",
+      "vendor": "Plaza Garcia Express"
     }
   ],
-  "haiku": "\ud83d\udd25 Woodshop smoke lingers\u2014\nChuck's Hop Shop fills, cool air stills,\nbrisket, pint, gray light \ud83c\udf7a",
+  "haiku": "\ud83e\uded2 Georgia's Greek scents rise\u2014\ngyros warm the muted air,\nUrban Family pours \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 38,
-  "updated": "2026-03-31T07:15:25.354149+00:00"
+  "total_events": 40,
+  "updated": "2026-03-31T08:15:50.291936+00:00"
 }
