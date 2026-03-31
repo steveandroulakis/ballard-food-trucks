@@ -200,6 +200,28 @@
       "vendor": "BurgerDOM"
     },
     {
+      "date": "2026-04-02T00:00:00",
+      "description": null,
+      "end_time": null,
+      "end_time_raw": null,
+      "location": "Wheelie Pop Brewing",
+      "start_time": null,
+      "start_time_raw": null,
+      "timezone": "PT",
+      "vendor": "Kaosamai Thai"
+    },
+    {
+      "date": "2026-04-04T00:00:00",
+      "description": null,
+      "end_time": "1:00 AM PT",
+      "end_time_raw": "1:00 AM",
+      "location": "Wheelie Pop Brewing",
+      "start_time": "12:00 AM PT",
+      "start_time_raw": "12:00 AM",
+      "timezone": "PT",
+      "vendor": "Vandalz Taqueria"
+    },
+    {
       "date": "2026-03-31T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
@@ -445,6 +467,6 @@
   "haiku": "\ud83c\udf57 Impeccable Chicken\u2014\nStoup's pale ale cuts the cool air,\nclouds hold, neighbors linger \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 40,
-  "updated": "2026-03-31T22:15:30.082990+00:00"
+  "total_events": 42,
+  "updated": "2026-03-31T23:15:29.623200+00:00"
 }
