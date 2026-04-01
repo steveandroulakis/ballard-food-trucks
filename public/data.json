@@ -90,7 +90,7 @@
       "vendor": "Tacos & Beer"
     },
     {
-      "date": "2026-03-31T16:00:00.203000",
+      "date": "2026-04-01T16:00:00.425000",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -98,7 +98,62 @@
       "start_time": "4:00 PM PT",
       "start_time_raw": "4:00 PM",
       "timezone": "PT",
-      "vendor": "Birrieria Pepe El Toro"
+      "vendor": "Georgia\u2019s Greek"
+    },
+    {
+      "date": "2026-04-02T16:00:00.091000",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "location": "Yonder Cider & Bale Breaker - Ballard",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "timezone": "PT",
+      "vendor": "Impeckable Chicken"
+    },
+    {
+      "date": "2026-04-03T16:00:00.571000",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "location": "Yonder Cider & Bale Breaker - Ballard",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "timezone": "PT",
+      "vendor": "Paparepas"
+    },
+    {
+      "date": "2026-04-04T13:00:00.397000",
+      "description": null,
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "location": "Yonder Cider & Bale Breaker - Ballard",
+      "start_time": "1:00 PM PT",
+      "start_time_raw": "1:00 PM",
+      "timezone": "PT",
+      "vendor": "Project Pizza"
+    },
+    {
+      "date": "2026-04-05T13:00:00.336000",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "location": "Yonder Cider & Bale Breaker - Ballard",
+      "start_time": "1:00 PM PT",
+      "start_time_raw": "1:00 PM",
+      "timezone": "PT",
+      "vendor": "Tacos &amp; Beer"
+    },
+    {
+      "date": "2026-04-07T16:00:00.307000",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "location": "Yonder Cider & Bale Breaker - Ballard",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "timezone": "PT",
+      "vendor": "Tummy Yummy Thai"
     },
     {
       "date": "2026-03-31T00:00:00",
@@ -464,9 +519,9 @@
       "vendor": "Plaza Garcia Express"
     }
   ],
-  "haiku": "\ud83c\udf57 Impeccable Chicken\u2014\nStoup's pale ale cuts the cool air,\nclouds hold, neighbors linger \ud83c\udf7a",
+  "haiku": "\u2601\ufe0f Georgia's Greek scents drift\u2014\npale afternoon, Urban Family\npints soften the gray \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 42,
-  "updated": "2026-03-31T23:15:29.623200+00:00"
+  "total_events": 47,
+  "updated": "2026-04-01T00:15:25.375243+00:00"
 }
