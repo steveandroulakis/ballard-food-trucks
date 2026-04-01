@@ -1,7 +1,5 @@
 {
-  "errors": [
-    "Failed to fetch information for brewery: Obec Brewing"
-  ],
+  "errors": [],
   "events": [
     {
       "date": "2026-04-01T00:00:00",
@@ -532,9 +530,9 @@
       "vendor": "Theo's Gyros"
     }
   ],
-  "haiku": "\ud83c\udf2e La Rivera Maya\u2014\ncider waits at Channel Marker,\nclouds hold their breath \ud83c\udf7a",
+  "haiku": "\ud83c\udf2e La Rivera Maya's smoke\u2014\nclouds stack over Channel Marker,\ncider, rain may come \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
   "total_events": 48,
-  "updated": "2026-04-01T13:16:15.911154+00:00"
+  "updated": "2026-04-01T14:15:37.852715+00:00"
 }
