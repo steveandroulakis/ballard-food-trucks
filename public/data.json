@@ -1,7 +1,5 @@
 {
-  "errors": [
-    "Failed to fetch information for brewery: Obec Brewing"
-  ],
+  "errors": [],
   "events": [
     {
       "date": "2026-04-01T00:00:00",
@@ -81,6 +79,17 @@
       "vendor": "Tacos & Beer"
     },
     {
+      "date": "2026-04-08T00:00:00",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "location": "Stoup Brewing - Ballard",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "timezone": "PT",
+      "vendor": "The Marigold Wood Fired Pizza"
+    },
+    {
       "date": "2026-04-01T16:00:00.425000",
       "description": null,
       "end_time": "8:00 PM PT",
@@ -147,15 +156,15 @@
       "vendor": "Tummy Yummy Thai"
     },
     {
-      "date": "2026-03-31T00:00:00",
-      "description": "https://urbanfamilybrewing.com/events/georgias-greek-6/",
+      "date": "2026-04-08T16:00:00.425000",
+      "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
-      "location": "Urban Family Brewing",
+      "location": "Yonder Cider & Bale Breaker - Ballard",
       "start_time": "4:00 PM PT",
       "start_time_raw": "4:00 PM",
       "timezone": "PT",
-      "vendor": "Georgia's Greek"
+      "vendor": "Georgia\u2019s Greek"
     },
     {
       "date": "2026-04-01T00:00:00",
@@ -246,6 +255,17 @@
       "vendor": "BurgerDOM"
     },
     {
+      "date": "2026-04-08T00:00:00",
+      "description": "https://urbanfamilybrewing.com/events/katmandu-momocha-7/",
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "location": "Urban Family Brewing",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "timezone": "PT",
+      "vendor": "Katmandu Momocha"
+    },
+    {
       "date": "2026-04-02T00:00:00",
       "description": null,
       "end_time": null,
@@ -266,17 +286,6 @@
       "start_time_raw": "12:00 AM",
       "timezone": "PT",
       "vendor": "Vandalz Taqueria"
-    },
-    {
-      "date": "2026-03-31T00:00:00",
-      "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "location": "Channel Marker Cider",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
-      "timezone": "PT",
-      "vendor": "Where Ya At, Matt?"
     },
     {
       "date": "2026-04-01T00:00:00",
@@ -310,6 +319,17 @@
       "start_time_raw": "5:00 PM",
       "timezone": "PT",
       "vendor": "Now Make Me A Sandwich"
+    },
+    {
+      "date": "2026-04-08T00:00:00",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "location": "Channel Marker Cider",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "timezone": "PT",
+      "vendor": "Birrieria Pepe El Toro"
     },
     {
       "date": "2026-04-01T00:00:00",
@@ -400,6 +420,17 @@
       "vendor": "Kaosomai Thai"
     },
     {
+      "date": "2026-04-08T00:00:00",
+      "description": "Original event: Dinner: Chick'n Fix",
+      "end_time": null,
+      "end_time_raw": null,
+      "location": "Chuck's Hop Shop Greenwood",
+      "start_time": null,
+      "start_time_raw": null,
+      "timezone": "PT",
+      "vendor": "Chick'n Fix"
+    },
+    {
       "date": "2026-04-04T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
@@ -486,11 +517,22 @@
       "start_time_raw": "5:00 PM",
       "timezone": "PT",
       "vendor": "Plaza Garcia Express"
+    },
+    {
+      "date": "2026-04-08T17:00:00",
+      "description": "Cuisine: Greek, Gyro, Halal",
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "location": "Saleh's Corner",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "timezone": "PT",
+      "vendor": "Theo's Gyros"
     }
   ],
-  "haiku": "\ud83c\udf00 Wind stirs Theo's wrap\u2014\nlamb and tzatziki hold fast\nat Saleh's, pints pulled \ud83c\udf7a",
+  "haiku": "\ud83e\uded2 Georgia's Greek scents lift\u2014\nYonder's cider, clouds withhold,\nbreezy pints pulled cold \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 44,
-  "updated": "2026-04-01T07:16:16.693406+00:00"
+  "total_events": 48,
+  "updated": "2026-04-01T08:15:27.014989+00:00"
 }
