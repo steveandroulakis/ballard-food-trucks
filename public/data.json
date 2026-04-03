@@ -79,15 +79,15 @@
       "vendor": "Kottu Seattle"
     },
     {
-      "date": "2026-04-02T16:00:00.091000",
+      "date": "2026-04-10T00:00:00",
       "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "location": "Yonder Cider & Bale Breaker - Ballard",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "location": "Stoup Brewing - Ballard",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
       "timezone": "PT",
-      "vendor": "Impeckable Chicken"
+      "vendor": "Off the Rez"
     },
     {
       "date": "2026-04-03T16:00:00.571000",
@@ -156,15 +156,15 @@
       "vendor": "Impeckable Chicken"
     },
     {
-      "date": "2026-04-02T00:00:00",
-      "description": "https://urbanfamilybrewing.com/events/alebrijes-6/",
+      "date": "2026-04-10T16:00:00.975000",
+      "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
-      "location": "Urban Family Brewing",
+      "location": "Yonder Cider & Bale Breaker - Ballard",
       "start_time": "4:00 PM PT",
       "start_time_raw": "4:00 PM",
       "timezone": "PT",
-      "vendor": "Alebrijes"
+      "vendor": "Wood Shop BBQ"
     },
     {
       "date": "2026-04-03T00:00:00",
@@ -255,15 +255,15 @@
       "vendor": "Burger Planet"
     },
     {
-      "date": "2026-04-02T00:00:00",
-      "description": null,
-      "end_time": null,
-      "end_time_raw": null,
-      "location": "Wheelie Pop Brewing",
-      "start_time": null,
-      "start_time_raw": null,
+      "date": "2026-04-10T00:00:00",
+      "description": "https://urbanfamilybrewing.com/events/birrieria-pepe-el-toro-7/",
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "location": "Urban Family Brewing",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
       "timezone": "PT",
-      "vendor": "Kaosamai Thai"
+      "vendor": "Birrieria Pepe El Toro"
     },
     {
       "date": "2026-04-04T00:00:00",
@@ -288,15 +288,15 @@
       "vendor": "Heart in Seoul"
     },
     {
-      "date": "2026-04-02T00:00:00",
+      "date": "2026-04-10T00:00:00",
       "description": null,
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
-      "location": "Channel Marker Cider",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
+      "end_time": "1:00 AM PT",
+      "end_time_raw": "1:00 AM",
+      "location": "Wheelie Pop Brewing",
+      "start_time": "12:00 AM PT",
+      "start_time_raw": "12:00 AM",
       "timezone": "PT",
-      "vendor": "La Costenita"
+      "vendor": "El Pachi Empanadas"
     },
     {
       "date": "2026-04-03T00:00:00",
@@ -330,17 +330,6 @@
       "start_time_raw": "5:00 PM",
       "timezone": "PT",
       "vendor": "Where Ya At, Matt?"
-    },
-    {
-      "date": "2026-04-02T00:00:00",
-      "description": "Original event: Dinner: Pizza Paseano",
-      "end_time": null,
-      "end_time_raw": null,
-      "location": "Chuck's Hop Shop Greenwood",
-      "start_time": null,
-      "start_time_raw": null,
-      "timezone": "PT",
-      "vendor": "Pizza Paseano"
     },
     {
       "date": "2026-04-03T00:00:00",
@@ -431,6 +420,17 @@
       "vendor": "Pizza Paesano"
     },
     {
+      "date": "2026-04-10T00:00:00",
+      "description": "Original event: Dinner: T'Juana",
+      "end_time": null,
+      "end_time_raw": null,
+      "location": "Chuck's Hop Shop Greenwood",
+      "start_time": null,
+      "start_time_raw": null,
+      "timezone": "PT",
+      "vendor": "T'Juana"
+    },
+    {
       "date": "2026-04-04T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
@@ -517,11 +517,22 @@
       "start_time_raw": "5:00 PM",
       "timezone": "PT",
       "vendor": "Oskar's Pizza"
+    },
+    {
+      "date": "2026-04-10T17:00:00",
+      "description": "Cuisine: Chicken, Sandwiches, Southern",
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "location": "Saleh's Corner",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "timezone": "PT",
+      "vendor": "Impeckable Chicken"
     }
   ],
-  "haiku": "\ud83c\udf2c\ufe0f Urban Family pours\u2014\ntacos and beer, cool air hums\nthrough the gathered crowd \ud83c\udf7a",
+  "haiku": "\u2601\ufe0f T'Juana's smoke curls\ninto the heavy still air\u2014\nChuck's pints, low and slow \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 47,
-  "updated": "2026-04-03T07:15:58.180309+00:00"
+  "total_events": 48,
+  "updated": "2026-04-03T08:15:29.043234+00:00"
 }
