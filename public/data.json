@@ -1,7 +1,5 @@
 {
-  "errors": [
-    "Failed to fetch information for brewery: Obec Brewing"
-  ],
+  "errors": [],
   "events": [
     {
       "date": "2026-04-03T00:00:00",
@@ -532,9 +530,9 @@
       "vendor": "Impeckable Chicken"
     }
   ],
-  "haiku": "\ud83e\uded3 Paparepas sizzle\u2014\nYonder's cider, clear skies hold,\nlight breeze, long tables \ud83c\udf7a",
+  "haiku": "\ud83e\udd6a Now Make Me A Sandwich\u2014\ncrisp air, Channel Marker pours,\nclear light, cider bright \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
   "total_events": 48,
-  "updated": "2026-04-03T20:16:12.829175+00:00"
+  "updated": "2026-04-03T21:15:29.848484+00:00"
 }
