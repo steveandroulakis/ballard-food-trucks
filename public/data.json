@@ -2,17 +2,6 @@
   "errors": [],
   "events": [
     {
-      "date": "2026-04-02T00:00:00",
-      "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "location": "Stoup Brewing - Ballard",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
-      "timezone": "PT",
-      "vendor": "Birrieria Pepe El Toro"
-    },
-    {
       "date": "2026-04-03T00:00:00",
       "description": null,
       "end_time": "9:00 PM PT",
@@ -453,17 +442,6 @@
       "vendor": "El Koreano"
     },
     {
-      "date": "2026-04-02T17:00:00",
-      "description": "Cuisine: Seafood",
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
-      "location": "Saleh's Corner",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
-      "timezone": "PT",
-      "vendor": "Fish Basket NW"
-    },
-    {
       "date": "2026-04-03T17:00:00",
       "description": "Cuisine: Chicken, Sandwiches, Southern",
       "end_time": "9:00 PM PT",
@@ -541,9 +519,9 @@
       "vendor": "Oskar's Pizza"
     }
   ],
-  "haiku": "\ud83c\udf5c Kaosamai's steam\nsoftens the gray, unhurried\u2014\nWheelie Pop pints wait \ud83c\udf7a",
+  "haiku": "\ud83c\udf2c\ufe0f Urban Family pours\u2014\ntacos and beer, cool air hums\nthrough the gathered crowd \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 49,
-  "updated": "2026-04-03T06:15:25.166678+00:00"
+  "total_events": 47,
+  "updated": "2026-04-03T07:15:58.180309+00:00"
 }
