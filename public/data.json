@@ -1,7 +1,5 @@
 {
-  "errors": [
-    "Failed to fetch information for brewery: Obec Brewing"
-  ],
+  "errors": [],
   "events": [
     {
       "date": "2026-04-04T00:00:00",
@@ -532,9 +530,9 @@
       "vendor": "Pumpkin Thai"
     }
   ],
-  "haiku": "\ud83c\udf2c\ufe0f Tat's smoke rides the breeze\u2014\nStoup's pints anchor restless air,\ngray holds, neighbors pour \ud83c\udf7a",
+  "haiku": "\ud83c\udf2e Vandalz smoke drifts low\u2014\nWheelie Pop's hops cut the chill,\ngray air, full tables \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
   "total_events": 48,
-  "updated": "2026-04-04T09:16:23.652191+00:00"
+  "updated": "2026-04-04T10:15:27.757562+00:00"
 }
