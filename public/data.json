@@ -79,15 +79,15 @@
       "vendor": "Johnson BBQ Provisions"
     },
     {
-      "date": "2026-04-04T13:00:00.397000",
+      "date": "2026-04-12T00:00:00",
       "description": null,
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
-      "location": "Yonder Cider & Bale Breaker - Ballard",
+      "end_time": "7:00 PM PT",
+      "end_time_raw": "7:00 PM",
+      "location": "Stoup Brewing - Ballard",
       "start_time": "1:00 PM PT",
       "start_time_raw": "1:00 PM",
       "timezone": "PT",
-      "vendor": "Project Pizza"
+      "vendor": "El Pirata Tortas Y Burritos / Now Make Me A Sandwich"
     },
     {
       "date": "2026-04-05T13:00:00.336000",
@@ -156,15 +156,15 @@
       "vendor": "Wich Came First"
     },
     {
-      "date": "2026-04-04T00:00:00",
-      "description": "https://urbanfamilybrewing.com/events/oskars-pizza-7/",
+      "date": "2026-04-12T13:00:00.336000",
+      "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
-      "location": "Urban Family Brewing",
+      "location": "Yonder Cider & Bale Breaker - Ballard",
       "start_time": "1:00 PM PT",
       "start_time_raw": "1:00 PM",
       "timezone": "PT",
-      "vendor": "Oskar's Pizza"
+      "vendor": "Tacos &amp; Beer"
     },
     {
       "date": "2026-04-05T00:00:00",
@@ -255,15 +255,26 @@
       "vendor": "Momo Express"
     },
     {
-      "date": "2026-04-04T00:00:00",
-      "description": null,
-      "end_time": "1:00 AM PT",
-      "end_time_raw": "1:00 AM",
-      "location": "Wheelie Pop Brewing",
-      "start_time": "12:00 AM PT",
-      "start_time_raw": "12:00 AM",
+      "date": "2026-04-12T00:00:00",
+      "description": "https://urbanfamilybrewing.com/events/9th-and-hennepin-14/",
+      "end_time": "12:00 PM PT",
+      "end_time_raw": "12:00 PM",
+      "location": "Urban Family Brewing",
+      "start_time": "8:00 AM PT",
+      "start_time_raw": "8:00 AM",
       "timezone": "PT",
-      "vendor": "Vandalz Taqueria"
+      "vendor": "9th and Hennepin"
+    },
+    {
+      "date": "2026-04-12T00:00:00",
+      "description": "https://urbanfamilybrewing.com/events/kaosamai-5/",
+      "end_time": "7:00 PM PT",
+      "end_time_raw": "7:00 PM",
+      "location": "Urban Family Brewing",
+      "start_time": "1:00 PM PT",
+      "start_time_raw": "1:00 PM",
+      "timezone": "PT",
+      "vendor": "Kaosamai"
     },
     {
       "date": "2026-04-09T00:00:00",
@@ -319,17 +330,6 @@
       "start_time_raw": "5:00 PM",
       "timezone": "PT",
       "vendor": "Where Ya At, Matt?"
-    },
-    {
-      "date": "2026-04-04T00:00:00",
-      "description": "Original event: Dinner: Sabor Boricua",
-      "end_time": null,
-      "end_time_raw": null,
-      "location": "Chuck's Hop Shop Greenwood",
-      "start_time": null,
-      "start_time_raw": null,
-      "timezone": "PT",
-      "vendor": "Sabor Boricua"
     },
     {
       "date": "2026-04-05T00:00:00",
@@ -420,15 +420,26 @@
       "vendor": "Tat's Deli"
     },
     {
-      "date": "2026-04-04T00:00:00",
-      "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "location": "Lucky Envelope Brewing",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
+      "date": "2026-04-12T00:00:00",
+      "description": "Original event: Brunch: Good Morning Tacos",
+      "end_time": null,
+      "end_time_raw": null,
+      "location": "Chuck's Hop Shop Greenwood",
+      "start_time": null,
+      "start_time_raw": null,
       "timezone": "PT",
-      "vendor": "El Koreano"
+      "vendor": "Good Morning Tacos"
+    },
+    {
+      "date": "2026-04-12T00:00:00",
+      "description": "Original event: Dinner: Georgia's Greek",
+      "end_time": null,
+      "end_time_raw": null,
+      "location": "Chuck's Hop Shop Greenwood",
+      "start_time": null,
+      "start_time_raw": null,
+      "timezone": "PT",
+      "vendor": "Georgia's Greek"
     },
     {
       "date": "2026-04-05T17:00:00",
@@ -506,11 +517,22 @@
       "start_time_raw": "5:00 PM",
       "timezone": "PT",
       "vendor": "Pumpkin Thai"
+    },
+    {
+      "date": "2026-04-12T17:00:00",
+      "description": "Cuisine: American, Cheesesteaks",
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "location": "Saleh's Corner",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "timezone": "PT",
+      "vendor": "Split Open and Melt"
     }
   ],
-  "haiku": "\ud83c\udf83 Pumpkin Thai's steam curls\u2014\nSaleh's Corner hums with wind,\ngray light, amber pints \ud83c\udf7a",
+  "haiku": "\ud83e\udd6a Now Make Me A Sandwich\u2014\nbreeze stirs the Urban Family yard,\ngray light, cold pints shared \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 46,
-  "updated": "2026-04-05T07:15:24.898358+00:00"
+  "total_events": 48,
+  "updated": "2026-04-05T08:15:28.358495+00:00"
 }
