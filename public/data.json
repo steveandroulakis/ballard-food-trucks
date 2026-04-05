@@ -1,5 +1,7 @@
 {
-  "errors": [],
+  "errors": [
+    "Failed to fetch information for brewery: Obec Brewing"
+  ],
   "events": [
     {
       "date": "2026-04-05T00:00:00",
@@ -530,9 +532,9 @@
       "vendor": "Split Open and Melt"
     }
   ],
-  "haiku": "\ud83e\udd6a Now Make Me A Sandwich\u2014\nbread and beer cut the gray wind,\nUrban Family pours \ud83c\udf7a",
+  "haiku": "\ud83c\udf7a 9th and Hennepin\u2014\nbreezy pints at Urban Family,\ngray light, neighbors close \ud83c\udf3f",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
   "total_events": 48,
-  "updated": "2026-04-05T13:15:23.925123+00:00"
+  "updated": "2026-04-05T14:16:13.274479+00:00"
 }
