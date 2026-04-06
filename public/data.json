@@ -79,15 +79,15 @@
       "vendor": "El Pirata Tortas Y Burritos / Now Make Me A Sandwich"
     },
     {
-      "date": "2026-04-05T13:00:00.336000",
+      "date": "2026-04-13T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
-      "location": "Yonder Cider & Bale Breaker - Ballard",
-      "start_time": "1:00 PM PT",
-      "start_time_raw": "1:00 PM",
+      "location": "Stoup Brewing - Ballard",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
       "timezone": "PT",
-      "vendor": "Tacos &amp; Beer"
+      "vendor": "Where Ya At Matt"
     },
     {
       "date": "2026-04-07T16:00:00.307000",
@@ -154,28 +154,6 @@
       "start_time_raw": "1:00 PM",
       "timezone": "PT",
       "vendor": "Tacos &amp; Beer"
-    },
-    {
-      "date": "2026-04-05T00:00:00",
-      "description": "https://urbanfamilybrewing.com/events/9th-and-hennepin-13/",
-      "end_time": "12:00 PM PT",
-      "end_time_raw": "12:00 PM",
-      "location": "Urban Family Brewing",
-      "start_time": "8:00 AM PT",
-      "start_time_raw": "8:00 AM",
-      "timezone": "PT",
-      "vendor": "9th and Hennepin"
-    },
-    {
-      "date": "2026-04-05T00:00:00",
-      "description": "https://urbanfamilybrewing.com/events/now-make-me-a-sandwich-6/",
-      "end_time": "7:00 PM PT",
-      "end_time_raw": "7:00 PM",
-      "location": "Urban Family Brewing",
-      "start_time": "1:00 PM PT",
-      "start_time_raw": "1:00 PM",
-      "timezone": "PT",
-      "vendor": "Now Make Me A Sandwich"
     },
     {
       "date": "2026-04-06T00:00:00",
@@ -266,6 +244,17 @@
       "vendor": "Kaosamai"
     },
     {
+      "date": "2026-04-13T00:00:00",
+      "description": "https://urbanfamilybrewing.com/events/la-riviera-maya-8/",
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "location": "Urban Family Brewing",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "timezone": "PT",
+      "vendor": "La Riviera Maya"
+    },
+    {
       "date": "2026-04-09T00:00:00",
       "description": null,
       "end_time": "1:00 AM PT",
@@ -319,28 +308,6 @@
       "start_time_raw": "5:00 PM",
       "timezone": "PT",
       "vendor": "Where Ya At, Matt?"
-    },
-    {
-      "date": "2026-04-05T00:00:00",
-      "description": "Original event: Brunch: Cocina Barelas",
-      "end_time": null,
-      "end_time_raw": null,
-      "location": "Chuck's Hop Shop Greenwood",
-      "start_time": null,
-      "start_time_raw": null,
-      "timezone": "PT",
-      "vendor": "Cocina Barelas"
-    },
-    {
-      "date": "2026-04-05T00:00:00",
-      "description": "Original event: Momo Express",
-      "end_time": null,
-      "end_time_raw": null,
-      "location": "Chuck's Hop Shop Greenwood",
-      "start_time": null,
-      "start_time_raw": null,
-      "timezone": "PT",
-      "vendor": "Momo Express"
     },
     {
       "date": "2026-04-06T00:00:00",
@@ -431,6 +398,17 @@
       "vendor": "Georgia's Greek"
     },
     {
+      "date": "2026-04-13T00:00:00",
+      "description": "Original event: Dinner: Off the Rez",
+      "end_time": null,
+      "end_time_raw": null,
+      "location": "Chuck's Hop Shop Greenwood",
+      "start_time": null,
+      "start_time_raw": null,
+      "timezone": "PT",
+      "vendor": "Off the Rez"
+    },
+    {
       "date": "2026-04-06T17:00:00",
       "description": "Cuisine: Asian, BBQ, Sandwiches",
       "end_time": "9:00 PM PT",
@@ -506,11 +484,22 @@
       "start_time_raw": "5:00 PM",
       "timezone": "PT",
       "vendor": "Split Open and Melt"
+    },
+    {
+      "date": "2026-04-13T17:00:00",
+      "description": "Cuisine: Asian, BBQ, Sandwiches",
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "location": "Saleh's Corner",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "timezone": "PT",
+      "vendor": "MOMO Express"
     }
   ],
-  "haiku": "\u2601\ufe0f El Pachi's crust flakes\u2014\nsoft air holds the afternoon\nat Urban Family \ud83c\udf7a",
+  "haiku": "\ud83e\udd5f MOMO Express steams\u2014\nSaleh's Corner holds the gray,\ndumplings, pints, soft air \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 46,
-  "updated": "2026-04-06T07:15:42.479136+00:00"
+  "total_events": 45,
+  "updated": "2026-04-06T08:15:24.554850+00:00"
 }
