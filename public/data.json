@@ -1,5 +1,7 @@
 {
-  "errors": [],
+  "errors": [
+    "Failed to fetch information for brewery: Obec Brewing"
+  ],
   "events": [
     {
       "date": "2026-04-07T00:00:00",
@@ -79,6 +81,17 @@
       "vendor": "Where Ya At Matt"
     },
     {
+      "date": "2026-04-14T00:00:00",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "location": "Stoup Brewing - Ballard",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "timezone": "PT",
+      "vendor": "Impeccable Chicken"
+    },
+    {
       "date": "2026-04-07T16:00:00.307000",
       "description": null,
       "end_time": "8:00 PM PT",
@@ -145,15 +158,15 @@
       "vendor": "Tacos &amp; Beer"
     },
     {
-      "date": "2026-04-06T00:00:00",
-      "description": "https://urbanfamilybrewing.com/events/empanadas-el-pachi-7/",
-      "end_time": "5:00 PM PT",
-      "end_time_raw": "5:00 PM",
-      "location": "Urban Family Brewing",
+      "date": "2026-04-14T16:00:00.203000",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "location": "Yonder Cider & Bale Breaker - Ballard",
       "start_time": "4:00 PM PT",
       "start_time_raw": "4:00 PM",
       "timezone": "PT",
-      "vendor": "Empanadas El Pachi"
+      "vendor": "Birrieria Pepe El Toro"
     },
     {
       "date": "2026-04-07T00:00:00",
@@ -244,6 +257,17 @@
       "vendor": "La Riviera Maya"
     },
     {
+      "date": "2026-04-14T00:00:00",
+      "description": "https://urbanfamilybrewing.com/events/georgias-greek-7/",
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "location": "Urban Family Brewing",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "timezone": "PT",
+      "vendor": "Georgia's Greek"
+    },
+    {
       "date": "2026-04-09T00:00:00",
       "description": null,
       "end_time": "1:00 AM PT",
@@ -297,17 +321,6 @@
       "start_time_raw": "5:00 PM",
       "timezone": "PT",
       "vendor": "Where Ya At, Matt?"
-    },
-    {
-      "date": "2026-04-06T00:00:00",
-      "description": "Original event: Dinner: Off the Rez",
-      "end_time": null,
-      "end_time_raw": null,
-      "location": "Chuck's Hop Shop Greenwood",
-      "start_time": null,
-      "start_time_raw": null,
-      "timezone": "PT",
-      "vendor": "Off the Rez"
     },
     {
       "date": "2026-04-07T00:00:00",
@@ -398,6 +411,17 @@
       "vendor": "Off the Rez"
     },
     {
+      "date": "2026-04-14T00:00:00",
+      "description": "Original event: Dinner: Kaosomai Thai",
+      "end_time": null,
+      "end_time_raw": null,
+      "location": "Chuck's Hop Shop Greenwood",
+      "start_time": null,
+      "start_time_raw": null,
+      "timezone": "PT",
+      "vendor": "Kaosomai Thai"
+    },
+    {
       "date": "2026-04-07T17:00:00",
       "description": "Cuisine: Burritos, Mexican, Tacos",
       "end_time": "9:00 PM PT",
@@ -473,11 +497,22 @@
       "start_time_raw": "5:00 PM",
       "timezone": "PT",
       "vendor": "MOMO Express"
+    },
+    {
+      "date": "2026-04-14T17:00:00",
+      "description": "Cuisine: Burritos, Mexican, Tacos",
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "location": "Saleh's Corner",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "timezone": "PT",
+      "vendor": "Plaza Garcia Express"
     }
   ],
   "haiku": null,
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 43,
-  "updated": "2026-04-07T07:10:22.390404+00:00"
+  "total_events": 46,
+  "updated": "2026-04-07T08:11:07.885712+00:00"
 }
