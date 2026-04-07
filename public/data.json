@@ -1,7 +1,5 @@
 {
-  "errors": [
-    "Failed to fetch information for brewery: Obec Brewing"
-  ],
+  "errors": [],
   "events": [
     {
       "date": "2026-04-07T00:00:00",
@@ -510,9 +508,9 @@
       "vendor": "Plaza Garcia Express"
     }
   ],
-  "haiku": "\ud83c\udf2e Tacos & Beer calls\u2014\ncrisp air lifts the cumin smoke,\nStoup's pale pints run clear \ud83c\udf7a",
+  "haiku": "\ud83c\udf5c Kaosomai Thai\u2014\ncrisp air sharpens lemongrass\nat Chuck's, cold pints glow \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
   "total_events": 46,
-  "updated": "2026-04-07T13:11:13.641796+00:00"
+  "updated": "2026-04-07T14:10:52.780549+00:00"
 }
