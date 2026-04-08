@@ -168,6 +168,17 @@
     },
     {
       "date": "2026-04-07T00:00:00",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "location": "Obec Brewing",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "timezone": "PT",
+      "vendor": "La Coste\u00f1ita Cuisine"
+    },
+    {
+      "date": "2026-04-07T00:00:00",
       "description": "https://urbanfamilybrewing.com/events/burgerdom-6/",
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -508,9 +519,9 @@
       "vendor": "Plaza Garcia Express"
     }
   ],
-  "haiku": "\ud83c\udf54 BurgerDOM's smoke lifts\ninto crisp April light breeze\u2014\nUrban Family pints \ud83c\udf7a",
+  "haiku": "\ud83c\udf2e La Coste\u00f1ita's spice\nlifts on the cool April breeze\u2014\nObec pints glow warm \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 46,
-  "updated": "2026-04-08T00:10:29.222768+00:00"
+  "total_events": 47,
+  "updated": "2026-04-08T01:11:09.803319+00:00"
 }
