@@ -332,6 +332,17 @@
       "vendor": "Kaosomai Thai"
     },
     {
+      "date": "2026-04-08T00:00:00",
+      "description": "Original event: Dinner: Impeckable Chicken",
+      "end_time": null,
+      "end_time_raw": null,
+      "location": "Chuck's Hop Shop Greenwood",
+      "start_time": null,
+      "start_time_raw": null,
+      "timezone": "PT",
+      "vendor": "Impeckable Chicken"
+    },
+    {
       "date": "2026-04-09T00:00:00",
       "description": "Original event: Dinner: Pizza Paesano",
       "end_time": null,
@@ -497,9 +508,9 @@
       "vendor": "Plaza Garcia Express"
     }
   ],
-  "haiku": "\ud83c\udf5c Kaosomai Thai\u2014\nclear light lifts Chuck's afternoon,\nlemongrass and hops \ud83c\udf7a",
+  "haiku": "\ud83c\udf54 BurgerDOM's smoke lifts\ninto crisp April light breeze\u2014\nUrban Family pints \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 45,
-  "updated": "2026-04-07T23:10:24.326257+00:00"
+  "total_events": 46,
+  "updated": "2026-04-08T00:10:29.222768+00:00"
 }
