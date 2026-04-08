@@ -1,7 +1,5 @@
 {
-  "errors": [
-    "Failed to fetch information for brewery: Obec Brewing"
-  ],
+  "errors": [],
   "events": [
     {
       "date": "2026-04-08T00:00:00",
@@ -167,6 +165,17 @@
       "start_time_raw": "4:00 PM",
       "timezone": "PT",
       "vendor": "Georgia\u2019s Greek"
+    },
+    {
+      "date": "2026-04-08T00:00:00",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "location": "Obec Brewing",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "timezone": "PT",
+      "vendor": "Empanadas el Pachi"
     },
     {
       "date": "2026-04-08T00:00:00",
@@ -521,9 +530,9 @@
       "vendor": "Theo's Gyros"
     }
   ],
-  "haiku": "\ud83c\udfdb\ufe0f Georgia's Greek scents rise\u2014\nYonder's cider, clear and bright,\nlight breeze, open sky \ud83c\udf7a",
+  "haiku": "\ud83c\udf57 Impeckable Chicken\u2014\ncrisp in the clear April light,\nChuck's pours, neighbors linger \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 47,
-  "updated": "2026-04-08T13:11:13.164217+00:00"
+  "total_events": 48,
+  "updated": "2026-04-08T14:10:31.318873+00:00"
 }
