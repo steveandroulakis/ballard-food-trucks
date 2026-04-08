@@ -2,17 +2,6 @@
   "errors": [],
   "events": [
     {
-      "date": "2026-04-07T00:00:00",
-      "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "location": "Stoup Brewing - Ballard",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
-      "timezone": "PT",
-      "vendor": "Tacos & Beer"
-    },
-    {
       "date": "2026-04-08T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
@@ -167,7 +156,7 @@
       "vendor": "Birrieria Pepe El Toro"
     },
     {
-      "date": "2026-04-07T00:00:00",
+      "date": "2026-04-08T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -175,7 +164,7 @@
       "start_time": "4:00 PM PT",
       "start_time_raw": "4:00 PM",
       "timezone": "PT",
-      "vendor": "La Coste\u00f1ita Cuisine"
+      "vendor": "Empanadas el Pachi"
     },
     {
       "date": "2026-04-07T00:00:00",
@@ -431,17 +420,6 @@
       "vendor": "Kaosomai Thai"
     },
     {
-      "date": "2026-04-07T17:00:00",
-      "description": "Cuisine: Burritos, Mexican, Tacos",
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
-      "location": "Saleh's Corner",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
-      "timezone": "PT",
-      "vendor": "Plaza Garcia Express"
-    },
-    {
       "date": "2026-04-08T17:00:00",
       "description": "Cuisine: Greek, Gyro, Halal",
       "end_time": "9:00 PM PT",
@@ -519,9 +497,9 @@
       "vendor": "Plaza Garcia Express"
     }
   ],
-  "haiku": "\ud83c\udf54 BurgerDOM's smoke curls\u2014\ngray light softens Urban Family,\npints pulled, neighbors lean \ud83c\udf7a",
+  "haiku": null,
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 47,
-  "updated": "2026-04-08T06:10:25.616972+00:00"
+  "total_events": 45,
+  "updated": "2026-04-08T07:10:57.158058+00:00"
 }
