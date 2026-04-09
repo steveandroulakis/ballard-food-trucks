@@ -1,5 +1,7 @@
 {
-  "errors": [],
+  "errors": [
+    "Failed to fetch information for brewery: Obec Brewing"
+  ],
   "events": [
     {
       "date": "2026-04-09T00:00:00",
@@ -165,17 +167,6 @@
       "start_time_raw": "4:00 PM",
       "timezone": "PT",
       "vendor": "Impeckable Chicken"
-    },
-    {
-      "date": "2026-04-09T00:00:00",
-      "description": null,
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
-      "location": "Obec Brewing",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
-      "timezone": "PT",
-      "vendor": "Tummy Yummy Thai"
     },
     {
       "date": "2026-04-09T00:00:00",
@@ -530,9 +521,9 @@
       "vendor": "Fish Basket NW"
     }
   ],
-  "haiku": "\ud83c\udf4e Cider pours, wind lifts\u2014\nWhere Ya At, Matt? fills the air,\nChannel Marker's pull \ud83c\udf2c\ufe0f",
+  "haiku": "\ud83c\udf57 Impeckable Chicken\u2014\ncider, hops, and a brisk breeze,\nYonder's tables fill \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 48,
-  "updated": "2026-04-09T12:10:24.936760+00:00"
+  "total_events": 47,
+  "updated": "2026-04-09T13:11:15.977848+00:00"
 }
