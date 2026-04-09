@@ -175,7 +175,7 @@
       "start_time": "5:00 PM PT",
       "start_time_raw": "5:00 PM",
       "timezone": "PT",
-      "vendor": "Tummy Yummy Thai"
+      "vendor": "Thai U Up"
     },
     {
       "date": "2026-04-09T00:00:00",
@@ -530,9 +530,9 @@
       "vendor": "Fish Basket NW"
     }
   ],
-  "haiku": "\ud83e\ude90 Burger Planet smoke\nrides the breeze through Urban Family\u2014\nclear pints, open sky \ud83c\udf7a",
+  "haiku": "\ud83c\udf0d Burger Planet sears\u2014\nwind carries hops and char smoke,\nUrban Family calls \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
   "total_events": 48,
-  "updated": "2026-04-09T18:10:24.533128+00:00"
+  "updated": "2026-04-09T19:10:23.753217+00:00"
 }
