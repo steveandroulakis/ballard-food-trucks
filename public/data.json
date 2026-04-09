@@ -79,15 +79,15 @@
       "vendor": "El Gran Taco"
     },
     {
-      "date": "2026-04-08T16:00:00.425000",
+      "date": "2026-04-16T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
-      "location": "Yonder Cider & Bale Breaker - Ballard",
+      "location": "Stoup Brewing - Ballard",
       "start_time": "4:00 PM PT",
       "start_time_raw": "4:00 PM",
       "timezone": "PT",
-      "vendor": "Georgia\u2019s Greek"
+      "vendor": "Birrieria Pepe El Toro"
     },
     {
       "date": "2026-04-09T16:00:00.091000",
@@ -156,6 +156,17 @@
       "vendor": "Georgia\u2019s Greek"
     },
     {
+      "date": "2026-04-16T16:00:00.091000",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "location": "Yonder Cider & Bale Breaker - Ballard",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "timezone": "PT",
+      "vendor": "Impeckable Chicken"
+    },
+    {
       "date": "2026-04-09T00:00:00",
       "description": null,
       "end_time": "9:00 PM PT",
@@ -165,17 +176,6 @@
       "start_time_raw": "5:00 PM",
       "timezone": "PT",
       "vendor": "Tummy Yummy Thai"
-    },
-    {
-      "date": "2026-04-08T00:00:00",
-      "description": "https://urbanfamilybrewing.com/events/katmandu-momocha-7/",
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "location": "Urban Family Brewing",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
-      "timezone": "PT",
-      "vendor": "Katmandu Momocha"
     },
     {
       "date": "2026-04-09T00:00:00",
@@ -266,6 +266,17 @@
       "vendor": "Impeccable Chicken"
     },
     {
+      "date": "2026-04-16T00:00:00",
+      "description": "https://urbanfamilybrewing.com/events/alebrijes-7/",
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "location": "Urban Family Brewing",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "timezone": "PT",
+      "vendor": "Alebrijes"
+    },
+    {
       "date": "2026-04-09T00:00:00",
       "description": null,
       "end_time": "1:00 AM PT",
@@ -299,15 +310,15 @@
       "vendor": "Tisket Tasket"
     },
     {
-      "date": "2026-04-08T00:00:00",
+      "date": "2026-04-16T00:00:00",
       "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "location": "Channel Marker Cider",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
+      "end_time": "1:00 AM PT",
+      "end_time_raw": "1:00 AM",
+      "location": "Wheelie Pop Brewing",
+      "start_time": "12:00 AM PT",
+      "start_time_raw": "12:00 AM",
       "timezone": "PT",
-      "vendor": "Birrieria Pepe El Toro"
+      "vendor": "Kaosamai Thai"
     },
     {
       "date": "2026-04-09T00:00:00",
@@ -330,17 +341,6 @@
       "start_time_raw": "5:00 PM",
       "timezone": "PT",
       "vendor": "Kaosamai"
-    },
-    {
-      "date": "2026-04-08T00:00:00",
-      "description": "Original event: Dinner: NO FOOD TRUCK :(",
-      "end_time": null,
-      "end_time_raw": null,
-      "location": "Chuck's Hop Shop Greenwood",
-      "start_time": null,
-      "start_time_raw": null,
-      "timezone": "PT",
-      "vendor": "NO FOOD TRUCK :("
     },
     {
       "date": "2026-04-09T00:00:00",
@@ -431,6 +431,17 @@
       "vendor": "Chick'n Fix"
     },
     {
+      "date": "2026-04-16T00:00:00",
+      "description": "Original event: Dinner: Pizza Paesano",
+      "end_time": null,
+      "end_time_raw": null,
+      "location": "Chuck's Hop Shop Greenwood",
+      "start_time": null,
+      "start_time_raw": null,
+      "timezone": "PT",
+      "vendor": "Pizza Paesano"
+    },
+    {
       "date": "2026-04-09T17:00:00",
       "description": "Cuisine: Gluten-Free, Italian, Pizza",
       "end_time": "9:00 PM PT",
@@ -506,11 +517,22 @@
       "start_time_raw": "5:00 PM",
       "timezone": "PT",
       "vendor": "Theo's Gyros"
+    },
+    {
+      "date": "2026-04-16T17:00:00",
+      "description": "Cuisine: Seafood",
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "location": "Saleh's Corner",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "timezone": "PT",
+      "vendor": "Fish Basket NW"
     }
   ],
-  "haiku": "\ud83c\udf55 Pizza Paesano\u2014\nbreeze lifts the cheese, Chuck's pints cold,\nApril sun holds long \ud83c\udf7a",
+  "haiku": "\ud83c\udf4e Breeze lifts Matt's menu\u2014\nChannel Marker pours go round,\ncider, sun, and friends \ud83e\udd42",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 46,
-  "updated": "2026-04-09T07:10:51.679410+00:00"
+  "total_events": 48,
+  "updated": "2026-04-09T08:10:29.172203+00:00"
 }
