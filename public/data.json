@@ -79,15 +79,15 @@
       "vendor": "Birrieria Pepe El Toro"
     },
     {
-      "date": "2026-04-09T16:00:00.091000",
+      "date": "2026-04-17T00:00:00",
       "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "location": "Yonder Cider & Bale Breaker - Ballard",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "location": "Stoup Brewing - Ballard",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
       "timezone": "PT",
-      "vendor": "Impeckable Chicken"
+      "vendor": "Georgia's Greek"
     },
     {
       "date": "2026-04-10T16:00:00.975000",
@@ -156,26 +156,26 @@
       "vendor": "Impeckable Chicken"
     },
     {
-      "date": "2026-04-10T00:00:00",
+      "date": "2026-04-17T16:00:00.571000",
       "description": null,
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
-      "location": "Obec Brewing",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
-      "timezone": "PT",
-      "vendor": "Thai U Up"
-    },
-    {
-      "date": "2026-04-09T00:00:00",
-      "description": "https://urbanfamilybrewing.com/events/burger-planet-8/",
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
-      "location": "Urban Family Brewing",
+      "location": "Yonder Cider & Bale Breaker - Ballard",
       "start_time": "4:00 PM PT",
       "start_time_raw": "4:00 PM",
       "timezone": "PT",
-      "vendor": "Burger Planet"
+      "vendor": "Paparepas"
+    },
+    {
+      "date": "2026-04-10T00:00:00",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "location": "Obec Brewing",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "timezone": "PT",
+      "vendor": "Express Mexican Grill"
     },
     {
       "date": "2026-04-10T00:00:00",
@@ -266,15 +266,15 @@
       "vendor": "Alebrijes"
     },
     {
-      "date": "2026-04-09T00:00:00",
-      "description": null,
-      "end_time": "1:00 AM PT",
-      "end_time_raw": "1:00 AM",
-      "location": "Wheelie Pop Brewing",
-      "start_time": "12:00 AM PT",
-      "start_time_raw": "12:00 AM",
+      "date": "2026-04-17T00:00:00",
+      "description": "https://urbanfamilybrewing.com/events/tacos-and-beer-6/",
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "location": "Urban Family Brewing",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
       "timezone": "PT",
-      "vendor": "Heart in Seoul"
+      "vendor": "Tacos and Beer"
     },
     {
       "date": "2026-04-10T00:00:00",
@@ -310,17 +310,6 @@
       "vendor": "Kaosamai Thai"
     },
     {
-      "date": "2026-04-09T00:00:00",
-      "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "location": "Channel Marker Cider",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
-      "timezone": "PT",
-      "vendor": "Where Ya At, Matt?"
-    },
-    {
       "date": "2026-04-15T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
@@ -330,17 +319,6 @@
       "start_time_raw": "5:00 PM",
       "timezone": "PT",
       "vendor": "Kaosamai"
-    },
-    {
-      "date": "2026-04-09T00:00:00",
-      "description": "Original event: Dinner: Pizza Paesano",
-      "end_time": null,
-      "end_time_raw": null,
-      "location": "Chuck's Hop Shop Greenwood",
-      "start_time": null,
-      "start_time_raw": null,
-      "timezone": "PT",
-      "vendor": "Pizza Paesano"
     },
     {
       "date": "2026-04-10T00:00:00",
@@ -431,6 +409,28 @@
       "vendor": "Pizza Paesano"
     },
     {
+      "date": "2026-04-17T00:00:00",
+      "description": "Original event: Dinner: T'Juana",
+      "end_time": null,
+      "end_time_raw": null,
+      "location": "Chuck's Hop Shop Greenwood",
+      "start_time": null,
+      "start_time_raw": null,
+      "timezone": "PT",
+      "vendor": "T'Juana"
+    },
+    {
+      "date": "2026-04-17T00:00:00",
+      "description": null,
+      "end_time": "7:30 PM PT",
+      "end_time_raw": "7:30 PM",
+      "location": "Lucky Envelope Brewing",
+      "start_time": "4:30 PM PT",
+      "start_time_raw": "4:30 PM",
+      "timezone": "PT",
+      "vendor": "Kaosamai"
+    },
+    {
       "date": "2026-04-10T17:00:00",
       "description": "Cuisine: Chicken, Sandwiches, Southern",
       "end_time": "9:00 PM PT",
@@ -506,11 +506,22 @@
       "start_time_raw": "5:00 PM",
       "timezone": "PT",
       "vendor": "Fish Basket NW"
+    },
+    {
+      "date": "2026-04-17T17:00:00",
+      "description": "Cuisine: Chicken, Sandwiches, Southern",
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "location": "Saleh's Corner",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "timezone": "PT",
+      "vendor": "Impeckable Chicken"
     }
   ],
-  "haiku": "\ud83c\udf2e Birria steams soft\u2014\nUrban Family's amber pours,\nclouds hold, neighbors linger \ud83c\udf7a",
+  "haiku": "\ud83c\udf2e Birria steam rises\u2014\nPepe El Toro's slow braise meets\nUrban Family's pour \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 46,
-  "updated": "2026-04-10T07:10:28.948462+00:00"
+  "total_events": 47,
+  "updated": "2026-04-10T08:10:47.343064+00:00"
 }
