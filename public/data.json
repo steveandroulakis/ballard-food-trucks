@@ -2,17 +2,6 @@
   "errors": [],
   "events": [
     {
-      "date": "2026-04-09T00:00:00",
-      "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "location": "Stoup Brewing - Ballard",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
-      "timezone": "PT",
-      "vendor": "Kottu Seattle"
-    },
-    {
       "date": "2026-04-10T00:00:00",
       "description": null,
       "end_time": "9:00 PM PT",
@@ -167,7 +156,7 @@
       "vendor": "Impeckable Chicken"
     },
     {
-      "date": "2026-04-09T00:00:00",
+      "date": "2026-04-10T00:00:00",
       "description": null,
       "end_time": "9:00 PM PT",
       "end_time_raw": "9:00 PM",
@@ -442,17 +431,6 @@
       "vendor": "Pizza Paesano"
     },
     {
-      "date": "2026-04-09T17:00:00",
-      "description": "Cuisine: Gluten-Free, Italian, Pizza",
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
-      "location": "Saleh's Corner",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
-      "timezone": "PT",
-      "vendor": "Oskar's Pizza"
-    },
-    {
       "date": "2026-04-10T17:00:00",
       "description": "Cuisine: Chicken, Sandwiches, Southern",
       "end_time": "9:00 PM PT",
@@ -530,9 +508,9 @@
       "vendor": "Fish Basket NW"
     }
   ],
-  "haiku": "\ud83c\udf5b Kottu's iron clang\nsoftens under Stoup's dim light\u2014\ngray holds, neighbors stay \ud83c\udf7a",
+  "haiku": "\ud83c\udf2e Birria steams soft\u2014\nUrban Family's amber pours,\nclouds hold, neighbors linger \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 48,
-  "updated": "2026-04-10T06:10:24.938773+00:00"
+  "total_events": 46,
+  "updated": "2026-04-10T07:10:28.948462+00:00"
 }
