@@ -1,7 +1,5 @@
 {
-  "errors": [
-    "Failed to fetch information for brewery: Obec Brewing"
-  ],
+  "errors": [],
   "events": [
     {
       "date": "2026-04-10T00:00:00",
@@ -167,6 +165,17 @@
       "start_time_raw": "4:00 PM",
       "timezone": "PT",
       "vendor": "Paparepas"
+    },
+    {
+      "date": "2026-04-10T00:00:00",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "location": "Obec Brewing",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "timezone": "PT",
+      "vendor": "Express Mexican Grill"
     },
     {
       "date": "2026-04-10T00:00:00",
@@ -510,9 +519,9 @@
       "vendor": "Impeckable Chicken"
     }
   ],
-  "haiku": "\ud83c\udf57 Impeckable Chicken\u2014\nmuted light at Saleh's Corner,\ncrisp air, cold pints poured \ud83c\udf7a",
+  "haiku": "\u2601\ufe0f El Pachi's crust seals\nwarmth the mild gray air can't steal\u2014\nWheelie Pop pints breathe \ud83c\udf7a",
   "timezone": "PT",
   "timezone_note": "All event times are in Pacific Time (PT), which includes both PST and PDT depending on the date.",
-  "total_events": 46,
-  "updated": "2026-04-10T14:11:15.897275+00:00"
+  "total_events": 47,
+  "updated": "2026-04-10T15:10:24.509656+00:00"
 }
