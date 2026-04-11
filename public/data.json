@@ -613,12 +613,12 @@
       "venue": "Saleh's Corner"
     }
   ],
-  "haiku": "\ud83c\udf56 Smoke curls, sky holds gray\u2014\nJohnson BBQ and Stoup,\nbrisket warms the air \ud83c\udf7a",
+  "haiku": "\ud83e\udd5f Momo steam lifts slow\u2014\nUrban Family pints wait,\nthick air holds the warmth \ud83c\udf7a",
   "site_key": "events",
   "site_name": "Events",
   "timezone": "America/Los_Angeles",
   "timezone_label": "PT",
   "timezone_note": "All event times are in Pacific Time (PT).",
   "total_events": 47,
-  "updated": "2026-04-11T10:10:08.084926+00:00"
+  "updated": "2026-04-11T11:10:28.820214+00:00"
 }
