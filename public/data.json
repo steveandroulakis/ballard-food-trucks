@@ -613,12 +613,12 @@
       "venue": "Saleh's Corner"
     }
   ],
-  "haiku": "\ud83c\udf2e T'Juana's smoke curls\ninto the heavy pale air\u2014\nChuck's pints, still and full \ud83c\udf7a",
+  "haiku": "\u2601\ufe0f Muffled light, soft air\u2014\nExpress Mexican Grill's smoke\nlifts at Obec's pour \ud83c\udf7a",
   "site_key": "events",
   "site_name": "Events",
   "timezone": "America/Los_Angeles",
   "timezone_label": "PT",
   "timezone_note": "All event times are in Pacific Time (PT).",
   "total_events": 47,
-  "updated": "2026-04-11T05:52:17.060439+00:00"
+  "updated": "2026-04-11T06:10:09.979685+00:00"
 }
