@@ -203,10 +203,10 @@
       "end_time_raw": "8:00 PM",
       "extraction_method": "html",
       "location": "Obec Brewing",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
-      "title": "Express Mexican Grill",
-      "vendor": "Express Mexican Grill",
+      "start_time": "3:00 AM PT",
+      "start_time_raw": "3:00 AM",
+      "title": "Kaosamai Thai",
+      "vendor": "Kaosamai Thai",
       "venue": "Obec Brewing"
     },
     {
@@ -613,12 +613,12 @@
       "venue": "Saleh's Corner"
     }
   ],
-  "haiku": "\ud83c\udf2b\ufe0f Heavy air holds still\u2014\nExpress Mexican Grill's heat\nlifts at Obec's pints \ud83c\udf7a",
+  "haiku": "\ud83e\udd6a Tat's Deli, thick-stacked\u2014\nChuck's Hop Shop holds the cool air,\npints anchor the gray \ud83c\udf7a",
   "site_key": "events",
   "site_name": "Events",
   "timezone": "America/Los_Angeles",
   "timezone_label": "PT",
   "timezone_note": "All event times are in Pacific Time (PT).",
   "total_events": 47,
-  "updated": "2026-04-11T07:10:13.828827+00:00"
+  "updated": "2026-04-11T08:10:28.639475+00:00"
 }
