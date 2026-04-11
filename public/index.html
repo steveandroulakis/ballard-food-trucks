@@ -318,7 +318,7 @@ Unable to load food truck data. Please try again later.
             </div>
 
             <div class="author-info">
-                By <a href="https://www.linkedin.com/in/steveandroulakis/">Steve Androulakis</a>
+                By <a href="https://www.linkedin.com/in/steveandroulakis/">Steve Androulakis</a> &amp; Jacob Redding
                 •
                 <a href="https://github.com/steveandroulakis/around-the-grounds">
                     <svg class="github-logo" viewBox="0 0 24 24" fill="currentColor">
@@ -334,7 +334,7 @@ Unable to load food truck data. Please try again later.
     <script>
         async function loadFoodTruckData() {
             try {
-                const response = await fetch('/data.json');
+                const response = await fetch('data.json');
                 if (!response.ok) {
                     throw new Error(`HTTP error! status: ${response.status}`);
                 }
