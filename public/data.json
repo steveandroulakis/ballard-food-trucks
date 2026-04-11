@@ -613,12 +613,12 @@
       "venue": "Saleh's Corner"
     }
   ],
-  "haiku": "\ud83d\udd25 Johnson's smoke hangs thick\u2014\nStoup pours through the heavy air,\nbrisket pulls us in \ud83c\udf7a",
+  "haiku": "\ud83e\uddfa Tisket Tasket's warmth\u2014\nheavy air, Wheelie Pop pints,\nneighbors lean in close \ud83c\udf7a",
   "site_key": "events",
   "site_name": "Events",
   "timezone": "America/Los_Angeles",
   "timezone_label": "PT",
   "timezone_note": "All event times are in Pacific Time (PT).",
   "total_events": 47,
-  "updated": "2026-04-11T15:10:08.210559+00:00"
+  "updated": "2026-04-11T16:10:08.805469+00:00"
 }
