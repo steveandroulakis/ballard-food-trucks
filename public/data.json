@@ -2,19 +2,6 @@
   "errors": [],
   "events": [
     {
-      "date": "2026-04-12T00:00:00",
-      "description": null,
-      "end_time": "7:00 PM PT",
-      "end_time_raw": "7:00 PM",
-      "extraction_method": "html",
-      "location": "Stoup Brewing - Ballard",
-      "start_time": "1:00 PM PT",
-      "start_time_raw": "1:00 PM",
-      "title": "El Pirata Tortas Y Burritos / Now Make Me A Sandwich",
-      "vendor": "El Pirata Tortas Y Burritos / Now Make Me A Sandwich",
-      "venue": "Stoup Brewing - Ballard"
-    },
-    {
       "date": "2026-04-13T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
@@ -106,17 +93,17 @@
       "venue": "Stoup Brewing - Ballard"
     },
     {
-      "date": "2026-04-12T13:00:00.336000",
+      "date": "2026-04-20T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
       "extraction_method": "html",
-      "location": "Yonder Cider & Bale Breaker - Ballard",
-      "start_time": "1:00 PM PT",
-      "start_time_raw": "1:00 PM",
-      "title": "Tacos &amp; Beer",
-      "vendor": "Tacos &amp; Beer",
-      "venue": "Yonder Cider & Bale Breaker - Ballard"
+      "location": "Stoup Brewing - Ballard",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "title": "Russo Pizzarium",
+      "vendor": "Russo Pizzarium",
+      "venue": "Stoup Brewing - Ballard"
     },
     {
       "date": "2026-04-14T16:00:00.203000",
@@ -197,30 +184,17 @@
       "venue": "Yonder Cider & Bale Breaker - Ballard"
     },
     {
-      "date": "2026-04-12T00:00:00",
-      "description": "https://urbanfamilybrewing.com/events/9th-and-hennepin-14/",
-      "end_time": "12:00 PM PT",
-      "end_time_raw": "12:00 PM",
+      "date": "2026-04-13T00:00:00",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
       "extraction_method": "html",
-      "location": "Urban Family Brewing",
-      "start_time": "8:00 AM PT",
-      "start_time_raw": "8:00 AM",
-      "title": "9th and Hennepin",
-      "vendor": "9th and Hennepin",
-      "venue": "Urban Family Brewing"
-    },
-    {
-      "date": "2026-04-12T00:00:00",
-      "description": "https://urbanfamilybrewing.com/events/kaosamai-5/",
-      "end_time": "7:00 PM PT",
-      "end_time_raw": "7:00 PM",
-      "extraction_method": "html",
-      "location": "Urban Family Brewing",
-      "start_time": "1:00 PM PT",
-      "start_time_raw": "1:00 PM",
-      "title": "Kaosamai",
-      "vendor": "Kaosamai",
-      "venue": "Urban Family Brewing"
+      "location": "Obec Brewing",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "title": "Plaza Garcia",
+      "vendor": "Plaza Garcia",
+      "venue": "Obec Brewing"
     },
     {
       "date": "2026-04-13T00:00:00",
@@ -327,6 +301,19 @@
       "venue": "Urban Family Brewing"
     },
     {
+      "date": "2026-04-20T00:00:00",
+      "description": "https://urbanfamilybrewing.com/events/empanadas-el-pachi-8/",
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "extraction_method": "html",
+      "location": "Urban Family Brewing",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "title": "Empanadas El Pachi",
+      "vendor": "Empanadas El Pachi",
+      "venue": "Urban Family Brewing"
+    },
+    {
       "date": "2026-04-16T00:00:00",
       "description": null,
       "end_time": "1:00 AM PT",
@@ -364,32 +351,6 @@
       "title": "Kaosamai",
       "vendor": "Kaosamai",
       "venue": "Channel Marker Cider"
-    },
-    {
-      "date": "2026-04-12T00:00:00",
-      "description": "Original event: Brunch: Good Morning Tacos",
-      "end_time": null,
-      "end_time_raw": null,
-      "extraction_method": "html",
-      "location": "Chuck's Hop Shop Greenwood",
-      "start_time": null,
-      "start_time_raw": null,
-      "title": "Good Morning Tacos",
-      "vendor": "Good Morning Tacos",
-      "venue": "Chuck's Hop Shop Greenwood"
-    },
-    {
-      "date": "2026-04-12T00:00:00",
-      "description": "Original event: Dinner: Levantine Cuisine",
-      "end_time": null,
-      "end_time_raw": null,
-      "extraction_method": "html",
-      "location": "Chuck's Hop Shop Greenwood",
-      "start_time": null,
-      "start_time_raw": null,
-      "title": "Levantine Cuisine",
-      "vendor": "Levantine Cuisine",
-      "venue": "Chuck's Hop Shop Greenwood"
     },
     {
       "date": "2026-04-13T00:00:00",
@@ -496,6 +457,19 @@
       "venue": "Chuck's Hop Shop Greenwood"
     },
     {
+      "date": "2026-04-20T00:00:00",
+      "description": "Original event: Dinner: Off the Rez",
+      "end_time": null,
+      "end_time_raw": null,
+      "extraction_method": "html",
+      "location": "Chuck's Hop Shop Greenwood",
+      "start_time": null,
+      "start_time_raw": null,
+      "title": "Off the Rez",
+      "vendor": "Off the Rez",
+      "venue": "Chuck's Hop Shop Greenwood"
+    },
+    {
       "date": "2026-04-17T00:00:00",
       "description": null,
       "end_time": "7:30 PM PT",
@@ -507,19 +481,6 @@
       "title": "Kaosamai",
       "vendor": "Kaosamai",
       "venue": "Lucky Envelope Brewing"
-    },
-    {
-      "date": "2026-04-12T17:00:00",
-      "description": "Cuisine: American, Cheesesteaks",
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
-      "extraction_method": "api",
-      "location": "Saleh's Corner",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
-      "title": "Split Open and Melt",
-      "vendor": "Split Open and Melt",
-      "venue": "Saleh's Corner"
     },
     {
       "date": "2026-04-13T17:00:00",
@@ -611,14 +572,27 @@
       "title": "Pumpkin Thai",
       "vendor": "Pumpkin Thai",
       "venue": "Saleh's Corner"
+    },
+    {
+      "date": "2026-04-20T17:00:00",
+      "description": "Cuisine: Asian, BBQ, Sandwiches",
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "extraction_method": "api",
+      "location": "Saleh's Corner",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "title": "MOMO Express",
+      "vendor": "MOMO Express",
+      "venue": "Saleh's Corner"
     }
   ],
-  "haiku": "\ud83c\udf5c Kaosamai's steam\nlifts into the heavy air\u2014\nUrban Family pints \ud83c\udf7a",
+  "haiku": "\ud83c\udf2e La Riviera Maya\u2014\nspice cuts the heavy gray air,\nUrban Family pours \ud83c\udf7a",
   "site_key": "ballard-food-trucks",
   "site_name": "Food Trucks in Ballard",
   "timezone": "America/Los_Angeles",
   "timezone_label": "PT",
   "timezone_note": "All event times are in Pacific Time (PT).",
-  "total_events": 47,
-  "updated": "2026-04-13T06:10:13.660365+00:00"
+  "total_events": 45,
+  "updated": "2026-04-13T07:10:15.355165+00:00"
 }
