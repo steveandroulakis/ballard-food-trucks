@@ -548,32 +548,6 @@
       "venue": "Saleh's Corner"
     },
     {
-      "date": "2026-04-18T17:00:00",
-      "description": "Cuisine: Asian, Thai, Vegetarian",
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
-      "extraction_method": "api",
-      "location": "Saleh's Corner",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
-      "title": "Pumpkin Thai",
-      "vendor": "Pumpkin Thai",
-      "venue": "Saleh's Corner"
-    },
-    {
-      "date": "2026-04-19T17:00:00",
-      "description": "Cuisine: Asian, Thai, Vegetarian",
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
-      "extraction_method": "api",
-      "location": "Saleh's Corner",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
-      "title": "Pumpkin Thai",
-      "vendor": "Pumpkin Thai",
-      "venue": "Saleh's Corner"
-    },
-    {
       "date": "2026-04-20T17:00:00",
       "description": "Cuisine: Asian, BBQ, Sandwiches",
       "end_time": "9:00 PM PT",
@@ -587,12 +561,12 @@
       "venue": "Saleh's Corner"
     }
   ],
-  "haiku": "\u2601\ufe0f Where Ya At Matt's warmth\u2014\nheavy air holds Stoup's hops close,\npints soften the gray \ud83c\udf7a",
+  "haiku": "\ud83c\udf2e Still air holds the smoke\u2014\nLa Riviera Maya's heat,\nUrban Family pints \ud83c\udf7a",
   "site_key": "ballard-food-trucks",
   "site_name": "Food Trucks in Ballard",
   "timezone": "America/Los_Angeles",
   "timezone_label": "PT",
   "timezone_note": "All event times are in Pacific Time (PT).",
-  "total_events": 45,
-  "updated": "2026-04-13T19:10:08.147115+00:00"
+  "total_events": 43,
+  "updated": "2026-04-13T20:10:07.185608+00:00"
 }
