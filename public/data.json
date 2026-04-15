@@ -205,8 +205,8 @@
       "location": "Obec Brewing",
       "start_time": "4:00 PM PT",
       "start_time_raw": "4:00 PM",
-      "title": "La Coste\u00f1ita Cuisine",
-      "vendor": "La Coste\u00f1ita Cuisine",
+      "title": "Cocina Barelas (New Mexican Cuisine)",
+      "vendor": "Cocina Barelas (New Mexican Cuisine)",
       "venue": "Obec Brewing"
     },
     {
@@ -600,12 +600,12 @@
       "venue": "Saleh's Corner"
     }
   ],
-  "haiku": "\ud83c\udf2c\ufe0f Breezy skies may turn\u2014\nLa Coste\u00f1ita's warmth calls\ninto Obec's pour \ud83c\udf7a",
+  "haiku": "\ud83c\udf2c\ufe0f El Gran Taco's smoke\nbends in the cold Ballard breeze\u2014\nStoup pints, hands cupped warm \ud83c\udf7a",
   "site_key": "ballard-food-trucks",
   "site_name": "Food Trucks in Ballard",
   "timezone": "America/Los_Angeles",
   "timezone_label": "PT",
   "timezone_note": "All event times are in Pacific Time (PT).",
   "total_events": 46,
-  "updated": "2026-04-15T08:10:10.564168+00:00"
+  "updated": "2026-04-15T09:10:36.968845+00:00"
 }
