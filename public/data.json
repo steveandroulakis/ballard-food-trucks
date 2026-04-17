@@ -470,19 +470,6 @@
       "venue": "Chuck's Hop Shop Greenwood"
     },
     {
-      "date": "2026-04-22T00:00:00",
-      "description": "Original event: Dinner: Chick'n Fix",
-      "end_time": null,
-      "end_time_raw": null,
-      "extraction_method": "html",
-      "location": "Chuck's Hop Shop Greenwood",
-      "start_time": null,
-      "start_time_raw": null,
-      "title": "Chick'n Fix",
-      "vendor": "Chick'n Fix",
-      "venue": "Chuck's Hop Shop Greenwood"
-    },
-    {
       "date": "2026-04-23T00:00:00",
       "description": "Original event: Dinner: Pizza Paesano",
       "end_time": null,
@@ -613,12 +600,12 @@
       "venue": "Saleh's Corner"
     }
   ],
-  "haiku": "\ud83c\udf38 Heart in Seoul's steam curls\u2014\nclear light rests on Obec's taps,\nApril, easy, bright \ud83c\udf7a",
+  "haiku": "\ud83c\udf55 Clear April light holds\u2014\nPizza Paesano's crust cracks,\nChuck's pints catch the sun \ud83c\udf7a",
   "site_key": "ballard-food-trucks",
   "site_name": "Food Trucks in Ballard",
   "timezone": "America/Los_Angeles",
   "timezone_label": "PT",
   "timezone_note": "All event times are in Pacific Time (PT).",
-  "total_events": 47,
-  "updated": "2026-04-16T23:10:08.659507+00:00"
+  "total_events": 46,
+  "updated": "2026-04-17T00:10:11.423607+00:00"
 }
