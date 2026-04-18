@@ -2,19 +2,6 @@
   "errors": [],
   "events": [
     {
-      "date": "2026-04-17T00:00:00",
-      "description": null,
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
-      "extraction_method": "html",
-      "location": "Stoup Brewing - Ballard",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
-      "title": "Georgia's Greek",
-      "vendor": "Georgia's Greek",
-      "venue": "Stoup Brewing - Ballard"
-    },
-    {
       "date": "2026-04-18T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
@@ -106,17 +93,17 @@
       "venue": "Stoup Brewing - Ballard"
     },
     {
-      "date": "2026-04-17T16:00:00.571000",
+      "date": "2026-04-25T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
       "extraction_method": "html",
-      "location": "Yonder Cider & Bale Breaker - Ballard",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
-      "title": "Paparepas",
-      "vendor": "Paparepas",
-      "venue": "Yonder Cider & Bale Breaker - Ballard"
+      "location": "Stoup Brewing - Ballard",
+      "start_time": "1:00 PM PT",
+      "start_time_raw": "1:00 PM",
+      "title": "Johnson BBQ Provisions",
+      "vendor": "Johnson BBQ Provisions",
+      "venue": "Stoup Brewing - Ballard"
     },
     {
       "date": "2026-04-18T13:00:00.425000",
@@ -197,7 +184,20 @@
       "venue": "Yonder Cider & Bale Breaker - Ballard"
     },
     {
-      "date": "2026-04-17T00:00:00",
+      "date": "2026-04-25T13:00:00.664000",
+      "description": null,
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "extraction_method": "html",
+      "location": "Yonder Cider & Bale Breaker - Ballard",
+      "start_time": "1:00 PM PT",
+      "start_time_raw": "1:00 PM",
+      "title": "Wich Came First",
+      "vendor": "Wich Came First",
+      "venue": "Yonder Cider & Bale Breaker - Ballard"
+    },
+    {
+      "date": "2026-04-18T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -208,19 +208,6 @@
       "title": "La Coste\u00f1ita Cuisine",
       "vendor": "La Coste\u00f1ita Cuisine",
       "venue": "Obec Brewing"
-    },
-    {
-      "date": "2026-04-17T00:00:00",
-      "description": "https://urbanfamilybrewing.com/events/tacos-and-beer-6/",
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "extraction_method": "html",
-      "location": "Urban Family Brewing",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
-      "title": "Tacos and Beer",
-      "vendor": "Tacos and Beer",
-      "venue": "Urban Family Brewing"
     },
     {
       "date": "2026-04-18T00:00:00",
@@ -327,6 +314,19 @@
       "venue": "Urban Family Brewing"
     },
     {
+      "date": "2026-04-25T00:00:00",
+      "description": "https://urbanfamilybrewing.com/events/momo-express-9/",
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "extraction_method": "html",
+      "location": "Urban Family Brewing",
+      "start_time": "1:00 PM PT",
+      "start_time_raw": "1:00 PM",
+      "title": "Momo Express",
+      "vendor": "Momo Express",
+      "venue": "Urban Family Brewing"
+    },
+    {
       "date": "2026-04-18T00:00:00",
       "description": null,
       "end_time": "1:00 AM PT",
@@ -366,6 +366,19 @@
       "venue": "Wheelie Pop Brewing"
     },
     {
+      "date": "2026-04-25T00:00:00",
+      "description": null,
+      "end_time": "1:00 AM PT",
+      "end_time_raw": "1:00 AM",
+      "extraction_method": "html",
+      "location": "Wheelie Pop Brewing",
+      "start_time": "12:00 AM PT",
+      "start_time_raw": "12:00 AM",
+      "title": "Tisket Tasket",
+      "vendor": "Tisket Tasket",
+      "venue": "Wheelie Pop Brewing"
+    },
+    {
       "date": "2026-04-22T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
@@ -377,19 +390,6 @@
       "title": "La Costenita Cuisine",
       "vendor": "La Costenita Cuisine",
       "venue": "Channel Marker Cider"
-    },
-    {
-      "date": "2026-04-17T00:00:00",
-      "description": "Original event: Dinner: T'Juana",
-      "end_time": null,
-      "end_time_raw": null,
-      "extraction_method": "html",
-      "location": "Chuck's Hop Shop Greenwood",
-      "start_time": null,
-      "start_time_raw": null,
-      "title": "T'Juana",
-      "vendor": "T'Juana",
-      "venue": "Chuck's Hop Shop Greenwood"
     },
     {
       "date": "2026-04-18T00:00:00",
@@ -496,30 +496,17 @@
       "venue": "Chuck's Hop Shop Greenwood"
     },
     {
-      "date": "2026-04-17T00:00:00",
-      "description": null,
-      "end_time": "7:30 PM PT",
-      "end_time_raw": "7:30 PM",
+      "date": "2026-04-25T00:00:00",
+      "description": "Original event: Tat's Deli",
+      "end_time": null,
+      "end_time_raw": null,
       "extraction_method": "html",
-      "location": "Lucky Envelope Brewing",
-      "start_time": "4:30 PM PT",
-      "start_time_raw": "4:30 PM",
-      "title": "Kaosamai",
-      "vendor": "Kaosamai",
-      "venue": "Lucky Envelope Brewing"
-    },
-    {
-      "date": "2026-04-17T17:00:00",
-      "description": "Cuisine: Chicken, Sandwiches, Southern",
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
-      "extraction_method": "api",
-      "location": "Saleh's Corner",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
-      "title": "Impeckable Chicken",
-      "vendor": "Impeckable Chicken",
-      "venue": "Saleh's Corner"
+      "location": "Chuck's Hop Shop Greenwood",
+      "start_time": null,
+      "start_time_raw": null,
+      "title": "Tat's Deli",
+      "vendor": "Tat's Deli",
+      "venue": "Chuck's Hop Shop Greenwood"
     },
     {
       "date": "2026-04-18T17:00:00",
@@ -611,14 +598,27 @@
       "title": "Impeckable Chicken",
       "vendor": "Impeckable Chicken",
       "venue": "Saleh's Corner"
+    },
+    {
+      "date": "2026-04-25T17:00:00",
+      "description": "Cuisine: Asian, Thai, Vegetarian",
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "extraction_method": "api",
+      "location": "Saleh's Corner",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "title": "Pumpkin Thai",
+      "vendor": "Pumpkin Thai",
+      "venue": "Saleh's Corner"
     }
   ],
-  "haiku": "\ud83c\udf2e La Coste\u00f1ita's smoke\nlifts into the muffled air\u2014\nObec pints, unhurried \ud83c\udf7a",
+  "haiku": "\ud83c\udf2e La Coste\u00f1ita's smoke\nlifts into the still gray air\u2014\nObec pints, unhurried \ud83c\udf7a",
   "site_key": "ballard-food-trucks",
   "site_name": "Food Trucks in Ballard",
   "timezone": "America/Los_Angeles",
   "timezone_label": "PT",
   "timezone_note": "All event times are in Pacific Time (PT).",
   "total_events": 47,
-  "updated": "2026-04-18T06:10:07.285084+00:00"
+  "updated": "2026-04-18T07:10:11.870198+00:00"
 }
