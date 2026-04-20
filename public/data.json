@@ -1,5 +1,7 @@
 {
-  "errors": [],
+  "errors": [
+    "Failed to fetch information for: Obec Brewing"
+  ],
   "events": [
     {
       "date": "2026-04-20T00:00:00",
@@ -182,19 +184,6 @@
       "title": "Tacos &amp; Beer",
       "vendor": "Tacos &amp; Beer",
       "venue": "Yonder Cider & Bale Breaker - Ballard"
-    },
-    {
-      "date": "2026-04-20T00:00:00",
-      "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "extraction_method": "html",
-      "location": "Obec Brewing",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
-      "title": "Plaza Garcia",
-      "vendor": "Plaza Garcia",
-      "venue": "Obec Brewing"
     },
     {
       "date": "2026-04-20T00:00:00",
@@ -600,12 +589,12 @@
       "venue": "Saleh's Corner"
     }
   ],
-  "haiku": "\ud83c\udf7a Off the Rez plates warm\u2014\nsoft light through Chuck's open door,\nbreeze stirs the hop yard \ud83c\udf3f",
+  "haiku": "\ud83c\udf55 Russo's crust catches\nthe muted April light\u2014Stoup\npints soften the grey \ud83c\udf7a",
   "site_key": "ballard-food-trucks",
   "site_name": "Food Trucks in Ballard",
   "timezone": "America/Los_Angeles",
   "timezone_label": "PT",
   "timezone_note": "All event times are in Pacific Time (PT).",
-  "total_events": 46,
-  "updated": "2026-04-20T20:10:12.657875+00:00"
+  "total_events": 45,
+  "updated": "2026-04-20T21:11:03.716193+00:00"
 }
