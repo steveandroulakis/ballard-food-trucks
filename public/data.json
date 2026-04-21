@@ -205,8 +205,8 @@
       "location": "Obec Brewing",
       "start_time": "4:00 PM PT",
       "start_time_raw": "4:00 PM",
-      "title": "Plaza Garcia",
-      "vendor": "Plaza Garcia",
+      "title": "La Coste\u00f1ita Cuisine",
+      "vendor": "La Coste\u00f1ita Cuisine",
       "venue": "Obec Brewing"
     },
     {
@@ -626,12 +626,12 @@
       "venue": "Saleh's Corner"
     }
   ],
-  "haiku": "\ud83c\udf54 BurgerDOM's sear calls\u2014\nUrban Family pints settle,\nheavy air, still full \ud83c\udf7a",
+  "haiku": "\u2601\ufe0f Heavy air holds still\u2014\nLa Coste\u00f1ita's warmth calls\nto Obec's dim hall \ud83c\udf7a",
   "site_key": "ballard-food-trucks",
   "site_name": "Food Trucks in Ballard",
   "timezone": "America/Los_Angeles",
   "timezone_label": "PT",
   "timezone_note": "All event times are in Pacific Time (PT).",
   "total_events": 48,
-  "updated": "2026-04-21T07:10:10.544088+00:00"
+  "updated": "2026-04-21T08:10:13.902207+00:00"
 }
