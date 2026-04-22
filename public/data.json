@@ -205,8 +205,8 @@
       "location": "Obec Brewing",
       "start_time": "4:00 PM PT",
       "start_time_raw": "4:00 PM",
-      "title": "La Coste\u00f1ita Cuisine",
-      "vendor": "La Coste\u00f1ita Cuisine",
+      "title": "Empanadas el Pachi",
+      "vendor": "Empanadas el Pachi",
       "venue": "Obec Brewing"
     },
     {
@@ -639,12 +639,12 @@
       "venue": "Saleh's Corner"
     }
   ],
-  "haiku": "\ud83c\udf2c\ufe0f Breeze stirs the cider\u2014\nLa Costenita's warmth holds\nat Channel Marker \ud83c\udf7a",
+  "haiku": "\ud83c\udf57 Impeckable Chicken\u2014\nbreeze carries the crisp and char\nto Chuck's, pints in hand \ud83c\udf7a",
   "site_key": "ballard-food-trucks",
   "site_name": "Food Trucks in Ballard",
   "timezone": "America/Los_Angeles",
   "timezone_label": "PT",
   "timezone_note": "All event times are in Pacific Time (PT).",
   "total_events": 49,
-  "updated": "2026-04-22T08:10:08.992867+00:00"
+  "updated": "2026-04-22T10:10:10.651156+00:00"
 }
