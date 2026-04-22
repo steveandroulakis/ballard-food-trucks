@@ -1,5 +1,7 @@
 {
-  "errors": [],
+  "errors": [
+    "Failed to fetch information for: Channel Marker Cider"
+  ],
   "events": [
     {
       "date": "2026-04-21T00:00:00",
@@ -392,19 +394,6 @@
       "venue": "Wheelie Pop Brewing"
     },
     {
-      "date": "2026-04-22T00:00:00",
-      "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "extraction_method": "csv",
-      "location": "Channel Marker Cider",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
-      "title": "La Costenita Cuisine",
-      "vendor": "La Costenita Cuisine",
-      "venue": "Channel Marker Cider"
-    },
-    {
       "date": "2026-04-21T00:00:00",
       "description": "Original event: Dinner: Kaosomai Thai",
       "end_time": null,
@@ -626,12 +615,12 @@
       "venue": "Saleh's Corner"
     }
   ],
-  "haiku": "\ud83c\udf19 Tacos & Beer calls\u2014\nStoup's amber cuts the thick dusk,\nheavy air, warm hands \ud83c\udf7a",
+  "haiku": "\ud83c\udf2b\ufe0f Tummy Yummy Thai\u2014\nwarm lemongrass cuts the damp air,\nYonder pours, clouds hold \ud83c\udf7a",
   "site_key": "ballard-food-trucks",
   "site_name": "Food Trucks in Ballard",
   "timezone": "America/Los_Angeles",
   "timezone_label": "PT",
   "timezone_note": "All event times are in Pacific Time (PT).",
-  "total_events": 48,
-  "updated": "2026-04-22T02:10:08.967111+00:00"
+  "total_events": 47,
+  "updated": "2026-04-22T03:11:04.267066+00:00"
 }
