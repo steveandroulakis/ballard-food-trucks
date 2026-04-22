@@ -1,5 +1,7 @@
 {
-  "errors": [],
+  "errors": [
+    "Failed to fetch information for: Obec Brewing"
+  ],
   "events": [
     {
       "date": "2026-04-22T00:00:00",
@@ -195,19 +197,6 @@
       "title": "Georgia\u2019s Greek",
       "vendor": "Georgia\u2019s Greek",
       "venue": "Yonder Cider & Bale Breaker - Ballard"
-    },
-    {
-      "date": "2026-04-22T00:00:00",
-      "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "extraction_method": "html",
-      "location": "Obec Brewing",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
-      "title": "Empanadas el Pachi",
-      "vendor": "Empanadas el Pachi",
-      "venue": "Obec Brewing"
     },
     {
       "date": "2026-04-22T00:00:00",
@@ -639,12 +628,12 @@
       "venue": "Saleh's Corner"
     }
   ],
-  "haiku": "\ud83c\udf2c\ufe0f Wind bends the queue slow\u2014\nEmpanadas el Pachi,\nObec pints, hands curled \ud83c\udf7a",
+  "haiku": "\ud83c\udf2c\ufe0f La Costenita's heat\nbends against the pressing gray\u2014\nChannel Marker, poured \ud83c\udf7a",
   "site_key": "ballard-food-trucks",
   "site_name": "Food Trucks in Ballard",
   "timezone": "America/Los_Angeles",
   "timezone_label": "PT",
   "timezone_note": "All event times are in Pacific Time (PT).",
-  "total_events": 49,
-  "updated": "2026-04-22T20:10:10.157624+00:00"
+  "total_events": 48,
+  "updated": "2026-04-22T21:11:03.430197+00:00"
 }
