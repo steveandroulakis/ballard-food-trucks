@@ -2,19 +2,6 @@
   "errors": [],
   "events": [
     {
-      "date": "2026-04-22T00:00:00",
-      "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "extraction_method": "html",
-      "location": "Stoup Brewing - Ballard",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
-      "title": "The Marigold Wood Fired Pizza",
-      "vendor": "The Marigold Wood Fired Pizza",
-      "venue": "Stoup Brewing - Ballard"
-    },
-    {
       "date": "2026-04-23T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
@@ -106,17 +93,17 @@
       "venue": "Stoup Brewing - Ballard"
     },
     {
-      "date": "2026-04-22T16:00:00.425000",
+      "date": "2026-04-30T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
       "extraction_method": "html",
-      "location": "Yonder Cider & Bale Breaker - Ballard",
+      "location": "Stoup Brewing - Ballard",
       "start_time": "4:00 PM PT",
       "start_time_raw": "4:00 PM",
-      "title": "Georgia\u2019s Greek",
-      "vendor": "Georgia\u2019s Greek",
-      "venue": "Yonder Cider & Bale Breaker - Ballard"
+      "title": "Birrieria Pepe El Toro",
+      "vendor": "Birrieria Pepe El Toro",
+      "venue": "Stoup Brewing - Ballard"
     },
     {
       "date": "2026-04-23T16:00:00.091000",
@@ -197,7 +184,20 @@
       "venue": "Yonder Cider & Bale Breaker - Ballard"
     },
     {
-      "date": "2026-04-22T00:00:00",
+      "date": "2026-04-30T16:00:00.091000",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "extraction_method": "html",
+      "location": "Yonder Cider & Bale Breaker - Ballard",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "title": "Impeckable Chicken",
+      "vendor": "Impeckable Chicken",
+      "venue": "Yonder Cider & Bale Breaker - Ballard"
+    },
+    {
+      "date": "2026-04-23T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -208,19 +208,6 @@
       "title": "Empanadas el Pachi",
       "vendor": "Empanadas el Pachi",
       "venue": "Obec Brewing"
-    },
-    {
-      "date": "2026-04-22T00:00:00",
-      "description": "https://urbanfamilybrewing.com/events/katmandu-momocha-8/",
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "extraction_method": "html",
-      "location": "Urban Family Brewing",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
-      "title": "Katmandu Momocha",
-      "vendor": "Katmandu Momocha",
-      "venue": "Urban Family Brewing"
     },
     {
       "date": "2026-04-23T00:00:00",
@@ -327,6 +314,19 @@
       "venue": "Urban Family Brewing"
     },
     {
+      "date": "2026-04-30T00:00:00",
+      "description": "https://urbanfamilybrewing.com/events/alebrijes-23/",
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "extraction_method": "html",
+      "location": "Urban Family Brewing",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "title": "Alebrijes",
+      "vendor": "Alebrijes",
+      "venue": "Urban Family Brewing"
+    },
+    {
       "date": "2026-04-23T00:00:00",
       "description": null,
       "end_time": "1:00 AM PT",
@@ -392,19 +392,6 @@
       "venue": "Wheelie Pop Brewing"
     },
     {
-      "date": "2026-04-22T00:00:00",
-      "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "extraction_method": "csv",
-      "location": "Channel Marker Cider",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
-      "title": "La Costenita Cuisine",
-      "vendor": "La Costenita Cuisine",
-      "venue": "Channel Marker Cider"
-    },
-    {
       "date": "2026-04-29T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
@@ -416,19 +403,6 @@
       "title": "El Pachi Empanadas",
       "vendor": "El Pachi Empanadas",
       "venue": "Channel Marker Cider"
-    },
-    {
-      "date": "2026-04-22T00:00:00",
-      "description": "Original event: Dinner: Impeckable Chicken",
-      "end_time": null,
-      "end_time_raw": null,
-      "extraction_method": "html",
-      "location": "Chuck's Hop Shop Greenwood",
-      "start_time": null,
-      "start_time_raw": null,
-      "title": "Impeckable Chicken",
-      "vendor": "Impeckable Chicken",
-      "venue": "Chuck's Hop Shop Greenwood"
     },
     {
       "date": "2026-04-23T00:00:00",
@@ -535,17 +509,17 @@
       "venue": "Chuck's Hop Shop Greenwood"
     },
     {
-      "date": "2026-04-22T17:00:00",
-      "description": "Cuisine: Greek, Gyro, Halal",
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
-      "extraction_method": "api",
-      "location": "Saleh's Corner",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
-      "title": "Theo's Gyros",
-      "vendor": "Theo's Gyros",
-      "venue": "Saleh's Corner"
+      "date": "2026-04-30T00:00:00",
+      "description": "Original event: Dinner: Pizza Paesano",
+      "end_time": null,
+      "end_time_raw": null,
+      "extraction_method": "html",
+      "location": "Chuck's Hop Shop Greenwood",
+      "start_time": null,
+      "start_time_raw": null,
+      "title": "Pizza Paesano",
+      "vendor": "Pizza Paesano",
+      "venue": "Chuck's Hop Shop Greenwood"
     },
     {
       "date": "2026-04-23T17:00:00",
@@ -637,14 +611,27 @@
       "title": "Theo's Gyros",
       "vendor": "Theo's Gyros",
       "venue": "Saleh's Corner"
+    },
+    {
+      "date": "2026-04-30T17:00:00",
+      "description": "Cuisine: Seafood",
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "extraction_method": "api",
+      "location": "Saleh's Corner",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "title": "Fish Basket NW",
+      "vendor": "Fish Basket NW",
+      "venue": "Saleh's Corner"
     }
   ],
-  "haiku": "\ud83c\udf57 Impeckable Chicken\u2014\ncrisp skin bright in April light,\nChuck's hops, clear and cool \ud83c\udf7a",
+  "haiku": "\ud83c\udf55 Paesano's crust chars\u2014\nclear April light holds the yard,\nChuck's pints, easy air \ud83c\udf7a",
   "site_key": "ballard-food-trucks",
   "site_name": "Food Trucks in Ballard",
   "timezone": "America/Los_Angeles",
   "timezone_label": "PT",
   "timezone_note": "All event times are in Pacific Time (PT).",
-  "total_events": 49,
-  "updated": "2026-04-23T06:10:11.582479+00:00"
+  "total_events": 48,
+  "updated": "2026-04-23T07:10:11.017433+00:00"
 }
