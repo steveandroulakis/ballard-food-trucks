@@ -10,8 +10,8 @@
       "location": "Stoup Brewing - Ballard",
       "start_time": "5:00 PM PT",
       "start_time_raw": "5:00 PM",
-      "title": "Outsider BBQ",
-      "vendor": "Outsider BBQ",
+      "title": "Kottu Seattle",
+      "vendor": "Kottu Seattle",
       "venue": "Stoup Brewing - Ballard"
     },
     {
@@ -639,12 +639,12 @@
       "venue": "Saleh's Corner"
     }
   ],
-  "haiku": "\ud83e\ude90 Burger Planet smoke\nlifts into the pewter air\u2014\nUrban Family pints \ud83c\udf7a",
+  "haiku": "\ud83e\ude90 Burger Planet's smoke\nlifts into the muffled air\u2014\nUrban Family pints \ud83c\udf7a",
   "site_key": "ballard-food-trucks",
   "site_name": "Food Trucks in Ballard",
   "timezone": "America/Los_Angeles",
   "timezone_label": "PT",
   "timezone_note": "All event times are in Pacific Time (PT).",
   "total_events": 49,
-  "updated": "2026-04-23T23:10:07.464185+00:00"
+  "updated": "2026-04-24T00:10:07.855895+00:00"
 }
