@@ -2,19 +2,6 @@
   "errors": [],
   "events": [
     {
-      "date": "2026-04-24T00:00:00",
-      "description": null,
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
-      "extraction_method": "html",
-      "location": "Stoup Brewing - Ballard",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
-      "title": "Off the Rez",
-      "vendor": "Off the Rez",
-      "venue": "Stoup Brewing - Ballard"
-    },
-    {
       "date": "2026-04-25T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
@@ -106,17 +93,17 @@
       "venue": "Stoup Brewing - Ballard"
     },
     {
-      "date": "2026-04-24T16:00:00.975000",
+      "date": "2026-05-02T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
       "extraction_method": "html",
-      "location": "Yonder Cider & Bale Breaker - Ballard",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
-      "title": "Wood Shop BBQ",
-      "vendor": "Wood Shop BBQ",
-      "venue": "Yonder Cider & Bale Breaker - Ballard"
+      "location": "Stoup Brewing - Ballard",
+      "start_time": "1:00 PM PT",
+      "start_time_raw": "1:00 PM",
+      "title": "Tat's Truck",
+      "vendor": "Tat's Truck",
+      "venue": "Stoup Brewing - Ballard"
     },
     {
       "date": "2026-04-25T13:00:00.664000",
@@ -197,30 +184,30 @@
       "venue": "Yonder Cider & Bale Breaker - Ballard"
     },
     {
-      "date": "2026-04-24T00:00:00",
+      "date": "2026-05-02T13:00:00.425000",
+      "description": null,
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "extraction_method": "html",
+      "location": "Yonder Cider & Bale Breaker - Ballard",
+      "start_time": "1:00 PM PT",
+      "start_time_raw": "1:00 PM",
+      "title": "Georgia\u2019s Greek",
+      "vendor": "Georgia\u2019s Greek",
+      "venue": "Yonder Cider & Bale Breaker - Ballard"
+    },
+    {
+      "date": "2026-04-25T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
       "extraction_method": "html",
       "location": "Obec Brewing",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
-      "title": "La Coste\u00f1ita Cuisine",
-      "vendor": "La Coste\u00f1ita Cuisine",
+      "start_time": "3:00 AM PT",
+      "start_time_raw": "3:00 AM",
+      "title": "Kaosamai Thai",
+      "vendor": "Kaosamai Thai",
       "venue": "Obec Brewing"
-    },
-    {
-      "date": "2026-04-24T00:00:00",
-      "description": "https://urbanfamilybrewing.com/events/birrieria-pepe-el-toro-8/",
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "extraction_method": "html",
-      "location": "Urban Family Brewing",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
-      "title": "Birrieria Pepe El Toro",
-      "vendor": "Birrieria Pepe El Toro",
-      "venue": "Urban Family Brewing"
     },
     {
       "date": "2026-04-25T00:00:00",
@@ -327,17 +314,17 @@
       "venue": "Urban Family Brewing"
     },
     {
-      "date": "2026-04-24T00:00:00",
-      "description": null,
-      "end_time": "1:00 AM PT",
-      "end_time_raw": "1:00 AM",
+      "date": "2026-05-02T00:00:00",
+      "description": "https://urbanfamilybrewing.com/events/oskars-pizza-9/",
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
       "extraction_method": "html",
-      "location": "Wheelie Pop Brewing",
-      "start_time": "12:00 AM PT",
-      "start_time_raw": "12:00 AM",
-      "title": "El Pachi Empanadas",
-      "vendor": "El Pachi Empanadas",
-      "venue": "Wheelie Pop Brewing"
+      "location": "Urban Family Brewing",
+      "start_time": "1:00 PM PT",
+      "start_time_raw": "1:00 PM",
+      "title": "Oskar's Pizza",
+      "vendor": "Oskar's Pizza",
+      "venue": "Urban Family Brewing"
     },
     {
       "date": "2026-04-25T00:00:00",
@@ -390,19 +377,6 @@
       "title": "El Pachi Empanadas",
       "vendor": "El Pachi Empanadas",
       "venue": "Channel Marker Cider"
-    },
-    {
-      "date": "2026-04-24T00:00:00",
-      "description": "Original event: Dinner: T'Juana",
-      "end_time": null,
-      "end_time_raw": null,
-      "extraction_method": "html",
-      "location": "Chuck's Hop Shop Greenwood",
-      "start_time": null,
-      "start_time_raw": null,
-      "title": "T'Juana",
-      "vendor": "T'Juana",
-      "venue": "Chuck's Hop Shop Greenwood"
     },
     {
       "date": "2026-04-25T00:00:00",
@@ -522,17 +496,17 @@
       "venue": "Chuck's Hop Shop Greenwood"
     },
     {
-      "date": "2026-04-24T17:00:00",
-      "description": "Cuisine: Chicken, Sandwiches, Southern",
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
-      "extraction_method": "api",
-      "location": "Saleh's Corner",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
-      "title": "Impeckable Chicken",
-      "vendor": "Impeckable Chicken",
-      "venue": "Saleh's Corner"
+      "date": "2026-05-02T00:00:00",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "extraction_method": "html",
+      "location": "Lucky Envelope Brewing",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "title": "El Koreano",
+      "vendor": "El Koreano",
+      "venue": "Lucky Envelope Brewing"
     },
     {
       "date": "2026-04-25T17:00:00",
@@ -624,14 +598,27 @@
       "title": "Impeckable Chicken",
       "vendor": "Impeckable Chicken",
       "venue": "Saleh's Corner"
+    },
+    {
+      "date": "2026-05-02T17:00:00",
+      "description": "Cuisine: Gluten-Free, Italian, Pizza",
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "extraction_method": "api",
+      "location": "Saleh's Corner",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "title": "Oskar's Pizza",
+      "vendor": "Oskar's Pizza",
+      "venue": "Saleh's Corner"
     }
   ],
-  "haiku": "\ud83c\udf2e T'Juana's smoke lifts\u2014\nwind carries it through Chuck's doors,\ncold pints, bright dry air \ud83c\udf7a",
+  "haiku": "\ud83d\udd25 Johnson's smoke lifts free\u2014\nStoup's open yard, breeze-bright, clear,\nbrisket, pint, April \ud83c\udf7a",
   "site_key": "ballard-food-trucks",
   "site_name": "Food Trucks in Ballard",
   "timezone": "America/Los_Angeles",
   "timezone_label": "PT",
   "timezone_note": "All event times are in Pacific Time (PT).",
-  "total_events": 48,
-  "updated": "2026-04-25T06:10:09.017059+00:00"
+  "total_events": 47,
+  "updated": "2026-04-25T07:10:50.197889+00:00"
 }
