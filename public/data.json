@@ -370,6 +370,19 @@
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
+      "extraction_method": "html",
+      "location": "Wheelie Pop Brewing",
+      "start_time": "6:00 PM PT",
+      "start_time_raw": "6:00 PM",
+      "title": "ConnectTheHops - Paint & Sip",
+      "vendor": "ConnectTheHops - Paint & Sip",
+      "venue": "Wheelie Pop Brewing"
+    },
+    {
+      "date": "2026-04-29T00:00:00",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
       "extraction_method": "csv",
       "location": "Channel Marker Cider",
       "start_time": "5:00 PM PT",
@@ -613,12 +626,12 @@
       "venue": "Saleh's Corner"
     }
   ],
-  "haiku": "\ud83c\udf1e El Pirata's press\u2014\ntortas warm in the clear breeze,\nStoup pints catch the light \ud83c\udf7a",
+  "haiku": "\ud83c\udf3f Georgia's Greek scents lift\u2014\nChuck's Hop Shop pints catch clear light,\nbright air, easy sips \ud83c\udf7a",
   "site_key": "ballard-food-trucks",
   "site_name": "Food Trucks in Ballard",
   "timezone": "America/Los_Angeles",
   "timezone_label": "PT",
   "timezone_note": "All event times are in Pacific Time (PT).",
-  "total_events": 47,
-  "updated": "2026-04-26T17:10:06.787918+00:00"
+  "total_events": 48,
+  "updated": "2026-04-26T18:10:07.202509+00:00"
 }
