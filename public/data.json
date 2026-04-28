@@ -379,19 +379,6 @@
       "venue": "Chuck's Hop Shop Greenwood"
     },
     {
-      "date": "2026-04-29T00:00:00",
-      "description": "Original event: Dinner: Chick'n Fix",
-      "end_time": null,
-      "end_time_raw": null,
-      "extraction_method": "html",
-      "location": "Chuck's Hop Shop Greenwood",
-      "start_time": null,
-      "start_time_raw": null,
-      "title": "Chick'n Fix",
-      "vendor": "Chick'n Fix",
-      "venue": "Chuck's Hop Shop Greenwood"
-    },
-    {
       "date": "2026-04-30T00:00:00",
       "description": "Original event: Dinner: Pizza Paesano",
       "end_time": null,
@@ -415,6 +402,19 @@
       "start_time_raw": null,
       "title": "Where ya at Matt",
       "vendor": "Where ya at Matt",
+      "venue": "Chuck's Hop Shop Greenwood"
+    },
+    {
+      "date": "2026-05-02T00:00:00",
+      "description": "Original event: Dinner: Tjuana Tacos",
+      "end_time": null,
+      "end_time_raw": null,
+      "extraction_method": "html",
+      "location": "Chuck's Hop Shop Greenwood",
+      "start_time": null,
+      "start_time_raw": null,
+      "title": "Tjuana Tacos",
+      "vendor": "Tjuana Tacos",
       "venue": "Chuck's Hop Shop Greenwood"
     },
     {
@@ -587,12 +587,12 @@
       "venue": "Saleh's Corner"
     }
   ],
-  "haiku": "\ud83c\udf2e Pepe El Toro's steam\nlifts slow in the still gray air\u2014\nYonder pints, calm hands \ud83c\udf7a",
+  "haiku": "\ud83c\udf3f La Coste\u00f1ita's spice\nlifts through cool, still Obec air\u2014\npints soften the gray \ud83c\udf7a",
   "site_key": "ballard-food-trucks",
   "site_name": "Food Trucks in Ballard",
   "timezone": "America/Los_Angeles",
   "timezone_label": "PT",
   "timezone_note": "All event times are in Pacific Time (PT).",
   "total_events": 45,
-  "updated": "2026-04-28T21:10:23.423880+00:00"
+  "updated": "2026-04-28T22:10:07.708275+00:00"
 }
