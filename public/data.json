@@ -535,19 +535,6 @@
       "venue": "Saleh's Corner"
     },
     {
-      "date": "2026-05-02T17:00:00",
-      "description": "Cuisine: Gluten-Free, Italian, Pizza",
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
-      "extraction_method": "api",
-      "location": "Saleh's Corner",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
-      "title": "Oskar's Pizza",
-      "vendor": "Oskar's Pizza",
-      "venue": "Saleh's Corner"
-    },
-    {
       "date": "2026-05-03T17:00:00",
       "description": "Cuisine: African, Halal, Vegetarian",
       "end_time": "9:00 PM PT",
@@ -574,12 +561,12 @@
       "venue": "Saleh's Corner"
     }
   ],
-  "haiku": "\ud83c\udf2e La Riviera Maya\u2014\nsmoke and spice cut the gray wind,\nUrban Family pints \ud83c\udf7a",
+  "haiku": "\ud83e\udd5f MOMO Express steams\u2014\nwind stirs the line at Saleh's,\ndumplings, pints, gray air \ud83c\udf7a",
   "site_key": "ballard-food-trucks",
   "site_name": "Food Trucks in Ballard",
   "timezone": "America/Los_Angeles",
   "timezone_label": "PT",
   "timezone_note": "All event times are in Pacific Time (PT).",
-  "total_events": 44,
-  "updated": "2026-04-27T23:10:11.459375+00:00"
+  "total_events": 43,
+  "updated": "2026-04-28T00:10:13.158206+00:00"
 }
