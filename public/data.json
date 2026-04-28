@@ -106,16 +106,94 @@
       "venue": "Stoup Brewing - Ballard"
     },
     {
-      "date": "2026-04-28T16:10:00.633650",
-      "description": "Food truck schedule not available - check Instagram or website directly",
-      "end_time": null,
-      "end_time_raw": null,
+      "date": "2026-04-28T16:00:00.203000",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
       "extraction_method": "html",
       "location": "Yonder Cider & Bale Breaker - Ballard",
-      "start_time": null,
-      "start_time_raw": null,
-      "title": "Check Instagram @BaleBreaker",
-      "vendor": "Check Instagram @BaleBreaker",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "title": "Birrieria Pepe El Toro",
+      "vendor": "Birrieria Pepe El Toro",
+      "venue": "Yonder Cider & Bale Breaker - Ballard"
+    },
+    {
+      "date": "2026-04-29T16:00:00.425000",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "extraction_method": "html",
+      "location": "Yonder Cider & Bale Breaker - Ballard",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "title": "Georgia\u2019s Greek",
+      "vendor": "Georgia\u2019s Greek",
+      "venue": "Yonder Cider & Bale Breaker - Ballard"
+    },
+    {
+      "date": "2026-04-30T16:00:00.091000",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "extraction_method": "html",
+      "location": "Yonder Cider & Bale Breaker - Ballard",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "title": "Impeckable Chicken",
+      "vendor": "Impeckable Chicken",
+      "venue": "Yonder Cider & Bale Breaker - Ballard"
+    },
+    {
+      "date": "2026-05-01T14:00:00.571000",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "extraction_method": "html",
+      "location": "Yonder Cider & Bale Breaker - Ballard",
+      "start_time": "2:00 PM PT",
+      "start_time_raw": "2:00 PM",
+      "title": "Paparepas",
+      "vendor": "Paparepas",
+      "venue": "Yonder Cider & Bale Breaker - Ballard"
+    },
+    {
+      "date": "2026-05-02T13:00:00.425000",
+      "description": null,
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "extraction_method": "html",
+      "location": "Yonder Cider & Bale Breaker - Ballard",
+      "start_time": "1:00 PM PT",
+      "start_time_raw": "1:00 PM",
+      "title": "Georgia\u2019s Greek",
+      "vendor": "Georgia\u2019s Greek",
+      "venue": "Yonder Cider & Bale Breaker - Ballard"
+    },
+    {
+      "date": "2026-05-03T13:00:00.336000",
+      "description": null,
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "extraction_method": "html",
+      "location": "Yonder Cider & Bale Breaker - Ballard",
+      "start_time": "1:00 PM PT",
+      "start_time_raw": "1:00 PM",
+      "title": "Tacos &amp; Beer",
+      "vendor": "Tacos &amp; Beer",
+      "venue": "Yonder Cider & Bale Breaker - Ballard"
+    },
+    {
+      "date": "2026-05-05T16:00:00.307000",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "extraction_method": "html",
+      "location": "Yonder Cider & Bale Breaker - Ballard",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "title": "Tummy Yummy Thai",
+      "vendor": "Tummy Yummy Thai",
       "venue": "Yonder Cider & Bale Breaker - Ballard"
     },
     {
@@ -509,12 +587,12 @@
       "venue": "Saleh's Corner"
     }
   ],
-  "haiku": "\ud83c\udf2e Plaza Garcia's smoke\nlifts slow under pale flat light\u2014\nSaleh's pints, hands curled \ud83c\udf7a",
+  "haiku": "\ud83c\udfb2 Shuffle Dating calls\u2014\nWheelie Pop's hops cut the chill,\nsoft light, strangers meet \ud83c\udf7a",
   "site_key": "ballard-food-trucks",
   "site_name": "Food Trucks in Ballard",
   "timezone": "America/Los_Angeles",
   "timezone_label": "PT",
   "timezone_note": "All event times are in Pacific Time (PT).",
-  "total_events": 39,
-  "updated": "2026-04-28T16:10:08.734206+00:00"
+  "total_events": 45,
+  "updated": "2026-04-28T17:10:08.258940+00:00"
 }
