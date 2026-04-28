@@ -1,7 +1,5 @@
 {
-  "errors": [
-    "Failed to fetch information for: Obec Brewing"
-  ],
+  "errors": [],
   "events": [
     {
       "date": "2026-04-28T00:00:00",
@@ -197,6 +195,19 @@
       "title": "Tummy Yummy Thai",
       "vendor": "Tummy Yummy Thai",
       "venue": "Yonder Cider & Bale Breaker - Ballard"
+    },
+    {
+      "date": "2026-04-28T00:00:00",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "extraction_method": "html",
+      "location": "Obec Brewing",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "title": "La Coste\u00f1ita Cuisine",
+      "vendor": "La Coste\u00f1ita Cuisine",
+      "venue": "Obec Brewing"
     },
     {
       "date": "2026-04-28T00:00:00",
@@ -576,12 +587,12 @@
       "venue": "Saleh's Corner"
     }
   ],
-  "haiku": "\ud83c\udf5c Kaosomai Thai steams\u2014\npale clouds hold the afternoon,\nChuck's pints, breeze, and warmth \ud83c\udf7a",
+  "haiku": "\ud83c\udf2c\ufe0f Birrieria Pepe El Toro's steam\nrises slow through cooling air\u2014\nYonder's cider, still \ud83c\udf7a",
   "site_key": "ballard-food-trucks",
   "site_name": "Food Trucks in Ballard",
   "timezone": "America/Los_Angeles",
   "timezone_label": "PT",
   "timezone_note": "All event times are in Pacific Time (PT).",
-  "total_events": 44,
-  "updated": "2026-04-28T09:11:03.524007+00:00"
+  "total_events": 45,
+  "updated": "2026-04-28T10:10:16.097910+00:00"
 }
