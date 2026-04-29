@@ -379,6 +379,19 @@
       "venue": "Chuck's Hop Shop Greenwood"
     },
     {
+      "date": "2026-04-29T00:00:00",
+      "description": "Original event: Dinner: Impeckable Chicken",
+      "end_time": null,
+      "end_time_raw": null,
+      "extraction_method": "html",
+      "location": "Chuck's Hop Shop Greenwood",
+      "start_time": null,
+      "start_time_raw": null,
+      "title": "Impeckable Chicken",
+      "vendor": "Impeckable Chicken",
+      "venue": "Chuck's Hop Shop Greenwood"
+    },
+    {
       "date": "2026-04-30T00:00:00",
       "description": "Original event: Dinner: Pizza Paesano",
       "end_time": null,
@@ -587,12 +600,12 @@
       "venue": "Saleh's Corner"
     }
   ],
-  "haiku": "\ud83c\udf5c Kaosomai's warmth lifts\u2014\npale sky holds, Chuck's pints pour slow,\nlemongrass, cool air \ud83c\udf7a",
+  "haiku": "\ud83c\udf2e Pepe El Toro's steam\ncurls through Yonder's cool still air\u2014\ncider, dusk, and birria \ud83c\udf7a",
   "site_key": "ballard-food-trucks",
   "site_name": "Food Trucks in Ballard",
   "timezone": "America/Los_Angeles",
   "timezone_label": "PT",
   "timezone_note": "All event times are in Pacific Time (PT).",
-  "total_events": 45,
-  "updated": "2026-04-29T00:10:09.579596+00:00"
+  "total_events": 46,
+  "updated": "2026-04-29T01:10:13.502453+00:00"
 }
