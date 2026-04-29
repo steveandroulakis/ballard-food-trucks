@@ -1,7 +1,5 @@
 {
-  "errors": [
-    "Failed to fetch information for: Obec Brewing"
-  ],
+  "errors": [],
   "events": [
     {
       "date": "2026-04-29T00:00:00",
@@ -197,6 +195,19 @@
       "title": "Georgia\u2019s Greek",
       "vendor": "Georgia\u2019s Greek",
       "venue": "Yonder Cider & Bale Breaker - Ballard"
+    },
+    {
+      "date": "2026-04-29T00:00:00",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "extraction_method": "html",
+      "location": "Obec Brewing",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "title": "Cocina Barelas (New Mexican Cuisine)",
+      "vendor": "Cocina Barelas (New Mexican Cuisine)",
+      "venue": "Obec Brewing"
     },
     {
       "date": "2026-04-29T00:00:00",
@@ -589,12 +600,12 @@
       "venue": "Saleh's Corner"
     }
   ],
-  "haiku": "\ud83c\udf00 Theo's Gyros turn\u2014\nwind lifts the lamb scent toward Saleh's,\npints steady the breeze \ud83c\udf7a",
+  "haiku": "\ud83c\udf2c\ufe0f Breeze lifts the napkins\u2014\nImpeccable Chicken's crisp\nat Urban Family \ud83c\udf7a",
   "site_key": "ballard-food-trucks",
   "site_name": "Food Trucks in Ballard",
   "timezone": "America/Los_Angeles",
   "timezone_label": "PT",
   "timezone_note": "All event times are in Pacific Time (PT).",
-  "total_events": 45,
-  "updated": "2026-04-29T20:11:04.012788+00:00"
+  "total_events": 46,
+  "updated": "2026-04-29T21:10:25.726479+00:00"
 }
