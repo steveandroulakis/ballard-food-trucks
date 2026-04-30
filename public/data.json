@@ -132,71 +132,6 @@
       "venue": "Yonder Cider & Bale Breaker - Ballard"
     },
     {
-      "date": "2026-05-01T14:00:00.571000",
-      "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "extraction_method": "html",
-      "location": "Yonder Cider & Bale Breaker - Ballard",
-      "start_time": "2:00 PM PT",
-      "start_time_raw": "2:00 PM",
-      "title": "Paparepas",
-      "vendor": "Paparepas",
-      "venue": "Yonder Cider & Bale Breaker - Ballard"
-    },
-    {
-      "date": "2026-05-02T13:00:00.425000",
-      "description": null,
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
-      "extraction_method": "html",
-      "location": "Yonder Cider & Bale Breaker - Ballard",
-      "start_time": "1:00 PM PT",
-      "start_time_raw": "1:00 PM",
-      "title": "Georgia\u2019s Greek",
-      "vendor": "Georgia\u2019s Greek",
-      "venue": "Yonder Cider & Bale Breaker - Ballard"
-    },
-    {
-      "date": "2026-05-03T13:00:00.336000",
-      "description": null,
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
-      "extraction_method": "html",
-      "location": "Yonder Cider & Bale Breaker - Ballard",
-      "start_time": "1:00 PM PT",
-      "start_time_raw": "1:00 PM",
-      "title": "Tacos &amp; Beer",
-      "vendor": "Tacos &amp; Beer",
-      "venue": "Yonder Cider & Bale Breaker - Ballard"
-    },
-    {
-      "date": "2026-05-05T16:00:00.307000",
-      "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "extraction_method": "html",
-      "location": "Yonder Cider & Bale Breaker - Ballard",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
-      "title": "Tummy Yummy Thai",
-      "vendor": "Tummy Yummy Thai",
-      "venue": "Yonder Cider & Bale Breaker - Ballard"
-    },
-    {
-      "date": "2026-05-06T16:00:00.425000",
-      "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "extraction_method": "html",
-      "location": "Yonder Cider & Bale Breaker - Ballard",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
-      "title": "Georgia\u2019s Greek",
-      "vendor": "Georgia\u2019s Greek",
-      "venue": "Yonder Cider & Bale Breaker - Ballard"
-    },
-    {
       "date": "2026-04-29T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
@@ -600,12 +535,12 @@
       "venue": "Saleh's Corner"
     }
   ],
-  "haiku": "\ud83c\udf2c\ufe0f Wind lifts the pita\u2014\nTheo's Gyros, Saleh's pints,\nclear skies, bright and free \ud83c\udf7a",
+  "haiku": "\ud83e\udd5f El Pachi's crust flakes\u2014\nwind carries it, Channel Marker\npours cold cider bright \ud83c\udf7a",
   "site_key": "ballard-food-trucks",
   "site_name": "Food Trucks in Ballard",
   "timezone": "America/Los_Angeles",
   "timezone_label": "PT",
   "timezone_note": "All event times are in Pacific Time (PT).",
-  "total_events": 46,
-  "updated": "2026-04-29T23:10:59.673466+00:00"
+  "total_events": 41,
+  "updated": "2026-04-30T00:10:07.322619+00:00"
 }
