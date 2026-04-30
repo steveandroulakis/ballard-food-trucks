@@ -1,7 +1,5 @@
 {
-  "errors": [
-    "Failed to fetch information for: Obec Brewing"
-  ],
+  "errors": [],
   "events": [
     {
       "date": "2026-04-29T00:00:00",
@@ -132,6 +130,19 @@
       "title": "Impeckable Chicken",
       "vendor": "Impeckable Chicken",
       "venue": "Yonder Cider & Bale Breaker - Ballard"
+    },
+    {
+      "date": "2026-04-29T00:00:00",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "extraction_method": "html",
+      "location": "Obec Brewing",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "title": "Cocina Barelas (New Mexican Cuisine)",
+      "vendor": "Cocina Barelas (New Mexican Cuisine)",
+      "venue": "Obec Brewing"
     },
     {
       "date": "2026-04-29T00:00:00",
@@ -524,12 +535,12 @@
       "venue": "Saleh's Corner"
     }
   ],
-  "haiku": "\ud83c\udf3f Georgia's Greek scents drift\u2014\nYonder's cider, Bale Breaker,\nclear night, easy breath \ud83c\udf7a",
+  "haiku": "\ud83c\udf19 Chile warmth lingers\u2014\nCocina Barelas glows,\nObec pints, stars clear \ud83c\udf7a",
   "site_key": "ballard-food-trucks",
   "site_name": "Food Trucks in Ballard",
   "timezone": "America/Los_Angeles",
   "timezone_label": "PT",
   "timezone_note": "All event times are in Pacific Time (PT).",
-  "total_events": 40,
-  "updated": "2026-04-30T02:11:03.360778+00:00"
+  "total_events": 41,
+  "updated": "2026-04-30T03:10:07.615152+00:00"
 }
