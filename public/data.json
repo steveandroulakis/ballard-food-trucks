@@ -574,6 +574,19 @@
       "venue": "Saleh's Corner"
     },
     {
+      "date": "2026-05-09T17:00:00",
+      "description": "Cuisine: Asian, Thai, Vegetarian",
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "extraction_method": "api",
+      "location": "Saleh's Corner",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "title": "Pumpkin Thai",
+      "vendor": "Pumpkin Thai",
+      "venue": "Saleh's Corner"
+    },
+    {
       "date": "2026-05-10T17:00:00",
       "description": "Cuisine: African, Halal, Vegetarian",
       "end_time": "9:00 PM PT",
@@ -600,12 +613,12 @@
       "venue": "Saleh's Corner"
     }
   ],
-  "haiku": "\u2600\ufe0f Light breeze lifts the scent\u2014\nPlaza Garcia, Obec's pints,\nvoices, sun, and shade \ud83c\udf7a",
+  "haiku": "\u2600\ufe0f Plaza Garcia\u2014\nwarm spice drifts through Obec's shade,\ndry air, cold pint poured \ud83c\udf7a",
   "site_key": "ballard-food-trucks",
   "site_name": "Food Trucks in Ballard",
   "timezone": "America/Los_Angeles",
   "timezone_label": "PT",
   "timezone_note": "All event times are in Pacific Time (PT).",
-  "total_events": 46,
-  "updated": "2026-05-04T13:10:09.293643+00:00"
+  "total_events": 47,
+  "updated": "2026-05-04T14:10:10.982354+00:00"
 }
