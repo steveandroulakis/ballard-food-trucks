@@ -198,19 +198,6 @@
     },
     {
       "date": "2026-05-07T00:00:00",
-      "description": null,
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
-      "extraction_method": "html",
-      "location": "Obec Brewing",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
-      "title": "Tummy Yummy Thai",
-      "vendor": "Tummy Yummy Thai",
-      "venue": "Obec Brewing"
-    },
-    {
-      "date": "2026-05-07T00:00:00",
       "description": "https://urbanfamilybrewing.com/events/alebrijes-8/",
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -665,12 +652,12 @@
       "venue": "Saleh's Corner"
     }
   ],
-  "haiku": "\ud83e\udd62 Heart in Seoul's steam lifts\u2014\nsoft clouds hold the evening close,\nWheelie Pop pints full \ud83c\udf7a",
+  "haiku": "\ud83c\udf57 Overcast holds still\u2014\nImpeckable Chicken's crisp\nwarms Chuck's evening crowd \ud83c\udf7a",
   "site_key": "ballard-food-trucks",
   "site_name": "Food Trucks in Ballard",
   "timezone": "America/Los_Angeles",
   "timezone_label": "PT",
   "timezone_note": "All event times are in Pacific Time (PT).",
-  "total_events": 51,
-  "updated": "2026-05-08T02:10:07.752557+00:00"
+  "total_events": 50,
+  "updated": "2026-05-08T03:10:07.453655+00:00"
 }
