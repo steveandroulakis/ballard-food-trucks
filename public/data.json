@@ -613,19 +613,6 @@
       "venue": "Saleh's Corner"
     },
     {
-      "date": "2026-05-16T17:00:00",
-      "description": "Cuisine: Gluten-Free, Italian, Pizza",
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
-      "extraction_method": "api",
-      "location": "Saleh's Corner",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
-      "title": "Oskar's Pizza",
-      "vendor": "Oskar's Pizza",
-      "venue": "Saleh's Corner"
-    },
-    {
       "date": "2026-05-17T17:00:00",
       "description": "Cuisine: African, Halal, Vegetarian",
       "end_time": "9:00 PM PT",
@@ -665,12 +652,12 @@
       "venue": "Saleh's Corner"
     }
   ],
-  "haiku": "\ud83c\udf2c\ufe0f Birria steams soft\u2014\nPepe El Toro's slow braise lifts\nthrough Yonder's cool air \ud83c\udf7a",
+  "haiku": "\ud83c\udf2e Birria steam lifts soft\u2014\nPepe El Toro's rich broth folds\ninto Yonder's pour \ud83c\udf7a",
   "site_key": "ballard-food-trucks",
   "site_name": "Food Trucks in Ballard",
   "timezone": "America/Los_Angeles",
   "timezone_label": "PT",
   "timezone_note": "All event times are in Pacific Time (PT).",
-  "total_events": 51,
-  "updated": "2026-05-12T15:10:14.382961+00:00"
+  "total_events": 50,
+  "updated": "2026-05-12T16:10:08.372308+00:00"
 }
