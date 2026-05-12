@@ -10,21 +10,21 @@
       "location": "Stoup Brewing - Ballard",
       "start_time": "5:00 PM PT",
       "start_time_raw": "5:00 PM",
-      "title": "Russo Pizzarium",
-      "vendor": "Russo Pizzarium",
+      "title": "Impeccable Chicken",
+      "vendor": "Impeccable Chicken",
       "venue": "Stoup Brewing - Ballard"
     },
     {
       "date": "2026-05-13T00:00:00",
       "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
+      "end_time": "8:30 PM PT",
+      "end_time_raw": "8:30 PM",
       "extraction_method": "html",
       "location": "Stoup Brewing - Ballard",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
-      "title": "Tacos & Beer",
-      "vendor": "Tacos & Beer",
+      "start_time": "4:30 PM PT",
+      "start_time_raw": "4:30 PM",
+      "title": "El Gran Taco",
+      "vendor": "El Gran Taco",
       "venue": "Stoup Brewing - Ballard"
     },
     {
@@ -34,27 +34,14 @@
       "end_time_raw": "8:00 PM",
       "extraction_method": "html",
       "location": "Stoup Brewing - Ballard",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
-      "title": "The Marigold Wood Fired Pizza",
-      "vendor": "The Marigold Wood Fired Pizza",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "title": "Birrieria Pepe El Toro",
+      "vendor": "Birrieria Pepe El Toro",
       "venue": "Stoup Brewing - Ballard"
     },
     {
       "date": "2026-05-15T00:00:00",
-      "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "extraction_method": "html",
-      "location": "Stoup Brewing - Ballard",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
-      "title": "Kottu Seattle",
-      "vendor": "Kottu Seattle",
-      "venue": "Stoup Brewing - Ballard"
-    },
-    {
-      "date": "2026-05-16T00:00:00",
       "description": null,
       "end_time": "9:00 PM PT",
       "end_time_raw": "9:00 PM",
@@ -62,12 +49,12 @@
       "location": "Stoup Brewing - Ballard",
       "start_time": "5:00 PM PT",
       "start_time_raw": "5:00 PM",
-      "title": "Off the Rez",
-      "vendor": "Off the Rez",
+      "title": "No Truck Today",
+      "vendor": "No Truck Today",
       "venue": "Stoup Brewing - Ballard"
     },
     {
-      "date": "2026-05-17T00:00:00",
+      "date": "2026-05-16T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -75,12 +62,12 @@
       "location": "Stoup Brewing - Ballard",
       "start_time": "1:00 PM PT",
       "start_time_raw": "1:00 PM",
-      "title": "Georgia's Greek",
-      "vendor": "Georgia's Greek",
+      "title": "Tat's Truck",
+      "vendor": "Tat's Truck",
       "venue": "Stoup Brewing - Ballard"
     },
     {
-      "date": "2026-05-18T00:00:00",
+      "date": "2026-05-17T00:00:00",
       "description": null,
       "end_time": "7:00 PM PT",
       "end_time_raw": "7:00 PM",
@@ -88,8 +75,21 @@
       "location": "Stoup Brewing - Ballard",
       "start_time": "1:00 PM PT",
       "start_time_raw": "1:00 PM",
-      "title": "El Pirata Tortas Y Burritos / Now Make Me A Sandwich",
-      "vendor": "El Pirata Tortas Y Burritos / Now Make Me A Sandwich",
+      "title": "Kaosamai Thai",
+      "vendor": "Kaosamai Thai",
+      "venue": "Stoup Brewing - Ballard"
+    },
+    {
+      "date": "2026-05-18T00:00:00",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "extraction_method": "html",
+      "location": "Stoup Brewing - Ballard",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "title": "Russo Pizzarium",
+      "vendor": "Russo Pizzarium",
       "venue": "Stoup Brewing - Ballard"
     },
     {
@@ -101,8 +101,8 @@
       "location": "Stoup Brewing - Ballard",
       "start_time": "5:00 PM PT",
       "start_time_raw": "5:00 PM",
-      "title": "Russo Pizzarium",
-      "vendor": "Russo Pizzarium",
+      "title": "Tacos & Beer",
+      "vendor": "Tacos & Beer",
       "venue": "Stoup Brewing - Ballard"
     },
     {
@@ -652,12 +652,12 @@
       "venue": "Saleh's Corner"
     }
   ],
-  "haiku": "\ud83c\udf2e Birria broth steams soft\u2014\nPepe El Toro's slow warmth meets\nYonder's cider, cool \ud83c\udf7a",
+  "haiku": "\ud83e\udd62 Kaosamai's heat\nsoftens under muffled light\u2014\nChannel Marker, chill \ud83c\udf7a",
   "site_key": "ballard-food-trucks",
   "site_name": "Food Trucks in Ballard",
   "timezone": "America/Los_Angeles",
   "timezone_label": "PT",
   "timezone_note": "All event times are in Pacific Time (PT).",
   "total_events": 50,
-  "updated": "2026-05-12T17:10:09.434907+00:00"
+  "updated": "2026-05-12T18:10:07.615848+00:00"
 }
