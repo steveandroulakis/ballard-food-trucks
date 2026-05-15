@@ -199,14 +199,14 @@
     {
       "date": "2026-05-15T00:00:00",
       "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
       "extraction_method": "html",
       "location": "Obec Brewing",
       "start_time": "4:00 PM PT",
       "start_time_raw": "4:00 PM",
-      "title": "Heart in Seoul",
-      "vendor": "Heart in Seoul",
+      "title": "Cocina Barelas (New Mexican Cuisine)",
+      "vendor": "Cocina Barelas (New Mexican Cuisine)",
       "venue": "Obec Brewing"
     },
     {
@@ -639,12 +639,12 @@
       "venue": "Saleh's Corner"
     }
   ],
-  "haiku": "\ud83d\udd25 Outsider smoke bends\u2014\nwind carries it through Stoup's doors,\ncold hands find the pint \ud83c\udf7a",
+  "haiku": "\ud83c\udf2c\ufe0f Wind bends the queue lean\u2014\nPaparepas, warm and pressed,\nYonder pulls them in \ud83c\udf7a",
   "site_key": "ballard-food-trucks",
   "site_name": "Food Trucks in Ballard",
   "timezone": "America/Los_Angeles",
   "timezone_label": "PT",
   "timezone_note": "All event times are in Pacific Time (PT).",
   "total_events": 49,
-  "updated": "2026-05-15T07:10:10.315970+00:00"
+  "updated": "2026-05-15T08:10:15.672753+00:00"
 }
