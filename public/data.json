@@ -199,14 +199,14 @@
     {
       "date": "2026-05-16T00:00:00",
       "description": null,
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
       "extraction_method": "html",
       "location": "Obec Brewing",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
-      "title": "Cocina Barelas (New Mexican Cuisine)",
-      "vendor": "Cocina Barelas (New Mexican Cuisine)",
+      "start_time": "3:00 AM PT",
+      "start_time_raw": "3:00 AM",
+      "title": "Kaosamai Thai",
+      "vendor": "Kaosamai Thai",
       "venue": "Obec Brewing"
     },
     {
@@ -652,12 +652,12 @@
       "venue": "Saleh's Corner"
     }
   ],
-  "haiku": "\ud83c\udf2c\ufe0f Soft breeze stills the crowd\u2014\nVandalz Taqueria's smoke\nwarms Wheelie Pop's pour \ud83c\udf7a",
+  "haiku": "\ud83c\udf5c Kaosamai's warmth steams\nunder Obec's pale flat light\u2014\nlemongrass, cool air \ud83c\udf7a",
   "site_key": "ballard-food-trucks",
   "site_name": "Food Trucks in Ballard",
   "timezone": "America/Los_Angeles",
   "timezone_label": "PT",
   "timezone_note": "All event times are in Pacific Time (PT).",
   "total_events": 50,
-  "updated": "2026-05-16T08:10:12.902765+00:00"
+  "updated": "2026-05-16T09:10:08.534372+00:00"
 }
