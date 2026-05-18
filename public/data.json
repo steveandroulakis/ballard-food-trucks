@@ -600,6 +600,19 @@
       "venue": "Saleh's Corner"
     },
     {
+      "date": "2026-05-24T17:00:00",
+      "description": "Cuisine: Italian, Sandwiches, Vegetarian",
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "extraction_method": "api",
+      "location": "Saleh's Corner",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "title": "The Panini Truck",
+      "vendor": "The Panini Truck",
+      "venue": "Saleh's Corner"
+    },
+    {
       "date": "2026-05-25T17:00:00",
       "description": "Cuisine: Asian, Thai, Vegetarian",
       "end_time": "9:00 PM PT",
@@ -613,12 +626,12 @@
       "venue": "Saleh's Corner"
     }
   ],
-  "haiku": "\u2600\ufe0f Clear light, easy breeze\u2014\nPlaza Garcia's smoke lifts slow\nat Obec's open door \ud83c\udf7a",
+  "haiku": "\u2600\ufe0f Clear air, a light stir\u2014\nPlaza Garcia's spice lifts\nat Obec's open door \ud83c\udf7a",
   "site_key": "ballard-food-trucks",
   "site_name": "Food Trucks in Ballard",
   "timezone": "America/Los_Angeles",
   "timezone_label": "PT",
   "timezone_note": "All event times are in Pacific Time (PT).",
-  "total_events": 47,
-  "updated": "2026-05-18T21:10:07.860172+00:00"
+  "total_events": 48,
+  "updated": "2026-05-18T22:10:11.126493+00:00"
 }
