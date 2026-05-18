@@ -1,5 +1,7 @@
 {
-  "errors": [],
+  "errors": [
+    "Failed to fetch information for: Lucky Envelope Brewing"
+  ],
   "events": [
     {
       "date": "2026-05-18T00:00:00",
@@ -509,19 +511,6 @@
       "venue": "Chuck's Hop Shop Greenwood"
     },
     {
-      "date": "2026-05-25T00:00:00",
-      "description": null,
-      "end_time": "7:00 PM PT",
-      "end_time_raw": "7:00 PM",
-      "extraction_method": "html",
-      "location": "Lucky Envelope Brewing",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
-      "title": "El Koreano",
-      "vendor": "El Koreano",
-      "venue": "Lucky Envelope Brewing"
-    },
-    {
       "date": "2026-05-18T17:00:00",
       "description": "Cuisine: Asian, BBQ, Sandwiches",
       "end_time": "9:00 PM PT",
@@ -613,12 +602,12 @@
       "venue": "Saleh's Corner"
     }
   ],
-  "haiku": "\ud83c\udf2e Birria steam drifts soft\u2014\nPepe El Toro at Chuck's,\ngray light, cold pints poured \ud83c\udf7a",
+  "haiku": "\ud83c\udf2e Plaza Garcia's smoke\nlifts on the cool afternoon\u2014\nObec's patio hums \ud83c\udf7a",
   "site_key": "ballard-food-trucks",
   "site_name": "Food Trucks in Ballard",
   "timezone": "America/Los_Angeles",
   "timezone_label": "PT",
   "timezone_note": "All event times are in Pacific Time (PT).",
-  "total_events": 47,
-  "updated": "2026-05-18T08:10:10.739056+00:00"
+  "total_events": 46,
+  "updated": "2026-05-18T09:10:08.950650+00:00"
 }
