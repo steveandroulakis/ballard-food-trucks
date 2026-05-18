@@ -602,12 +602,12 @@
       "venue": "Saleh's Corner"
     }
   ],
-  "haiku": "\ud83c\udf2e Plaza Garcia's smoke\nlifts on the cool afternoon\u2014\nObec's patio hums \ud83c\udf7a",
+  "haiku": "\u2600\ufe0f Clear light, open air\u2014\nPlaza Garcia's smoke drifts slow\nthrough Obec's bright pour \ud83c\udf7a",
   "site_key": "ballard-food-trucks",
   "site_name": "Food Trucks in Ballard",
   "timezone": "America/Los_Angeles",
   "timezone_label": "PT",
   "timezone_note": "All event times are in Pacific Time (PT).",
   "total_events": 46,
-  "updated": "2026-05-18T09:10:08.950650+00:00"
+  "updated": "2026-05-18T10:10:07.852263+00:00"
 }
