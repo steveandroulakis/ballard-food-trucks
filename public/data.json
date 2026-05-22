@@ -205,8 +205,8 @@
       "location": "Obec Brewing",
       "start_time": "4:00 PM PT",
       "start_time_raw": "4:00 PM",
-      "title": "Thai U Up",
-      "vendor": "Thai U Up",
+      "title": "Fish Basket NW",
+      "vendor": "Fish Basket NW",
       "venue": "Obec Brewing"
     },
     {
@@ -639,12 +639,12 @@
       "venue": "Saleh's Corner"
     }
   ],
-  "haiku": "\u2600\ufe0f Off the Rez scent drifts\u2014\nlight breeze carries fry bread warmth,\nStoup pints, sun-bright air \ud83c\udf7a",
+  "haiku": "\u2600\ufe0f Off the Rez sizzles\u2014\nlight breeze lifts the frybread smoke,\nStoup's patio fills \ud83c\udf7a",
   "site_key": "ballard-food-trucks",
   "site_name": "Food Trucks in Ballard",
   "timezone": "America/Los_Angeles",
   "timezone_label": "PT",
   "timezone_note": "All event times are in Pacific Time (PT).",
   "total_events": 49,
-  "updated": "2026-05-22T07:10:10.565287+00:00"
+  "updated": "2026-05-22T08:10:08.790383+00:00"
 }
