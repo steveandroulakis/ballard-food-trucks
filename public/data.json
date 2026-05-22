@@ -2,19 +2,6 @@
   "errors": [],
   "events": [
     {
-      "date": "2026-05-21T00:00:00",
-      "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "extraction_method": "html",
-      "location": "Stoup Brewing - Ballard",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
-      "title": "Kottu Seattle",
-      "vendor": "Kottu Seattle",
-      "venue": "Stoup Brewing - Ballard"
-    },
-    {
       "date": "2026-05-22T00:00:00",
       "description": null,
       "end_time": "9:00 PM PT",
@@ -106,17 +93,17 @@
       "venue": "Stoup Brewing - Ballard"
     },
     {
-      "date": "2026-05-21T16:00:00.091000",
+      "date": "2026-05-29T00:00:00",
       "description": null,
       "end_time": "9:00 PM PT",
       "end_time_raw": "9:00 PM",
       "extraction_method": "html",
-      "location": "Yonder Cider & Bale Breaker - Ballard",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
-      "title": "Impeckable Chicken",
-      "vendor": "Impeckable Chicken",
-      "venue": "Yonder Cider & Bale Breaker - Ballard"
+      "location": "Stoup Brewing - Ballard",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "title": "Outsider BBQ",
+      "vendor": "Outsider BBQ",
+      "venue": "Stoup Brewing - Ballard"
     },
     {
       "date": "2026-05-22T16:00:00.975000",
@@ -197,7 +184,20 @@
       "venue": "Yonder Cider & Bale Breaker - Ballard"
     },
     {
-      "date": "2026-05-21T00:00:00",
+      "date": "2026-05-29T16:00:00.571000",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "extraction_method": "html",
+      "location": "Yonder Cider & Bale Breaker - Ballard",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "title": "Paparepas",
+      "vendor": "Paparepas",
+      "venue": "Yonder Cider & Bale Breaker - Ballard"
+    },
+    {
+      "date": "2026-05-22T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -208,19 +208,6 @@
       "title": "Thai U Up",
       "vendor": "Thai U Up",
       "venue": "Obec Brewing"
-    },
-    {
-      "date": "2026-05-21T00:00:00",
-      "description": "https://urbanfamilybrewing.com/events/alebrijes-9/",
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "extraction_method": "html",
-      "location": "Urban Family Brewing",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
-      "title": "Alebrijes",
-      "vendor": "Alebrijes",
-      "venue": "Urban Family Brewing"
     },
     {
       "date": "2026-05-22T00:00:00",
@@ -327,17 +314,17 @@
       "venue": "Urban Family Brewing"
     },
     {
-      "date": "2026-05-21T00:00:00",
-      "description": null,
+      "date": "2026-05-29T00:00:00",
+      "description": "https://urbanfamilybrewing.com/events/tacos-and-beer-9/",
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
       "extraction_method": "html",
-      "location": "Wheelie Pop Brewing",
-      "start_time": "6:00 PM PT",
-      "start_time_raw": "6:00 PM",
-      "title": "Heart in Seoul",
-      "vendor": "Heart in Seoul",
-      "venue": "Wheelie Pop Brewing"
+      "location": "Urban Family Brewing",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "title": "Tacos and Beer",
+      "vendor": "Tacos and Beer",
+      "venue": "Urban Family Brewing"
     },
     {
       "date": "2026-05-22T00:00:00",
@@ -416,19 +403,6 @@
       "title": "Kaosamai",
       "vendor": "Kaosamai",
       "venue": "Channel Marker Cider"
-    },
-    {
-      "date": "2026-05-21T00:00:00",
-      "description": "Original event: Dinner: Impeckable Chicken",
-      "end_time": null,
-      "end_time_raw": null,
-      "extraction_method": "html",
-      "location": "Chuck's Hop Shop Greenwood",
-      "start_time": null,
-      "start_time_raw": null,
-      "title": "Impeckable Chicken",
-      "vendor": "Impeckable Chicken",
-      "venue": "Chuck's Hop Shop Greenwood"
     },
     {
       "date": "2026-05-22T00:00:00",
@@ -535,6 +509,19 @@
       "venue": "Chuck's Hop Shop Greenwood"
     },
     {
+      "date": "2026-05-29T00:00:00",
+      "description": "Original event: Dinner: Where ya at Matt",
+      "end_time": null,
+      "end_time_raw": null,
+      "extraction_method": "html",
+      "location": "Chuck's Hop Shop Greenwood",
+      "start_time": null,
+      "start_time_raw": null,
+      "title": "Where ya at Matt",
+      "vendor": "Where ya at Matt",
+      "venue": "Chuck's Hop Shop Greenwood"
+    },
+    {
       "date": "2026-05-25T00:00:00",
       "description": null,
       "end_time": "7:00 PM PT",
@@ -637,14 +624,27 @@
       "title": "Fish Basket NW",
       "vendor": "Fish Basket NW",
       "venue": "Saleh's Corner"
+    },
+    {
+      "date": "2026-05-29T17:00:00",
+      "description": "Cuisine: Chicken, Sandwiches, Southern",
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "extraction_method": "api",
+      "location": "Saleh's Corner",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "title": "Impeckable Chicken",
+      "vendor": "Impeckable Chicken",
+      "venue": "Saleh's Corner"
     }
   ],
-  "haiku": "\ud83c\udf57 Clear light, easy breeze\u2014\nImpeckable Chicken fills\nChuck's Hop Shop with gold \ud83c\udf7a",
+  "haiku": "\u2600\ufe0f Off the Rez scent drifts\u2014\nlight breeze carries fry bread warmth,\nStoup pints, sun-bright air \ud83c\udf7a",
   "site_key": "ballard-food-trucks",
   "site_name": "Food Trucks in Ballard",
   "timezone": "America/Los_Angeles",
   "timezone_label": "PT",
   "timezone_note": "All event times are in Pacific Time (PT).",
   "total_events": 49,
-  "updated": "2026-05-22T06:10:09.099914+00:00"
+  "updated": "2026-05-22T07:10:10.565287+00:00"
 }
