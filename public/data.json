@@ -2,19 +2,6 @@
   "errors": [],
   "events": [
     {
-      "date": "2026-05-23T00:00:00",
-      "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "extraction_method": "html",
-      "location": "Stoup Brewing - Ballard",
-      "start_time": "1:00 PM PT",
-      "start_time_raw": "1:00 PM",
-      "title": "Georgia's Greek",
-      "vendor": "Georgia's Greek",
-      "venue": "Stoup Brewing - Ballard"
-    },
-    {
       "date": "2026-05-24T00:00:00",
       "description": null,
       "end_time": "7:00 PM PT",
@@ -106,17 +93,17 @@
       "venue": "Stoup Brewing - Ballard"
     },
     {
-      "date": "2026-05-23T13:00:00.664000",
+      "date": "2026-05-31T00:00:00",
       "description": null,
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
+      "end_time": "7:00 PM PT",
+      "end_time_raw": "7:00 PM",
       "extraction_method": "html",
-      "location": "Yonder Cider & Bale Breaker - Ballard",
+      "location": "Stoup Brewing - Ballard",
       "start_time": "1:00 PM PT",
       "start_time_raw": "1:00 PM",
-      "title": "Wich Came First",
-      "vendor": "Wich Came First",
-      "venue": "Yonder Cider & Bale Breaker - Ballard"
+      "title": "Kaosamai Thai",
+      "vendor": "Kaosamai Thai",
+      "venue": "Stoup Brewing - Ballard"
     },
     {
       "date": "2026-05-24T13:00:00.336000",
@@ -197,17 +184,17 @@
       "venue": "Yonder Cider & Bale Breaker - Ballard"
     },
     {
-      "date": "2026-05-23T00:00:00",
-      "description": "https://urbanfamilybrewing.com/events/momo-express-11/",
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
+      "date": "2026-05-31T13:00:00.336000",
+      "description": null,
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
       "extraction_method": "html",
-      "location": "Urban Family Brewing",
+      "location": "Yonder Cider & Bale Breaker - Ballard",
       "start_time": "1:00 PM PT",
       "start_time_raw": "1:00 PM",
-      "title": "Momo Express",
-      "vendor": "Momo Express",
-      "venue": "Urban Family Brewing"
+      "title": "Tacos &amp; Beer",
+      "vendor": "Tacos &amp; Beer",
+      "venue": "Yonder Cider & Bale Breaker - Ballard"
     },
     {
       "date": "2026-05-24T00:00:00",
@@ -314,17 +301,30 @@
       "venue": "Urban Family Brewing"
     },
     {
-      "date": "2026-05-23T00:00:00",
-      "description": null,
-      "end_time": "6:00 PM PT",
-      "end_time_raw": "6:00 PM",
+      "date": "2026-05-31T00:00:00",
+      "description": "https://urbanfamilybrewing.com/events/9th-and-hennepin-21/",
+      "end_time": "12:00 PM PT",
+      "end_time_raw": "12:00 PM",
       "extraction_method": "html",
-      "location": "Wheelie Pop Brewing",
+      "location": "Urban Family Brewing",
+      "start_time": "8:00 AM PT",
+      "start_time_raw": "8:00 AM",
+      "title": "9th and Hennepin",
+      "vendor": "9th and Hennepin",
+      "venue": "Urban Family Brewing"
+    },
+    {
+      "date": "2026-05-31T00:00:00",
+      "description": "https://urbanfamilybrewing.com/events/now-make-me-a-sandwich-10/",
+      "end_time": "7:00 PM PT",
+      "end_time_raw": "7:00 PM",
+      "extraction_method": "html",
+      "location": "Urban Family Brewing",
       "start_time": "1:00 PM PT",
       "start_time_raw": "1:00 PM",
-      "title": "Tisket Tasket",
-      "vendor": "Tisket Tasket",
-      "venue": "Wheelie Pop Brewing"
+      "title": "Now Make Me A Sandwich",
+      "vendor": "Now Make Me A Sandwich",
+      "venue": "Urban Family Brewing"
     },
     {
       "date": "2026-05-24T00:00:00",
@@ -390,19 +390,6 @@
       "title": "Kaosamai",
       "vendor": "Kaosamai",
       "venue": "Channel Marker Cider"
-    },
-    {
-      "date": "2026-05-23T00:00:00",
-      "description": "Original event: Tat's Deli",
-      "end_time": null,
-      "end_time_raw": null,
-      "extraction_method": "html",
-      "location": "Chuck's Hop Shop Greenwood",
-      "start_time": null,
-      "start_time_raw": null,
-      "title": "Tat's Deli",
-      "vendor": "Tat's Deli",
-      "venue": "Chuck's Hop Shop Greenwood"
     },
     {
       "date": "2026-05-24T00:00:00",
@@ -509,6 +496,19 @@
       "venue": "Chuck's Hop Shop Greenwood"
     },
     {
+      "date": "2026-05-31T00:00:00",
+      "description": "Original event: Momo Express",
+      "end_time": null,
+      "end_time_raw": null,
+      "extraction_method": "html",
+      "location": "Chuck's Hop Shop Greenwood",
+      "start_time": null,
+      "start_time_raw": null,
+      "title": "Momo Express",
+      "vendor": "Momo Express",
+      "venue": "Chuck's Hop Shop Greenwood"
+    },
+    {
       "date": "2026-05-25T00:00:00",
       "description": null,
       "end_time": "7:00 PM PT",
@@ -520,19 +520,6 @@
       "title": "El Koreano",
       "vendor": "El Koreano",
       "venue": "Lucky Envelope Brewing"
-    },
-    {
-      "date": "2026-05-23T17:00:00",
-      "description": "Cuisine: Gluten-Free, Italian, Pizza",
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
-      "extraction_method": "api",
-      "location": "Saleh's Corner",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
-      "title": "Oskar's Pizza",
-      "vendor": "Oskar's Pizza",
-      "venue": "Saleh's Corner"
     },
     {
       "date": "2026-05-24T17:00:00",
@@ -624,14 +611,27 @@
       "title": "Pumpkin Thai",
       "vendor": "Pumpkin Thai",
       "venue": "Saleh's Corner"
+    },
+    {
+      "date": "2026-05-31T17:00:00",
+      "description": "Cuisine: African, Halal, Vegetarian",
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "extraction_method": "api",
+      "location": "Saleh's Corner",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "title": "Blackstar Kebab",
+      "vendor": "Blackstar Kebab",
+      "venue": "Saleh's Corner"
     }
   ],
-  "haiku": "\ud83c\udf24\ufe0f Wich Came First sizzles\u2014\nYonder, Bale Breaker pour cold,\nbreeze lifts every laugh \ud83c\udf7a",
+  "haiku": "\ud83c\udf2c\ufe0f Soft breeze stirs the line\u2014\nTacos & Beer, Yonder pours,\ncider, hops, cloud-light \ud83c\udf7a",
   "site_key": "ballard-food-trucks",
   "site_name": "Food Trucks in Ballard",
   "timezone": "America/Los_Angeles",
   "timezone_label": "PT",
   "timezone_note": "All event times are in Pacific Time (PT).",
   "total_events": 48,
-  "updated": "2026-05-24T06:10:08.228292+00:00"
+  "updated": "2026-05-24T07:10:09.874550+00:00"
 }
