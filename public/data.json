@@ -2,19 +2,6 @@
   "errors": [],
   "events": [
     {
-      "date": "2026-05-25T00:00:00",
-      "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "extraction_method": "html",
-      "location": "Stoup Brewing - Ballard",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
-      "title": "Where Ya At Matt",
-      "vendor": "Where Ya At Matt",
-      "venue": "Stoup Brewing - Ballard"
-    },
-    {
       "date": "2026-05-26T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
@@ -106,6 +93,19 @@
       "venue": "Stoup Brewing - Ballard"
     },
     {
+      "date": "2026-06-02T00:00:00",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "extraction_method": "html",
+      "location": "Stoup Brewing - Ballard",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "title": "Tacos & Beer",
+      "vendor": "Tacos & Beer",
+      "venue": "Stoup Brewing - Ballard"
+    },
+    {
       "date": "2026-05-26T16:00:00.203000",
       "description": null,
       "end_time": "8:00 PM PT",
@@ -182,19 +182,6 @@
       "title": "Tacos &amp; Beer",
       "vendor": "Tacos &amp; Beer",
       "venue": "Yonder Cider & Bale Breaker - Ballard"
-    },
-    {
-      "date": "2026-05-25T00:00:00",
-      "description": "https://urbanfamilybrewing.com/events/la-riviera-maya-11/",
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "extraction_method": "html",
-      "location": "Urban Family Brewing",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
-      "title": "La Riviera Maya",
-      "vendor": "La Riviera Maya",
-      "venue": "Urban Family Brewing"
     },
     {
       "date": "2026-05-26T00:00:00",
@@ -301,6 +288,19 @@
       "venue": "Urban Family Brewing"
     },
     {
+      "date": "2026-06-02T00:00:00",
+      "description": "https://urbanfamilybrewing.com/events/burgerdom-10/",
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "extraction_method": "html",
+      "location": "Urban Family Brewing",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "title": "BurgerDOM",
+      "vendor": "BurgerDOM",
+      "venue": "Urban Family Brewing"
+    },
+    {
       "date": "2026-05-28T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
@@ -353,17 +353,17 @@
       "venue": "Channel Marker Cider"
     },
     {
-      "date": "2026-05-25T00:00:00",
-      "description": "Original event: Dinner: Birrieria Pepe El Toro",
-      "end_time": null,
-      "end_time_raw": null,
-      "extraction_method": "html",
-      "location": "Chuck's Hop Shop Greenwood",
-      "start_time": null,
-      "start_time_raw": null,
-      "title": "Birrieria Pepe El Toro",
-      "vendor": "Birrieria Pepe El Toro",
-      "venue": "Chuck's Hop Shop Greenwood"
+      "date": "2026-06-02T00:00:00",
+      "description": null,
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "extraction_method": "csv",
+      "location": "Channel Marker Cider",
+      "start_time": "6:00 PM PT",
+      "start_time_raw": "6:00 PM",
+      "title": "Kathmandu Momocha",
+      "vendor": "Kathmandu Momocha",
+      "venue": "Channel Marker Cider"
     },
     {
       "date": "2026-05-26T00:00:00",
@@ -457,30 +457,17 @@
       "venue": "Chuck's Hop Shop Greenwood"
     },
     {
-      "date": "2026-05-25T00:00:00",
-      "description": null,
-      "end_time": "7:00 PM PT",
-      "end_time_raw": "7:00 PM",
+      "date": "2026-06-02T00:00:00",
+      "description": "Original event: Dinner: Woodshop BBQ",
+      "end_time": null,
+      "end_time_raw": null,
       "extraction_method": "html",
-      "location": "Lucky Envelope Brewing",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
-      "title": "El Koreano",
-      "vendor": "El Koreano",
-      "venue": "Lucky Envelope Brewing"
-    },
-    {
-      "date": "2026-05-25T17:00:00",
-      "description": "Cuisine: Asian, Thai, Vegetarian",
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
-      "extraction_method": "api",
-      "location": "Saleh's Corner",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
-      "title": "Pumpkin Thai",
-      "vendor": "Pumpkin Thai",
-      "venue": "Saleh's Corner"
+      "location": "Chuck's Hop Shop Greenwood",
+      "start_time": null,
+      "start_time_raw": null,
+      "title": "Woodshop BBQ",
+      "vendor": "Woodshop BBQ",
+      "venue": "Chuck's Hop Shop Greenwood"
     },
     {
       "date": "2026-05-26T17:00:00",
@@ -572,14 +559,27 @@
       "title": "MOMO Express",
       "vendor": "MOMO Express",
       "venue": "Saleh's Corner"
+    },
+    {
+      "date": "2026-06-02T17:00:00",
+      "description": "Cuisine: Burritos, Mexican, Tacos",
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "extraction_method": "api",
+      "location": "Saleh's Corner",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "title": "Plaza Garcia Express",
+      "vendor": "Plaza Garcia Express",
+      "venue": "Saleh's Corner"
     }
   ],
-  "haiku": "\ud83c\udf25\ufe0f El Koreano's heat\nrises soft beneath still clouds\u2014\nLucky Envelope pours \ud83c\udf7a",
+  "haiku": "\ud83c\udf57 Impeccable Chicken\u2014\nstill air holds the crisp smell close,\nStoup pints cut the grey \ud83c\udf7a",
   "site_key": "ballard-food-trucks",
   "site_name": "Food Trucks in Ballard",
   "timezone": "America/Los_Angeles",
   "timezone_label": "PT",
   "timezone_note": "All event times are in Pacific Time (PT).",
   "total_events": 44,
-  "updated": "2026-05-26T06:10:11.532571+00:00"
+  "updated": "2026-05-26T07:10:19.742247+00:00"
 }
