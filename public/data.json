@@ -2,19 +2,6 @@
   "errors": [],
   "events": [
     {
-      "date": "2026-05-26T00:00:00",
-      "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "extraction_method": "html",
-      "location": "Stoup Brewing - Ballard",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
-      "title": "Impeccable Chicken",
-      "vendor": "Impeccable Chicken",
-      "venue": "Stoup Brewing - Ballard"
-    },
-    {
       "date": "2026-05-27T00:00:00",
       "description": null,
       "end_time": "8:30 PM PT",
@@ -106,17 +93,17 @@
       "venue": "Stoup Brewing - Ballard"
     },
     {
-      "date": "2026-05-26T16:00:00.203000",
+      "date": "2026-06-03T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
       "extraction_method": "html",
-      "location": "Yonder Cider & Bale Breaker - Ballard",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
-      "title": "Birrieria Pepe El Toro",
-      "vendor": "Birrieria Pepe El Toro",
-      "venue": "Yonder Cider & Bale Breaker - Ballard"
+      "location": "Stoup Brewing - Ballard",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "title": "The Marigold Wood Fired Pizza",
+      "vendor": "The Marigold Wood Fired Pizza",
+      "venue": "Stoup Brewing - Ballard"
     },
     {
       "date": "2026-05-27T16:00:00.425000",
@@ -182,19 +169,6 @@
       "title": "Tacos &amp; Beer",
       "vendor": "Tacos &amp; Beer",
       "venue": "Yonder Cider & Bale Breaker - Ballard"
-    },
-    {
-      "date": "2026-05-26T00:00:00",
-      "description": "https://urbanfamilybrewing.com/events/georgias-greek-10/",
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "extraction_method": "html",
-      "location": "Urban Family Brewing",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
-      "title": "Georgia's Greek",
-      "vendor": "Georgia's Greek",
-      "venue": "Urban Family Brewing"
     },
     {
       "date": "2026-05-27T00:00:00",
@@ -301,6 +275,19 @@
       "venue": "Urban Family Brewing"
     },
     {
+      "date": "2026-06-03T00:00:00",
+      "description": "https://urbanfamilybrewing.com/events/katmandu-momocha-11/",
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "extraction_method": "html",
+      "location": "Urban Family Brewing",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "title": "Katmandu Momocha",
+      "vendor": "Katmandu Momocha",
+      "venue": "Urban Family Brewing"
+    },
+    {
       "date": "2026-05-28T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
@@ -325,19 +312,6 @@
       "title": "Vandalz Taqueria",
       "vendor": "Vandalz Taqueria",
       "venue": "Wheelie Pop Brewing"
-    },
-    {
-      "date": "2026-05-26T00:00:00",
-      "description": null,
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
-      "extraction_method": "csv",
-      "location": "Channel Marker Cider",
-      "start_time": "6:00 PM PT",
-      "start_time_raw": "6:00 PM",
-      "title": "Kathmandu Momocha",
-      "vendor": "Kathmandu Momocha",
-      "venue": "Channel Marker Cider"
     },
     {
       "date": "2026-05-27T00:00:00",
@@ -366,17 +340,17 @@
       "venue": "Channel Marker Cider"
     },
     {
-      "date": "2026-05-26T00:00:00",
-      "description": "Original event: Dinner: Woodshop BBQ",
-      "end_time": null,
-      "end_time_raw": null,
-      "extraction_method": "html",
-      "location": "Chuck's Hop Shop Greenwood",
-      "start_time": null,
-      "start_time_raw": null,
-      "title": "Woodshop BBQ",
-      "vendor": "Woodshop BBQ",
-      "venue": "Chuck's Hop Shop Greenwood"
+      "date": "2026-06-03T00:00:00",
+      "description": null,
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "extraction_method": "csv",
+      "location": "Channel Marker Cider",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "title": "Cocina Barelas",
+      "vendor": "Cocina Barelas",
+      "venue": "Channel Marker Cider"
     },
     {
       "date": "2026-05-27T00:00:00",
@@ -470,17 +444,17 @@
       "venue": "Chuck's Hop Shop Greenwood"
     },
     {
-      "date": "2026-05-26T17:00:00",
-      "description": "Cuisine: Burritos, Mexican, Tacos",
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
-      "extraction_method": "api",
-      "location": "Saleh's Corner",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
-      "title": "Plaza Garcia Express",
-      "vendor": "Plaza Garcia Express",
-      "venue": "Saleh's Corner"
+      "date": "2026-06-03T00:00:00",
+      "description": "Original event: Dinner: Chick'n Fix",
+      "end_time": null,
+      "end_time_raw": null,
+      "extraction_method": "html",
+      "location": "Chuck's Hop Shop Greenwood",
+      "start_time": null,
+      "start_time_raw": null,
+      "title": "Chick'n Fix",
+      "vendor": "Chick'n Fix",
+      "venue": "Chuck's Hop Shop Greenwood"
     },
     {
       "date": "2026-05-27T17:00:00",
@@ -572,14 +546,27 @@
       "title": "Plaza Garcia Express",
       "vendor": "Plaza Garcia Express",
       "venue": "Saleh's Corner"
+    },
+    {
+      "date": "2026-06-03T17:00:00",
+      "description": "Cuisine: Greek, Gyro, Halal",
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "extraction_method": "api",
+      "location": "Saleh's Corner",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "title": "Theo's Gyros",
+      "vendor": "Theo's Gyros",
+      "venue": "Saleh's Corner"
     }
   ],
-  "haiku": "\ud83c\udf57 Impeccable Chicken\u2014\nbreeze carries the crisp and gold\nto Stoup's sun-warmed stools \ud83c\udf7a",
+  "haiku": "\ud83c\udf2e El Gran Taco's smoke\nlifts on the bright Ballard breeze\u2014\nStoup pints catch the sun \ud83c\udf7a",
   "site_key": "ballard-food-trucks",
   "site_name": "Food Trucks in Ballard",
   "timezone": "America/Los_Angeles",
   "timezone_label": "PT",
   "timezone_note": "All event times are in Pacific Time (PT).",
-  "total_events": 44,
-  "updated": "2026-05-27T06:10:11.679616+00:00"
+  "total_events": 43,
+  "updated": "2026-05-27T07:10:08.298942+00:00"
 }
