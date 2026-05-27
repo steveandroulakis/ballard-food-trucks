@@ -1,5 +1,7 @@
 {
-  "errors": [],
+  "errors": [
+    "Failed to fetch information for: Obec Brewing"
+  ],
   "events": [
     {
       "date": "2026-05-27T00:00:00",
@@ -561,12 +563,12 @@
       "venue": "Saleh's Corner"
     }
   ],
-  "haiku": "\ud83c\udf2c\ufe0f Breeze lifts El Gran Taco's smoke\u2014\nStoup's patio hums and clinks,\nclear light, cold pint poured \ud83c\udf7a",
+  "haiku": "\ud83c\udf2c\ufe0f Breeze lifts taco smoke\u2014\nEl Gran Taco feeds the line,\nStoup pints catch the sun \ud83c\udf7a",
   "site_key": "ballard-food-trucks",
   "site_name": "Food Trucks in Ballard",
   "timezone": "America/Los_Angeles",
   "timezone_label": "PT",
   "timezone_note": "All event times are in Pacific Time (PT).",
   "total_events": 43,
-  "updated": "2026-05-27T15:10:09.269714+00:00"
+  "updated": "2026-05-27T16:11:05.761137+00:00"
 }
