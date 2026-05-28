@@ -2,19 +2,6 @@
   "errors": [],
   "events": [
     {
-      "date": "2026-05-27T00:00:00",
-      "description": null,
-      "end_time": "8:30 PM PT",
-      "end_time_raw": "8:30 PM",
-      "extraction_method": "html",
-      "location": "Stoup Brewing - Ballard",
-      "start_time": "4:30 PM PT",
-      "start_time_raw": "4:30 PM",
-      "title": "El Gran Taco",
-      "vendor": "El Gran Taco",
-      "venue": "Stoup Brewing - Ballard"
-    },
-    {
       "date": "2026-05-28T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
@@ -106,17 +93,17 @@
       "venue": "Stoup Brewing - Ballard"
     },
     {
-      "date": "2026-05-27T16:00:00.425000",
+      "date": "2026-06-04T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
       "extraction_method": "html",
-      "location": "Yonder Cider & Bale Breaker - Ballard",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
-      "title": "Georgia\u2019s Greek",
-      "vendor": "Georgia\u2019s Greek",
-      "venue": "Yonder Cider & Bale Breaker - Ballard"
+      "location": "Stoup Brewing - Ballard",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "title": "Kottu Seattle",
+      "vendor": "Kottu Seattle",
+      "venue": "Stoup Brewing - Ballard"
     },
     {
       "date": "2026-05-28T16:00:00.091000",
@@ -169,19 +156,6 @@
       "title": "Tacos &amp; Beer",
       "vendor": "Tacos &amp; Beer",
       "venue": "Yonder Cider & Bale Breaker - Ballard"
-    },
-    {
-      "date": "2026-05-27T00:00:00",
-      "description": "https://urbanfamilybrewing.com/events/impeccable-chicken-10/",
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "extraction_method": "html",
-      "location": "Urban Family Brewing",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
-      "title": "Impeccable Chicken",
-      "vendor": "Impeccable Chicken",
-      "venue": "Urban Family Brewing"
     },
     {
       "date": "2026-05-28T00:00:00",
@@ -288,6 +262,19 @@
       "venue": "Urban Family Brewing"
     },
     {
+      "date": "2026-06-04T00:00:00",
+      "description": "https://urbanfamilybrewing.com/events/alebrijes-10/",
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "extraction_method": "html",
+      "location": "Urban Family Brewing",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "title": "Alebrijes",
+      "vendor": "Alebrijes",
+      "venue": "Urban Family Brewing"
+    },
+    {
       "date": "2026-05-28T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
@@ -314,17 +301,17 @@
       "venue": "Wheelie Pop Brewing"
     },
     {
-      "date": "2026-05-27T00:00:00",
+      "date": "2026-06-04T00:00:00",
       "description": null,
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
-      "extraction_method": "csv",
-      "location": "Channel Marker Cider",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
-      "title": "Kaosamai",
-      "vendor": "Kaosamai",
-      "venue": "Channel Marker Cider"
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "extraction_method": "html",
+      "location": "Wheelie Pop Brewing",
+      "start_time": "6:00 PM PT",
+      "start_time_raw": "6:00 PM",
+      "title": "Heart in Seoul",
+      "vendor": "Heart in Seoul",
+      "venue": "Wheelie Pop Brewing"
     },
     {
       "date": "2026-06-02T00:00:00",
@@ -351,19 +338,6 @@
       "title": "Cocina Barelas",
       "vendor": "Cocina Barelas",
       "venue": "Channel Marker Cider"
-    },
-    {
-      "date": "2026-05-27T00:00:00",
-      "description": "Original event: Dinner: Oskar's Pizza",
-      "end_time": null,
-      "end_time_raw": null,
-      "extraction_method": "html",
-      "location": "Chuck's Hop Shop Greenwood",
-      "start_time": null,
-      "start_time_raw": null,
-      "title": "Oskar's Pizza",
-      "vendor": "Oskar's Pizza",
-      "venue": "Chuck's Hop Shop Greenwood"
     },
     {
       "date": "2026-05-28T00:00:00",
@@ -457,17 +431,17 @@
       "venue": "Chuck's Hop Shop Greenwood"
     },
     {
-      "date": "2026-05-27T17:00:00",
-      "description": "Cuisine: Greek, Gyro, Halal",
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
-      "extraction_method": "api",
-      "location": "Saleh's Corner",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
-      "title": "Theo's Gyros",
-      "vendor": "Theo's Gyros",
-      "venue": "Saleh's Corner"
+      "date": "2026-06-04T00:00:00",
+      "description": "Original event: Dinner: Pizza Paesano",
+      "end_time": null,
+      "end_time_raw": null,
+      "extraction_method": "html",
+      "location": "Chuck's Hop Shop Greenwood",
+      "start_time": null,
+      "start_time_raw": null,
+      "title": "Pizza Paesano",
+      "vendor": "Pizza Paesano",
+      "venue": "Chuck's Hop Shop Greenwood"
     },
     {
       "date": "2026-05-28T17:00:00",
@@ -559,14 +533,27 @@
       "title": "Theo's Gyros",
       "vendor": "Theo's Gyros",
       "venue": "Saleh's Corner"
+    },
+    {
+      "date": "2026-06-04T17:00:00",
+      "description": "Cuisine: BBQ, Chicken, Sandwiches",
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "extraction_method": "api",
+      "location": "Saleh's Corner",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "title": "Lucky Luciano's",
+      "vendor": "Lucky Luciano's",
+      "venue": "Saleh's Corner"
     }
   ],
-  "haiku": "\ud83c\udf57 Impeccable Chicken\u2014\ncrisp skin lifts in the dry breeze,\nUrban Family pours \ud83c\udf7a",
+  "haiku": "\ud83c\udf57 Impeckable Chicken\u2014\ncrisp skin in the bright dry air,\nChuck's pours, tables full \ud83c\udf7a",
   "site_key": "ballard-food-trucks",
   "site_name": "Food Trucks in Ballard",
   "timezone": "America/Los_Angeles",
   "timezone_label": "PT",
   "timezone_note": "All event times are in Pacific Time (PT).",
-  "total_events": 43,
-  "updated": "2026-05-28T06:10:07.932927+00:00"
+  "total_events": 42,
+  "updated": "2026-05-28T07:10:14.673439+00:00"
 }
