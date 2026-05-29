@@ -2,19 +2,6 @@
   "errors": [],
   "events": [
     {
-      "date": "2026-05-28T00:00:00",
-      "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "extraction_method": "html",
-      "location": "Stoup Brewing - Ballard",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
-      "title": "Birrieria Pepe El Toro",
-      "vendor": "Birrieria Pepe El Toro",
-      "venue": "Stoup Brewing - Ballard"
-    },
-    {
       "date": "2026-05-29T00:00:00",
       "description": null,
       "end_time": "9:00 PM PT",
@@ -106,17 +93,17 @@
       "venue": "Stoup Brewing - Ballard"
     },
     {
-      "date": "2026-05-28T16:00:00.091000",
+      "date": "2026-06-05T00:00:00",
       "description": null,
       "end_time": "9:00 PM PT",
       "end_time_raw": "9:00 PM",
       "extraction_method": "html",
-      "location": "Yonder Cider & Bale Breaker - Ballard",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
-      "title": "Impeckable Chicken",
-      "vendor": "Impeckable Chicken",
-      "venue": "Yonder Cider & Bale Breaker - Ballard"
+      "location": "Stoup Brewing - Ballard",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "title": "Off the Rez",
+      "vendor": "Off the Rez",
+      "venue": "Stoup Brewing - Ballard"
     },
     {
       "date": "2026-05-29T16:00:00.571000",
@@ -156,19 +143,6 @@
       "title": "Tacos &amp; Beer",
       "vendor": "Tacos &amp; Beer",
       "venue": "Yonder Cider & Bale Breaker - Ballard"
-    },
-    {
-      "date": "2026-05-28T00:00:00",
-      "description": "https://urbanfamilybrewing.com/events/burger-planet-13/",
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "extraction_method": "html",
-      "location": "Urban Family Brewing",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
-      "title": "Burger Planet",
-      "vendor": "Burger Planet",
-      "venue": "Urban Family Brewing"
     },
     {
       "date": "2026-05-29T00:00:00",
@@ -275,17 +249,17 @@
       "venue": "Urban Family Brewing"
     },
     {
-      "date": "2026-05-28T00:00:00",
-      "description": null,
+      "date": "2026-06-05T00:00:00",
+      "description": "https://urbanfamilybrewing.com/events/birrieria-pepe-el-toro-11/",
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
       "extraction_method": "html",
-      "location": "Wheelie Pop Brewing",
-      "start_time": "6:00 PM PT",
-      "start_time_raw": "6:00 PM",
-      "title": "Kaosamai Thai",
-      "vendor": "Kaosamai Thai",
-      "venue": "Wheelie Pop Brewing"
+      "location": "Urban Family Brewing",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "title": "Birrieria Pepe El Toro",
+      "vendor": "Birrieria Pepe El Toro",
+      "venue": "Urban Family Brewing"
     },
     {
       "date": "2026-05-30T00:00:00",
@@ -314,6 +288,19 @@
       "venue": "Wheelie Pop Brewing"
     },
     {
+      "date": "2026-06-05T00:00:00",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "extraction_method": "html",
+      "location": "Wheelie Pop Brewing",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "title": "El Pachi Empanadas",
+      "vendor": "El Pachi Empanadas",
+      "venue": "Wheelie Pop Brewing"
+    },
+    {
       "date": "2026-06-02T00:00:00",
       "description": null,
       "end_time": "9:00 PM PT",
@@ -338,19 +325,6 @@
       "title": "Cocina Barelas",
       "vendor": "Cocina Barelas",
       "venue": "Channel Marker Cider"
-    },
-    {
-      "date": "2026-05-28T00:00:00",
-      "description": "Original event: Dinner: Impeckable Chicken",
-      "end_time": null,
-      "end_time_raw": null,
-      "extraction_method": "html",
-      "location": "Chuck's Hop Shop Greenwood",
-      "start_time": null,
-      "start_time_raw": null,
-      "title": "Impeckable Chicken",
-      "vendor": "Impeckable Chicken",
-      "venue": "Chuck's Hop Shop Greenwood"
     },
     {
       "date": "2026-05-29T00:00:00",
@@ -444,17 +418,17 @@
       "venue": "Chuck's Hop Shop Greenwood"
     },
     {
-      "date": "2026-05-28T17:00:00",
-      "description": "Cuisine: Seafood",
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
-      "extraction_method": "api",
-      "location": "Saleh's Corner",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
-      "title": "Fish Basket NW",
-      "vendor": "Fish Basket NW",
-      "venue": "Saleh's Corner"
+      "date": "2026-06-05T00:00:00",
+      "description": "Original event: Dinner: T'Juana",
+      "end_time": null,
+      "end_time_raw": null,
+      "extraction_method": "html",
+      "location": "Chuck's Hop Shop Greenwood",
+      "start_time": null,
+      "start_time_raw": null,
+      "title": "T'Juana",
+      "vendor": "T'Juana",
+      "venue": "Chuck's Hop Shop Greenwood"
     },
     {
       "date": "2026-05-29T17:00:00",
@@ -546,14 +520,27 @@
       "title": "Lucky Luciano's",
       "vendor": "Lucky Luciano's",
       "venue": "Saleh's Corner"
+    },
+    {
+      "date": "2026-06-05T17:00:00",
+      "description": "Cuisine: Chicken, Sandwiches, Southern",
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "extraction_method": "api",
+      "location": "Saleh's Corner",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "title": "Impeckable Chicken",
+      "vendor": "Impeckable Chicken",
+      "venue": "Saleh's Corner"
     }
   ],
-  "haiku": "\ud83c\udf57 Impeckable Chicken\ncrisps under heavy gray skies\u2014\nBale Breaker pints warm \ud83c\udf7a",
+  "haiku": "\ud83e\uded3 Arepa steam lifts\u2014\nPaparepas at Yonder,\ncrisp air, pints held close \ud83c\udf7a",
   "site_key": "ballard-food-trucks",
   "site_name": "Food Trucks in Ballard",
   "timezone": "America/Los_Angeles",
   "timezone_label": "PT",
   "timezone_note": "All event times are in Pacific Time (PT).",
-  "total_events": 42,
-  "updated": "2026-05-29T06:10:23.974474+00:00"
+  "total_events": 41,
+  "updated": "2026-05-29T07:10:09.979761+00:00"
 }
