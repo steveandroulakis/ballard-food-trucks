@@ -1,5 +1,7 @@
 {
-  "errors": [],
+  "errors": [
+    "Failed to fetch information for: Obec Brewing"
+  ],
   "events": [
     {
       "date": "2026-05-29T00:00:00",
@@ -142,6 +144,45 @@
       "start_time_raw": "1:00 PM",
       "title": "Tacos &amp; Beer",
       "vendor": "Tacos &amp; Beer",
+      "venue": "Yonder Cider & Bale Breaker - Ballard"
+    },
+    {
+      "date": "2026-06-02T16:00:00.307000",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "extraction_method": "html",
+      "location": "Yonder Cider & Bale Breaker - Ballard",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "title": "Tummy Yummy Thai",
+      "vendor": "Tummy Yummy Thai",
+      "venue": "Yonder Cider & Bale Breaker - Ballard"
+    },
+    {
+      "date": "2026-06-03T16:00:00.425000",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "extraction_method": "html",
+      "location": "Yonder Cider & Bale Breaker - Ballard",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "title": "Georgia\u2019s Greek",
+      "vendor": "Georgia\u2019s Greek",
+      "venue": "Yonder Cider & Bale Breaker - Ballard"
+    },
+    {
+      "date": "2026-06-04T17:00:00.091000",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "extraction_method": "html",
+      "location": "Yonder Cider & Bale Breaker - Ballard",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "title": "Impeckable Chicken",
+      "vendor": "Impeckable Chicken",
       "venue": "Yonder Cider & Bale Breaker - Ballard"
     },
     {
@@ -535,12 +576,12 @@
       "venue": "Saleh's Corner"
     }
   ],
-  "haiku": "\ud83c\udf57 Jerk spice lifts on the breeze\u2014\nPapa Dan's at Stoup draws close,\nplantain waffles warm \ud83e\uddc7",
+  "haiku": "\ud83c\udf25\ufe0f Arepa scent hangs\u2014\nPaparepas at Yonder,\nBale Breaker pints warm \ud83c\udf7a",
   "site_key": "ballard-food-trucks",
   "site_name": "Food Trucks in Ballard",
   "timezone": "America/Los_Angeles",
   "timezone_label": "PT",
   "timezone_note": "All event times are in Pacific Time (PT).",
-  "total_events": 41,
-  "updated": "2026-05-29T16:10:51.260271+00:00"
+  "total_events": 44,
+  "updated": "2026-05-29T17:11:04.704031+00:00"
 }
