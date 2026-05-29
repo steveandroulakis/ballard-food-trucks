@@ -1,7 +1,5 @@
 {
-  "errors": [
-    "Failed to fetch information for: Obec Brewing"
-  ],
+  "errors": [],
   "events": [
     {
       "date": "2026-05-29T00:00:00",
@@ -576,12 +574,12 @@
       "venue": "Saleh's Corner"
     }
   ],
-  "haiku": "\ud83c\udf25\ufe0f Arepa scent hangs\u2014\nPaparepas at Yonder,\nBale Breaker pints warm \ud83c\udf7a",
+  "haiku": "\ud83e\uded3 Arepa steam lifts\u2014\nPaparepas at Yonder,\nBale Breaker pints glow \ud83c\udf7a",
   "site_key": "ballard-food-trucks",
   "site_name": "Food Trucks in Ballard",
   "timezone": "America/Los_Angeles",
   "timezone_label": "PT",
   "timezone_note": "All event times are in Pacific Time (PT).",
   "total_events": 44,
-  "updated": "2026-05-29T17:11:04.704031+00:00"
+  "updated": "2026-05-29T18:10:10.340301+00:00"
 }
