@@ -1,5 +1,7 @@
 {
-  "errors": [],
+  "errors": [
+    "Failed to fetch information for: Obec Brewing"
+  ],
   "events": [
     {
       "date": "2026-06-01T00:00:00",
@@ -600,12 +602,12 @@
       "venue": "Saleh's Corner"
     }
   ],
-  "haiku": "\ud83c\udf1e Sun-baked corner hums\u2014\nMOMO Express at Saleh's,\nbright dumplings beat the heat \ud83e\udd5f",
+  "haiku": "\ud83c\udf1e Dry heat lifts the scent\u2014\nMOMO Express dumplings steam\nbright at Saleh's Corner \ud83e\udd5f",
   "site_key": "ballard-food-trucks",
   "site_name": "Food Trucks in Ballard",
   "timezone": "America/Los_Angeles",
   "timezone_label": "PT",
   "timezone_note": "All event times are in Pacific Time (PT).",
   "total_events": 46,
-  "updated": "2026-06-02T04:10:09.717436+00:00"
+  "updated": "2026-06-02T05:11:04.200108+00:00"
 }
