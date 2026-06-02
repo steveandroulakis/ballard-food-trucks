@@ -1,7 +1,5 @@
 {
-  "errors": [
-    "Failed to fetch information for: Obec Brewing"
-  ],
+  "errors": [],
   "events": [
     {
       "date": "2026-06-01T00:00:00",
@@ -184,6 +182,19 @@
       "title": "Tacos &amp; Beer",
       "vendor": "Tacos &amp; Beer",
       "venue": "Yonder Cider & Bale Breaker - Ballard"
+    },
+    {
+      "date": "2026-06-01T00:00:00",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "extraction_method": "html",
+      "location": "Obec Brewing",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "title": "Plaza Garcia",
+      "vendor": "Plaza Garcia",
+      "venue": "Obec Brewing"
     },
     {
       "date": "2026-06-01T00:00:00",
@@ -602,12 +613,12 @@
       "venue": "Saleh's Corner"
     }
   ],
-  "haiku": "\ud83c\udf1e Dry heat lifts the scent\u2014\nMOMO Express dumplings steam\nbright at Saleh's Corner \ud83e\udd5f",
+  "haiku": "\ud83c\udf1e Sun-bright pavement hums\u2014\nMOMO Express dumplings steam\nat Saleh's Corner \ud83e\udd5f",
   "site_key": "ballard-food-trucks",
   "site_name": "Food Trucks in Ballard",
   "timezone": "America/Los_Angeles",
   "timezone_label": "PT",
   "timezone_note": "All event times are in Pacific Time (PT).",
-  "total_events": 46,
-  "updated": "2026-06-02T05:11:04.200108+00:00"
+  "total_events": 47,
+  "updated": "2026-06-02T06:10:27.672619+00:00"
 }
