@@ -2,19 +2,6 @@
   "errors": [],
   "events": [
     {
-      "date": "2026-06-02T00:00:00",
-      "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "extraction_method": "html",
-      "location": "Stoup Brewing - Ballard",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
-      "title": "Tacos & Beer",
-      "vendor": "Tacos & Beer",
-      "venue": "Stoup Brewing - Ballard"
-    },
-    {
       "date": "2026-06-03T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
@@ -106,17 +93,17 @@
       "venue": "Stoup Brewing - Ballard"
     },
     {
-      "date": "2026-06-02T16:00:00.307000",
+      "date": "2026-06-10T00:00:00",
       "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
+      "end_time": "8:30 PM PT",
+      "end_time_raw": "8:30 PM",
       "extraction_method": "html",
-      "location": "Yonder Cider & Bale Breaker - Ballard",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
-      "title": "Tummy Yummy Thai",
-      "vendor": "Tummy Yummy Thai",
-      "venue": "Yonder Cider & Bale Breaker - Ballard"
+      "location": "Stoup Brewing - Ballard",
+      "start_time": "4:30 PM PT",
+      "start_time_raw": "4:30 PM",
+      "title": "El Gran Taco",
+      "vendor": "El Gran Taco",
+      "venue": "Stoup Brewing - Ballard"
     },
     {
       "date": "2026-06-03T16:00:00.425000",
@@ -197,7 +184,20 @@
       "venue": "Yonder Cider & Bale Breaker - Ballard"
     },
     {
-      "date": "2026-06-02T00:00:00",
+      "date": "2026-06-10T16:00:00.425000",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "extraction_method": "html",
+      "location": "Yonder Cider & Bale Breaker - Ballard",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "title": "Georgia\u2019s Greek",
+      "vendor": "Georgia\u2019s Greek",
+      "venue": "Yonder Cider & Bale Breaker - Ballard"
+    },
+    {
+      "date": "2026-06-03T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -208,19 +208,6 @@
       "title": "La Coste\u00f1ita Cuisine",
       "vendor": "La Coste\u00f1ita Cuisine",
       "venue": "Obec Brewing"
-    },
-    {
-      "date": "2026-06-02T00:00:00",
-      "description": "https://urbanfamilybrewing.com/events/burgerdom-10/",
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "extraction_method": "html",
-      "location": "Urban Family Brewing",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
-      "title": "BurgerDOM",
-      "vendor": "BurgerDOM",
-      "venue": "Urban Family Brewing"
     },
     {
       "date": "2026-06-03T00:00:00",
@@ -327,6 +314,19 @@
       "venue": "Urban Family Brewing"
     },
     {
+      "date": "2026-06-10T00:00:00",
+      "description": "https://urbanfamilybrewing.com/events/impeccable-chicken-11/",
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "extraction_method": "html",
+      "location": "Urban Family Brewing",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "title": "Impeccable Chicken",
+      "vendor": "Impeccable Chicken",
+      "venue": "Urban Family Brewing"
+    },
+    {
       "date": "2026-06-04T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
@@ -379,17 +379,17 @@
       "venue": "Channel Marker Cider"
     },
     {
-      "date": "2026-06-02T00:00:00",
-      "description": "Original event: Dinner: Kaosamai Thai",
+      "date": "2026-06-10T00:00:00",
+      "description": null,
       "end_time": null,
       "end_time_raw": null,
-      "extraction_method": "html",
-      "location": "Chuck's Hop Shop Greenwood",
+      "extraction_method": "csv",
+      "location": "Channel Marker Cider",
       "start_time": null,
       "start_time_raw": null,
-      "title": "Kaosamai Thai",
-      "vendor": "Kaosamai Thai",
-      "venue": "Chuck's Hop Shop Greenwood"
+      "title": "Heart In Seoul",
+      "vendor": "Heart In Seoul",
+      "venue": "Channel Marker Cider"
     },
     {
       "date": "2026-06-03T00:00:00",
@@ -496,6 +496,19 @@
       "venue": "Chuck's Hop Shop Greenwood"
     },
     {
+      "date": "2026-06-10T00:00:00",
+      "description": "Original event: Dinner: Chick'n Fix",
+      "end_time": null,
+      "end_time_raw": null,
+      "extraction_method": "html",
+      "location": "Chuck's Hop Shop Greenwood",
+      "start_time": null,
+      "start_time_raw": null,
+      "title": "Chick'n Fix",
+      "vendor": "Chick'n Fix",
+      "venue": "Chuck's Hop Shop Greenwood"
+    },
+    {
       "date": "2026-06-06T00:00:00",
       "description": null,
       "end_time": "7:30 PM PT",
@@ -507,19 +520,6 @@
       "title": "Llama Fusion",
       "vendor": "Llama Fusion",
       "venue": "Lucky Envelope Brewing"
-    },
-    {
-      "date": "2026-06-02T17:00:00",
-      "description": "Cuisine: Burritos, Mexican, Tacos",
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
-      "extraction_method": "api",
-      "location": "Saleh's Corner",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
-      "title": "Plaza Garcia Express",
-      "vendor": "Plaza Garcia Express",
-      "venue": "Saleh's Corner"
     },
     {
       "date": "2026-06-03T17:00:00",
@@ -611,14 +611,27 @@
       "title": "Plaza Garcia Express",
       "vendor": "Plaza Garcia Express",
       "venue": "Saleh's Corner"
+    },
+    {
+      "date": "2026-06-10T17:00:00",
+      "description": "Cuisine: Greek, Gyro, Halal",
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "extraction_method": "api",
+      "location": "Saleh's Corner",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "title": "Theo's Gyros",
+      "vendor": "Theo's Gyros",
+      "venue": "Saleh's Corner"
     }
   ],
-  "haiku": "\ud83c\udf2e Tacos & Beer lifts\u2014\nbreezy gray above Stoup's yard,\ntaco steam drifts wide \ud83c\udf7a",
+  "haiku": "\ud83c\udf55 Char scent lifts and drifts\u2014\nThe Marigold Wood Fired Pizza\nlingers long at Stoup \ud83c\udf7a",
   "site_key": "ballard-food-trucks",
   "site_name": "Food Trucks in Ballard",
   "timezone": "America/Los_Angeles",
   "timezone_label": "PT",
   "timezone_note": "All event times are in Pacific Time (PT).",
-  "total_events": 47,
-  "updated": "2026-06-03T06:10:08.885104+00:00"
+  "total_events": 48,
+  "updated": "2026-06-03T07:10:09.827553+00:00"
 }
