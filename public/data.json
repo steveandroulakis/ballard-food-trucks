@@ -2,19 +2,6 @@
   "errors": [],
   "events": [
     {
-      "date": "2026-06-03T00:00:00",
-      "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "extraction_method": "html",
-      "location": "Stoup Brewing - Ballard",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
-      "title": "The Marigold Wood Fired Pizza",
-      "vendor": "The Marigold Wood Fired Pizza",
-      "venue": "Stoup Brewing - Ballard"
-    },
-    {
       "date": "2026-06-04T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
@@ -106,17 +93,17 @@
       "venue": "Stoup Brewing - Ballard"
     },
     {
-      "date": "2026-06-03T16:00:00.425000",
+      "date": "2026-06-11T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
       "extraction_method": "html",
-      "location": "Yonder Cider & Bale Breaker - Ballard",
+      "location": "Stoup Brewing - Ballard",
       "start_time": "4:00 PM PT",
       "start_time_raw": "4:00 PM",
-      "title": "Georgia\u2019s Greek",
-      "vendor": "Georgia\u2019s Greek",
-      "venue": "Yonder Cider & Bale Breaker - Ballard"
+      "title": "Birrieria Pepe El Toro",
+      "vendor": "Birrieria Pepe El Toro",
+      "venue": "Stoup Brewing - Ballard"
     },
     {
       "date": "2026-06-04T17:00:00.091000",
@@ -197,30 +184,30 @@
       "venue": "Yonder Cider & Bale Breaker - Ballard"
     },
     {
-      "date": "2026-06-03T00:00:00",
+      "date": "2026-06-11T17:00:00.091000",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
       "extraction_method": "html",
-      "location": "Obec Brewing",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
-      "title": "Empanadas el Pachi",
-      "vendor": "Empanadas el Pachi",
-      "venue": "Obec Brewing"
+      "location": "Yonder Cider & Bale Breaker - Ballard",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "title": "Impeckable Chicken",
+      "vendor": "Impeckable Chicken",
+      "venue": "Yonder Cider & Bale Breaker - Ballard"
     },
     {
-      "date": "2026-06-03T00:00:00",
-      "description": "https://urbanfamilybrewing.com/events/katmandu-momocha-11/",
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
+      "date": "2026-06-04T00:00:00",
+      "description": null,
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
       "extraction_method": "html",
-      "location": "Urban Family Brewing",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
-      "title": "Katmandu Momocha",
-      "vendor": "Katmandu Momocha",
-      "venue": "Urban Family Brewing"
+      "location": "Obec Brewing",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "title": "Tummy Yummy Thai",
+      "vendor": "Tummy Yummy Thai",
+      "venue": "Obec Brewing"
     },
     {
       "date": "2026-06-04T00:00:00",
@@ -327,6 +314,19 @@
       "venue": "Urban Family Brewing"
     },
     {
+      "date": "2026-06-11T00:00:00",
+      "description": "https://urbanfamilybrewing.com/events/burger-planet-14/",
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "extraction_method": "html",
+      "location": "Urban Family Brewing",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "title": "Burger Planet",
+      "vendor": "Burger Planet",
+      "venue": "Urban Family Brewing"
+    },
+    {
       "date": "2026-06-04T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
@@ -366,17 +366,17 @@
       "venue": "Wheelie Pop Brewing"
     },
     {
-      "date": "2026-06-03T00:00:00",
+      "date": "2026-06-11T00:00:00",
       "description": null,
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
-      "extraction_method": "csv",
-      "location": "Channel Marker Cider",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
-      "title": "Cocina Barelas",
-      "vendor": "Cocina Barelas",
-      "venue": "Channel Marker Cider"
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "extraction_method": "html",
+      "location": "Wheelie Pop Brewing",
+      "start_time": "6:00 PM PT",
+      "start_time_raw": "6:00 PM",
+      "title": "Kaosamai Thai",
+      "vendor": "Kaosamai Thai",
+      "venue": "Wheelie Pop Brewing"
     },
     {
       "date": "2026-06-09T00:00:00",
@@ -403,19 +403,6 @@
       "title": "Heart In Seoul",
       "vendor": "Heart In Seoul",
       "venue": "Channel Marker Cider"
-    },
-    {
-      "date": "2026-06-03T00:00:00",
-      "description": "Original event: Dinner: Chick'n Fix",
-      "end_time": null,
-      "end_time_raw": null,
-      "extraction_method": "html",
-      "location": "Chuck's Hop Shop Greenwood",
-      "start_time": null,
-      "start_time_raw": null,
-      "title": "Chick'n Fix",
-      "vendor": "Chick'n Fix",
-      "venue": "Chuck's Hop Shop Greenwood"
     },
     {
       "date": "2026-06-04T00:00:00",
@@ -522,6 +509,19 @@
       "venue": "Chuck's Hop Shop Greenwood"
     },
     {
+      "date": "2026-06-11T00:00:00",
+      "description": "Original event: Dinner: Pizza Paesano",
+      "end_time": null,
+      "end_time_raw": null,
+      "extraction_method": "html",
+      "location": "Chuck's Hop Shop Greenwood",
+      "start_time": null,
+      "start_time_raw": null,
+      "title": "Pizza Paesano",
+      "vendor": "Pizza Paesano",
+      "venue": "Chuck's Hop Shop Greenwood"
+    },
+    {
       "date": "2026-06-06T00:00:00",
       "description": null,
       "end_time": "7:30 PM PT",
@@ -533,19 +533,6 @@
       "title": "Llama Fusion",
       "vendor": "Llama Fusion",
       "venue": "Lucky Envelope Brewing"
-    },
-    {
-      "date": "2026-06-03T17:00:00",
-      "description": "Cuisine: Greek, Gyro, Halal",
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
-      "extraction_method": "api",
-      "location": "Saleh's Corner",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
-      "title": "Theo's Gyros",
-      "vendor": "Theo's Gyros",
-      "venue": "Saleh's Corner"
     },
     {
       "date": "2026-06-04T17:00:00",
@@ -637,14 +624,27 @@
       "title": "Theo's Gyros",
       "vendor": "Theo's Gyros",
       "venue": "Saleh's Corner"
+    },
+    {
+      "date": "2026-06-11T17:00:00",
+      "description": "Cuisine: Seafood",
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "extraction_method": "api",
+      "location": "Saleh's Corner",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "title": "Fish Basket NW",
+      "vendor": "Fish Basket NW",
+      "venue": "Saleh's Corner"
     }
   ],
-  "haiku": "\ud83c\udf00 Clear air, easy stir\u2014\nTheo's Gyros at Saleh's Corner,\nlamb fills the afternoon \ud83e\udd59",
+  "haiku": "\ud83c\udf3f Lemongrass lifts light\u2014\nTummy Yummy Thai at Obec,\neasy air, pints poured \ud83c\udf7a",
   "site_key": "ballard-food-trucks",
   "site_name": "Food Trucks in Ballard",
   "timezone": "America/Los_Angeles",
   "timezone_label": "PT",
   "timezone_note": "All event times are in Pacific Time (PT).",
   "total_events": 49,
-  "updated": "2026-06-04T06:10:10.484971+00:00"
+  "updated": "2026-06-04T07:10:52.147124+00:00"
 }
