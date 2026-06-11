@@ -639,12 +639,12 @@
       "venue": "Saleh's Corner"
     }
   ],
-  "haiku": "\ud83c\udf55 Crust chars in warm air\u2014\nPizza Paesano's smoke drifts\nthrough Chuck's open doors \ud83c\udf7a",
+  "haiku": null,
   "site_key": "ballard-food-trucks",
   "site_name": "Food Trucks in Ballard",
   "timezone": "America/Los_Angeles",
   "timezone_label": "PT",
   "timezone_note": "All event times are in Pacific Time (PT).",
   "total_events": 49,
-  "updated": "2026-06-11T07:10:08.934082+00:00"
+  "updated": "2026-06-11T08:10:05.298552+00:00"
 }
