@@ -212,14 +212,14 @@
     {
       "date": "2026-06-11T00:00:00",
       "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
+      "end_time": "7:00 PM PT",
+      "end_time_raw": "7:00 PM",
       "extraction_method": "html",
       "location": "Obec Brewing",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
-      "title": "Cocina Barelas (New Mexican Cuisine)",
-      "vendor": "Cocina Barelas (New Mexican Cuisine)",
+      "start_time": "12:00 PM PT",
+      "start_time_raw": "12:00 PM",
+      "title": "Sabor Boricua",
+      "vendor": "Sabor Boricua",
       "venue": "Obec Brewing"
     },
     {
@@ -646,5 +646,5 @@
   "timezone_label": "PT",
   "timezone_note": "All event times are in Pacific Time (PT).",
   "total_events": 49,
-  "updated": "2026-06-11T08:10:05.298552+00:00"
+  "updated": "2026-06-11T09:10:42.809072+00:00"
 }
