@@ -1,7 +1,5 @@
 {
-  "errors": [
-    "Failed to fetch information for: Obec Brewing"
-  ],
+  "errors": [],
   "events": [
     {
       "date": "2026-06-12T00:00:00",
@@ -210,6 +208,19 @@
       "title": "Wood Shop BBQ",
       "vendor": "Wood Shop BBQ",
       "venue": "Yonder Cider & Bale Breaker - Ballard"
+    },
+    {
+      "date": "2026-06-12T00:00:00",
+      "description": null,
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "extraction_method": "html",
+      "location": "Obec Brewing",
+      "start_time": "12:00 PM PT",
+      "start_time_raw": "12:00 PM",
+      "title": "Cocina Barelas (New Mexican Cuisine)",
+      "vendor": "Cocina Barelas (New Mexican Cuisine)",
+      "venue": "Obec Brewing"
     },
     {
       "date": "2026-06-12T00:00:00",
@@ -628,12 +639,12 @@
       "venue": "Saleh's Corner"
     }
   ],
-  "haiku": "\ud83c\udf2e T'Juana's smoke drifts\u2014\nwarm afternoon at Chuck's Hop Shop,\npints linger in sun \ud83c\udf7a",
+  "haiku": "\ud83c\udf57 Crisp skin scent drifts wide\u2014\nImpeckable Chicken calls,\nwarm air holds Saleh's \ud83c\udf7a",
   "site_key": "ballard-food-trucks",
   "site_name": "Food Trucks in Ballard",
   "timezone": "America/Los_Angeles",
   "timezone_label": "PT",
   "timezone_note": "All event times are in Pacific Time (PT).",
-  "total_events": 48,
-  "updated": "2026-06-12T08:11:04.482166+00:00"
+  "total_events": 49,
+  "updated": "2026-06-12T09:10:26.114831+00:00"
 }
