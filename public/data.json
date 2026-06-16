@@ -4,19 +4,6 @@
     {
       "date": "2026-06-15T00:00:00",
       "description": null,
-      "end_time": null,
-      "end_time_raw": null,
-      "extraction_method": "html",
-      "location": "Stoup Brewing - Ballard",
-      "start_time": null,
-      "start_time_raw": null,
-      "title": "Wich Came First",
-      "vendor": "Wich Came First",
-      "venue": "Stoup Brewing - Ballard"
-    },
-    {
-      "date": "2026-06-15T00:00:00",
-      "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
       "extraction_method": "html",
@@ -587,12 +574,12 @@
       "venue": "Saleh's Corner"
     }
   ],
-  "haiku": "\ud83c\udf2c\ufe0f Bread pressed, pavement warm\u2014\nWich Came First at Stoup's shade,\nbreeze lifts every bite \ud83c\udf7a",
+  "haiku": "\ud83c\udf43 Breezy, clouds hold close\u2014\nOff the Rez at Chuck's Hop Shop,\nfry bread warms the air \ud83c\udf7a",
   "site_key": "ballard-food-trucks",
   "site_name": "Food Trucks in Ballard",
   "timezone": "America/Los_Angeles",
   "timezone_label": "PT",
   "timezone_note": "All event times are in Pacific Time (PT).",
-  "total_events": 45,
-  "updated": "2026-06-15T23:10:25.882483+00:00"
+  "total_events": 44,
+  "updated": "2026-06-16T00:10:09.747487+00:00"
 }
