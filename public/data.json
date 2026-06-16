@@ -199,14 +199,14 @@
     {
       "date": "2026-06-16T00:00:00",
       "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
+      "end_time": "3:30 AM PT",
+      "end_time_raw": "3:30 AM",
       "extraction_method": "html",
       "location": "Obec Brewing",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
-      "title": "Food truck canceled due to high heat",
-      "vendor": "Food truck canceled due to high heat",
+      "start_time": "11:30 PM PT",
+      "start_time_raw": "11:30 PM",
+      "title": "Cocina Barelas",
+      "vendor": "Cocina Barelas",
       "venue": "Obec Brewing"
     },
     {
@@ -587,12 +587,12 @@
       "venue": "Saleh's Corner"
     }
   ],
-  "haiku": "\ud83c\udf54 Sizzle lifts on breeze\u2014\nBurgerDOM at Urban Family,\nwarm afternoon stays \ud83c\udf7a",
+  "haiku": "\ud83c\udf2e Tacos & Beer lifts\u2014\nwarm breeze off Ballard's bright streets\ncrowds linger at Stoup \ud83c\udf7a",
   "site_key": "ballard-food-trucks",
   "site_name": "Food Trucks in Ballard",
   "timezone": "America/Los_Angeles",
   "timezone_label": "PT",
   "timezone_note": "All event times are in Pacific Time (PT).",
   "total_events": 45,
-  "updated": "2026-06-16T07:10:06.907097+00:00"
+  "updated": "2026-06-16T08:10:11.647159+00:00"
 }
