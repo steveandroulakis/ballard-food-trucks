@@ -470,19 +470,6 @@
       "venue": "Lucky Envelope Brewing"
     },
     {
-      "date": "2026-06-22T17:00:00",
-      "description": "Cuisine: Asian, BBQ, Sandwiches",
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
-      "extraction_method": "api",
-      "location": "Saleh's Corner",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
-      "title": "MOMO Express",
-      "vendor": "MOMO Express",
-      "venue": "Saleh's Corner"
-    },
-    {
       "date": "2026-06-23T17:00:00",
       "description": "Cuisine: Burritos, Mexican, Tacos",
       "end_time": "9:00 PM PT",
@@ -574,12 +561,12 @@
       "venue": "Saleh's Corner"
     }
   ],
-  "haiku": "\ud83c\udf2c\ufe0f Breeze stirs the bright lot\u2014\nWhere Ya At Matt's roux pours slow\nat Stoup's warm afternoon \ud83c\udf7a",
+  "haiku": "\ud83c\udf2e Breeze stirs Barelas\u2014\nsalsa bright at Obec's tables\nwarm pints fill the afternoon \ud83c\udf7a",
   "site_key": "ballard-food-trucks",
   "site_name": "Food Trucks in Ballard",
   "timezone": "America/Los_Angeles",
   "timezone_label": "PT",
   "timezone_note": "All event times are in Pacific Time (PT).",
-  "total_events": 44,
-  "updated": "2026-06-22T15:10:05.626690+00:00"
+  "total_events": 43,
+  "updated": "2026-06-22T16:10:06.285533+00:00"
 }
