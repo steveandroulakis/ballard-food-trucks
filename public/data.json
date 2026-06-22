@@ -186,14 +186,14 @@
     {
       "date": "2026-06-22T00:00:00",
       "description": null,
-      "end_time": "3:30 AM PT",
-      "end_time_raw": "3:30 AM",
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
       "extraction_method": "html",
       "location": "Obec Brewing",
-      "start_time": "9:30 PM PT",
-      "start_time_raw": "9:30 PM",
-      "title": "Cocina Barelas",
-      "vendor": "Cocina Barelas",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "title": "Plaza Garcia",
+      "vendor": "Plaza Garcia",
       "venue": "Obec Brewing"
     },
     {
@@ -581,5 +581,5 @@
   "timezone_label": "PT",
   "timezone_note": "All event times are in Pacific Time (PT).",
   "total_events": 44,
-  "updated": "2026-06-22T21:10:05.108503+00:00"
+  "updated": "2026-06-22T22:10:04.210538+00:00"
 }
