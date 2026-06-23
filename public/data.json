@@ -49,8 +49,8 @@
       "location": "Stoup Brewing - Ballard",
       "start_time": "5:00 PM PT",
       "start_time_raw": "5:00 PM",
-      "title": "El Sabor Boricua",
-      "vendor": "El Sabor Boricua",
+      "title": "Georgia's Greek",
+      "vendor": "Georgia's Greek",
       "venue": "Stoup Brewing - Ballard"
     },
     {
@@ -327,19 +327,6 @@
       "venue": "Urban Family Brewing"
     },
     {
-      "date": "2026-06-23T00:00:00",
-      "description": null,
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
-      "extraction_method": "csv",
-      "location": "Channel Marker Cider",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
-      "title": "Cocina Barelas",
-      "vendor": "Cocina Barelas",
-      "venue": "Channel Marker Cider"
-    },
-    {
       "date": "2026-06-24T00:00:00",
       "description": null,
       "end_time": "9:00 PM PT",
@@ -593,6 +580,6 @@
   "timezone": "America/Los_Angeles",
   "timezone_label": "PT",
   "timezone_note": "All event times are in Pacific Time (PT).",
-  "total_events": 45,
-  "updated": "2026-06-23T18:10:02.940142+00:00"
+  "total_events": 44,
+  "updated": "2026-06-23T19:10:01.569826+00:00"
 }
