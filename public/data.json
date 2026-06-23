@@ -198,19 +198,6 @@
     },
     {
       "date": "2026-06-23T00:00:00",
-      "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "extraction_method": "html",
-      "location": "Obec Brewing",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
-      "title": "La Coste\u00f1ita Cuisine",
-      "vendor": "La Coste\u00f1ita Cuisine",
-      "venue": "Obec Brewing"
-    },
-    {
-      "date": "2026-06-23T00:00:00",
       "description": "https://urbanfamilybrewing.com/events/georgias-greek-12/",
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -580,6 +567,6 @@
   "timezone": "America/Los_Angeles",
   "timezone_label": "PT",
   "timezone_note": "All event times are in Pacific Time (PT).",
-  "total_events": 44,
-  "updated": "2026-06-23T19:10:01.569826+00:00"
+  "total_events": 43,
+  "updated": "2026-06-23T20:10:05.650783+00:00"
 }
