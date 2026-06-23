@@ -2,19 +2,6 @@
   "errors": [],
   "events": [
     {
-      "date": "2026-06-22T00:00:00",
-      "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "extraction_method": "html",
-      "location": "Stoup Brewing - Ballard",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
-      "title": "Where Ya At Matt",
-      "vendor": "Where Ya At Matt",
-      "venue": "Stoup Brewing - Ballard"
-    },
-    {
       "date": "2026-06-23T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
@@ -106,6 +93,19 @@
       "venue": "Stoup Brewing - Ballard"
     },
     {
+      "date": "2026-06-30T00:00:00",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "extraction_method": "html",
+      "location": "Stoup Brewing - Ballard",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "title": "Tacos & Beer",
+      "vendor": "Tacos & Beer",
+      "venue": "Stoup Brewing - Ballard"
+    },
+    {
       "date": "2026-06-23T16:00:00.203000",
       "description": null,
       "end_time": "9:00 PM PT",
@@ -184,7 +184,20 @@
       "venue": "Yonder Cider & Bale Breaker - Ballard"
     },
     {
-      "date": "2026-06-22T00:00:00",
+      "date": "2026-06-30T16:00:00.307000",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "extraction_method": "html",
+      "location": "Yonder Cider & Bale Breaker - Ballard",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "title": "Tummy Yummy Thai",
+      "vendor": "Tummy Yummy Thai",
+      "venue": "Yonder Cider & Bale Breaker - Ballard"
+    },
+    {
+      "date": "2026-06-23T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -195,19 +208,6 @@
       "title": "Plaza Garcia",
       "vendor": "Plaza Garcia",
       "venue": "Obec Brewing"
-    },
-    {
-      "date": "2026-06-22T00:00:00",
-      "description": "https://urbanfamilybrewing.com/events/la-riviera-maya-13/",
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "extraction_method": "html",
-      "location": "Urban Family Brewing",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
-      "title": "La Riviera Maya",
-      "vendor": "La Riviera Maya",
-      "venue": "Urban Family Brewing"
     },
     {
       "date": "2026-06-23T00:00:00",
@@ -314,6 +314,19 @@
       "venue": "Urban Family Brewing"
     },
     {
+      "date": "2026-06-30T00:00:00",
+      "description": "https://urbanfamilybrewing.com/events/burgerdom-12/",
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "extraction_method": "html",
+      "location": "Urban Family Brewing",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "title": "BurgerDOM",
+      "vendor": "BurgerDOM",
+      "venue": "Urban Family Brewing"
+    },
+    {
       "date": "2026-06-23T00:00:00",
       "description": null,
       "end_time": "9:00 PM PT",
@@ -338,19 +351,6 @@
       "title": "Kathmandu Momocha",
       "vendor": "Kathmandu Momocha",
       "venue": "Channel Marker Cider"
-    },
-    {
-      "date": "2026-06-22T00:00:00",
-      "description": "Original event: Dinner: Off the Rez",
-      "end_time": null,
-      "end_time_raw": null,
-      "extraction_method": "html",
-      "location": "Chuck's Hop Shop Greenwood",
-      "start_time": null,
-      "start_time_raw": null,
-      "title": "Off the Rez",
-      "vendor": "Off the Rez",
-      "venue": "Chuck's Hop Shop Greenwood"
     },
     {
       "date": "2026-06-23T00:00:00",
@@ -457,6 +457,19 @@
       "venue": "Chuck's Hop Shop Greenwood"
     },
     {
+      "date": "2026-06-30T00:00:00",
+      "description": "Original event: Dinner: Kaosamai Thai",
+      "end_time": null,
+      "end_time_raw": null,
+      "extraction_method": "html",
+      "location": "Chuck's Hop Shop Greenwood",
+      "start_time": null,
+      "start_time_raw": null,
+      "title": "Kaosamai Thai",
+      "vendor": "Kaosamai Thai",
+      "venue": "Chuck's Hop Shop Greenwood"
+    },
+    {
       "date": "2026-06-26T00:00:00",
       "description": null,
       "end_time": "7:30 PM PT",
@@ -468,19 +481,6 @@
       "title": "Tisket Tasket",
       "vendor": "Tisket Tasket",
       "venue": "Lucky Envelope Brewing"
-    },
-    {
-      "date": "2026-06-22T17:00:00",
-      "description": "Cuisine: Asian, Thai, Vegetarian",
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
-      "extraction_method": "api",
-      "location": "Saleh's Corner",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
-      "title": "Pumpkin Thai",
-      "vendor": "Pumpkin Thai",
-      "venue": "Saleh's Corner"
     },
     {
       "date": "2026-06-23T17:00:00",
@@ -572,6 +572,19 @@
       "title": "MOMO Express",
       "vendor": "MOMO Express",
       "venue": "Saleh's Corner"
+    },
+    {
+      "date": "2026-06-30T17:00:00",
+      "description": "Cuisine: Burritos, Mexican, Tacos",
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "extraction_method": "api",
+      "location": "Saleh's Corner",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "title": "Plaza Garcia Express",
+      "vendor": "Plaza Garcia Express",
+      "venue": "Saleh's Corner"
     }
   ],
   "haiku": null,
@@ -580,6 +593,6 @@
   "timezone": "America/Los_Angeles",
   "timezone_label": "PT",
   "timezone_note": "All event times are in Pacific Time (PT).",
-  "total_events": 44,
-  "updated": "2026-06-23T06:10:03.675820+00:00"
+  "total_events": 45,
+  "updated": "2026-06-23T07:10:01.388164+00:00"
 }
