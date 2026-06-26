@@ -2,19 +2,6 @@
   "errors": [],
   "events": [
     {
-      "date": "2026-06-25T00:00:00",
-      "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "extraction_method": "html",
-      "location": "Stoup Brewing - Ballard",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
-      "title": "Birrieria Pepe El Toro",
-      "vendor": "Birrieria Pepe El Toro",
-      "venue": "Stoup Brewing - Ballard"
-    },
-    {
       "date": "2026-06-26T00:00:00",
       "description": null,
       "end_time": "9:00 PM PT",
@@ -106,17 +93,17 @@
       "venue": "Stoup Brewing - Ballard"
     },
     {
-      "date": "2026-06-25T17:00:00.091000",
+      "date": "2026-07-03T00:00:00",
       "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
       "extraction_method": "html",
-      "location": "Yonder Cider & Bale Breaker - Ballard",
+      "location": "Stoup Brewing - Ballard",
       "start_time": "5:00 PM PT",
       "start_time_raw": "5:00 PM",
-      "title": "Impeckable Chicken",
-      "vendor": "Impeckable Chicken",
-      "venue": "Yonder Cider & Bale Breaker - Ballard"
+      "title": "Off the Rez",
+      "vendor": "Off the Rez",
+      "venue": "Stoup Brewing - Ballard"
     },
     {
       "date": "2026-06-26T16:00:00.571000",
@@ -169,19 +156,6 @@
       "title": "Tummy Yummy Thai",
       "vendor": "Tummy Yummy Thai",
       "venue": "Yonder Cider & Bale Breaker - Ballard"
-    },
-    {
-      "date": "2026-06-25T00:00:00",
-      "description": "https://urbanfamilybrewing.com/events/burger-planet-15/",
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "extraction_method": "html",
-      "location": "Urban Family Brewing",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
-      "title": "Burger Planet",
-      "vendor": "Burger Planet",
-      "venue": "Urban Family Brewing"
     },
     {
       "date": "2026-06-26T00:00:00",
@@ -288,6 +262,19 @@
       "venue": "Urban Family Brewing"
     },
     {
+      "date": "2026-07-03T00:00:00",
+      "description": "https://urbanfamilybrewing.com/events/birrieria-pepe-el-toro-12/",
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "extraction_method": "html",
+      "location": "Urban Family Brewing",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "title": "Birrieria Pepe El Toro",
+      "vendor": "Birrieria Pepe El Toro",
+      "venue": "Urban Family Brewing"
+    },
+    {
       "date": "2026-07-01T00:00:00",
       "description": null,
       "end_time": "9:00 PM PT",
@@ -299,19 +286,6 @@
       "title": "Impeckable Chicken",
       "vendor": "Impeckable Chicken",
       "venue": "Channel Marker Cider"
-    },
-    {
-      "date": "2026-06-25T00:00:00",
-      "description": "Original event: Dinner: Pizza Paesano",
-      "end_time": null,
-      "end_time_raw": null,
-      "extraction_method": "html",
-      "location": "Chuck's Hop Shop Greenwood",
-      "start_time": null,
-      "start_time_raw": null,
-      "title": "Pizza Paesano",
-      "vendor": "Pizza Paesano",
-      "venue": "Chuck's Hop Shop Greenwood"
     },
     {
       "date": "2026-06-26T00:00:00",
@@ -418,6 +392,19 @@
       "venue": "Chuck's Hop Shop Greenwood"
     },
     {
+      "date": "2026-07-03T00:00:00",
+      "description": "Original event: Dinner: Where ya at Matt",
+      "end_time": null,
+      "end_time_raw": null,
+      "extraction_method": "html",
+      "location": "Chuck's Hop Shop Greenwood",
+      "start_time": null,
+      "start_time_raw": null,
+      "title": "Where ya at Matt",
+      "vendor": "Where ya at Matt",
+      "venue": "Chuck's Hop Shop Greenwood"
+    },
+    {
       "date": "2026-06-26T00:00:00",
       "description": null,
       "end_time": "7:30 PM PT",
@@ -429,19 +416,6 @@
       "title": "Tisket Tasket",
       "vendor": "Tisket Tasket",
       "venue": "Lucky Envelope Brewing"
-    },
-    {
-      "date": "2026-06-25T17:00:00",
-      "description": "Cuisine: Seafood",
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
-      "extraction_method": "api",
-      "location": "Saleh's Corner",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
-      "title": "Fish Basket NW",
-      "vendor": "Fish Basket NW",
-      "venue": "Saleh's Corner"
     },
     {
       "date": "2026-06-26T17:00:00",
@@ -533,6 +507,19 @@
       "title": "Fish Basket NW",
       "vendor": "Fish Basket NW",
       "venue": "Saleh's Corner"
+    },
+    {
+      "date": "2026-07-03T17:00:00",
+      "description": "Cuisine: Chicken, Sandwiches, Southern",
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "extraction_method": "api",
+      "location": "Saleh's Corner",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "title": "Impeckable Chicken",
+      "vendor": "Impeckable Chicken",
+      "venue": "Saleh's Corner"
     }
   ],
   "haiku": null,
@@ -541,6 +528,6 @@
   "timezone": "America/Los_Angeles",
   "timezone_label": "PT",
   "timezone_note": "All event times are in Pacific Time (PT).",
-  "total_events": 41,
-  "updated": "2026-06-26T06:10:01.441243+00:00"
+  "total_events": 40,
+  "updated": "2026-06-26T07:10:31.571891+00:00"
 }
