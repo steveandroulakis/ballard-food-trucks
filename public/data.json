@@ -470,19 +470,6 @@
       "venue": "Saleh's Corner"
     },
     {
-      "date": "2026-07-04T17:00:00",
-      "description": "Cuisine: Gluten-Free, Italian, Pizza",
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
-      "extraction_method": "api",
-      "location": "Saleh's Corner",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
-      "title": "Oskar's Pizza",
-      "vendor": "Oskar's Pizza",
-      "venue": "Saleh's Corner"
-    },
-    {
       "date": "2026-07-05T17:00:00",
       "description": "Cuisine: Italian, Sandwiches, Vegetarian",
       "end_time": "9:00 PM PT",
@@ -502,6 +489,6 @@
   "timezone": "America/Los_Angeles",
   "timezone_label": "PT",
   "timezone_note": "All event times are in Pacific Time (PT).",
-  "total_events": 38,
-  "updated": "2026-06-28T19:10:01.444579+00:00"
+  "total_events": 37,
+  "updated": "2026-06-28T20:10:02.856147+00:00"
 }
