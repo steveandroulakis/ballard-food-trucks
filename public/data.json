@@ -120,6 +120,19 @@
     },
     {
       "date": "2026-06-29T00:00:00",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "extraction_method": "html",
+      "location": "Obec Brewing",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "title": "Plaza Garcia",
+      "vendor": "Plaza Garcia",
+      "venue": "Obec Brewing"
+    },
+    {
+      "date": "2026-06-29T00:00:00",
       "description": "https://urbanfamilybrewing.com/events/empanadas-el-pachi-13/",
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -437,6 +450,6 @@
   "timezone": "America/Los_Angeles",
   "timezone_label": "PT",
   "timezone_note": "All event times are in Pacific Time (PT).",
-  "total_events": 33,
-  "updated": "2026-06-29T07:10:01.594280+00:00"
+  "total_events": 34,
+  "updated": "2026-06-29T08:10:10.576931+00:00"
 }
