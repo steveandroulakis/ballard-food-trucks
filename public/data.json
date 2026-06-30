@@ -184,6 +184,19 @@
       "venue": "Urban Family Brewing"
     },
     {
+      "date": "2026-07-04T00:00:00",
+      "description": "https://urbanfamilybrewing.com/events/la-riviera-maya-4/",
+      "end_time": "5:00 PM PT",
+      "end_time_raw": "5:00 PM",
+      "extraction_method": "html",
+      "location": "Urban Family Brewing",
+      "start_time": "2:00 PM PT",
+      "start_time_raw": "2:00 PM",
+      "title": "La Riviera Maya",
+      "vendor": "La Riviera Maya",
+      "venue": "Urban Family Brewing"
+    },
+    {
       "date": "2026-07-05T00:00:00",
       "description": "https://urbanfamilybrewing.com/events/9th-and-hennepin-26/",
       "end_time": "12:00 PM PT",
@@ -463,6 +476,6 @@
   "timezone": "America/Los_Angeles",
   "timezone_label": "PT",
   "timezone_note": "All event times are in Pacific Time (PT).",
-  "total_events": 35,
-  "updated": "2026-06-30T18:10:04.359498+00:00"
+  "total_events": 36,
+  "updated": "2026-06-30T19:10:01.456456+00:00"
 }
