@@ -2,19 +2,6 @@
   "errors": [],
   "events": [
     {
-      "date": "2026-06-30T00:00:00",
-      "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "extraction_method": "html",
-      "location": "Stoup Brewing - Ballard",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
-      "title": "Tacos & Beer",
-      "vendor": "Tacos & Beer",
-      "venue": "Stoup Brewing - Ballard"
-    },
-    {
       "date": "2026-07-01T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
@@ -106,6 +93,19 @@
       "venue": "Stoup Brewing - Ballard"
     },
     {
+      "date": "2026-07-08T00:00:00",
+      "description": null,
+      "end_time": "8:30 PM PT",
+      "end_time_raw": "8:30 PM",
+      "extraction_method": "html",
+      "location": "Stoup Brewing - Ballard",
+      "start_time": "4:30 PM PT",
+      "start_time_raw": "4:30 PM",
+      "title": "El Gran Taco",
+      "vendor": "El Gran Taco",
+      "venue": "Stoup Brewing - Ballard"
+    },
+    {
       "date": "2026-07-01T16:00:00.425000",
       "description": null,
       "end_time": "8:00 PM PT",
@@ -184,17 +184,30 @@
       "venue": "Yonder Cider & Bale Breaker - Ballard"
     },
     {
-      "date": "2026-06-30T00:00:00",
-      "description": "https://urbanfamilybrewing.com/events/burgerdom-12/",
+      "date": "2026-07-08T16:00:00.425000",
+      "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
       "extraction_method": "html",
-      "location": "Urban Family Brewing",
+      "location": "Yonder Cider & Bale Breaker - Ballard",
       "start_time": "4:00 PM PT",
       "start_time_raw": "4:00 PM",
-      "title": "BurgerDOM",
-      "vendor": "BurgerDOM",
-      "venue": "Urban Family Brewing"
+      "title": "Georgia\u2019s Greek",
+      "vendor": "Georgia\u2019s Greek",
+      "venue": "Yonder Cider & Bale Breaker - Ballard"
+    },
+    {
+      "date": "2026-07-01T00:00:00",
+      "description": null,
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "extraction_method": "html",
+      "location": "Obec Brewing",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "title": "Cocina Barelas New Mexican Cuisine",
+      "vendor": "Cocina Barelas New Mexican Cuisine",
+      "venue": "Obec Brewing"
     },
     {
       "date": "2026-07-01T00:00:00",
@@ -288,6 +301,19 @@
       "venue": "Urban Family Brewing"
     },
     {
+      "date": "2026-07-08T00:00:00",
+      "description": "https://urbanfamilybrewing.com/events/impeccable-chicken-14/",
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "extraction_method": "html",
+      "location": "Urban Family Brewing",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "title": "Impeccable Chicken",
+      "vendor": "Impeccable Chicken",
+      "venue": "Urban Family Brewing"
+    },
+    {
       "date": "2026-07-01T00:00:00",
       "description": null,
       "end_time": "9:00 PM PT",
@@ -314,17 +340,17 @@
       "venue": "Channel Marker Cider"
     },
     {
-      "date": "2026-06-30T00:00:00",
-      "description": "Original event: Dinner: Kaosamai Thai",
-      "end_time": null,
-      "end_time_raw": null,
-      "extraction_method": "html",
-      "location": "Chuck's Hop Shop Greenwood",
-      "start_time": null,
-      "start_time_raw": null,
-      "title": "Kaosamai Thai",
-      "vendor": "Kaosamai Thai",
-      "venue": "Chuck's Hop Shop Greenwood"
+      "date": "2026-07-08T00:00:00",
+      "description": null,
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "extraction_method": "csv",
+      "location": "Channel Marker Cider",
+      "start_time": "6:00 PM PT",
+      "start_time_raw": "6:00 PM",
+      "title": "Kathmandu Momocha",
+      "vendor": "Kathmandu Momocha",
+      "venue": "Channel Marker Cider"
     },
     {
       "date": "2026-07-01T00:00:00",
@@ -431,17 +457,17 @@
       "venue": "Chuck's Hop Shop Greenwood"
     },
     {
-      "date": "2026-06-30T17:00:00",
-      "description": "Cuisine: Burritos, Mexican, Tacos",
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
-      "extraction_method": "api",
-      "location": "Saleh's Corner",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
-      "title": "Plaza Garcia Express",
-      "vendor": "Plaza Garcia Express",
-      "venue": "Saleh's Corner"
+      "date": "2026-07-08T00:00:00",
+      "description": "Original event: Dinner: Oskar's Pizza",
+      "end_time": null,
+      "end_time_raw": null,
+      "extraction_method": "html",
+      "location": "Chuck's Hop Shop Greenwood",
+      "start_time": null,
+      "start_time_raw": null,
+      "title": "Oskar's Pizza",
+      "vendor": "Oskar's Pizza",
+      "venue": "Chuck's Hop Shop Greenwood"
     },
     {
       "date": "2026-07-01T17:00:00",
@@ -520,6 +546,19 @@
       "title": "Plaza Garcia Express",
       "vendor": "Plaza Garcia Express",
       "venue": "Saleh's Corner"
+    },
+    {
+      "date": "2026-07-08T17:00:00",
+      "description": "Cuisine: Greek, Gyro, Halal",
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "extraction_method": "api",
+      "location": "Saleh's Corner",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "title": "Theo's Gyros",
+      "vendor": "Theo's Gyros",
+      "venue": "Saleh's Corner"
     }
   ],
   "haiku": null,
@@ -528,6 +567,6 @@
   "timezone": "America/Los_Angeles",
   "timezone_label": "PT",
   "timezone_note": "All event times are in Pacific Time (PT).",
-  "total_events": 40,
-  "updated": "2026-07-01T06:10:01.317805+00:00"
+  "total_events": 43,
+  "updated": "2026-07-01T07:10:01.569765+00:00"
 }
