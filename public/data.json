@@ -392,19 +392,6 @@
       "venue": "Chuck's Hop Shop Greenwood"
     },
     {
-      "date": "2026-07-04T00:00:00",
-      "description": "Original event: Tat's Deli",
-      "end_time": null,
-      "end_time_raw": null,
-      "extraction_method": "html",
-      "location": "Chuck's Hop Shop Greenwood",
-      "start_time": null,
-      "start_time_raw": null,
-      "title": "Tat's Deli",
-      "vendor": "Tat's Deli",
-      "venue": "Chuck's Hop Shop Greenwood"
-    },
-    {
       "date": "2026-07-05T00:00:00",
       "description": "Original event: Brunch: Good Morning Tacos",
       "end_time": null,
@@ -567,6 +554,6 @@
   "timezone": "America/Los_Angeles",
   "timezone_label": "PT",
   "timezone_note": "All event times are in Pacific Time (PT).",
-  "total_events": 43,
-  "updated": "2026-07-01T18:10:01.732439+00:00"
+  "total_events": 42,
+  "updated": "2026-07-01T19:10:01.539763+00:00"
 }
