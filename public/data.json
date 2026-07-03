@@ -520,19 +520,6 @@
       "title": "Theo's Gyros",
       "vendor": "Theo's Gyros",
       "venue": "Saleh's Corner"
-    },
-    {
-      "date": "2026-07-09T17:00:00",
-      "description": "Cuisine: Hamburgers, Sandwiches",
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
-      "extraction_method": "api",
-      "location": "Saleh's Corner",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
-      "title": "Burgerdom",
-      "vendor": "Burgerdom",
-      "venue": "Saleh's Corner"
     }
   ],
   "haiku": null,
@@ -541,6 +528,6 @@
   "timezone": "America/Los_Angeles",
   "timezone_label": "PT",
   "timezone_note": "All event times are in Pacific Time (PT).",
-  "total_events": 41,
-  "updated": "2026-07-03T02:10:06.416814+00:00"
+  "total_events": 40,
+  "updated": "2026-07-03T03:10:01.350503+00:00"
 }
