@@ -199,14 +199,14 @@
     {
       "date": "2026-07-03T00:00:00",
       "description": null,
-      "end_time": "4:00 PM PT",
-      "end_time_raw": "4:00 PM",
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
       "extraction_method": "html",
       "location": "Obec Brewing",
-      "start_time": "2:00 AM PT",
-      "start_time_raw": "2:00 AM",
-      "title": "Cocina Barelas New Mexican Cuisine",
-      "vendor": "Cocina Barelas New Mexican Cuisine",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "title": "Heart in Soul",
+      "vendor": "Heart in Soul",
       "venue": "Obec Brewing"
     },
     {
@@ -542,5 +542,5 @@
   "timezone_label": "PT",
   "timezone_note": "All event times are in Pacific Time (PT).",
   "total_events": 41,
-  "updated": "2026-07-03T07:10:01.482951+00:00"
+  "updated": "2026-07-03T08:10:12.716793+00:00"
 }
