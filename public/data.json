@@ -10,8 +10,8 @@
       "location": "Stoup Brewing - Ballard",
       "start_time": "1:00 PM PT",
       "start_time_raw": "1:00 PM",
-      "title": "Georgia's Greek",
-      "vendor": "Georgia's Greek",
+      "title": "No Truck Today",
+      "vendor": "No Truck Today",
       "venue": "Stoup Brewing - Ballard"
     },
     {
@@ -529,5 +529,5 @@
   "timezone_label": "PT",
   "timezone_note": "All event times are in Pacific Time (PT).",
   "total_events": 40,
-  "updated": "2026-07-04T20:10:05.163098+00:00"
+  "updated": "2026-07-04T21:10:04.245612+00:00"
 }
