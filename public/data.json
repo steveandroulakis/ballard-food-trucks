@@ -2,19 +2,6 @@
   "errors": [],
   "events": [
     {
-      "date": "2026-07-04T00:00:00",
-      "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "extraction_method": "html",
-      "location": "Stoup Brewing - Ballard",
-      "start_time": "1:00 PM PT",
-      "start_time_raw": "1:00 PM",
-      "title": "Georgia's Greek",
-      "vendor": "Georgia's Greek",
-      "venue": "Stoup Brewing - Ballard"
-    },
-    {
       "date": "2026-07-05T00:00:00",
       "description": null,
       "end_time": "7:00 PM PT",
@@ -106,17 +93,17 @@
       "venue": "Stoup Brewing - Ballard"
     },
     {
-      "date": "2026-07-04T13:00:00.203000",
+      "date": "2026-07-12T00:00:00",
       "description": null,
       "end_time": "7:00 PM PT",
       "end_time_raw": "7:00 PM",
       "extraction_method": "html",
-      "location": "Yonder Cider & Bale Breaker - Ballard",
+      "location": "Stoup Brewing - Ballard",
       "start_time": "1:00 PM PT",
       "start_time_raw": "1:00 PM",
-      "title": "Sabor Boricua PNW",
-      "vendor": "Sabor Boricua PNW",
-      "venue": "Yonder Cider & Bale Breaker - Ballard"
+      "title": "Kaosamai Thai",
+      "vendor": "Kaosamai Thai",
+      "venue": "Stoup Brewing - Ballard"
     },
     {
       "date": "2026-07-05T13:00:00.336000",
@@ -197,17 +184,17 @@
       "venue": "Yonder Cider & Bale Breaker - Ballard"
     },
     {
-      "date": "2026-07-04T00:00:00",
-      "description": "https://urbanfamilybrewing.com/events/la-riviera-maya-4/",
-      "end_time": "5:00 PM PT",
-      "end_time_raw": "5:00 PM",
+      "date": "2026-07-12T13:00:00.336000",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
       "extraction_method": "html",
-      "location": "Urban Family Brewing",
-      "start_time": "2:00 PM PT",
-      "start_time_raw": "2:00 PM",
-      "title": "La Riviera Maya",
-      "vendor": "La Riviera Maya",
-      "venue": "Urban Family Brewing"
+      "location": "Yonder Cider & Bale Breaker - Ballard",
+      "start_time": "1:00 PM PT",
+      "start_time_raw": "1:00 PM",
+      "title": "Tacos &amp; Beer",
+      "vendor": "Tacos &amp; Beer",
+      "venue": "Yonder Cider & Bale Breaker - Ballard"
     },
     {
       "date": "2026-07-05T00:00:00",
@@ -298,6 +285,32 @@
       "start_time_raw": "1:00 PM",
       "title": "Oskar's Pizza",
       "vendor": "Oskar's Pizza",
+      "venue": "Urban Family Brewing"
+    },
+    {
+      "date": "2026-07-12T00:00:00",
+      "description": "https://urbanfamilybrewing.com/events/9th-and-hennepin-27/",
+      "end_time": "12:00 PM PT",
+      "end_time_raw": "12:00 PM",
+      "extraction_method": "html",
+      "location": "Urban Family Brewing",
+      "start_time": "8:00 AM PT",
+      "start_time_raw": "8:00 AM",
+      "title": "9th and Hennepin",
+      "vendor": "9th and Hennepin",
+      "venue": "Urban Family Brewing"
+    },
+    {
+      "date": "2026-07-12T00:00:00",
+      "description": "https://urbanfamilybrewing.com/events/now-make-me-a-sandwich-13/",
+      "end_time": "7:00 PM PT",
+      "end_time_raw": "7:00 PM",
+      "extraction_method": "html",
+      "location": "Urban Family Brewing",
+      "start_time": "1:00 PM PT",
+      "start_time_raw": "1:00 PM",
+      "title": "Now Make Me A Sandwich",
+      "vendor": "Now Make Me A Sandwich",
       "venue": "Urban Family Brewing"
     },
     {
@@ -431,6 +444,19 @@
       "venue": "Chuck's Hop Shop Greenwood"
     },
     {
+      "date": "2026-07-12T00:00:00",
+      "description": "Original event: Momo Express",
+      "end_time": null,
+      "end_time_raw": null,
+      "extraction_method": "html",
+      "location": "Chuck's Hop Shop Greenwood",
+      "start_time": null,
+      "start_time_raw": null,
+      "title": "Momo Express",
+      "vendor": "Momo Express",
+      "venue": "Chuck's Hop Shop Greenwood"
+    },
+    {
       "date": "2026-07-10T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
@@ -520,6 +546,19 @@
       "title": "Oskar's Pizza",
       "vendor": "Oskar's Pizza",
       "venue": "Saleh's Corner"
+    },
+    {
+      "date": "2026-07-12T17:00:00",
+      "description": "Cuisine: Italian, Sandwiches",
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "extraction_method": "api",
+      "location": "Saleh's Corner",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "title": "Wiseguys Italian Street Food",
+      "vendor": "Wiseguys Italian Street Food",
+      "venue": "Saleh's Corner"
     }
   ],
   "haiku": null,
@@ -528,6 +567,6 @@
   "timezone": "America/Los_Angeles",
   "timezone_label": "PT",
   "timezone_note": "All event times are in Pacific Time (PT).",
-  "total_events": 40,
-  "updated": "2026-07-05T06:10:01.460259+00:00"
+  "total_events": 43,
+  "updated": "2026-07-05T07:10:02.758391+00:00"
 }
