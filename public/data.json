@@ -198,6 +198,19 @@
     },
     {
       "date": "2026-07-05T00:00:00",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "extraction_method": "html",
+      "location": "Obec Brewing",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "title": "Heart in Seoul",
+      "vendor": "Heart in Seoul",
+      "venue": "Obec Brewing"
+    },
+    {
+      "date": "2026-07-05T00:00:00",
       "description": "https://urbanfamilybrewing.com/events/9th-and-hennepin-26/",
       "end_time": "12:00 PM PT",
       "end_time_raw": "12:00 PM",
@@ -567,6 +580,6 @@
   "timezone": "America/Los_Angeles",
   "timezone_label": "PT",
   "timezone_note": "All event times are in Pacific Time (PT).",
-  "total_events": 43,
-  "updated": "2026-07-05T07:10:02.758391+00:00"
+  "total_events": 44,
+  "updated": "2026-07-05T08:10:20.925665+00:00"
 }
