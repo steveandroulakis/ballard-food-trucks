@@ -496,19 +496,6 @@
       "venue": "Saleh's Corner"
     },
     {
-      "date": "2026-07-06T17:00:00",
-      "description": "Cuisine: Asian, BBQ, Sandwiches",
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
-      "extraction_method": "api",
-      "location": "Saleh's Corner",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
-      "title": "MOMO Express",
-      "vendor": "MOMO Express",
-      "venue": "Saleh's Corner"
-    },
-    {
       "date": "2026-07-07T17:00:00",
       "description": "Cuisine: Burritos, Mexican, Tacos",
       "end_time": "9:00 PM PT",
@@ -567,6 +554,6 @@
   "timezone": "America/Los_Angeles",
   "timezone_label": "PT",
   "timezone_note": "All event times are in Pacific Time (PT).",
-  "total_events": 43,
-  "updated": "2026-07-06T05:10:07.241508+00:00"
+  "total_events": 42,
+  "updated": "2026-07-06T06:10:02.214772+00:00"
 }
