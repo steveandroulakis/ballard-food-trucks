@@ -342,14 +342,14 @@
     {
       "date": "2026-07-08T00:00:00",
       "description": null,
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
+      "end_time": null,
+      "end_time_raw": null,
       "extraction_method": "csv",
       "location": "Channel Marker Cider",
-      "start_time": "6:00 PM PT",
-      "start_time_raw": "6:00 PM",
-      "title": "Kathmandu Momocha",
-      "vendor": "Kathmandu Momocha",
+      "start_time": null,
+      "start_time_raw": null,
+      "title": "Heart In Seoul",
+      "vendor": "Heart In Seoul",
       "venue": "Channel Marker Cider"
     },
     {
@@ -568,5 +568,5 @@
   "timezone_label": "PT",
   "timezone_note": "All event times are in Pacific Time (PT).",
   "total_events": 43,
-  "updated": "2026-07-07T20:10:05.520575+00:00"
+  "updated": "2026-07-07T21:10:04.092759+00:00"
 }
