@@ -205,8 +205,8 @@
       "location": "Obec Brewing",
       "start_time": "4:00 PM PT",
       "start_time_raw": "4:00 PM",
-      "title": "La Coste\u00f1ita Cuisine",
-      "vendor": "La Coste\u00f1ita Cuisine",
+      "title": "Empanadas el Pachi",
+      "vendor": "Empanadas el Pachi",
       "venue": "Obec Brewing"
     },
     {
@@ -568,5 +568,5 @@
   "timezone_label": "PT",
   "timezone_note": "All event times are in Pacific Time (PT).",
   "total_events": 43,
-  "updated": "2026-07-08T08:10:01.834224+00:00"
+  "updated": "2026-07-08T09:10:04.794835+00:00"
 }
