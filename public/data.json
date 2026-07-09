@@ -1,5 +1,7 @@
 {
-  "errors": [],
+  "errors": [
+    "Failed to fetch information for: Channel Marker Cider"
+  ],
   "events": [
     {
       "date": "2026-07-09T00:00:00",
@@ -327,19 +329,6 @@
       "venue": "Urban Family Brewing"
     },
     {
-      "date": "2026-07-15T00:00:00",
-      "description": null,
-      "end_time": null,
-      "end_time_raw": null,
-      "extraction_method": "csv",
-      "location": "Channel Marker Cider",
-      "start_time": null,
-      "start_time_raw": null,
-      "title": "Heart In Seoul",
-      "vendor": "Heart In Seoul",
-      "venue": "Channel Marker Cider"
-    },
-    {
       "date": "2026-07-09T00:00:00",
       "description": "Original event: Dinner: Impeckable Chicken",
       "end_time": null,
@@ -554,6 +543,6 @@
   "timezone": "America/Los_Angeles",
   "timezone_label": "PT",
   "timezone_note": "All event times are in Pacific Time (PT).",
-  "total_events": 42,
-  "updated": "2026-07-09T12:10:01.683265+00:00"
+  "total_events": 41,
+  "updated": "2026-07-09T13:11:02.060572+00:00"
 }
