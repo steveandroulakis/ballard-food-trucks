@@ -2,19 +2,6 @@
   "errors": [],
   "events": [
     {
-      "date": "2026-07-09T00:00:00",
-      "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "extraction_method": "html",
-      "location": "Stoup Brewing - Ballard",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
-      "title": "Birrieria Pepe El Toro",
-      "vendor": "Birrieria Pepe El Toro",
-      "venue": "Stoup Brewing - Ballard"
-    },
-    {
       "date": "2026-07-10T00:00:00",
       "description": null,
       "end_time": "9:00 PM PT",
@@ -106,17 +93,17 @@
       "venue": "Stoup Brewing - Ballard"
     },
     {
-      "date": "2026-07-09T17:00:00.091000",
+      "date": "2026-07-17T00:00:00",
       "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
       "extraction_method": "html",
-      "location": "Yonder Cider & Bale Breaker - Ballard",
+      "location": "Stoup Brewing - Ballard",
       "start_time": "5:00 PM PT",
       "start_time_raw": "5:00 PM",
-      "title": "Impeckable Chicken",
-      "vendor": "Impeckable Chicken",
-      "venue": "Yonder Cider & Bale Breaker - Ballard"
+      "title": "Off the Rez",
+      "vendor": "Off the Rez",
+      "venue": "Stoup Brewing - Ballard"
     },
     {
       "date": "2026-07-10T16:00:00.571000",
@@ -197,30 +184,30 @@
       "venue": "Yonder Cider & Bale Breaker - Ballard"
     },
     {
-      "date": "2026-07-09T00:00:00",
+      "date": "2026-07-17T16:00:00.975000",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
       "extraction_method": "html",
-      "location": "Obec Brewing",
-      "start_time": "12:30 PM PT",
-      "start_time_raw": "12:30 PM",
-      "title": "Fish Basket NW",
-      "vendor": "Fish Basket NW",
-      "venue": "Obec Brewing"
-    },
-    {
-      "date": "2026-07-09T00:00:00",
-      "description": "https://urbanfamilybrewing.com/events/burger-planet-16/",
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "extraction_method": "html",
-      "location": "Urban Family Brewing",
+      "location": "Yonder Cider & Bale Breaker - Ballard",
       "start_time": "4:00 PM PT",
       "start_time_raw": "4:00 PM",
-      "title": "Burger Planet",
-      "vendor": "Burger Planet",
-      "venue": "Urban Family Brewing"
+      "title": "Wood Shop BBQ",
+      "vendor": "Wood Shop BBQ",
+      "venue": "Yonder Cider & Bale Breaker - Ballard"
+    },
+    {
+      "date": "2026-07-10T00:00:00",
+      "description": null,
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "extraction_method": "html",
+      "location": "Obec Brewing",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "title": "Express Mexican Grill",
+      "vendor": "Express Mexican Grill",
+      "venue": "Obec Brewing"
     },
     {
       "date": "2026-07-10T00:00:00",
@@ -327,6 +314,19 @@
       "venue": "Urban Family Brewing"
     },
     {
+      "date": "2026-07-17T00:00:00",
+      "description": "https://urbanfamilybrewing.com/events/birrieria-pepe-el-toro-13/",
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "extraction_method": "html",
+      "location": "Urban Family Brewing",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "title": "Birrieria Pepe El Toro",
+      "vendor": "Birrieria Pepe El Toro",
+      "venue": "Urban Family Brewing"
+    },
+    {
       "date": "2026-07-15T00:00:00",
       "description": null,
       "end_time": null,
@@ -340,107 +340,107 @@
       "venue": "Channel Marker Cider"
     },
     {
-      "date": "2026-07-09T00:00:00",
-      "description": "Original event: Dinner: Impeckable Chicken",
-      "end_time": null,
-      "end_time_raw": null,
-      "extraction_method": "html",
-      "location": "Chuck's Hop Shop Greenwood",
-      "start_time": null,
-      "start_time_raw": null,
-      "title": "Impeckable Chicken",
-      "vendor": "Impeckable Chicken",
-      "venue": "Chuck's Hop Shop Greenwood"
-    },
-    {
       "date": "2026-07-10T00:00:00",
-      "description": "Original event: Dinner: Where ya at Matt",
+      "description": "Original event: #VALUE!",
       "end_time": null,
       "end_time_raw": null,
       "extraction_method": "html",
       "location": "Chuck's Hop Shop Greenwood",
       "start_time": null,
       "start_time_raw": null,
-      "title": "Where ya at Matt",
-      "vendor": "Where ya at Matt",
+      "title": "#VALUE!",
+      "vendor": "#VALUE!",
       "venue": "Chuck's Hop Shop Greenwood"
     },
     {
       "date": "2026-07-11T00:00:00",
-      "description": "Original event: Dinner: Sabor Boricua",
+      "description": "Original event: #VALUE!",
       "end_time": null,
       "end_time_raw": null,
       "extraction_method": "html",
       "location": "Chuck's Hop Shop Greenwood",
       "start_time": null,
       "start_time_raw": null,
-      "title": "Sabor Boricua",
-      "vendor": "Sabor Boricua",
+      "title": "#VALUE!",
+      "vendor": "#VALUE!",
       "venue": "Chuck's Hop Shop Greenwood"
     },
     {
       "date": "2026-07-12T00:00:00",
-      "description": "Original event: Momo Express",
+      "description": "Original event: #VALUE!",
       "end_time": null,
       "end_time_raw": null,
       "extraction_method": "html",
       "location": "Chuck's Hop Shop Greenwood",
       "start_time": null,
       "start_time_raw": null,
-      "title": "Momo Express",
-      "vendor": "Momo Express",
+      "title": "#VALUE!",
+      "vendor": "#VALUE!",
       "venue": "Chuck's Hop Shop Greenwood"
     },
     {
       "date": "2026-07-13T00:00:00",
-      "description": "Original event: Dinner: Birrieria Pepe El Toro",
+      "description": "Original event: #VALUE!",
       "end_time": null,
       "end_time_raw": null,
       "extraction_method": "html",
       "location": "Chuck's Hop Shop Greenwood",
       "start_time": null,
       "start_time_raw": null,
-      "title": "Birrieria Pepe El Toro",
-      "vendor": "Birrieria Pepe El Toro",
+      "title": "#VALUE!",
+      "vendor": "#VALUE!",
       "venue": "Chuck's Hop Shop Greenwood"
     },
     {
       "date": "2026-07-14T00:00:00",
-      "description": "Original event: Dinner: Woodshop BBQ",
+      "description": "Original event: #VALUE!",
       "end_time": null,
       "end_time_raw": null,
       "extraction_method": "html",
       "location": "Chuck's Hop Shop Greenwood",
       "start_time": null,
       "start_time_raw": null,
-      "title": "Woodshop BBQ",
-      "vendor": "Woodshop BBQ",
+      "title": "#VALUE!",
+      "vendor": "#VALUE!",
       "venue": "Chuck's Hop Shop Greenwood"
     },
     {
       "date": "2026-07-15T00:00:00",
-      "description": "Original event: Dinner: Oskar's Pizza",
+      "description": "Original event: #VALUE!",
       "end_time": null,
       "end_time_raw": null,
       "extraction_method": "html",
       "location": "Chuck's Hop Shop Greenwood",
       "start_time": null,
       "start_time_raw": null,
-      "title": "Oskar's Pizza",
-      "vendor": "Oskar's Pizza",
+      "title": "#VALUE!",
+      "vendor": "#VALUE!",
       "venue": "Chuck's Hop Shop Greenwood"
     },
     {
       "date": "2026-07-16T00:00:00",
-      "description": "Original event: Dinner: Impeckable Chicken",
+      "description": "Original event: #VALUE!",
       "end_time": null,
       "end_time_raw": null,
       "extraction_method": "html",
       "location": "Chuck's Hop Shop Greenwood",
       "start_time": null,
       "start_time_raw": null,
-      "title": "Impeckable Chicken",
-      "vendor": "Impeckable Chicken",
+      "title": "#VALUE!",
+      "vendor": "#VALUE!",
+      "venue": "Chuck's Hop Shop Greenwood"
+    },
+    {
+      "date": "2026-07-17T00:00:00",
+      "description": "Original event: #VALUE!",
+      "end_time": null,
+      "end_time_raw": null,
+      "extraction_method": "html",
+      "location": "Chuck's Hop Shop Greenwood",
+      "start_time": null,
+      "start_time_raw": null,
+      "title": "#VALUE!",
+      "vendor": "#VALUE!",
       "venue": "Chuck's Hop Shop Greenwood"
     },
     {
@@ -454,6 +454,19 @@
       "start_time_raw": "4:30 PM",
       "title": "Vandalz Taqueria",
       "vendor": "Vandalz Taqueria",
+      "venue": "Lucky Envelope Brewing"
+    },
+    {
+      "date": "2026-07-17T00:00:00",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "extraction_method": "html",
+      "location": "Lucky Envelope Brewing",
+      "start_time": "4:30 PM PT",
+      "start_time_raw": "4:30 PM",
+      "title": "Kaosamai",
+      "vendor": "Kaosamai",
       "venue": "Lucky Envelope Brewing"
     },
     {
@@ -546,6 +559,19 @@
       "title": "Fish Basket NW",
       "vendor": "Fish Basket NW",
       "venue": "Saleh's Corner"
+    },
+    {
+      "date": "2026-07-17T17:00:00",
+      "description": "Cuisine: Chicken, Sandwiches, Southern",
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "extraction_method": "api",
+      "location": "Saleh's Corner",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "title": "Impeckable Chicken",
+      "vendor": "Impeckable Chicken",
+      "venue": "Saleh's Corner"
     }
   ],
   "haiku": null,
@@ -554,6 +580,6 @@
   "timezone": "America/Los_Angeles",
   "timezone_label": "PT",
   "timezone_note": "All event times are in Pacific Time (PT).",
-  "total_events": 42,
-  "updated": "2026-07-10T06:10:02.339376+00:00"
+  "total_events": 44,
+  "updated": "2026-07-10T07:10:12.973319+00:00"
 }
