@@ -341,15 +341,15 @@
     },
     {
       "date": "2026-07-10T00:00:00",
-      "description": "Original event: Dinner: Where ya at Matt",
+      "description": "Original event: Dinner: El Pachi",
       "end_time": null,
       "end_time_raw": null,
       "extraction_method": "html",
       "location": "Chuck's Hop Shop Greenwood",
       "start_time": null,
       "start_time_raw": null,
-      "title": "Where ya at Matt",
-      "vendor": "Where ya at Matt",
+      "title": "El Pachi",
+      "vendor": "El Pachi",
       "venue": "Chuck's Hop Shop Greenwood"
     },
     {
@@ -581,5 +581,5 @@
   "timezone_label": "PT",
   "timezone_note": "All event times are in Pacific Time (PT).",
   "total_events": 44,
-  "updated": "2026-07-10T23:10:02.269505+00:00"
+  "updated": "2026-07-11T00:10:08.793828+00:00"
 }
