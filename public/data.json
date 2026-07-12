@@ -546,6 +546,19 @@
       "title": "Impeckable Chicken",
       "vendor": "Impeckable Chicken",
       "venue": "Saleh's Corner"
+    },
+    {
+      "date": "2026-07-18T17:00:00",
+      "description": "Cuisine: Asian, Vegan, Vegetarian",
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "extraction_method": "api",
+      "location": "Saleh's Corner",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "title": "Kathmandu MoMoCha",
+      "vendor": "Kathmandu MoMoCha",
+      "venue": "Saleh's Corner"
     }
   ],
   "haiku": null,
@@ -554,6 +567,6 @@
   "timezone": "America/Los_Angeles",
   "timezone_label": "PT",
   "timezone_note": "All event times are in Pacific Time (PT).",
-  "total_events": 42,
-  "updated": "2026-07-12T03:10:01.552420+00:00"
+  "total_events": 43,
+  "updated": "2026-07-12T04:10:01.501212+00:00"
 }
