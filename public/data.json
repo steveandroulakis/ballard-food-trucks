@@ -2,19 +2,6 @@
   "errors": [],
   "events": [
     {
-      "date": "2026-07-11T00:00:00",
-      "description": null,
-      "end_time": "7:00 PM PT",
-      "end_time_raw": "7:00 PM",
-      "extraction_method": "html",
-      "location": "Stoup Brewing - Ballard",
-      "start_time": "1:00 PM PT",
-      "start_time_raw": "1:00 PM",
-      "title": "Tat's Truck",
-      "vendor": "Tat's Truck",
-      "venue": "Stoup Brewing - Ballard"
-    },
-    {
       "date": "2026-07-12T00:00:00",
       "description": null,
       "end_time": "7:00 PM PT",
@@ -106,17 +93,17 @@
       "venue": "Stoup Brewing - Ballard"
     },
     {
-      "date": "2026-07-11T13:00:00.425000",
+      "date": "2026-07-19T00:00:00",
       "description": null,
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
+      "end_time": "7:00 PM PT",
+      "end_time_raw": "7:00 PM",
       "extraction_method": "html",
-      "location": "Yonder Cider & Bale Breaker - Ballard",
+      "location": "Stoup Brewing - Ballard",
       "start_time": "1:00 PM PT",
       "start_time_raw": "1:00 PM",
-      "title": "Georgia\u2019s Greek",
-      "vendor": "Georgia\u2019s Greek",
-      "venue": "Yonder Cider & Bale Breaker - Ballard"
+      "title": "El Pirata Tortas Y Burritos / Now Make Me A Sandwich",
+      "vendor": "El Pirata Tortas Y Burritos / Now Make Me A Sandwich",
+      "venue": "Stoup Brewing - Ballard"
     },
     {
       "date": "2026-07-12T13:00:00.336000",
@@ -197,7 +184,20 @@
       "venue": "Yonder Cider & Bale Breaker - Ballard"
     },
     {
-      "date": "2026-07-11T00:00:00",
+      "date": "2026-07-19T13:00:00.336000",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "extraction_method": "html",
+      "location": "Yonder Cider & Bale Breaker - Ballard",
+      "start_time": "1:00 PM PT",
+      "start_time_raw": "1:00 PM",
+      "title": "Tacos &amp; Beer",
+      "vendor": "Tacos &amp; Beer",
+      "venue": "Yonder Cider & Bale Breaker - Ballard"
+    },
+    {
+      "date": "2026-07-12T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -208,19 +208,6 @@
       "title": "Kaosamai Thai",
       "vendor": "Kaosamai Thai",
       "venue": "Obec Brewing"
-    },
-    {
-      "date": "2026-07-11T00:00:00",
-      "description": "https://urbanfamilybrewing.com/events/oskars-pizza-14/",
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "extraction_method": "html",
-      "location": "Urban Family Brewing",
-      "start_time": "1:00 PM PT",
-      "start_time_raw": "1:00 PM",
-      "title": "Oskar's Pizza",
-      "vendor": "Oskar's Pizza",
-      "venue": "Urban Family Brewing"
     },
     {
       "date": "2026-07-12T00:00:00",
@@ -327,6 +314,32 @@
       "venue": "Urban Family Brewing"
     },
     {
+      "date": "2026-07-19T00:00:00",
+      "description": "https://urbanfamilybrewing.com/events/9th-and-hennepin-28/",
+      "end_time": "12:00 PM PT",
+      "end_time_raw": "12:00 PM",
+      "extraction_method": "html",
+      "location": "Urban Family Brewing",
+      "start_time": "8:00 AM PT",
+      "start_time_raw": "8:00 AM",
+      "title": "9th and Hennepin",
+      "vendor": "9th and Hennepin",
+      "venue": "Urban Family Brewing"
+    },
+    {
+      "date": "2026-07-19T00:00:00",
+      "description": "https://urbanfamilybrewing.com/events/kaosamai-12/",
+      "end_time": "7:00 PM PT",
+      "end_time_raw": "7:00 PM",
+      "extraction_method": "html",
+      "location": "Urban Family Brewing",
+      "start_time": "1:00 PM PT",
+      "start_time_raw": "1:00 PM",
+      "title": "Kaosamai",
+      "vendor": "Kaosamai",
+      "venue": "Urban Family Brewing"
+    },
+    {
       "date": "2026-07-15T00:00:00",
       "description": null,
       "end_time": null,
@@ -338,19 +351,6 @@
       "title": "Heart In Seoul",
       "vendor": "Heart In Seoul",
       "venue": "Channel Marker Cider"
-    },
-    {
-      "date": "2026-07-11T00:00:00",
-      "description": "Original event: Dinner: Sabor Boricua",
-      "end_time": null,
-      "end_time_raw": null,
-      "extraction_method": "html",
-      "location": "Chuck's Hop Shop Greenwood",
-      "start_time": null,
-      "start_time_raw": null,
-      "title": "Sabor Boricua",
-      "vendor": "Sabor Boricua",
-      "venue": "Chuck's Hop Shop Greenwood"
     },
     {
       "date": "2026-07-12T00:00:00",
@@ -444,6 +444,32 @@
       "venue": "Chuck's Hop Shop Greenwood"
     },
     {
+      "date": "2026-07-19T00:00:00",
+      "description": "Original event: Brunch: Good Morning Tacos",
+      "end_time": null,
+      "end_time_raw": null,
+      "extraction_method": "html",
+      "location": "Chuck's Hop Shop Greenwood",
+      "start_time": null,
+      "start_time_raw": null,
+      "title": "Good Morning Tacos",
+      "vendor": "Good Morning Tacos",
+      "venue": "Chuck's Hop Shop Greenwood"
+    },
+    {
+      "date": "2026-07-19T00:00:00",
+      "description": "Original event: Dinner: Georgia's Greek",
+      "end_time": null,
+      "end_time_raw": null,
+      "extraction_method": "html",
+      "location": "Chuck's Hop Shop Greenwood",
+      "start_time": null,
+      "start_time_raw": null,
+      "title": "Georgia's Greek",
+      "vendor": "Georgia's Greek",
+      "venue": "Chuck's Hop Shop Greenwood"
+    },
+    {
       "date": "2026-07-17T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
@@ -455,19 +481,6 @@
       "title": "Kaosamai",
       "vendor": "Kaosamai",
       "venue": "Lucky Envelope Brewing"
-    },
-    {
-      "date": "2026-07-11T17:00:00",
-      "description": "Cuisine: Gyro, Mediterranean, Vegetarian",
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
-      "extraction_method": "api",
-      "location": "Saleh's Corner",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
-      "title": "Levantine Cuisine",
-      "vendor": "Levantine Cuisine",
-      "venue": "Saleh's Corner"
     },
     {
       "date": "2026-07-12T17:00:00",
@@ -559,6 +572,19 @@
       "title": "Kathmandu MoMoCha",
       "vendor": "Kathmandu MoMoCha",
       "venue": "Saleh's Corner"
+    },
+    {
+      "date": "2026-07-19T17:00:00",
+      "description": "Cuisine: Asian, Thai, Vegetarian",
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "extraction_method": "api",
+      "location": "Saleh's Corner",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "title": "Pumpkin Thai",
+      "vendor": "Pumpkin Thai",
+      "venue": "Saleh's Corner"
     }
   ],
   "haiku": null,
@@ -567,6 +593,6 @@
   "timezone": "America/Los_Angeles",
   "timezone_label": "PT",
   "timezone_note": "All event times are in Pacific Time (PT).",
-  "total_events": 43,
-  "updated": "2026-07-12T06:10:02.134654+00:00"
+  "total_events": 45,
+  "updated": "2026-07-12T07:10:05.303088+00:00"
 }
