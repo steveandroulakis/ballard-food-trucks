@@ -190,10 +190,10 @@
       "end_time_raw": "8:00 PM",
       "extraction_method": "html",
       "location": "Obec Brewing",
-      "start_time": "2:30 AM PT",
-      "start_time_raw": "2:30 AM",
-      "title": "Heart in Seoul",
-      "vendor": "Heart in Seoul",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "title": "Plaza Garcia",
+      "vendor": "Plaza Garcia",
       "venue": "Obec Brewing"
     },
     {
@@ -568,5 +568,5 @@
   "timezone_label": "PT",
   "timezone_note": "All event times are in Pacific Time (PT).",
   "total_events": 43,
-  "updated": "2026-07-13T08:10:07.126458+00:00"
+  "updated": "2026-07-13T09:10:10.100188+00:00"
 }
