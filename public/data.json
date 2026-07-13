@@ -1,7 +1,5 @@
 {
-  "errors": [
-    "Failed to fetch information for: Channel Marker Cider"
-  ],
+  "errors": [],
   "events": [
     {
       "date": "2026-07-12T00:00:00",
@@ -342,6 +340,19 @@
       "venue": "Urban Family Brewing"
     },
     {
+      "date": "2026-07-15T00:00:00",
+      "description": null,
+      "end_time": null,
+      "end_time_raw": null,
+      "extraction_method": "csv",
+      "location": "Channel Marker Cider",
+      "start_time": null,
+      "start_time_raw": null,
+      "title": "Heart In Seoul",
+      "vendor": "Heart In Seoul",
+      "venue": "Channel Marker Cider"
+    },
+    {
       "date": "2026-07-12T00:00:00",
       "description": "Original event: Momo Express",
       "end_time": null,
@@ -582,6 +593,6 @@
   "timezone": "America/Los_Angeles",
   "timezone_label": "PT",
   "timezone_note": "All event times are in Pacific Time (PT).",
-  "total_events": 44,
-  "updated": "2026-07-13T03:11:01.062703+00:00"
+  "total_events": 45,
+  "updated": "2026-07-13T04:10:04.253527+00:00"
 }
