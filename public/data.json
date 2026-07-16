@@ -10,8 +10,8 @@
       "location": "Stoup Brewing - Ballard",
       "start_time": "5:00 PM PT",
       "start_time_raw": "5:00 PM",
-      "title": "Kottu Seattle",
-      "vendor": "Kottu Seattle",
+      "title": "Galileo's Pizza",
+      "vendor": "Galileo's Pizza",
       "venue": "Stoup Brewing - Ballard"
     },
     {
@@ -23,8 +23,8 @@
       "location": "Stoup Brewing - Ballard",
       "start_time": "5:00 PM PT",
       "start_time_raw": "5:00 PM",
-      "title": "Off the Rez",
-      "vendor": "Off the Rez",
+      "title": "Max's Burgers & Wings",
+      "vendor": "Max's Burgers & Wings",
       "venue": "Stoup Brewing - Ballard"
     },
     {
@@ -581,5 +581,5 @@
   "timezone_label": "PT",
   "timezone_note": "All event times are in Pacific Time (PT).",
   "total_events": 44,
-  "updated": "2026-07-16T21:10:01.723007+00:00"
+  "updated": "2026-07-16T22:10:02.506858+00:00"
 }
