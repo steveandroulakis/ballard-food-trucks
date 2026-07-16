@@ -327,19 +327,6 @@
       "venue": "Urban Family Brewing"
     },
     {
-      "date": "2026-07-15T00:00:00",
-      "description": null,
-      "end_time": null,
-      "end_time_raw": null,
-      "extraction_method": "csv",
-      "location": "Channel Marker Cider",
-      "start_time": null,
-      "start_time_raw": null,
-      "title": "Heart In Seoul",
-      "vendor": "Heart In Seoul",
-      "venue": "Channel Marker Cider"
-    },
-    {
       "date": "2026-07-21T00:00:00",
       "description": null,
       "end_time": "9:00 PM PT",
@@ -593,6 +580,6 @@
   "timezone": "America/Los_Angeles",
   "timezone_label": "PT",
   "timezone_note": "All event times are in Pacific Time (PT).",
-  "total_events": 45,
-  "updated": "2026-07-15T23:10:12.429903+00:00"
+  "total_events": 44,
+  "updated": "2026-07-16T00:10:01.372836+00:00"
 }
