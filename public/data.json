@@ -205,8 +205,8 @@
       "location": "Obec Brewing",
       "start_time": "4:00 PM PT",
       "start_time_raw": "4:00 PM",
-      "title": "MoMoCha Kathmandu",
-      "vendor": "MoMoCha Kathmandu",
+      "title": "Heart in Soul",
+      "vendor": "Heart in Soul",
       "venue": "Obec Brewing"
     },
     {
@@ -581,5 +581,5 @@
   "timezone_label": "PT",
   "timezone_note": "All event times are in Pacific Time (PT).",
   "total_events": 44,
-  "updated": "2026-07-17T08:10:05.958685+00:00"
+  "updated": "2026-07-17T09:10:01.998258+00:00"
 }
