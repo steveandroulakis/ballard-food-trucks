@@ -2,19 +2,6 @@
   "errors": [],
   "events": [
     {
-      "date": "2026-07-17T00:00:00",
-      "description": null,
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
-      "extraction_method": "html",
-      "location": "Stoup Brewing - Ballard",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
-      "title": "Off the Rez",
-      "vendor": "Off the Rez",
-      "venue": "Stoup Brewing - Ballard"
-    },
-    {
       "date": "2026-07-18T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
@@ -106,17 +93,17 @@
       "venue": "Stoup Brewing - Ballard"
     },
     {
-      "date": "2026-07-17T16:00:00.975000",
+      "date": "2026-07-25T00:00:00",
       "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
+      "end_time": "7:00 PM PT",
+      "end_time_raw": "7:00 PM",
       "extraction_method": "html",
-      "location": "Yonder Cider & Bale Breaker - Ballard",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
-      "title": "Wood Shop BBQ",
-      "vendor": "Wood Shop BBQ",
-      "venue": "Yonder Cider & Bale Breaker - Ballard"
+      "location": "Stoup Brewing - Ballard",
+      "start_time": "1:00 PM PT",
+      "start_time_raw": "1:00 PM",
+      "title": "Tat's Truck",
+      "vendor": "Tat's Truck",
+      "venue": "Stoup Brewing - Ballard"
     },
     {
       "date": "2026-07-18T13:00:00.664000",
@@ -197,7 +184,20 @@
       "venue": "Yonder Cider & Bale Breaker - Ballard"
     },
     {
-      "date": "2026-07-17T00:00:00",
+      "date": "2026-07-25T13:00:00.425000",
+      "description": null,
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "extraction_method": "html",
+      "location": "Yonder Cider & Bale Breaker - Ballard",
+      "start_time": "1:00 PM PT",
+      "start_time_raw": "1:00 PM",
+      "title": "Georgia\u2019s Greek",
+      "vendor": "Georgia\u2019s Greek",
+      "venue": "Yonder Cider & Bale Breaker - Ballard"
+    },
+    {
+      "date": "2026-07-18T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -208,19 +208,6 @@
       "title": "Heart in Soul",
       "vendor": "Heart in Soul",
       "venue": "Obec Brewing"
-    },
-    {
-      "date": "2026-07-17T00:00:00",
-      "description": "https://urbanfamilybrewing.com/events/birrieria-pepe-el-toro-13/",
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "extraction_method": "html",
-      "location": "Urban Family Brewing",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
-      "title": "Birrieria Pepe El Toro",
-      "vendor": "Birrieria Pepe El Toro",
-      "venue": "Urban Family Brewing"
     },
     {
       "date": "2026-07-18T00:00:00",
@@ -327,6 +314,19 @@
       "venue": "Urban Family Brewing"
     },
     {
+      "date": "2026-07-25T00:00:00",
+      "description": "https://urbanfamilybrewing.com/events/oskars-pizza-15/",
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "extraction_method": "html",
+      "location": "Urban Family Brewing",
+      "start_time": "1:00 PM PT",
+      "start_time_raw": "1:00 PM",
+      "title": "Oskar's Pizza",
+      "vendor": "Oskar's Pizza",
+      "venue": "Urban Family Brewing"
+    },
+    {
       "date": "2026-07-21T00:00:00",
       "description": null,
       "end_time": "9:00 PM PT",
@@ -338,19 +338,6 @@
       "title": "Finn Anthony'S",
       "vendor": "Finn Anthony'S",
       "venue": "Channel Marker Cider"
-    },
-    {
-      "date": "2026-07-17T00:00:00",
-      "description": "Original event: Dinner: Where ya at Matt",
-      "end_time": null,
-      "end_time_raw": null,
-      "extraction_method": "html",
-      "location": "Chuck's Hop Shop Greenwood",
-      "start_time": null,
-      "start_time_raw": null,
-      "title": "Where ya at Matt",
-      "vendor": "Where ya at Matt",
-      "venue": "Chuck's Hop Shop Greenwood"
     },
     {
       "date": "2026-07-18T00:00:00",
@@ -457,30 +444,17 @@
       "venue": "Chuck's Hop Shop Greenwood"
     },
     {
-      "date": "2026-07-17T00:00:00",
-      "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
+      "date": "2026-07-25T00:00:00",
+      "description": "Original event: Dinner: Sabor Boricua",
+      "end_time": null,
+      "end_time_raw": null,
       "extraction_method": "html",
-      "location": "Lucky Envelope Brewing",
-      "start_time": "4:30 PM PT",
-      "start_time_raw": "4:30 PM",
-      "title": "Kaosamai",
-      "vendor": "Kaosamai",
-      "venue": "Lucky Envelope Brewing"
-    },
-    {
-      "date": "2026-07-17T17:00:00",
-      "description": "Cuisine: Chicken, Sandwiches, Southern",
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
-      "extraction_method": "api",
-      "location": "Saleh's Corner",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
-      "title": "Impeckable Chicken",
-      "vendor": "Impeckable Chicken",
-      "venue": "Saleh's Corner"
+      "location": "Chuck's Hop Shop Greenwood",
+      "start_time": null,
+      "start_time_raw": null,
+      "title": "Sabor Boricua",
+      "vendor": "Sabor Boricua",
+      "venue": "Chuck's Hop Shop Greenwood"
     },
     {
       "date": "2026-07-18T17:00:00",
@@ -580,6 +554,6 @@
   "timezone": "America/Los_Angeles",
   "timezone_label": "PT",
   "timezone_note": "All event times are in Pacific Time (PT).",
-  "total_events": 44,
-  "updated": "2026-07-18T06:10:01.489380+00:00"
+  "total_events": 42,
+  "updated": "2026-07-18T07:10:03.805654+00:00"
 }
