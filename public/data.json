@@ -203,10 +203,10 @@
       "end_time_raw": "8:00 PM",
       "extraction_method": "html",
       "location": "Obec Brewing",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
-      "title": "Heart in Soul",
-      "vendor": "Heart in Soul",
+      "start_time": "3:00 AM PT",
+      "start_time_raw": "3:00 AM",
+      "title": "Kaosamai Thai",
+      "vendor": "Kaosamai Thai",
       "venue": "Obec Brewing"
     },
     {
@@ -555,5 +555,5 @@
   "timezone_label": "PT",
   "timezone_note": "All event times are in Pacific Time (PT).",
   "total_events": 42,
-  "updated": "2026-07-18T07:10:03.805654+00:00"
+  "updated": "2026-07-18T08:10:01.691403+00:00"
 }
