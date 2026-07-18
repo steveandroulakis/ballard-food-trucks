@@ -341,15 +341,15 @@
     },
     {
       "date": "2026-07-18T00:00:00",
-      "description": "Original event: Tat's Deli",
+      "description": "Original event: NO FOOD TRUCK :(",
       "end_time": null,
       "end_time_raw": null,
       "extraction_method": "html",
       "location": "Chuck's Hop Shop Greenwood",
       "start_time": null,
       "start_time_raw": null,
-      "title": "Tat's Deli",
-      "vendor": "Tat's Deli",
+      "title": "NO FOOD TRUCK :(",
+      "vendor": "NO FOOD TRUCK :(",
       "venue": "Chuck's Hop Shop Greenwood"
     },
     {
@@ -555,5 +555,5 @@
   "timezone_label": "PT",
   "timezone_note": "All event times are in Pacific Time (PT).",
   "total_events": 42,
-  "updated": "2026-07-18T18:10:01.527468+00:00"
+  "updated": "2026-07-18T19:10:01.579474+00:00"
 }
