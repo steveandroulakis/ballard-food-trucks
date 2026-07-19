@@ -203,10 +203,10 @@
       "end_time_raw": "8:00 PM",
       "extraction_method": "html",
       "location": "Obec Brewing",
-      "start_time": "3:00 AM PT",
-      "start_time_raw": "3:00 AM",
-      "title": "Kaosamai Thai",
-      "vendor": "Kaosamai Thai",
+      "start_time": "11:00 PM PT",
+      "start_time_raw": "11:00 PM",
+      "title": "Burger Planet",
+      "vendor": "Burger Planet",
       "venue": "Obec Brewing"
     },
     {
@@ -581,5 +581,5 @@
   "timezone_label": "PT",
   "timezone_note": "All event times are in Pacific Time (PT).",
   "total_events": 44,
-  "updated": "2026-07-19T07:10:01.472112+00:00"
+  "updated": "2026-07-19T08:10:07.419578+00:00"
 }
