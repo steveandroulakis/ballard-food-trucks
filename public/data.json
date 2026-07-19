@@ -2,19 +2,6 @@
   "errors": [],
   "events": [
     {
-      "date": "2026-07-18T00:00:00",
-      "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "extraction_method": "html",
-      "location": "Stoup Brewing - Ballard",
-      "start_time": "1:00 PM PT",
-      "start_time_raw": "1:00 PM",
-      "title": "Georgia's Greek",
-      "vendor": "Georgia's Greek",
-      "venue": "Stoup Brewing - Ballard"
-    },
-    {
       "date": "2026-07-19T00:00:00",
       "description": null,
       "end_time": "7:00 PM PT",
@@ -106,17 +93,17 @@
       "venue": "Stoup Brewing - Ballard"
     },
     {
-      "date": "2026-07-18T13:00:00.664000",
+      "date": "2026-07-26T00:00:00",
       "description": null,
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
+      "end_time": "7:00 PM PT",
+      "end_time_raw": "7:00 PM",
       "extraction_method": "html",
-      "location": "Yonder Cider & Bale Breaker - Ballard",
+      "location": "Stoup Brewing - Ballard",
       "start_time": "1:00 PM PT",
       "start_time_raw": "1:00 PM",
-      "title": "Wich Came First",
-      "vendor": "Wich Came First",
-      "venue": "Yonder Cider & Bale Breaker - Ballard"
+      "title": "Kaosamai Thai",
+      "vendor": "Kaosamai Thai",
+      "venue": "Stoup Brewing - Ballard"
     },
     {
       "date": "2026-07-19T13:00:00.336000",
@@ -197,7 +184,20 @@
       "venue": "Yonder Cider & Bale Breaker - Ballard"
     },
     {
-      "date": "2026-07-18T00:00:00",
+      "date": "2026-07-26T13:00:00.336000",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "extraction_method": "html",
+      "location": "Yonder Cider & Bale Breaker - Ballard",
+      "start_time": "1:00 PM PT",
+      "start_time_raw": "1:00 PM",
+      "title": "Tacos &amp; Beer",
+      "vendor": "Tacos &amp; Beer",
+      "venue": "Yonder Cider & Bale Breaker - Ballard"
+    },
+    {
+      "date": "2026-07-19T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -208,19 +208,6 @@
       "title": "Kaosamai Thai",
       "vendor": "Kaosamai Thai",
       "venue": "Obec Brewing"
-    },
-    {
-      "date": "2026-07-18T00:00:00",
-      "description": "https://urbanfamilybrewing.com/events/momo-express-15/",
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "extraction_method": "html",
-      "location": "Urban Family Brewing",
-      "start_time": "1:00 PM PT",
-      "start_time_raw": "1:00 PM",
-      "title": "Momo Express",
-      "vendor": "Momo Express",
-      "venue": "Urban Family Brewing"
     },
     {
       "date": "2026-07-19T00:00:00",
@@ -327,6 +314,32 @@
       "venue": "Urban Family Brewing"
     },
     {
+      "date": "2026-07-26T00:00:00",
+      "description": "https://urbanfamilybrewing.com/events/9th-and-hennepin-29/",
+      "end_time": "12:00 PM PT",
+      "end_time_raw": "12:00 PM",
+      "extraction_method": "html",
+      "location": "Urban Family Brewing",
+      "start_time": "8:00 AM PT",
+      "start_time_raw": "8:00 AM",
+      "title": "9th and Hennepin",
+      "vendor": "9th and Hennepin",
+      "venue": "Urban Family Brewing"
+    },
+    {
+      "date": "2026-07-26T00:00:00",
+      "description": "https://urbanfamilybrewing.com/events/now-make-me-a-sandwich-14/",
+      "end_time": "7:00 PM PT",
+      "end_time_raw": "7:00 PM",
+      "extraction_method": "html",
+      "location": "Urban Family Brewing",
+      "start_time": "1:00 PM PT",
+      "start_time_raw": "1:00 PM",
+      "title": "Now Make Me A Sandwich",
+      "vendor": "Now Make Me A Sandwich",
+      "venue": "Urban Family Brewing"
+    },
+    {
       "date": "2026-07-21T00:00:00",
       "description": null,
       "end_time": "9:00 PM PT",
@@ -338,19 +351,6 @@
       "title": "Finn Anthony'S",
       "vendor": "Finn Anthony'S",
       "venue": "Channel Marker Cider"
-    },
-    {
-      "date": "2026-07-18T00:00:00",
-      "description": "Original event: NO FOOD TRUCK :(",
-      "end_time": null,
-      "end_time_raw": null,
-      "extraction_method": "html",
-      "location": "Chuck's Hop Shop Greenwood",
-      "start_time": null,
-      "start_time_raw": null,
-      "title": "NO FOOD TRUCK :(",
-      "vendor": "NO FOOD TRUCK :(",
-      "venue": "Chuck's Hop Shop Greenwood"
     },
     {
       "date": "2026-07-19T00:00:00",
@@ -457,17 +457,30 @@
       "venue": "Chuck's Hop Shop Greenwood"
     },
     {
-      "date": "2026-07-18T17:00:00",
-      "description": "Cuisine: Asian, Vegan, Vegetarian",
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
-      "extraction_method": "api",
-      "location": "Saleh's Corner",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
-      "title": "Kathmandu MoMoCha",
-      "vendor": "Kathmandu MoMoCha",
-      "venue": "Saleh's Corner"
+      "date": "2026-07-26T00:00:00",
+      "description": "Original event: Brunch: Cocina Barelas",
+      "end_time": null,
+      "end_time_raw": null,
+      "extraction_method": "html",
+      "location": "Chuck's Hop Shop Greenwood",
+      "start_time": null,
+      "start_time_raw": null,
+      "title": "Cocina Barelas",
+      "vendor": "Cocina Barelas",
+      "venue": "Chuck's Hop Shop Greenwood"
+    },
+    {
+      "date": "2026-07-26T00:00:00",
+      "description": "Original event: Momo Express",
+      "end_time": null,
+      "end_time_raw": null,
+      "extraction_method": "html",
+      "location": "Chuck's Hop Shop Greenwood",
+      "start_time": null,
+      "start_time_raw": null,
+      "title": "Momo Express",
+      "vendor": "Momo Express",
+      "venue": "Chuck's Hop Shop Greenwood"
     },
     {
       "date": "2026-07-19T17:00:00",
@@ -546,6 +559,19 @@
       "title": "Impeckable Chicken",
       "vendor": "Impeckable Chicken",
       "venue": "Saleh's Corner"
+    },
+    {
+      "date": "2026-07-26T17:00:00",
+      "description": "Cuisine: Pasta, Seafood, Tacos",
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "extraction_method": "api",
+      "location": "Saleh's Corner",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "title": "Joe Barry's Good Eats",
+      "vendor": "Joe Barry's Good Eats",
+      "venue": "Saleh's Corner"
     }
   ],
   "haiku": null,
@@ -554,6 +580,6 @@
   "timezone": "America/Los_Angeles",
   "timezone_label": "PT",
   "timezone_note": "All event times are in Pacific Time (PT).",
-  "total_events": 42,
-  "updated": "2026-07-19T06:10:01.629334+00:00"
+  "total_events": 44,
+  "updated": "2026-07-19T07:10:01.472112+00:00"
 }
