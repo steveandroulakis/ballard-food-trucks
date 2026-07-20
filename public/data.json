@@ -185,19 +185,6 @@
     },
     {
       "date": "2026-07-20T00:00:00",
-      "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "extraction_method": "html",
-      "location": "Obec Brewing",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
-      "title": "Plaza Garcia",
-      "vendor": "Plaza Garcia",
-      "venue": "Obec Brewing"
-    },
-    {
-      "date": "2026-07-20T00:00:00",
       "description": "https://urbanfamilybrewing.com/events/la-riviera-maya-15/",
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -541,6 +528,6 @@
   "timezone": "America/Los_Angeles",
   "timezone_label": "PT",
   "timezone_note": "All event times are in Pacific Time (PT).",
-  "total_events": 41,
-  "updated": "2026-07-20T19:10:02.952576+00:00"
+  "total_events": 40,
+  "updated": "2026-07-20T20:10:05.484016+00:00"
 }
