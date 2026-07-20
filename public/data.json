@@ -190,10 +190,10 @@
       "end_time_raw": "8:00 PM",
       "extraction_method": "html",
       "location": "Obec Brewing",
-      "start_time": "11:00 PM PT",
-      "start_time_raw": "11:00 PM",
-      "title": "Burger Planet",
-      "vendor": "Burger Planet",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "title": "Plaza Garcia",
+      "vendor": "Plaza Garcia",
       "venue": "Obec Brewing"
     },
     {
@@ -542,5 +542,5 @@
   "timezone_label": "PT",
   "timezone_note": "All event times are in Pacific Time (PT).",
   "total_events": 41,
-  "updated": "2026-07-20T07:10:06.327429+00:00"
+  "updated": "2026-07-20T08:10:01.768232+00:00"
 }
