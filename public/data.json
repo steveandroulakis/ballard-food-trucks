@@ -315,28 +315,28 @@
     },
     {
       "date": "2026-07-20T00:00:00",
-      "description": "Original event: Dinner: Birrieria Pepe El Toro",
+      "description": "Original event: #VALUE!",
       "end_time": null,
       "end_time_raw": null,
       "extraction_method": "html",
       "location": "Chuck's Hop Shop Greenwood",
       "start_time": null,
       "start_time_raw": null,
-      "title": "Birrieria Pepe El Toro",
-      "vendor": "Birrieria Pepe El Toro",
+      "title": "#VALUE!",
+      "vendor": "#VALUE!",
       "venue": "Chuck's Hop Shop Greenwood"
     },
     {
       "date": "2026-07-21T00:00:00",
-      "description": "Original event: Dinner: Woodshop BBQ",
+      "description": "Original event: #VALUE!",
       "end_time": null,
       "end_time_raw": null,
       "extraction_method": "html",
       "location": "Chuck's Hop Shop Greenwood",
       "start_time": null,
       "start_time_raw": null,
-      "title": "Woodshop BBQ",
-      "vendor": "Woodshop BBQ",
+      "title": "#VALUE!",
+      "vendor": "#VALUE!",
       "venue": "Chuck's Hop Shop Greenwood"
     },
     {
@@ -529,5 +529,5 @@
   "timezone_label": "PT",
   "timezone_note": "All event times are in Pacific Time (PT).",
   "total_events": 40,
-  "updated": "2026-07-21T05:10:02.516614+00:00"
+  "updated": "2026-07-21T06:10:01.773922+00:00"
 }
