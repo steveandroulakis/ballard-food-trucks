@@ -457,19 +457,6 @@
       "venue": "Chuck's Hop Shop Greenwood"
     },
     {
-      "date": "2026-07-23T17:00:00",
-      "description": "Cuisine: Asian, Thai, Vegetarian",
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
-      "extraction_method": "api",
-      "location": "Saleh's Corner",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
-      "title": "Pumpkin Thai",
-      "vendor": "Pumpkin Thai",
-      "venue": "Saleh's Corner"
-    },
-    {
       "date": "2026-07-24T17:00:00",
       "description": "Cuisine: Chicken, Sandwiches, Southern",
       "end_time": "9:00 PM PT",
@@ -554,6 +541,6 @@
   "timezone": "America/Los_Angeles",
   "timezone_label": "PT",
   "timezone_note": "All event times are in Pacific Time (PT).",
-  "total_events": 42,
-  "updated": "2026-07-23T20:10:01.412154+00:00"
+  "total_events": 41,
+  "updated": "2026-07-23T21:10:01.558328+00:00"
 }
