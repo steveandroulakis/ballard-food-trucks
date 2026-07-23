@@ -205,8 +205,8 @@
       "location": "Obec Brewing",
       "start_time": "4:00 PM PT",
       "start_time_raw": "4:00 PM",
-      "title": "Cocina Barelas (New Mexican Cuisine)",
-      "vendor": "Cocina Barelas (New Mexican Cuisine)",
+      "title": "Fish Basket NW",
+      "vendor": "Fish Basket NW",
       "venue": "Obec Brewing"
     },
     {
@@ -555,5 +555,5 @@
   "timezone_label": "PT",
   "timezone_note": "All event times are in Pacific Time (PT).",
   "total_events": 42,
-  "updated": "2026-07-23T08:10:03.168771+00:00"
+  "updated": "2026-07-23T09:10:02.647231+00:00"
 }
