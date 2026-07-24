@@ -1,110 +1,8 @@
 {
-  "errors": [],
+  "errors": [
+    "Failed to fetch information for: Stoup Brewing - Ballard"
+  ],
   "events": [
-    {
-      "date": "2026-07-24T00:00:00",
-      "description": null,
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
-      "extraction_method": "html",
-      "location": "Stoup Brewing - Ballard",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
-      "title": "El Sabor Boricua",
-      "vendor": "El Sabor Boricua",
-      "venue": "Stoup Brewing - Ballard"
-    },
-    {
-      "date": "2026-07-25T00:00:00",
-      "description": null,
-      "end_time": "7:00 PM PT",
-      "end_time_raw": "7:00 PM",
-      "extraction_method": "html",
-      "location": "Stoup Brewing - Ballard",
-      "start_time": "1:00 PM PT",
-      "start_time_raw": "1:00 PM",
-      "title": "Tat's Truck",
-      "vendor": "Tat's Truck",
-      "venue": "Stoup Brewing - Ballard"
-    },
-    {
-      "date": "2026-07-26T00:00:00",
-      "description": null,
-      "end_time": "7:00 PM PT",
-      "end_time_raw": "7:00 PM",
-      "extraction_method": "html",
-      "location": "Stoup Brewing - Ballard",
-      "start_time": "1:00 PM PT",
-      "start_time_raw": "1:00 PM",
-      "title": "Kaosamai Thai",
-      "vendor": "Kaosamai Thai",
-      "venue": "Stoup Brewing - Ballard"
-    },
-    {
-      "date": "2026-07-27T00:00:00",
-      "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "extraction_method": "html",
-      "location": "Stoup Brewing - Ballard",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
-      "title": "Russo Pizzarium",
-      "vendor": "Russo Pizzarium",
-      "venue": "Stoup Brewing - Ballard"
-    },
-    {
-      "date": "2026-07-28T00:00:00",
-      "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "extraction_method": "html",
-      "location": "Stoup Brewing - Ballard",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
-      "title": "Tacos & Beer",
-      "vendor": "Tacos & Beer",
-      "venue": "Stoup Brewing - Ballard"
-    },
-    {
-      "date": "2026-07-29T00:00:00",
-      "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "extraction_method": "html",
-      "location": "Stoup Brewing - Ballard",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
-      "title": "Impeccable Chicken",
-      "vendor": "Impeccable Chicken",
-      "venue": "Stoup Brewing - Ballard"
-    },
-    {
-      "date": "2026-07-30T00:00:00",
-      "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "extraction_method": "html",
-      "location": "Stoup Brewing - Ballard",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
-      "title": "Kottu Seattle",
-      "vendor": "Kottu Seattle",
-      "venue": "Stoup Brewing - Ballard"
-    },
-    {
-      "date": "2026-07-31T00:00:00",
-      "description": null,
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
-      "extraction_method": "html",
-      "location": "Stoup Brewing - Ballard",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
-      "title": "Off the Rez",
-      "vendor": "Off the Rez",
-      "venue": "Stoup Brewing - Ballard"
-    },
     {
       "date": "2026-07-24T16:00:00.571000",
       "description": null,
@@ -554,6 +452,6 @@
   "timezone": "America/Los_Angeles",
   "timezone_label": "PT",
   "timezone_note": "All event times are in Pacific Time (PT).",
-  "total_events": 42,
-  "updated": "2026-07-24T10:10:01.745891+00:00"
+  "total_events": 34,
+  "updated": "2026-07-24T11:10:22.029178+00:00"
 }
