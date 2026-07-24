@@ -354,13 +354,31 @@ Unable to load food truck data. Please try again later.
             document.getElementById('error').style.display = 'block';
         }
 
+        // Spreadsheet error values (e.g. #VALUE!, #REF!, #N/A) sometimes leak
+        // into the source data when an upstream spreadsheet cell is broken.
+        // Treat them as invalid so we never render them as a truck name.
+        function isSpreadsheetError(value) {
+            if (!value) return false;
+            return /^#(VALUE!|REF!|N\/A|NAME\?|NUM!|DIV\/0!|NULL!|SPILL!|CALC!|GETTING_DATA)$/i
+                .test(String(value).trim());
+        }
+
+        function isValidEvent(event) {
+            return !isSpreadsheetError(event.vendor)
+                && !isSpreadsheetError(event.vendor_name)
+                && !isSpreadsheetError(event.title);
+        }
+
         function displayFoodTrucks(data) {
             document.getElementById('loading').style.display = 'none';
+
+            // Drop events whose truck name is a leaked spreadsheet error value.
+            data.events = (data.events || []).filter(isValidEvent);
 
             // Show stats at bottom
             const statsEl = document.getElementById('stats');
             const totalEventsEl = document.getElementById('totalEvents');
-            totalEventsEl.textContent = data.total_events || data.events.length;
+            totalEventsEl.textContent = data.events.length;
 
             // Show haiku if available
             if (data.haiku) {
