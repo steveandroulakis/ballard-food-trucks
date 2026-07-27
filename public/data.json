@@ -1,7 +1,5 @@
 {
-  "errors": [
-    "Failed to fetch information for: Channel Marker Cider"
-  ],
+  "errors": [],
   "events": [
     {
       "date": "2026-07-26T00:00:00",
@@ -316,6 +314,19 @@
       "venue": "Urban Family Brewing"
     },
     {
+      "date": "2026-07-29T00:00:00",
+      "description": null,
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "extraction_method": "csv",
+      "location": "Channel Marker Cider",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "title": "Kaosamai",
+      "vendor": "Kaosamai",
+      "venue": "Channel Marker Cider"
+    },
+    {
       "date": "2026-07-26T00:00:00",
       "description": "Original event: Brunch: Cocina Barelas",
       "end_time": null,
@@ -556,6 +567,6 @@
   "timezone": "America/Los_Angeles",
   "timezone_label": "PT",
   "timezone_note": "All event times are in Pacific Time (PT).",
-  "total_events": 42,
-  "updated": "2026-07-27T04:10:05.105868+00:00"
+  "total_events": 43,
+  "updated": "2026-07-27T05:10:06.262722+00:00"
 }
