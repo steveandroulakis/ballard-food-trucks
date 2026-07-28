@@ -158,6 +158,32 @@
       "venue": "Yonder Cider & Bale Breaker - Ballard"
     },
     {
+      "date": "2026-08-01T13:00:00.664000",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "extraction_method": "html",
+      "location": "Yonder Cider & Bale Breaker - Ballard",
+      "start_time": "1:00 PM PT",
+      "start_time_raw": "1:00 PM",
+      "title": "Wich Came First",
+      "vendor": "Wich Came First",
+      "venue": "Yonder Cider & Bale Breaker - Ballard"
+    },
+    {
+      "date": "2026-08-02T13:00:00.336000",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "extraction_method": "html",
+      "location": "Yonder Cider & Bale Breaker - Ballard",
+      "start_time": "1:00 PM PT",
+      "start_time_raw": "1:00 PM",
+      "title": "Tacos &amp; Beer",
+      "vendor": "Tacos &amp; Beer",
+      "venue": "Yonder Cider & Bale Breaker - Ballard"
+    },
+    {
       "date": "2026-07-27T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
@@ -515,6 +541,6 @@
   "timezone": "America/Los_Angeles",
   "timezone_label": "PT",
   "timezone_note": "All event times are in Pacific Time (PT).",
-  "total_events": 39,
-  "updated": "2026-07-28T05:10:01.681443+00:00"
+  "total_events": 41,
+  "updated": "2026-07-28T06:10:14.922313+00:00"
 }
