@@ -2,19 +2,6 @@
   "errors": [],
   "events": [
     {
-      "date": "2026-07-27T00:00:00",
-      "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "extraction_method": "html",
-      "location": "Stoup Brewing - Ballard",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
-      "title": "Russo Pizzarium",
-      "vendor": "Russo Pizzarium",
-      "venue": "Stoup Brewing - Ballard"
-    },
-    {
       "date": "2026-07-28T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
@@ -106,6 +93,19 @@
       "venue": "Stoup Brewing - Ballard"
     },
     {
+      "date": "2026-08-04T00:00:00",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "extraction_method": "html",
+      "location": "Stoup Brewing - Ballard",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "title": "Max's Burgers & Wings",
+      "vendor": "Max's Burgers & Wings",
+      "venue": "Stoup Brewing - Ballard"
+    },
+    {
       "date": "2026-07-28T16:00:00.307000",
       "description": null,
       "end_time": "8:00 PM PT",
@@ -184,7 +184,7 @@
       "venue": "Yonder Cider & Bale Breaker - Ballard"
     },
     {
-      "date": "2026-07-27T00:00:00",
+      "date": "2026-07-28T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -195,19 +195,6 @@
       "title": "Plaza Garcia",
       "vendor": "Plaza Garcia",
       "venue": "Obec Brewing"
-    },
-    {
-      "date": "2026-07-27T00:00:00",
-      "description": "https://urbanfamilybrewing.com/events/empanadas-el-pachi-15/",
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "extraction_method": "html",
-      "location": "Urban Family Brewing",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
-      "title": "Empanadas El Pachi",
-      "vendor": "Empanadas El Pachi",
-      "venue": "Urban Family Brewing"
     },
     {
       "date": "2026-07-28T00:00:00",
@@ -301,6 +288,19 @@
       "venue": "Urban Family Brewing"
     },
     {
+      "date": "2026-08-04T00:00:00",
+      "description": "https://urbanfamilybrewing.com/events/georgias-greek-15/",
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "extraction_method": "html",
+      "location": "Urban Family Brewing",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "title": "Georgia's Greek",
+      "vendor": "Georgia's Greek",
+      "venue": "Urban Family Brewing"
+    },
+    {
       "date": "2026-07-29T00:00:00",
       "description": null,
       "end_time": "9:00 PM PT",
@@ -312,19 +312,6 @@
       "title": "Kaosamai",
       "vendor": "Kaosamai",
       "venue": "Channel Marker Cider"
-    },
-    {
-      "date": "2026-07-27T00:00:00",
-      "description": "Original event: Dinner: Birrieria Pepe El Toro",
-      "end_time": null,
-      "end_time_raw": null,
-      "extraction_method": "html",
-      "location": "Chuck's Hop Shop Greenwood",
-      "start_time": null,
-      "start_time_raw": null,
-      "title": "Birrieria Pepe El Toro",
-      "vendor": "Birrieria Pepe El Toro",
-      "venue": "Chuck's Hop Shop Greenwood"
     },
     {
       "date": "2026-07-28T00:00:00",
@@ -431,17 +418,17 @@
       "venue": "Chuck's Hop Shop Greenwood"
     },
     {
-      "date": "2026-07-27T17:00:00",
-      "description": "Cuisine: Asian, BBQ, Sandwiches",
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
-      "extraction_method": "api",
-      "location": "Saleh's Corner",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
-      "title": "MOMO Express",
-      "vendor": "MOMO Express",
-      "venue": "Saleh's Corner"
+      "date": "2026-08-04T00:00:00",
+      "description": "Original event: Dinner: Kaosamai Thai",
+      "end_time": null,
+      "end_time_raw": null,
+      "extraction_method": "html",
+      "location": "Chuck's Hop Shop Greenwood",
+      "start_time": null,
+      "start_time_raw": null,
+      "title": "Kaosamai Thai",
+      "vendor": "Kaosamai Thai",
+      "venue": "Chuck's Hop Shop Greenwood"
     },
     {
       "date": "2026-07-28T17:00:00",
@@ -533,6 +520,19 @@
       "title": "MOMO Express",
       "vendor": "MOMO Express",
       "venue": "Saleh's Corner"
+    },
+    {
+      "date": "2026-08-04T17:00:00",
+      "description": "Cuisine: Burritos, Mexican, Tacos",
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "extraction_method": "api",
+      "location": "Saleh's Corner",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "title": "Plaza Garcia Express",
+      "vendor": "Plaza Garcia Express",
+      "venue": "Saleh's Corner"
     }
   ],
   "haiku": null,
@@ -542,5 +542,5 @@
   "timezone_label": "PT",
   "timezone_note": "All event times are in Pacific Time (PT).",
   "total_events": 41,
-  "updated": "2026-07-28T06:10:14.922313+00:00"
+  "updated": "2026-07-28T07:10:02.820411+00:00"
 }
