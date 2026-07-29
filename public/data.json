@@ -315,19 +315,6 @@
     },
     {
       "date": "2026-07-29T00:00:00",
-      "description": null,
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
-      "extraction_method": "csv",
-      "location": "Channel Marker Cider",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
-      "title": "Kaosamai",
-      "vendor": "Kaosamai",
-      "venue": "Channel Marker Cider"
-    },
-    {
-      "date": "2026-07-29T00:00:00",
       "description": "Original event: Dinner: Oskar's Pizza",
       "end_time": null,
       "end_time_raw": null,
@@ -554,6 +541,6 @@
   "timezone": "America/Los_Angeles",
   "timezone_label": "PT",
   "timezone_note": "All event times are in Pacific Time (PT).",
-  "total_events": 42,
-  "updated": "2026-07-29T21:10:02.568778+00:00"
+  "total_events": 41,
+  "updated": "2026-07-29T22:10:02.319454+00:00"
 }
