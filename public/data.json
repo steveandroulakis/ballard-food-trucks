@@ -2,19 +2,6 @@
   "errors": [],
   "events": [
     {
-      "date": "2026-07-29T00:00:00",
-      "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "extraction_method": "html",
-      "location": "Stoup Brewing - Ballard",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
-      "title": "Impeccable Chicken",
-      "vendor": "Impeccable Chicken",
-      "venue": "Stoup Brewing - Ballard"
-    },
-    {
       "date": "2026-07-30T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
@@ -106,17 +93,17 @@
       "venue": "Stoup Brewing - Ballard"
     },
     {
-      "date": "2026-07-29T16:00:00.425000",
+      "date": "2026-08-06T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
       "extraction_method": "html",
-      "location": "Yonder Cider & Bale Breaker - Ballard",
+      "location": "Stoup Brewing - Ballard",
       "start_time": "4:00 PM PT",
       "start_time_raw": "4:00 PM",
-      "title": "Georgia\u2019s Greek",
-      "vendor": "Georgia\u2019s Greek",
-      "venue": "Yonder Cider & Bale Breaker - Ballard"
+      "title": "Birrieria Pepe El Toro",
+      "vendor": "Birrieria Pepe El Toro",
+      "venue": "Stoup Brewing - Ballard"
     },
     {
       "date": "2026-07-30T17:00:00.091000",
@@ -197,7 +184,20 @@
       "venue": "Yonder Cider & Bale Breaker - Ballard"
     },
     {
-      "date": "2026-07-29T00:00:00",
+      "date": "2026-08-06T17:00:00.091000",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "extraction_method": "html",
+      "location": "Yonder Cider & Bale Breaker - Ballard",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "title": "Impeckable Chicken",
+      "vendor": "Impeckable Chicken",
+      "venue": "Yonder Cider & Bale Breaker - Ballard"
+    },
+    {
+      "date": "2026-07-30T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -208,19 +208,6 @@
       "title": "Empanadas el Pachi",
       "vendor": "Empanadas el Pachi",
       "venue": "Obec Brewing"
-    },
-    {
-      "date": "2026-07-29T00:00:00",
-      "description": "https://urbanfamilybrewing.com/events/katmandu-momocha-15/",
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "extraction_method": "html",
-      "location": "Urban Family Brewing",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
-      "title": "Katmandu Momocha",
-      "vendor": "Katmandu Momocha",
-      "venue": "Urban Family Brewing"
     },
     {
       "date": "2026-07-30T00:00:00",
@@ -314,17 +301,17 @@
       "venue": "Urban Family Brewing"
     },
     {
-      "date": "2026-07-29T00:00:00",
-      "description": "Original event: Dinner: Oskar's Pizza",
-      "end_time": null,
-      "end_time_raw": null,
+      "date": "2026-08-06T00:00:00",
+      "description": "https://urbanfamilybrewing.com/events/alebrijes-13/",
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
       "extraction_method": "html",
-      "location": "Chuck's Hop Shop Greenwood",
-      "start_time": null,
-      "start_time_raw": null,
-      "title": "Oskar's Pizza",
-      "vendor": "Oskar's Pizza",
-      "venue": "Chuck's Hop Shop Greenwood"
+      "location": "Urban Family Brewing",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "title": "Alebrijes",
+      "vendor": "Alebrijes",
+      "venue": "Urban Family Brewing"
     },
     {
       "date": "2026-07-30T00:00:00",
@@ -431,17 +418,17 @@
       "venue": "Chuck's Hop Shop Greenwood"
     },
     {
-      "date": "2026-07-29T17:00:00",
-      "description": "Cuisine: Greek, Gyro, Halal",
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
-      "extraction_method": "api",
-      "location": "Saleh's Corner",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
-      "title": "Theo's Gyros",
-      "vendor": "Theo's Gyros",
-      "venue": "Saleh's Corner"
+      "date": "2026-08-06T00:00:00",
+      "description": "Original event: Dinner: Pizza Paesano",
+      "end_time": null,
+      "end_time_raw": null,
+      "extraction_method": "html",
+      "location": "Chuck's Hop Shop Greenwood",
+      "start_time": null,
+      "start_time_raw": null,
+      "title": "Pizza Paesano",
+      "vendor": "Pizza Paesano",
+      "venue": "Chuck's Hop Shop Greenwood"
     },
     {
       "date": "2026-07-30T17:00:00",
@@ -533,6 +520,19 @@
       "title": "Theo's Gyros",
       "vendor": "Theo's Gyros",
       "venue": "Saleh's Corner"
+    },
+    {
+      "date": "2026-08-06T17:00:00",
+      "description": "Cuisine: Gluten-Free, Italian, Pizza",
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "extraction_method": "api",
+      "location": "Saleh's Corner",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "title": "Oskar's Pizza",
+      "vendor": "Oskar's Pizza",
+      "venue": "Saleh's Corner"
     }
   ],
   "haiku": null,
@@ -542,5 +542,5 @@
   "timezone_label": "PT",
   "timezone_note": "All event times are in Pacific Time (PT).",
   "total_events": 41,
-  "updated": "2026-07-30T06:10:06.000768+00:00"
+  "updated": "2026-07-30T07:10:01.469217+00:00"
 }
