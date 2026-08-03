@@ -2,19 +2,6 @@
   "errors": [],
   "events": [
     {
-      "date": "2026-08-02T00:00:00",
-      "description": null,
-      "end_time": "7:00 PM PT",
-      "end_time_raw": "7:00 PM",
-      "extraction_method": "html",
-      "location": "Stoup Brewing - Ballard",
-      "start_time": "1:00 PM PT",
-      "start_time_raw": "1:00 PM",
-      "title": "El Pirata Tortas Y Burritos / Now Make Me A Sandwich",
-      "vendor": "El Pirata Tortas Y Burritos / Now Make Me A Sandwich",
-      "venue": "Stoup Brewing - Ballard"
-    },
-    {
       "date": "2026-08-03T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
@@ -106,17 +93,17 @@
       "venue": "Stoup Brewing - Ballard"
     },
     {
-      "date": "2026-08-02T13:00:00.336000",
+      "date": "2026-08-10T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
       "extraction_method": "html",
-      "location": "Yonder Cider & Bale Breaker - Ballard",
-      "start_time": "1:00 PM PT",
-      "start_time_raw": "1:00 PM",
-      "title": "Tacos &amp; Beer",
-      "vendor": "Tacos &amp; Beer",
-      "venue": "Yonder Cider & Bale Breaker - Ballard"
+      "location": "Stoup Brewing - Ballard",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "title": "Russo Pizzarium",
+      "vendor": "Russo Pizzarium",
+      "venue": "Stoup Brewing - Ballard"
     },
     {
       "date": "2026-08-04T16:00:00.203000",
@@ -195,32 +182,6 @@
       "title": "Tacos &amp; Beer",
       "vendor": "Tacos &amp; Beer",
       "venue": "Yonder Cider & Bale Breaker - Ballard"
-    },
-    {
-      "date": "2026-08-02T00:00:00",
-      "description": "https://urbanfamilybrewing.com/events/9th-and-hennepin-30/",
-      "end_time": "12:00 PM PT",
-      "end_time_raw": "12:00 PM",
-      "extraction_method": "html",
-      "location": "Urban Family Brewing",
-      "start_time": "8:00 AM PT",
-      "start_time_raw": "8:00 AM",
-      "title": "9th and Hennepin",
-      "vendor": "9th and Hennepin",
-      "venue": "Urban Family Brewing"
-    },
-    {
-      "date": "2026-08-02T00:00:00",
-      "description": "https://urbanfamilybrewing.com/events/kaosamai-13/",
-      "end_time": "7:00 PM PT",
-      "end_time_raw": "7:00 PM",
-      "extraction_method": "html",
-      "location": "Urban Family Brewing",
-      "start_time": "1:00 PM PT",
-      "start_time_raw": "1:00 PM",
-      "title": "Kaosamai",
-      "vendor": "Kaosamai",
-      "venue": "Urban Family Brewing"
     },
     {
       "date": "2026-08-04T00:00:00",
@@ -314,30 +275,17 @@
       "venue": "Urban Family Brewing"
     },
     {
-      "date": "2026-08-02T00:00:00",
-      "description": "Original event: Brunch: Good Morning Tacos",
-      "end_time": null,
-      "end_time_raw": null,
+      "date": "2026-08-10T00:00:00",
+      "description": "https://urbanfamilybrewing.com/events/empanadas-el-pachi-16/",
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
       "extraction_method": "html",
-      "location": "Chuck's Hop Shop Greenwood",
-      "start_time": null,
-      "start_time_raw": null,
-      "title": "Good Morning Tacos",
-      "vendor": "Good Morning Tacos",
-      "venue": "Chuck's Hop Shop Greenwood"
-    },
-    {
-      "date": "2026-08-02T00:00:00",
-      "description": "Original event: Dinner: Georgia's Greek",
-      "end_time": null,
-      "end_time_raw": null,
-      "extraction_method": "html",
-      "location": "Chuck's Hop Shop Greenwood",
-      "start_time": null,
-      "start_time_raw": null,
-      "title": "Georgia's Greek",
-      "vendor": "Georgia's Greek",
-      "venue": "Chuck's Hop Shop Greenwood"
+      "location": "Urban Family Brewing",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "title": "Empanadas El Pachi",
+      "vendor": "Empanadas El Pachi",
+      "venue": "Urban Family Brewing"
     },
     {
       "date": "2026-08-03T00:00:00",
@@ -444,6 +392,19 @@
       "venue": "Chuck's Hop Shop Greenwood"
     },
     {
+      "date": "2026-08-10T00:00:00",
+      "description": "Original event: Dinner: Off the Rez",
+      "end_time": null,
+      "end_time_raw": null,
+      "extraction_method": "html",
+      "location": "Chuck's Hop Shop Greenwood",
+      "start_time": null,
+      "start_time_raw": null,
+      "title": "Off the Rez",
+      "vendor": "Off the Rez",
+      "venue": "Chuck's Hop Shop Greenwood"
+    },
+    {
       "date": "2026-08-03T17:00:00",
       "description": "Cuisine: Asian, BBQ, Sandwiches",
       "end_time": "9:00 PM PT",
@@ -533,6 +494,19 @@
       "title": "Pumpkin Thai",
       "vendor": "Pumpkin Thai",
       "venue": "Saleh's Corner"
+    },
+    {
+      "date": "2026-08-10T17:00:00",
+      "description": "Cuisine: Asian, BBQ, Sandwiches",
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "extraction_method": "api",
+      "location": "Saleh's Corner",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "title": "MOMO Express",
+      "vendor": "MOMO Express",
+      "venue": "Saleh's Corner"
     }
   ],
   "haiku": null,
@@ -541,6 +515,6 @@
   "timezone": "America/Los_Angeles",
   "timezone_label": "PT",
   "timezone_note": "All event times are in Pacific Time (PT).",
-  "total_events": 41,
-  "updated": "2026-08-03T06:10:02.952609+00:00"
+  "total_events": 39,
+  "updated": "2026-08-03T07:10:02.402806+00:00"
 }
