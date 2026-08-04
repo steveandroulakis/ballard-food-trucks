@@ -2,19 +2,6 @@
   "errors": [],
   "events": [
     {
-      "date": "2026-08-03T00:00:00",
-      "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "extraction_method": "html",
-      "location": "Stoup Brewing - Ballard",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
-      "title": "Where Ya At Matt",
-      "vendor": "Where Ya At Matt",
-      "venue": "Stoup Brewing - Ballard"
-    },
-    {
       "date": "2026-08-04T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
@@ -106,6 +93,19 @@
       "venue": "Stoup Brewing - Ballard"
     },
     {
+      "date": "2026-08-11T00:00:00",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "extraction_method": "html",
+      "location": "Stoup Brewing - Ballard",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "title": "Tacos & Beer",
+      "vendor": "Tacos & Beer",
+      "venue": "Stoup Brewing - Ballard"
+    },
+    {
       "date": "2026-08-04T16:00:00.203000",
       "description": null,
       "end_time": "8:00 PM PT",
@@ -184,7 +184,20 @@
       "venue": "Yonder Cider & Bale Breaker - Ballard"
     },
     {
-      "date": "2026-08-03T00:00:00",
+      "date": "2026-08-11T16:00:00.307000",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "extraction_method": "html",
+      "location": "Yonder Cider & Bale Breaker - Ballard",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "title": "Tummy Yummy Thai",
+      "vendor": "Tummy Yummy Thai",
+      "venue": "Yonder Cider & Bale Breaker - Ballard"
+    },
+    {
+      "date": "2026-08-04T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -301,17 +314,134 @@
       "venue": "Urban Family Brewing"
     },
     {
-      "date": "2026-08-03T17:00:00",
-      "description": "Cuisine: Asian, BBQ, Sandwiches",
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
-      "extraction_method": "api",
-      "location": "Saleh's Corner",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
-      "title": "MOMO Express",
-      "vendor": "MOMO Express",
-      "venue": "Saleh's Corner"
+      "date": "2026-08-11T00:00:00",
+      "description": "https://urbanfamilybrewing.com/events/burgerdom-15/",
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "extraction_method": "html",
+      "location": "Urban Family Brewing",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "title": "BurgerDOM",
+      "vendor": "BurgerDOM",
+      "venue": "Urban Family Brewing"
+    },
+    {
+      "date": "2026-08-04T00:00:00",
+      "description": "Original event: Dinner: Kaosamai Thai",
+      "end_time": null,
+      "end_time_raw": null,
+      "extraction_method": "html",
+      "location": "Chuck's Hop Shop Greenwood",
+      "start_time": null,
+      "start_time_raw": null,
+      "title": "Kaosamai Thai",
+      "vendor": "Kaosamai Thai",
+      "venue": "Chuck's Hop Shop Greenwood"
+    },
+    {
+      "date": "2026-08-05T00:00:00",
+      "description": "Original event: Dinner: Chick'n Fix",
+      "end_time": null,
+      "end_time_raw": null,
+      "extraction_method": "html",
+      "location": "Chuck's Hop Shop Greenwood",
+      "start_time": null,
+      "start_time_raw": null,
+      "title": "Chick'n Fix",
+      "vendor": "Chick'n Fix",
+      "venue": "Chuck's Hop Shop Greenwood"
+    },
+    {
+      "date": "2026-08-06T00:00:00",
+      "description": "Original event: Dinner: Pizza Paesano",
+      "end_time": null,
+      "end_time_raw": null,
+      "extraction_method": "html",
+      "location": "Chuck's Hop Shop Greenwood",
+      "start_time": null,
+      "start_time_raw": null,
+      "title": "Pizza Paesano",
+      "vendor": "Pizza Paesano",
+      "venue": "Chuck's Hop Shop Greenwood"
+    },
+    {
+      "date": "2026-08-07T00:00:00",
+      "description": "Original event: Dinner: T'Juana",
+      "end_time": null,
+      "end_time_raw": null,
+      "extraction_method": "html",
+      "location": "Chuck's Hop Shop Greenwood",
+      "start_time": null,
+      "start_time_raw": null,
+      "title": "T'Juana",
+      "vendor": "T'Juana",
+      "venue": "Chuck's Hop Shop Greenwood"
+    },
+    {
+      "date": "2026-08-08T00:00:00",
+      "description": "Original event: Dinner: TBD",
+      "end_time": null,
+      "end_time_raw": null,
+      "extraction_method": "html",
+      "location": "Chuck's Hop Shop Greenwood",
+      "start_time": null,
+      "start_time_raw": null,
+      "title": "TBD",
+      "vendor": "TBD",
+      "venue": "Chuck's Hop Shop Greenwood"
+    },
+    {
+      "date": "2026-08-09T00:00:00",
+      "description": "Original event: Brunch: Cocina Barelas",
+      "end_time": null,
+      "end_time_raw": null,
+      "extraction_method": "html",
+      "location": "Chuck's Hop Shop Greenwood",
+      "start_time": null,
+      "start_time_raw": null,
+      "title": "Cocina Barelas",
+      "vendor": "Cocina Barelas",
+      "venue": "Chuck's Hop Shop Greenwood"
+    },
+    {
+      "date": "2026-08-09T00:00:00",
+      "description": "Original event: Momo Express",
+      "end_time": null,
+      "end_time_raw": null,
+      "extraction_method": "html",
+      "location": "Chuck's Hop Shop Greenwood",
+      "start_time": null,
+      "start_time_raw": null,
+      "title": "Momo Express",
+      "vendor": "Momo Express",
+      "venue": "Chuck's Hop Shop Greenwood"
+    },
+    {
+      "date": "2026-08-10T00:00:00",
+      "description": "Original event: Dinner: Off the Rez",
+      "end_time": null,
+      "end_time_raw": null,
+      "extraction_method": "html",
+      "location": "Chuck's Hop Shop Greenwood",
+      "start_time": null,
+      "start_time_raw": null,
+      "title": "Off the Rez",
+      "vendor": "Off the Rez",
+      "venue": "Chuck's Hop Shop Greenwood"
+    },
+    {
+      "date": "2026-08-11T00:00:00",
+      "description": "Original event: Dinner: Kaosamai Thai",
+      "end_time": null,
+      "end_time_raw": null,
+      "extraction_method": "html",
+      "location": "Chuck's Hop Shop Greenwood",
+      "start_time": null,
+      "start_time_raw": null,
+      "title": "Kaosamai Thai",
+      "vendor": "Kaosamai Thai",
+      "venue": "Chuck's Hop Shop Greenwood"
     },
     {
       "date": "2026-08-04T17:00:00",
@@ -403,6 +533,19 @@
       "title": "MOMO Express",
       "vendor": "MOMO Express",
       "venue": "Saleh's Corner"
+    },
+    {
+      "date": "2026-08-11T17:00:00",
+      "description": "Cuisine: Burritos, Mexican, Tacos",
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "extraction_method": "api",
+      "location": "Saleh's Corner",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "title": "Plaza Garcia Express",
+      "vendor": "Plaza Garcia Express",
+      "venue": "Saleh's Corner"
     }
   ],
   "haiku": null,
@@ -411,6 +554,6 @@
   "timezone": "America/Los_Angeles",
   "timezone_label": "PT",
   "timezone_note": "All event times are in Pacific Time (PT).",
-  "total_events": 31,
-  "updated": "2026-08-04T06:10:01.511144+00:00"
+  "total_events": 42,
+  "updated": "2026-08-04T07:10:02.705783+00:00"
 }
