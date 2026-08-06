@@ -380,15 +380,15 @@
     },
     {
       "date": "2026-08-08T00:00:00",
-      "description": "Original event: Dinner: TBD",
+      "description": "Original event: Dinner: Tacos and Beer",
       "end_time": null,
       "end_time_raw": null,
       "extraction_method": "html",
       "location": "Chuck's Hop Shop Greenwood",
       "start_time": null,
       "start_time_raw": null,
-      "title": "TBD",
-      "vendor": "TBD",
+      "title": "Tacos and Beer",
+      "vendor": "Tacos and Beer",
       "venue": "Chuck's Hop Shop Greenwood"
     },
     {
@@ -568,5 +568,5 @@
   "timezone_label": "PT",
   "timezone_note": "All event times are in Pacific Time (PT).",
   "total_events": 43,
-  "updated": "2026-08-05T23:10:06.808946+00:00"
+  "updated": "2026-08-06T00:10:02.471201+00:00"
 }
