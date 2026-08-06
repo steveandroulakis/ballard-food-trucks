@@ -1,7 +1,5 @@
 {
-  "errors": [
-    "Failed to fetch information for: Obec Brewing"
-  ],
+  "errors": [],
   "events": [
     {
       "date": "2026-08-06T00:00:00",
@@ -197,6 +195,19 @@
       "title": "Impeckable Chicken",
       "vendor": "Impeckable Chicken",
       "venue": "Yonder Cider & Bale Breaker - Ballard"
+    },
+    {
+      "date": "2026-08-06T00:00:00",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "extraction_method": "html",
+      "location": "Obec Brewing",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "title": "Fish Basket NW",
+      "vendor": "Fish Basket NW",
+      "venue": "Obec Brewing"
     },
     {
       "date": "2026-08-06T00:00:00",
@@ -556,6 +567,6 @@
   "timezone": "America/Los_Angeles",
   "timezone_label": "PT",
   "timezone_note": "All event times are in Pacific Time (PT).",
-  "total_events": 42,
-  "updated": "2026-08-06T14:10:06.183084+00:00"
+  "total_events": 43,
+  "updated": "2026-08-06T15:10:02.832267+00:00"
 }
