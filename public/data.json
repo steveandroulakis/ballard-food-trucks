@@ -2,19 +2,6 @@
   "errors": [],
   "events": [
     {
-      "date": "2026-08-07T00:00:00",
-      "description": null,
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
-      "extraction_method": "html",
-      "location": "Stoup Brewing - Ballard",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
-      "title": "El Sabor Boricua",
-      "vendor": "El Sabor Boricua",
-      "venue": "Stoup Brewing - Ballard"
-    },
-    {
       "date": "2026-08-08T00:00:00",
       "description": null,
       "end_time": "7:00 PM PT",
@@ -106,17 +93,17 @@
       "venue": "Stoup Brewing - Ballard"
     },
     {
-      "date": "2026-08-07T16:00:00.675000",
+      "date": "2026-08-15T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
       "extraction_method": "html",
-      "location": "Yonder Cider & Bale Breaker - Ballard",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
-      "title": "Paparepas",
-      "vendor": "Paparepas",
-      "venue": "Yonder Cider & Bale Breaker - Ballard"
+      "location": "Stoup Brewing - Ballard",
+      "start_time": "1:00 PM PT",
+      "start_time_raw": "1:00 PM",
+      "title": "Georgia's Greek",
+      "vendor": "Georgia's Greek",
+      "venue": "Stoup Brewing - Ballard"
     },
     {
       "date": "2026-08-08T13:00:00.425000",
@@ -197,30 +184,30 @@
       "venue": "Yonder Cider & Bale Breaker - Ballard"
     },
     {
-      "date": "2026-08-07T00:00:00",
+      "date": "2026-08-15T12:00:00.336000",
       "description": null,
       "end_time": "9:00 PM PT",
       "end_time_raw": "9:00 PM",
       "extraction_method": "html",
-      "location": "Obec Brewing",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
-      "title": "Cocina Barelas (New Mexican Cuisine)",
-      "vendor": "Cocina Barelas (New Mexican Cuisine)",
-      "venue": "Obec Brewing"
+      "location": "Yonder Cider & Bale Breaker - Ballard",
+      "start_time": "12:00 PM PT",
+      "start_time_raw": "12:00 PM",
+      "title": "Tacos &amp; Beer",
+      "vendor": "Tacos &amp; Beer",
+      "venue": "Yonder Cider & Bale Breaker - Ballard"
     },
     {
-      "date": "2026-08-07T00:00:00",
-      "description": "https://urbanfamilybrewing.com/events/tacos-and-beer-14/",
+      "date": "2026-08-08T00:00:00",
+      "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
       "extraction_method": "html",
-      "location": "Urban Family Brewing",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
-      "title": "Tacos and Beer",
-      "vendor": "Tacos and Beer",
-      "venue": "Urban Family Brewing"
+      "location": "Obec Brewing",
+      "start_time": "3:00 AM PT",
+      "start_time_raw": "3:00 AM",
+      "title": "Kaosamai Thai",
+      "vendor": "Kaosamai Thai",
+      "venue": "Obec Brewing"
     },
     {
       "date": "2026-08-08T00:00:00",
@@ -327,6 +314,19 @@
       "venue": "Urban Family Brewing"
     },
     {
+      "date": "2026-08-15T00:00:00",
+      "description": "https://urbanfamilybrewing.com/events/momo-express-17/",
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "extraction_method": "html",
+      "location": "Urban Family Brewing",
+      "start_time": "1:00 PM PT",
+      "start_time_raw": "1:00 PM",
+      "title": "Momo Express",
+      "vendor": "Momo Express",
+      "venue": "Urban Family Brewing"
+    },
+    {
       "date": "2026-08-12T00:00:00",
       "description": null,
       "end_time": "9:00 PM PT",
@@ -338,19 +338,6 @@
       "title": "Kaosamai",
       "vendor": "Kaosamai",
       "venue": "Channel Marker Cider"
-    },
-    {
-      "date": "2026-08-07T00:00:00",
-      "description": "Original event: Dinner: T'Juana",
-      "end_time": null,
-      "end_time_raw": null,
-      "extraction_method": "html",
-      "location": "Chuck's Hop Shop Greenwood",
-      "start_time": null,
-      "start_time_raw": null,
-      "title": "T'Juana",
-      "vendor": "T'Juana",
-      "venue": "Chuck's Hop Shop Greenwood"
     },
     {
       "date": "2026-08-08T00:00:00",
@@ -457,6 +444,19 @@
       "venue": "Chuck's Hop Shop Greenwood"
     },
     {
+      "date": "2026-08-15T00:00:00",
+      "description": "Original event: Tat's Deli",
+      "end_time": null,
+      "end_time_raw": null,
+      "extraction_method": "html",
+      "location": "Chuck's Hop Shop Greenwood",
+      "start_time": null,
+      "start_time_raw": null,
+      "title": "Tat's Deli",
+      "vendor": "Tat's Deli",
+      "venue": "Chuck's Hop Shop Greenwood"
+    },
+    {
       "date": "2026-08-14T00:00:00",
       "description": null,
       "end_time": "7:30 PM PT",
@@ -468,19 +468,6 @@
       "title": "Tisket Tasket",
       "vendor": "Tisket Tasket",
       "venue": "Lucky Envelope Brewing"
-    },
-    {
-      "date": "2026-08-07T17:00:00",
-      "description": "Cuisine: Chicken, Sandwiches, Southern",
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
-      "extraction_method": "api",
-      "location": "Saleh's Corner",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
-      "title": "Impeckable Chicken",
-      "vendor": "Impeckable Chicken",
-      "venue": "Saleh's Corner"
     },
     {
       "date": "2026-08-08T17:00:00",
@@ -572,6 +559,19 @@
       "title": "Impeckable Chicken",
       "vendor": "Impeckable Chicken",
       "venue": "Saleh's Corner"
+    },
+    {
+      "date": "2026-08-15T17:00:00",
+      "description": "Cuisine: Gluten-Free, Italian, Pizza",
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "extraction_method": "api",
+      "location": "Saleh's Corner",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "title": "Oskar's Pizza",
+      "vendor": "Oskar's Pizza",
+      "venue": "Saleh's Corner"
     }
   ],
   "haiku": null,
@@ -581,5 +581,5 @@
   "timezone_label": "PT",
   "timezone_note": "All event times are in Pacific Time (PT).",
   "total_events": 44,
-  "updated": "2026-08-08T06:10:01.437041+00:00"
+  "updated": "2026-08-08T07:10:28.094494+00:00"
 }
