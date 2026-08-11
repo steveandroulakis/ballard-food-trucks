@@ -10,8 +10,8 @@
       "location": "Stoup Brewing - Ballard",
       "start_time": "5:00 PM PT",
       "start_time_raw": "5:00 PM",
-      "title": "No Truck Today",
-      "vendor": "No Truck Today",
+      "title": "Russo Pizzarium",
+      "vendor": "Russo Pizzarium",
       "venue": "Stoup Brewing - Ballard"
     },
     {
@@ -568,5 +568,5 @@
   "timezone_label": "PT",
   "timezone_note": "All event times are in Pacific Time (PT).",
   "total_events": 43,
-  "updated": "2026-08-10T23:10:01.439798+00:00"
+  "updated": "2026-08-11T00:10:04.123977+00:00"
 }
