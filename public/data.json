@@ -393,15 +393,15 @@
     },
     {
       "date": "2026-08-16T00:00:00",
-      "description": "Original event: Brunch: TBD",
+      "description": "Original event: Brunch: No Brunch",
       "end_time": null,
       "end_time_raw": null,
       "extraction_method": "html",
       "location": "Chuck's Hop Shop Greenwood",
       "start_time": null,
       "start_time_raw": null,
-      "title": "TBD",
-      "vendor": "TBD",
+      "title": "No Brunch",
+      "vendor": "No Brunch",
       "venue": "Chuck's Hop Shop Greenwood"
     },
     {
@@ -594,5 +594,5 @@
   "timezone_label": "PT",
   "timezone_note": "All event times are in Pacific Time (PT).",
   "total_events": 45,
-  "updated": "2026-08-13T21:10:01.431619+00:00"
+  "updated": "2026-08-13T22:10:01.851954+00:00"
 }
