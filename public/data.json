@@ -470,19 +470,6 @@
       "venue": "Chuck's Hop Shop Greenwood"
     },
     {
-      "date": "2026-08-14T00:00:00",
-      "description": null,
-      "end_time": "7:30 PM PT",
-      "end_time_raw": "7:30 PM",
-      "extraction_method": "html",
-      "location": "Lucky Envelope Brewing",
-      "start_time": "4:30 PM PT",
-      "start_time_raw": "4:30 PM",
-      "title": "Tisket Tasket",
-      "vendor": "Tisket Tasket",
-      "venue": "Lucky Envelope Brewing"
-    },
-    {
       "date": "2026-08-21T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
@@ -606,6 +593,6 @@
   "timezone": "America/Los_Angeles",
   "timezone_label": "PT",
   "timezone_note": "All event times are in Pacific Time (PT).",
-  "total_events": 46,
-  "updated": "2026-08-14T20:10:07.804341+00:00"
+  "total_events": 45,
+  "updated": "2026-08-14T21:10:01.738808+00:00"
 }
