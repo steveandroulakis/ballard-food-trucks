@@ -2,19 +2,6 @@
   "errors": [],
   "events": [
     {
-      "date": "2026-08-13T00:00:00",
-      "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "extraction_method": "html",
-      "location": "Stoup Brewing - Ballard",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
-      "title": "Kottu Seattle",
-      "vendor": "Kottu Seattle",
-      "venue": "Stoup Brewing - Ballard"
-    },
-    {
       "date": "2026-08-14T00:00:00",
       "description": null,
       "end_time": "9:00 PM PT",
@@ -106,17 +93,17 @@
       "venue": "Stoup Brewing - Ballard"
     },
     {
-      "date": "2026-08-13T17:00:00.091000",
+      "date": "2026-08-21T00:00:00",
       "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
       "extraction_method": "html",
-      "location": "Yonder Cider & Bale Breaker - Ballard",
+      "location": "Stoup Brewing - Ballard",
       "start_time": "5:00 PM PT",
       "start_time_raw": "5:00 PM",
-      "title": "Impeckable Chicken",
-      "vendor": "Impeckable Chicken",
-      "venue": "Yonder Cider & Bale Breaker - Ballard"
+      "title": "No Truck Today",
+      "vendor": "No Truck Today",
+      "venue": "Stoup Brewing - Ballard"
     },
     {
       "date": "2026-08-14T16:00:00.975000",
@@ -197,7 +184,20 @@
       "venue": "Yonder Cider & Bale Breaker - Ballard"
     },
     {
-      "date": "2026-08-13T00:00:00",
+      "date": "2026-08-21T16:00:00.675000",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "extraction_method": "html",
+      "location": "Yonder Cider & Bale Breaker - Ballard",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "title": "Paparepas",
+      "vendor": "Paparepas",
+      "venue": "Yonder Cider & Bale Breaker - Ballard"
+    },
+    {
+      "date": "2026-08-14T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -205,22 +205,9 @@
       "location": "Obec Brewing",
       "start_time": "4:00 PM PT",
       "start_time_raw": "4:00 PM",
-      "title": "MoMoCha Kathmandu",
-      "vendor": "MoMoCha Kathmandu",
+      "title": "Heart in Soul",
+      "vendor": "Heart in Soul",
       "venue": "Obec Brewing"
-    },
-    {
-      "date": "2026-08-13T00:00:00",
-      "description": "https://urbanfamilybrewing.com/events/burger-planet-18/",
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "extraction_method": "html",
-      "location": "Urban Family Brewing",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
-      "title": "Burger Planet",
-      "vendor": "Burger Planet",
-      "venue": "Urban Family Brewing"
     },
     {
       "date": "2026-08-14T00:00:00",
@@ -327,6 +314,19 @@
       "venue": "Urban Family Brewing"
     },
     {
+      "date": "2026-08-21T00:00:00",
+      "description": "https://urbanfamilybrewing.com/events/tacos-and-beer-15/",
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "extraction_method": "html",
+      "location": "Urban Family Brewing",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "title": "Tacos and Beer",
+      "vendor": "Tacos and Beer",
+      "venue": "Urban Family Brewing"
+    },
+    {
       "date": "2026-08-18T00:00:00",
       "description": null,
       "end_time": "9:00 PM PT",
@@ -351,19 +351,6 @@
       "title": "Heart In Seoul",
       "vendor": "Heart In Seoul",
       "venue": "Channel Marker Cider"
-    },
-    {
-      "date": "2026-08-13T00:00:00",
-      "description": "Original event: Dinner: Pizza Paesano",
-      "end_time": null,
-      "end_time_raw": null,
-      "extraction_method": "html",
-      "location": "Chuck's Hop Shop Greenwood",
-      "start_time": null,
-      "start_time_raw": null,
-      "title": "Pizza Paesano",
-      "vendor": "Pizza Paesano",
-      "venue": "Chuck's Hop Shop Greenwood"
     },
     {
       "date": "2026-08-14T00:00:00",
@@ -470,6 +457,19 @@
       "venue": "Chuck's Hop Shop Greenwood"
     },
     {
+      "date": "2026-08-21T00:00:00",
+      "description": "Original event: Dinner: T'Juana",
+      "end_time": null,
+      "end_time_raw": null,
+      "extraction_method": "html",
+      "location": "Chuck's Hop Shop Greenwood",
+      "start_time": null,
+      "start_time_raw": null,
+      "title": "T'Juana",
+      "vendor": "T'Juana",
+      "venue": "Chuck's Hop Shop Greenwood"
+    },
+    {
       "date": "2026-08-14T00:00:00",
       "description": null,
       "end_time": "7:30 PM PT",
@@ -483,17 +483,17 @@
       "venue": "Lucky Envelope Brewing"
     },
     {
-      "date": "2026-08-13T17:00:00",
-      "description": "Cuisine: Seafood",
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
-      "extraction_method": "api",
-      "location": "Saleh's Corner",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
-      "title": "Fish Basket NW",
-      "vendor": "Fish Basket NW",
-      "venue": "Saleh's Corner"
+      "date": "2026-08-21T00:00:00",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "extraction_method": "html",
+      "location": "Lucky Envelope Brewing",
+      "start_time": "4:30 PM PT",
+      "start_time_raw": "4:30 PM",
+      "title": "Kaosamai",
+      "vendor": "Kaosamai",
+      "venue": "Lucky Envelope Brewing"
     },
     {
       "date": "2026-08-14T17:00:00",
@@ -585,6 +585,19 @@
       "title": "Oskar's Pizza",
       "vendor": "Oskar's Pizza",
       "venue": "Saleh's Corner"
+    },
+    {
+      "date": "2026-08-21T17:00:00",
+      "description": "Cuisine: Chicken, Sandwiches, Southern",
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "extraction_method": "api",
+      "location": "Saleh's Corner",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "title": "Impeckable Chicken",
+      "vendor": "Impeckable Chicken",
+      "venue": "Saleh's Corner"
     }
   ],
   "haiku": null,
@@ -593,6 +606,6 @@
   "timezone": "America/Los_Angeles",
   "timezone_label": "PT",
   "timezone_note": "All event times are in Pacific Time (PT).",
-  "total_events": 45,
-  "updated": "2026-08-14T06:10:04.100362+00:00"
+  "total_events": 46,
+  "updated": "2026-08-14T07:10:04.707213+00:00"
 }
