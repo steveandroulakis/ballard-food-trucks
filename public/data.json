@@ -10,8 +10,8 @@
       "location": "Stoup Brewing - Ballard",
       "start_time": "5:00 PM PT",
       "start_time_raw": "5:00 PM",
-      "title": "Max's Burgers & Wings",
-      "vendor": "Max's Burgers & Wings",
+      "title": "Off the Rez",
+      "vendor": "Off the Rez",
       "venue": "Stoup Brewing - Ballard"
     },
     {
@@ -594,5 +594,5 @@
   "timezone_label": "PT",
   "timezone_note": "All event times are in Pacific Time (PT).",
   "total_events": 45,
-  "updated": "2026-08-14T23:10:09.015495+00:00"
+  "updated": "2026-08-15T00:10:01.477175+00:00"
 }
