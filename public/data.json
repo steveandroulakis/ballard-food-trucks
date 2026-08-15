@@ -1,5 +1,7 @@
 {
-  "errors": [],
+  "errors": [
+    "Failed to fetch information for: Obec Brewing"
+  ],
   "events": [
     {
       "date": "2026-08-15T00:00:00",
@@ -195,136 +197,6 @@
       "title": "Georgia\u2019s Greek",
       "vendor": "Georgia\u2019s Greek",
       "venue": "Yonder Cider & Bale Breaker - Ballard"
-    },
-    {
-      "date": "2026-08-15T00:00:00",
-      "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "extraction_method": "html",
-      "location": "Obec Brewing",
-      "start_time": "3:00 AM PT",
-      "start_time_raw": "3:00 AM",
-      "title": "Kaosamai Thai",
-      "vendor": "Kaosamai Thai",
-      "venue": "Obec Brewing"
-    },
-    {
-      "date": "2026-08-15T00:00:00",
-      "description": "https://urbanfamilybrewing.com/events/momo-express-17/",
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "extraction_method": "html",
-      "location": "Urban Family Brewing",
-      "start_time": "1:00 PM PT",
-      "start_time_raw": "1:00 PM",
-      "title": "Momo Express",
-      "vendor": "Momo Express",
-      "venue": "Urban Family Brewing"
-    },
-    {
-      "date": "2026-08-16T00:00:00",
-      "description": "https://urbanfamilybrewing.com/events/9th-and-hennepin-32/",
-      "end_time": "12:00 PM PT",
-      "end_time_raw": "12:00 PM",
-      "extraction_method": "html",
-      "location": "Urban Family Brewing",
-      "start_time": "8:00 AM PT",
-      "start_time_raw": "8:00 AM",
-      "title": "9th and Hennepin",
-      "vendor": "9th and Hennepin",
-      "venue": "Urban Family Brewing"
-    },
-    {
-      "date": "2026-08-16T00:00:00",
-      "description": "https://urbanfamilybrewing.com/events/kaosamai-16/",
-      "end_time": "7:00 PM PT",
-      "end_time_raw": "7:00 PM",
-      "extraction_method": "html",
-      "location": "Urban Family Brewing",
-      "start_time": "1:00 PM PT",
-      "start_time_raw": "1:00 PM",
-      "title": "Kaosamai",
-      "vendor": "Kaosamai",
-      "venue": "Urban Family Brewing"
-    },
-    {
-      "date": "2026-08-17T00:00:00",
-      "description": "https://urbanfamilybrewing.com/events/la-riviera-maya-17/",
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "extraction_method": "html",
-      "location": "Urban Family Brewing",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
-      "title": "La Riviera Maya",
-      "vendor": "La Riviera Maya",
-      "venue": "Urban Family Brewing"
-    },
-    {
-      "date": "2026-08-18T00:00:00",
-      "description": "https://urbanfamilybrewing.com/events/georgias-greek-16/",
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "extraction_method": "html",
-      "location": "Urban Family Brewing",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
-      "title": "Georgia's Greek",
-      "vendor": "Georgia's Greek",
-      "venue": "Urban Family Brewing"
-    },
-    {
-      "date": "2026-08-19T00:00:00",
-      "description": "https://urbanfamilybrewing.com/events/impeccable-chicken-17/",
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "extraction_method": "html",
-      "location": "Urban Family Brewing",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
-      "title": "Impeccable Chicken",
-      "vendor": "Impeccable Chicken",
-      "venue": "Urban Family Brewing"
-    },
-    {
-      "date": "2026-08-20T00:00:00",
-      "description": "https://urbanfamilybrewing.com/events/alebrijes-14/",
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "extraction_method": "html",
-      "location": "Urban Family Brewing",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
-      "title": "Alebrijes",
-      "vendor": "Alebrijes",
-      "venue": "Urban Family Brewing"
-    },
-    {
-      "date": "2026-08-21T00:00:00",
-      "description": "https://urbanfamilybrewing.com/events/tacos-and-beer-15/",
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "extraction_method": "html",
-      "location": "Urban Family Brewing",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
-      "title": "Tacos and Beer",
-      "vendor": "Tacos and Beer",
-      "venue": "Urban Family Brewing"
-    },
-    {
-      "date": "2026-08-22T00:00:00",
-      "description": "https://urbanfamilybrewing.com/events/oskars-pizza-17/",
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "extraction_method": "html",
-      "location": "Urban Family Brewing",
-      "start_time": "1:00 PM PT",
-      "start_time_raw": "1:00 PM",
-      "title": "Oskar's Pizza",
-      "vendor": "Oskar's Pizza",
-      "venue": "Urban Family Brewing"
     },
     {
       "date": "2026-08-18T00:00:00",
@@ -593,6 +465,6 @@
   "timezone": "America/Los_Angeles",
   "timezone_label": "PT",
   "timezone_note": "All event times are in Pacific Time (PT).",
-  "total_events": 45,
-  "updated": "2026-08-15T21:10:29.112417+00:00"
+  "total_events": 35,
+  "updated": "2026-08-15T22:10:33.843569+00:00"
 }
