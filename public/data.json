@@ -1,8 +1,110 @@
 {
-  "errors": [
-    "Failed to fetch information for: Stoup Brewing - Ballard"
-  ],
+  "errors": [],
   "events": [
+    {
+      "date": "2026-08-15T00:00:00",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "extraction_method": "html",
+      "location": "Stoup Brewing - Ballard",
+      "start_time": "1:00 PM PT",
+      "start_time_raw": "1:00 PM",
+      "title": "Georgia's Greek",
+      "vendor": "Georgia's Greek",
+      "venue": "Stoup Brewing - Ballard"
+    },
+    {
+      "date": "2026-08-16T00:00:00",
+      "description": null,
+      "end_time": "7:00 PM PT",
+      "end_time_raw": "7:00 PM",
+      "extraction_method": "html",
+      "location": "Stoup Brewing - Ballard",
+      "start_time": "1:00 PM PT",
+      "start_time_raw": "1:00 PM",
+      "title": "El Pirata Tortas Y Burritos / Now Make Me A Sandwich",
+      "vendor": "El Pirata Tortas Y Burritos / Now Make Me A Sandwich",
+      "venue": "Stoup Brewing - Ballard"
+    },
+    {
+      "date": "2026-08-17T00:00:00",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "extraction_method": "html",
+      "location": "Stoup Brewing - Ballard",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "title": "Where Ya At Matt",
+      "vendor": "Where Ya At Matt",
+      "venue": "Stoup Brewing - Ballard"
+    },
+    {
+      "date": "2026-08-18T00:00:00",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "extraction_method": "html",
+      "location": "Stoup Brewing - Ballard",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "title": "Max's Burgers & Wings",
+      "vendor": "Max's Burgers & Wings",
+      "venue": "Stoup Brewing - Ballard"
+    },
+    {
+      "date": "2026-08-19T00:00:00",
+      "description": null,
+      "end_time": "8:30 PM PT",
+      "end_time_raw": "8:30 PM",
+      "extraction_method": "html",
+      "location": "Stoup Brewing - Ballard",
+      "start_time": "4:30 PM PT",
+      "start_time_raw": "4:30 PM",
+      "title": "El Gran Taco",
+      "vendor": "El Gran Taco",
+      "venue": "Stoup Brewing - Ballard"
+    },
+    {
+      "date": "2026-08-20T00:00:00",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "extraction_method": "html",
+      "location": "Stoup Brewing - Ballard",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "title": "Birrieria Pepe El Toro",
+      "vendor": "Birrieria Pepe El Toro",
+      "venue": "Stoup Brewing - Ballard"
+    },
+    {
+      "date": "2026-08-21T00:00:00",
+      "description": null,
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "extraction_method": "html",
+      "location": "Stoup Brewing - Ballard",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "title": "No Truck Today",
+      "vendor": "No Truck Today",
+      "venue": "Stoup Brewing - Ballard"
+    },
+    {
+      "date": "2026-08-22T00:00:00",
+      "description": null,
+      "end_time": "7:00 PM PT",
+      "end_time_raw": "7:00 PM",
+      "extraction_method": "html",
+      "location": "Stoup Brewing - Ballard",
+      "start_time": "1:00 PM PT",
+      "start_time_raw": "1:00 PM",
+      "title": "Tat's Truck",
+      "vendor": "Tat's Truck",
+      "venue": "Stoup Brewing - Ballard"
+    },
     {
       "date": "2026-08-15T12:00:00.336000",
       "description": null,
@@ -491,6 +593,6 @@
   "timezone": "America/Los_Angeles",
   "timezone_label": "PT",
   "timezone_note": "All event times are in Pacific Time (PT).",
-  "total_events": 37,
-  "updated": "2026-08-15T17:10:20.282086+00:00"
+  "total_events": 45,
+  "updated": "2026-08-15T18:10:22.212867+00:00"
 }
