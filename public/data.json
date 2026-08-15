@@ -1,9 +1,5 @@
 {
-  "errors": [
-    "Failed to fetch information for: Channel Marker Cider",
-    "Failed to fetch information for: Chuck's Hop Shop Greenwood",
-    "Failed to fetch information for: Lucky Envelope Brewing"
-  ],
+  "errors": [],
   "events": [
     {
       "date": "2026-08-15T00:00:00",
@@ -331,6 +327,45 @@
       "venue": "Urban Family Brewing"
     },
     {
+      "date": "2026-08-18T00:00:00",
+      "description": null,
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "extraction_method": "csv",
+      "location": "Channel Marker Cider",
+      "start_time": "6:00 PM PT",
+      "start_time_raw": "6:00 PM",
+      "title": "Finn Anthony'S",
+      "vendor": "Finn Anthony'S",
+      "venue": "Channel Marker Cider"
+    },
+    {
+      "date": "2026-08-20T00:00:00",
+      "description": null,
+      "end_time": null,
+      "end_time_raw": null,
+      "extraction_method": "csv",
+      "location": "Channel Marker Cider",
+      "start_time": null,
+      "start_time_raw": null,
+      "title": "Heart In Seoul",
+      "vendor": "Heart In Seoul",
+      "venue": "Channel Marker Cider"
+    },
+    {
+      "date": "2026-08-21T00:00:00",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "extraction_method": "html",
+      "location": "Lucky Envelope Brewing",
+      "start_time": "4:30 PM PT",
+      "start_time_raw": "4:30 PM",
+      "title": "Kaosamai",
+      "vendor": "Kaosamai",
+      "venue": "Lucky Envelope Brewing"
+    },
+    {
       "date": "2026-08-15T17:00:00",
       "description": "Cuisine: Gluten-Free, Italian, Pizza",
       "end_time": "9:00 PM PT",
@@ -441,6 +476,6 @@
   "timezone": "America/Los_Angeles",
   "timezone_label": "PT",
   "timezone_note": "All event times are in Pacific Time (PT).",
-  "total_events": 33,
-  "updated": "2026-08-15T19:10:27.949987+00:00"
+  "total_events": 36,
+  "updated": "2026-08-15T20:10:01.339729+00:00"
 }
