@@ -1,7 +1,5 @@
 {
   "errors": [
-    "Failed to fetch information for: Channel Marker Cider",
-    "Failed to fetch information for: Chuck's Hop Shop Greenwood",
     "Failed to fetch information for: Saleh's Corner"
   ],
   "events": [
@@ -344,6 +342,162 @@
       "venue": "Urban Family Brewing"
     },
     {
+      "date": "2026-08-18T00:00:00",
+      "description": null,
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "extraction_method": "csv",
+      "location": "Channel Marker Cider",
+      "start_time": "6:00 PM PT",
+      "start_time_raw": "6:00 PM",
+      "title": "Finn Anthony'S",
+      "vendor": "Finn Anthony'S",
+      "venue": "Channel Marker Cider"
+    },
+    {
+      "date": "2026-08-20T00:00:00",
+      "description": null,
+      "end_time": null,
+      "end_time_raw": null,
+      "extraction_method": "csv",
+      "location": "Channel Marker Cider",
+      "start_time": null,
+      "start_time_raw": null,
+      "title": "Heart In Seoul",
+      "vendor": "Heart In Seoul",
+      "venue": "Channel Marker Cider"
+    },
+    {
+      "date": "2026-08-16T00:00:00",
+      "description": "Original event: Brunch: No Brunch",
+      "end_time": null,
+      "end_time_raw": null,
+      "extraction_method": "html",
+      "location": "Chuck's Hop Shop Greenwood",
+      "start_time": null,
+      "start_time_raw": null,
+      "title": "No Brunch",
+      "vendor": "No Brunch",
+      "venue": "Chuck's Hop Shop Greenwood"
+    },
+    {
+      "date": "2026-08-16T00:00:00",
+      "description": "Original event: Dinner: Georgia's Greek",
+      "end_time": null,
+      "end_time_raw": null,
+      "extraction_method": "html",
+      "location": "Chuck's Hop Shop Greenwood",
+      "start_time": null,
+      "start_time_raw": null,
+      "title": "Georgia's Greek",
+      "vendor": "Georgia's Greek",
+      "venue": "Chuck's Hop Shop Greenwood"
+    },
+    {
+      "date": "2026-08-17T00:00:00",
+      "description": "Original event: Dinner: Off the Rez",
+      "end_time": null,
+      "end_time_raw": null,
+      "extraction_method": "html",
+      "location": "Chuck's Hop Shop Greenwood",
+      "start_time": null,
+      "start_time_raw": null,
+      "title": "Off the Rez",
+      "vendor": "Off the Rez",
+      "venue": "Chuck's Hop Shop Greenwood"
+    },
+    {
+      "date": "2026-08-18T00:00:00",
+      "description": "Original event: Dinner: Kaosamai Thai",
+      "end_time": null,
+      "end_time_raw": null,
+      "extraction_method": "html",
+      "location": "Chuck's Hop Shop Greenwood",
+      "start_time": null,
+      "start_time_raw": null,
+      "title": "Kaosamai Thai",
+      "vendor": "Kaosamai Thai",
+      "venue": "Chuck's Hop Shop Greenwood"
+    },
+    {
+      "date": "2026-08-19T00:00:00",
+      "description": "Original event: Dinner: Chick'n Fix",
+      "end_time": null,
+      "end_time_raw": null,
+      "extraction_method": "html",
+      "location": "Chuck's Hop Shop Greenwood",
+      "start_time": null,
+      "start_time_raw": null,
+      "title": "Chick'n Fix",
+      "vendor": "Chick'n Fix",
+      "venue": "Chuck's Hop Shop Greenwood"
+    },
+    {
+      "date": "2026-08-20T00:00:00",
+      "description": "Original event: Dinner: Pizza Paesano",
+      "end_time": null,
+      "end_time_raw": null,
+      "extraction_method": "html",
+      "location": "Chuck's Hop Shop Greenwood",
+      "start_time": null,
+      "start_time_raw": null,
+      "title": "Pizza Paesano",
+      "vendor": "Pizza Paesano",
+      "venue": "Chuck's Hop Shop Greenwood"
+    },
+    {
+      "date": "2026-08-21T00:00:00",
+      "description": "Original event: Dinner: T'Juana",
+      "end_time": null,
+      "end_time_raw": null,
+      "extraction_method": "html",
+      "location": "Chuck's Hop Shop Greenwood",
+      "start_time": null,
+      "start_time_raw": null,
+      "title": "T'Juana",
+      "vendor": "T'Juana",
+      "venue": "Chuck's Hop Shop Greenwood"
+    },
+    {
+      "date": "2026-08-22T00:00:00",
+      "description": "Original event: Dinner: Sabor Boricua",
+      "end_time": null,
+      "end_time_raw": null,
+      "extraction_method": "html",
+      "location": "Chuck's Hop Shop Greenwood",
+      "start_time": null,
+      "start_time_raw": null,
+      "title": "Sabor Boricua",
+      "vendor": "Sabor Boricua",
+      "venue": "Chuck's Hop Shop Greenwood"
+    },
+    {
+      "date": "2026-08-23T00:00:00",
+      "description": "Original event: Brunch: Cocina Barelas",
+      "end_time": null,
+      "end_time_raw": null,
+      "extraction_method": "html",
+      "location": "Chuck's Hop Shop Greenwood",
+      "start_time": null,
+      "start_time_raw": null,
+      "title": "Cocina Barelas",
+      "vendor": "Cocina Barelas",
+      "venue": "Chuck's Hop Shop Greenwood"
+    },
+    {
+      "date": "2026-08-23T00:00:00",
+      "description": "Original event: Momo Express",
+      "end_time": null,
+      "end_time_raw": null,
+      "extraction_method": "html",
+      "location": "Chuck's Hop Shop Greenwood",
+      "start_time": null,
+      "start_time_raw": null,
+      "title": "Momo Express",
+      "vendor": "Momo Express",
+      "venue": "Chuck's Hop Shop Greenwood"
+    },
+    {
       "date": "2026-08-21T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
@@ -363,6 +517,6 @@
   "timezone": "America/Los_Angeles",
   "timezone_label": "PT",
   "timezone_note": "All event times are in Pacific Time (PT).",
-  "total_events": 27,
-  "updated": "2026-08-17T05:10:21.163115+00:00"
+  "total_events": 39,
+  "updated": "2026-08-17T06:10:06.453163+00:00"
 }
