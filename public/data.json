@@ -1,5 +1,7 @@
 {
-  "errors": [],
+  "errors": [
+    "Failed to fetch information for: Channel Marker Cider"
+  ],
   "events": [
     {
       "date": "2026-08-17T00:00:00",
@@ -314,32 +316,6 @@
       "venue": "Urban Family Brewing"
     },
     {
-      "date": "2026-08-18T00:00:00",
-      "description": null,
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
-      "extraction_method": "csv",
-      "location": "Channel Marker Cider",
-      "start_time": "6:00 PM PT",
-      "start_time_raw": "6:00 PM",
-      "title": "Finn Anthony'S",
-      "vendor": "Finn Anthony'S",
-      "venue": "Channel Marker Cider"
-    },
-    {
-      "date": "2026-08-20T00:00:00",
-      "description": null,
-      "end_time": null,
-      "end_time_raw": null,
-      "extraction_method": "csv",
-      "location": "Channel Marker Cider",
-      "start_time": null,
-      "start_time_raw": null,
-      "title": "Heart In Seoul",
-      "vendor": "Heart In Seoul",
-      "venue": "Channel Marker Cider"
-    },
-    {
       "date": "2026-08-17T00:00:00",
       "description": "Original event: Dinner: Off the Rez",
       "end_time": null,
@@ -580,6 +556,6 @@
   "timezone": "America/Los_Angeles",
   "timezone_label": "PT",
   "timezone_note": "All event times are in Pacific Time (PT).",
-  "total_events": 44,
-  "updated": "2026-08-17T14:10:06.631443+00:00"
+  "total_events": 42,
+  "updated": "2026-08-17T15:10:24.152874+00:00"
 }
