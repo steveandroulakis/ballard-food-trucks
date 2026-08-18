@@ -1,8 +1,6 @@
 {
   "errors": [
-    "Failed to fetch information for: Channel Marker Cider",
-    "Failed to fetch information for: Chuck's Hop Shop Greenwood",
-    "Failed to fetch information for: Lucky Envelope Brewing"
+    "Failed to fetch information for: Chuck's Hop Shop Greenwood"
   ],
   "events": [
     {
@@ -318,6 +316,45 @@
       "venue": "Urban Family Brewing"
     },
     {
+      "date": "2026-08-18T00:00:00",
+      "description": null,
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "extraction_method": "csv",
+      "location": "Channel Marker Cider",
+      "start_time": "6:00 PM PT",
+      "start_time_raw": "6:00 PM",
+      "title": "Finn Anthony'S",
+      "vendor": "Finn Anthony'S",
+      "venue": "Channel Marker Cider"
+    },
+    {
+      "date": "2026-08-20T00:00:00",
+      "description": null,
+      "end_time": null,
+      "end_time_raw": null,
+      "extraction_method": "csv",
+      "location": "Channel Marker Cider",
+      "start_time": null,
+      "start_time_raw": null,
+      "title": "Heart In Seoul",
+      "vendor": "Heart In Seoul",
+      "venue": "Channel Marker Cider"
+    },
+    {
+      "date": "2026-08-21T00:00:00",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "extraction_method": "html",
+      "location": "Lucky Envelope Brewing",
+      "start_time": "4:30 PM PT",
+      "start_time_raw": "4:30 PM",
+      "title": "Kaosamai",
+      "vendor": "Kaosamai",
+      "venue": "Lucky Envelope Brewing"
+    },
+    {
       "date": "2026-08-18T17:00:00",
       "description": "Cuisine: Burritos, Mexican, Tacos",
       "end_time": "9:00 PM PT",
@@ -415,6 +452,6 @@
   "timezone": "America/Los_Angeles",
   "timezone_label": "PT",
   "timezone_note": "All event times are in Pacific Time (PT).",
-  "total_events": 31,
-  "updated": "2026-08-18T16:10:22.328812+00:00"
+  "total_events": 34,
+  "updated": "2026-08-18T17:10:14.816194+00:00"
 }
