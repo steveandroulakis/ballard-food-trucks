@@ -1,6 +1,6 @@
 {
   "errors": [
-    "Failed to fetch information for: Saleh's Corner"
+    "Failed to fetch information for: Channel Marker Cider"
   ],
   "events": [
     {
@@ -329,32 +329,6 @@
       "venue": "Urban Family Brewing"
     },
     {
-      "date": "2026-08-20T00:00:00",
-      "description": null,
-      "end_time": null,
-      "end_time_raw": null,
-      "extraction_method": "csv",
-      "location": "Channel Marker Cider",
-      "start_time": null,
-      "start_time_raw": null,
-      "title": "Heart In Seoul",
-      "vendor": "Heart In Seoul",
-      "venue": "Channel Marker Cider"
-    },
-    {
-      "date": "2026-08-26T00:00:00",
-      "description": null,
-      "end_time": null,
-      "end_time_raw": null,
-      "extraction_method": "csv",
-      "location": "Channel Marker Cider",
-      "start_time": null,
-      "start_time_raw": null,
-      "title": "Heart In Seoul",
-      "vendor": "Heart In Seoul",
-      "venue": "Channel Marker Cider"
-    },
-    {
       "date": "2026-08-19T00:00:00",
       "description": "Original event: Dinner: Chick'n Fix",
       "end_time": null,
@@ -483,6 +457,97 @@
       "title": "Kaosamai",
       "vendor": "Kaosamai",
       "venue": "Lucky Envelope Brewing"
+    },
+    {
+      "date": "2026-08-19T17:00:00",
+      "description": "Cuisine: Greek, Gyro, Halal",
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "extraction_method": "api",
+      "location": "Saleh's Corner",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "title": "Theo's Gyros",
+      "vendor": "Theo's Gyros",
+      "venue": "Saleh's Corner"
+    },
+    {
+      "date": "2026-08-20T17:00:00",
+      "description": "Cuisine: Gluten-Free, Italian, Pizza",
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "extraction_method": "api",
+      "location": "Saleh's Corner",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "title": "Oskar's Pizza",
+      "vendor": "Oskar's Pizza",
+      "venue": "Saleh's Corner"
+    },
+    {
+      "date": "2026-08-21T17:00:00",
+      "description": "Cuisine: Chicken, Sandwiches, Southern",
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "extraction_method": "api",
+      "location": "Saleh's Corner",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "title": "Impeckable Chicken",
+      "vendor": "Impeckable Chicken",
+      "venue": "Saleh's Corner"
+    },
+    {
+      "date": "2026-08-23T17:00:00",
+      "description": "Cuisine: Asian, Thai, Vegetarian",
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "extraction_method": "api",
+      "location": "Saleh's Corner",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "title": "Pumpkin Thai",
+      "vendor": "Pumpkin Thai",
+      "venue": "Saleh's Corner"
+    },
+    {
+      "date": "2026-08-24T17:00:00",
+      "description": "Cuisine: Asian, BBQ, Sandwiches",
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "extraction_method": "api",
+      "location": "Saleh's Corner",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "title": "MOMO Express",
+      "vendor": "MOMO Express",
+      "venue": "Saleh's Corner"
+    },
+    {
+      "date": "2026-08-25T17:00:00",
+      "description": "Cuisine: Burritos, Mexican, Tacos",
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "extraction_method": "api",
+      "location": "Saleh's Corner",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "title": "Plaza Garcia Express",
+      "vendor": "Plaza Garcia Express",
+      "venue": "Saleh's Corner"
+    },
+    {
+      "date": "2026-08-26T17:00:00",
+      "description": "Cuisine: Greek, Gyro, Halal",
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "extraction_method": "api",
+      "location": "Saleh's Corner",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "title": "Theo's Gyros",
+      "vendor": "Theo's Gyros",
+      "venue": "Saleh's Corner"
     }
   ],
   "haiku": null,
@@ -491,6 +556,6 @@
   "timezone": "America/Los_Angeles",
   "timezone_label": "PT",
   "timezone_note": "All event times are in Pacific Time (PT).",
-  "total_events": 37,
-  "updated": "2026-08-19T18:10:22.609441+00:00"
+  "total_events": 42,
+  "updated": "2026-08-19T19:10:26.043004+00:00"
 }
