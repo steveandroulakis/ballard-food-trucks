@@ -1,7 +1,5 @@
 {
-  "errors": [
-    "Failed to fetch information for: Channel Marker Cider"
-  ],
+  "errors": [],
   "events": [
     {
       "date": "2026-08-19T00:00:00",
@@ -329,6 +327,32 @@
       "venue": "Urban Family Brewing"
     },
     {
+      "date": "2026-08-20T00:00:00",
+      "description": null,
+      "end_time": null,
+      "end_time_raw": null,
+      "extraction_method": "csv",
+      "location": "Channel Marker Cider",
+      "start_time": null,
+      "start_time_raw": null,
+      "title": "Heart In Seoul",
+      "vendor": "Heart In Seoul",
+      "venue": "Channel Marker Cider"
+    },
+    {
+      "date": "2026-08-26T00:00:00",
+      "description": null,
+      "end_time": null,
+      "end_time_raw": null,
+      "extraction_method": "csv",
+      "location": "Channel Marker Cider",
+      "start_time": null,
+      "start_time_raw": null,
+      "title": "Heart In Seoul",
+      "vendor": "Heart In Seoul",
+      "venue": "Channel Marker Cider"
+    },
+    {
       "date": "2026-08-19T00:00:00",
       "description": "Original event: Dinner: Chick'n Fix",
       "end_time": null,
@@ -408,15 +432,15 @@
     },
     {
       "date": "2026-08-24T00:00:00",
-      "description": "Original event: Dinner: Off the Rez",
+      "description": "Original event: Dinner: TBD",
       "end_time": null,
       "end_time_raw": null,
       "extraction_method": "html",
       "location": "Chuck's Hop Shop Greenwood",
       "start_time": null,
       "start_time_raw": null,
-      "title": "Off the Rez",
-      "vendor": "Off the Rez",
+      "title": "TBD",
+      "vendor": "TBD",
       "venue": "Chuck's Hop Shop Greenwood"
     },
     {
@@ -556,6 +580,6 @@
   "timezone": "America/Los_Angeles",
   "timezone_label": "PT",
   "timezone_note": "All event times are in Pacific Time (PT).",
-  "total_events": 42,
-  "updated": "2026-08-19T19:10:26.043004+00:00"
+  "total_events": 44,
+  "updated": "2026-08-19T20:10:13.875712+00:00"
 }
