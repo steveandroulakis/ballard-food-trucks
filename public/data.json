@@ -1,8 +1,5 @@
 {
-  "errors": [
-    "Failed to fetch information for: Obec Brewing",
-    "Failed to fetch information for: Lucky Envelope Brewing"
-  ],
+  "errors": [],
   "events": [
     {
       "date": "2026-08-19T00:00:00",
@@ -200,6 +197,136 @@
       "venue": "Yonder Cider & Bale Breaker - Ballard"
     },
     {
+      "date": "2026-08-19T00:00:00",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "extraction_method": "html",
+      "location": "Obec Brewing",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "title": "Cocina Barelas (New Mexican Cuisine)",
+      "vendor": "Cocina Barelas (New Mexican Cuisine)",
+      "venue": "Obec Brewing"
+    },
+    {
+      "date": "2026-08-19T00:00:00",
+      "description": "https://urbanfamilybrewing.com/events/impeccable-chicken-17/",
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "extraction_method": "html",
+      "location": "Urban Family Brewing",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "title": "Impeccable Chicken",
+      "vendor": "Impeccable Chicken",
+      "venue": "Urban Family Brewing"
+    },
+    {
+      "date": "2026-08-20T00:00:00",
+      "description": "https://urbanfamilybrewing.com/events/alebrijes-14/",
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "extraction_method": "html",
+      "location": "Urban Family Brewing",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "title": "Alebrijes",
+      "vendor": "Alebrijes",
+      "venue": "Urban Family Brewing"
+    },
+    {
+      "date": "2026-08-21T00:00:00",
+      "description": "https://urbanfamilybrewing.com/events/tacos-and-beer-15/",
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "extraction_method": "html",
+      "location": "Urban Family Brewing",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "title": "Tacos and Beer",
+      "vendor": "Tacos and Beer",
+      "venue": "Urban Family Brewing"
+    },
+    {
+      "date": "2026-08-22T00:00:00",
+      "description": "https://urbanfamilybrewing.com/events/oskars-pizza-17/",
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "extraction_method": "html",
+      "location": "Urban Family Brewing",
+      "start_time": "1:00 PM PT",
+      "start_time_raw": "1:00 PM",
+      "title": "Oskar's Pizza",
+      "vendor": "Oskar's Pizza",
+      "venue": "Urban Family Brewing"
+    },
+    {
+      "date": "2026-08-23T00:00:00",
+      "description": "https://urbanfamilybrewing.com/events/9th-and-hennepin-33/",
+      "end_time": "12:00 PM PT",
+      "end_time_raw": "12:00 PM",
+      "extraction_method": "html",
+      "location": "Urban Family Brewing",
+      "start_time": "8:00 AM PT",
+      "start_time_raw": "8:00 AM",
+      "title": "9th and Hennepin",
+      "vendor": "9th and Hennepin",
+      "venue": "Urban Family Brewing"
+    },
+    {
+      "date": "2026-08-23T00:00:00",
+      "description": "https://urbanfamilybrewing.com/events/now-make-me-a-sandwich-16/",
+      "end_time": "7:00 PM PT",
+      "end_time_raw": "7:00 PM",
+      "extraction_method": "html",
+      "location": "Urban Family Brewing",
+      "start_time": "1:00 PM PT",
+      "start_time_raw": "1:00 PM",
+      "title": "Now Make Me A Sandwich",
+      "vendor": "Now Make Me A Sandwich",
+      "venue": "Urban Family Brewing"
+    },
+    {
+      "date": "2026-08-24T00:00:00",
+      "description": "https://urbanfamilybrewing.com/events/empanadas-el-pachi-17/",
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "extraction_method": "html",
+      "location": "Urban Family Brewing",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "title": "Empanadas El Pachi",
+      "vendor": "Empanadas El Pachi",
+      "venue": "Urban Family Brewing"
+    },
+    {
+      "date": "2026-08-25T00:00:00",
+      "description": "https://urbanfamilybrewing.com/events/burgerdom-16/",
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "extraction_method": "html",
+      "location": "Urban Family Brewing",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "title": "BurgerDOM",
+      "vendor": "BurgerDOM",
+      "venue": "Urban Family Brewing"
+    },
+    {
+      "date": "2026-08-26T00:00:00",
+      "description": "https://urbanfamilybrewing.com/events/katmandu-momocha-17/",
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "extraction_method": "html",
+      "location": "Urban Family Brewing",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "title": "Katmandu Momocha",
+      "vendor": "Katmandu Momocha",
+      "venue": "Urban Family Brewing"
+    },
+    {
       "date": "2026-08-20T00:00:00",
       "description": null,
       "end_time": null,
@@ -343,6 +470,19 @@
       "venue": "Chuck's Hop Shop Greenwood"
     },
     {
+      "date": "2026-08-21T00:00:00",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "extraction_method": "html",
+      "location": "Lucky Envelope Brewing",
+      "start_time": "4:30 PM PT",
+      "start_time_raw": "4:30 PM",
+      "title": "Kaosamai",
+      "vendor": "Kaosamai",
+      "venue": "Lucky Envelope Brewing"
+    },
+    {
       "date": "2026-08-19T17:00:00",
       "description": "Cuisine: Greek, Gyro, Halal",
       "end_time": "9:00 PM PT",
@@ -440,6 +580,6 @@
   "timezone": "America/Los_Angeles",
   "timezone_label": "PT",
   "timezone_note": "All event times are in Pacific Time (PT).",
-  "total_events": 33,
-  "updated": "2026-08-20T01:10:41.018244+00:00"
+  "total_events": 44,
+  "updated": "2026-08-20T02:10:18.250301+00:00"
 }
