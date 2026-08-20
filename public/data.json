@@ -1,7 +1,8 @@
 {
   "errors": [
     "Failed to fetch information for: Channel Marker Cider",
-    "Failed to fetch information for: Chuck's Hop Shop Greenwood"
+    "Failed to fetch information for: Chuck's Hop Shop Greenwood",
+    "Failed to fetch information for: Lucky Envelope Brewing"
   ],
   "events": [
     {
@@ -109,16 +110,94 @@
       "venue": "Stoup Brewing - Ballard"
     },
     {
-      "date": "2026-08-20T21:10:20.271695",
-      "description": "Food truck schedule not available - check Instagram or website directly",
-      "end_time": null,
-      "end_time_raw": null,
+      "date": "2026-08-20T17:00:00.091000",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
       "extraction_method": "html",
       "location": "Yonder Cider & Bale Breaker - Ballard",
-      "start_time": null,
-      "start_time_raw": null,
-      "title": "Check Instagram @BaleBreaker",
-      "vendor": "Check Instagram @BaleBreaker",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "title": "Impeckable Chicken",
+      "vendor": "Impeckable Chicken",
+      "venue": "Yonder Cider & Bale Breaker - Ballard"
+    },
+    {
+      "date": "2026-08-21T16:00:00.675000",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "extraction_method": "html",
+      "location": "Yonder Cider & Bale Breaker - Ballard",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "title": "Paparepas",
+      "vendor": "Paparepas",
+      "venue": "Yonder Cider & Bale Breaker - Ballard"
+    },
+    {
+      "date": "2026-08-22T13:00:00.425000",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "extraction_method": "html",
+      "location": "Yonder Cider & Bale Breaker - Ballard",
+      "start_time": "1:00 PM PT",
+      "start_time_raw": "1:00 PM",
+      "title": "Georgia\u2019s Greek",
+      "vendor": "Georgia\u2019s Greek",
+      "venue": "Yonder Cider & Bale Breaker - Ballard"
+    },
+    {
+      "date": "2026-08-23T13:00:00.336000",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "extraction_method": "html",
+      "location": "Yonder Cider & Bale Breaker - Ballard",
+      "start_time": "1:00 PM PT",
+      "start_time_raw": "1:00 PM",
+      "title": "Tacos &amp; Beer",
+      "vendor": "Tacos &amp; Beer",
+      "venue": "Yonder Cider & Bale Breaker - Ballard"
+    },
+    {
+      "date": "2026-08-25T20:00:00.307000",
+      "description": null,
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "extraction_method": "html",
+      "location": "Yonder Cider & Bale Breaker - Ballard",
+      "start_time": "8:00 PM PT",
+      "start_time_raw": "8:00 PM",
+      "title": "Tummy Yummy Thai",
+      "vendor": "Tummy Yummy Thai",
+      "venue": "Yonder Cider & Bale Breaker - Ballard"
+    },
+    {
+      "date": "2026-08-26T16:00:00.425000",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "extraction_method": "html",
+      "location": "Yonder Cider & Bale Breaker - Ballard",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "title": "Georgia\u2019s Greek",
+      "vendor": "Georgia\u2019s Greek",
+      "venue": "Yonder Cider & Bale Breaker - Ballard"
+    },
+    {
+      "date": "2026-08-27T17:00:00.091000",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "extraction_method": "html",
+      "location": "Yonder Cider & Bale Breaker - Ballard",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "title": "Impeckable Chicken",
+      "vendor": "Impeckable Chicken",
       "venue": "Yonder Cider & Bale Breaker - Ballard"
     },
     {
@@ -239,19 +318,6 @@
       "venue": "Urban Family Brewing"
     },
     {
-      "date": "2026-08-21T00:00:00",
-      "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "extraction_method": "html",
-      "location": "Lucky Envelope Brewing",
-      "start_time": "4:30 PM PT",
-      "start_time_raw": "4:30 PM",
-      "title": "Kaosamai",
-      "vendor": "Kaosamai",
-      "venue": "Lucky Envelope Brewing"
-    },
-    {
       "date": "2026-08-20T17:00:00",
       "description": "Cuisine: Gluten-Free, Italian, Pizza",
       "end_time": "9:00 PM PT",
@@ -362,6 +428,6 @@
   "timezone": "America/Los_Angeles",
   "timezone_label": "PT",
   "timezone_note": "All event times are in Pacific Time (PT).",
-  "total_events": 27,
-  "updated": "2026-08-20T21:10:20.337323+00:00"
+  "total_events": 32,
+  "updated": "2026-08-20T22:10:21.680829+00:00"
 }
