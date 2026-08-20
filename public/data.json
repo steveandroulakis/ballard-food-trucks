@@ -1,8 +1,5 @@
 {
-  "errors": [
-    "Failed to fetch information for: Channel Marker Cider",
-    "Failed to fetch information for: Lucky Envelope Brewing"
-  ],
+  "errors": [],
   "events": [
     {
       "date": "2026-08-20T00:00:00",
@@ -331,6 +328,32 @@
     },
     {
       "date": "2026-08-20T00:00:00",
+      "description": null,
+      "end_time": null,
+      "end_time_raw": null,
+      "extraction_method": "csv",
+      "location": "Channel Marker Cider",
+      "start_time": null,
+      "start_time_raw": null,
+      "title": "Heart In Seoul",
+      "vendor": "Heart In Seoul",
+      "venue": "Channel Marker Cider"
+    },
+    {
+      "date": "2026-08-26T00:00:00",
+      "description": null,
+      "end_time": null,
+      "end_time_raw": null,
+      "extraction_method": "csv",
+      "location": "Channel Marker Cider",
+      "start_time": null,
+      "start_time_raw": null,
+      "title": "Heart In Seoul",
+      "vendor": "Heart In Seoul",
+      "venue": "Channel Marker Cider"
+    },
+    {
+      "date": "2026-08-20T00:00:00",
       "description": "Original event: Dinner: Pizza Paesano",
       "end_time": null,
       "end_time_raw": null,
@@ -447,6 +470,19 @@
       "venue": "Chuck's Hop Shop Greenwood"
     },
     {
+      "date": "2026-08-21T00:00:00",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "extraction_method": "html",
+      "location": "Lucky Envelope Brewing",
+      "start_time": "4:30 PM PT",
+      "start_time_raw": "4:30 PM",
+      "title": "Kaosamai",
+      "vendor": "Kaosamai",
+      "venue": "Lucky Envelope Brewing"
+    },
+    {
       "date": "2026-08-20T17:00:00",
       "description": "Cuisine: Gluten-Free, Italian, Pizza",
       "end_time": "9:00 PM PT",
@@ -544,6 +580,6 @@
   "timezone": "America/Los_Angeles",
   "timezone_label": "PT",
   "timezone_note": "All event times are in Pacific Time (PT).",
-  "total_events": 41,
-  "updated": "2026-08-20T15:10:27.164385+00:00"
+  "total_events": 44,
+  "updated": "2026-08-20T16:10:02.635665+00:00"
 }
