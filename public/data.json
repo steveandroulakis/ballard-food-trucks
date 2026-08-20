@@ -1,5 +1,7 @@
 {
-  "errors": [],
+  "errors": [
+    "Failed to fetch information for: Chuck's Hop Shop Greenwood"
+  ],
   "events": [
     {
       "date": "2026-08-19T00:00:00",
@@ -353,123 +355,6 @@
       "venue": "Channel Marker Cider"
     },
     {
-      "date": "2026-08-19T00:00:00",
-      "description": "Original event: Dinner: Chick'n Fix",
-      "end_time": null,
-      "end_time_raw": null,
-      "extraction_method": "html",
-      "location": "Chuck's Hop Shop Greenwood",
-      "start_time": null,
-      "start_time_raw": null,
-      "title": "Chick'n Fix",
-      "vendor": "Chick'n Fix",
-      "venue": "Chuck's Hop Shop Greenwood"
-    },
-    {
-      "date": "2026-08-20T00:00:00",
-      "description": "Original event: Dinner: Pizza Paesano",
-      "end_time": null,
-      "end_time_raw": null,
-      "extraction_method": "html",
-      "location": "Chuck's Hop Shop Greenwood",
-      "start_time": null,
-      "start_time_raw": null,
-      "title": "Pizza Paesano",
-      "vendor": "Pizza Paesano",
-      "venue": "Chuck's Hop Shop Greenwood"
-    },
-    {
-      "date": "2026-08-21T00:00:00",
-      "description": "Original event: Dinner: T'Juana",
-      "end_time": null,
-      "end_time_raw": null,
-      "extraction_method": "html",
-      "location": "Chuck's Hop Shop Greenwood",
-      "start_time": null,
-      "start_time_raw": null,
-      "title": "T'Juana",
-      "vendor": "T'Juana",
-      "venue": "Chuck's Hop Shop Greenwood"
-    },
-    {
-      "date": "2026-08-22T00:00:00",
-      "description": "Original event: Dinner: Tacos & Beer",
-      "end_time": null,
-      "end_time_raw": null,
-      "extraction_method": "html",
-      "location": "Chuck's Hop Shop Greenwood",
-      "start_time": null,
-      "start_time_raw": null,
-      "title": "Tacos & Beer",
-      "vendor": "Tacos & Beer",
-      "venue": "Chuck's Hop Shop Greenwood"
-    },
-    {
-      "date": "2026-08-23T00:00:00",
-      "description": "Original event: Brunch: Cocina Barelas",
-      "end_time": null,
-      "end_time_raw": null,
-      "extraction_method": "html",
-      "location": "Chuck's Hop Shop Greenwood",
-      "start_time": null,
-      "start_time_raw": null,
-      "title": "Cocina Barelas",
-      "vendor": "Cocina Barelas",
-      "venue": "Chuck's Hop Shop Greenwood"
-    },
-    {
-      "date": "2026-08-23T00:00:00",
-      "description": "Original event: Momo Express",
-      "end_time": null,
-      "end_time_raw": null,
-      "extraction_method": "html",
-      "location": "Chuck's Hop Shop Greenwood",
-      "start_time": null,
-      "start_time_raw": null,
-      "title": "Momo Express",
-      "vendor": "Momo Express",
-      "venue": "Chuck's Hop Shop Greenwood"
-    },
-    {
-      "date": "2026-08-24T00:00:00",
-      "description": "Original event: Dinner: Birrieria Pepe El Toro",
-      "end_time": null,
-      "end_time_raw": null,
-      "extraction_method": "html",
-      "location": "Chuck's Hop Shop Greenwood",
-      "start_time": null,
-      "start_time_raw": null,
-      "title": "Birrieria Pepe El Toro",
-      "vendor": "Birrieria Pepe El Toro",
-      "venue": "Chuck's Hop Shop Greenwood"
-    },
-    {
-      "date": "2026-08-25T00:00:00",
-      "description": "Original event: Dinner: Kaosamai Thai",
-      "end_time": null,
-      "end_time_raw": null,
-      "extraction_method": "html",
-      "location": "Chuck's Hop Shop Greenwood",
-      "start_time": null,
-      "start_time_raw": null,
-      "title": "Kaosamai Thai",
-      "vendor": "Kaosamai Thai",
-      "venue": "Chuck's Hop Shop Greenwood"
-    },
-    {
-      "date": "2026-08-26T00:00:00",
-      "description": "Original event: Dinner: Chick'n Fix",
-      "end_time": null,
-      "end_time_raw": null,
-      "extraction_method": "html",
-      "location": "Chuck's Hop Shop Greenwood",
-      "start_time": null,
-      "start_time_raw": null,
-      "title": "Chick'n Fix",
-      "vendor": "Chick'n Fix",
-      "venue": "Chuck's Hop Shop Greenwood"
-    },
-    {
       "date": "2026-08-21T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
@@ -580,6 +465,6 @@
   "timezone": "America/Los_Angeles",
   "timezone_label": "PT",
   "timezone_note": "All event times are in Pacific Time (PT).",
-  "total_events": 44,
-  "updated": "2026-08-20T02:10:18.250301+00:00"
+  "total_events": 35,
+  "updated": "2026-08-20T04:10:21.541924+00:00"
 }
