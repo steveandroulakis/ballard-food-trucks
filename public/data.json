@@ -2,19 +2,6 @@
   "errors": [],
   "events": [
     {
-      "date": "2026-08-20T00:00:00",
-      "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "extraction_method": "html",
-      "location": "Stoup Brewing - Ballard",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
-      "title": "Birrieria Pepe El Toro",
-      "vendor": "Birrieria Pepe El Toro",
-      "venue": "Stoup Brewing - Ballard"
-    },
-    {
       "date": "2026-08-21T00:00:00",
       "description": null,
       "end_time": "9:00 PM PT",
@@ -106,17 +93,17 @@
       "venue": "Stoup Brewing - Ballard"
     },
     {
-      "date": "2026-08-20T17:00:00.091000",
+      "date": "2026-08-28T00:00:00",
       "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
       "extraction_method": "html",
-      "location": "Yonder Cider & Bale Breaker - Ballard",
+      "location": "Stoup Brewing - Ballard",
       "start_time": "5:00 PM PT",
       "start_time_raw": "5:00 PM",
-      "title": "Impeckable Chicken",
-      "vendor": "Impeckable Chicken",
-      "venue": "Yonder Cider & Bale Breaker - Ballard"
+      "title": "Off the Rez",
+      "vendor": "Off the Rez",
+      "venue": "Stoup Brewing - Ballard"
     },
     {
       "date": "2026-08-21T16:00:00.675000",
@@ -197,17 +184,30 @@
       "venue": "Yonder Cider & Bale Breaker - Ballard"
     },
     {
-      "date": "2026-08-20T00:00:00",
-      "description": "https://urbanfamilybrewing.com/events/alebrijes-14/",
+      "date": "2026-08-28T16:00:00.975000",
+      "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
       "extraction_method": "html",
-      "location": "Urban Family Brewing",
+      "location": "Yonder Cider & Bale Breaker - Ballard",
       "start_time": "4:00 PM PT",
       "start_time_raw": "4:00 PM",
-      "title": "Alebrijes",
-      "vendor": "Alebrijes",
-      "venue": "Urban Family Brewing"
+      "title": "Wood Shop BBQ",
+      "vendor": "Wood Shop BBQ",
+      "venue": "Yonder Cider & Bale Breaker - Ballard"
+    },
+    {
+      "date": "2026-08-21T00:00:00",
+      "description": null,
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "extraction_method": "html",
+      "location": "Obec Brewing",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "title": "Cocina Barelas (New Mexican Cuisine)",
+      "vendor": "Cocina Barelas (New Mexican Cuisine)",
+      "venue": "Obec Brewing"
     },
     {
       "date": "2026-08-21T00:00:00",
@@ -314,17 +314,17 @@
       "venue": "Urban Family Brewing"
     },
     {
-      "date": "2026-08-20T00:00:00",
-      "description": null,
-      "end_time": null,
-      "end_time_raw": null,
-      "extraction_method": "csv",
-      "location": "Channel Marker Cider",
-      "start_time": null,
-      "start_time_raw": null,
-      "title": "Heart In Seoul",
-      "vendor": "Heart In Seoul",
-      "venue": "Channel Marker Cider"
+      "date": "2026-08-28T00:00:00",
+      "description": "https://urbanfamilybrewing.com/events/birrieria-pepe-el-toro-16/",
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "extraction_method": "html",
+      "location": "Urban Family Brewing",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "title": "Birrieria Pepe El Toro",
+      "vendor": "Birrieria Pepe El Toro",
+      "venue": "Urban Family Brewing"
     },
     {
       "date": "2026-08-26T00:00:00",
@@ -338,19 +338,6 @@
       "title": "Heart In Seoul",
       "vendor": "Heart In Seoul",
       "venue": "Channel Marker Cider"
-    },
-    {
-      "date": "2026-08-20T00:00:00",
-      "description": "Original event: Dinner: Pizza Paesano",
-      "end_time": null,
-      "end_time_raw": null,
-      "extraction_method": "html",
-      "location": "Chuck's Hop Shop Greenwood",
-      "start_time": null,
-      "start_time_raw": null,
-      "title": "Pizza Paesano",
-      "vendor": "Pizza Paesano",
-      "venue": "Chuck's Hop Shop Greenwood"
     },
     {
       "date": "2026-08-21T00:00:00",
@@ -457,6 +444,19 @@
       "venue": "Chuck's Hop Shop Greenwood"
     },
     {
+      "date": "2026-08-28T00:00:00",
+      "description": "Original event: Dinner: T'Juana",
+      "end_time": null,
+      "end_time_raw": null,
+      "extraction_method": "html",
+      "location": "Chuck's Hop Shop Greenwood",
+      "start_time": null,
+      "start_time_raw": null,
+      "title": "T'Juana",
+      "vendor": "T'Juana",
+      "venue": "Chuck's Hop Shop Greenwood"
+    },
+    {
       "date": "2026-08-21T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
@@ -468,19 +468,6 @@
       "title": "Kaosamai",
       "vendor": "Kaosamai",
       "venue": "Lucky Envelope Brewing"
-    },
-    {
-      "date": "2026-08-20T17:00:00",
-      "description": "Cuisine: Gluten-Free, Italian, Pizza",
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
-      "extraction_method": "api",
-      "location": "Saleh's Corner",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
-      "title": "Oskar's Pizza",
-      "vendor": "Oskar's Pizza",
-      "venue": "Saleh's Corner"
     },
     {
       "date": "2026-08-21T17:00:00",
@@ -572,6 +559,19 @@
       "title": "Fish Basket NW",
       "vendor": "Fish Basket NW",
       "venue": "Saleh's Corner"
+    },
+    {
+      "date": "2026-08-28T17:00:00",
+      "description": "Cuisine: Chicken, Sandwiches, Southern",
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "extraction_method": "api",
+      "location": "Saleh's Corner",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "title": "Impeckable Chicken",
+      "vendor": "Impeckable Chicken",
+      "venue": "Saleh's Corner"
     }
   ],
   "haiku": null,
@@ -581,5 +581,5 @@
   "timezone_label": "PT",
   "timezone_note": "All event times are in Pacific Time (PT).",
   "total_events": 44,
-  "updated": "2026-08-21T06:10:02.466299+00:00"
+  "updated": "2026-08-21T07:10:01.749094+00:00"
 }
