@@ -354,15 +354,15 @@
     },
     {
       "date": "2026-08-23T00:00:00",
-      "description": "Original event: Brunch: Cocina Barelas",
+      "description": "Original event: NO FOOD TRUCK :(",
       "end_time": null,
       "end_time_raw": null,
       "extraction_method": "html",
       "location": "Chuck's Hop Shop Greenwood",
       "start_time": null,
       "start_time_raw": null,
-      "title": "Cocina Barelas",
-      "vendor": "Cocina Barelas",
+      "title": "NO FOOD TRUCK :(",
+      "vendor": "NO FOOD TRUCK :(",
       "venue": "Chuck's Hop Shop Greenwood"
     },
     {
@@ -607,5 +607,5 @@
   "timezone_label": "PT",
   "timezone_note": "All event times are in Pacific Time (PT).",
   "total_events": 46,
-  "updated": "2026-08-23T17:10:01.526047+00:00"
+  "updated": "2026-08-23T18:10:05.859749+00:00"
 }
