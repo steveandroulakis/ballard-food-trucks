@@ -1,5 +1,7 @@
 {
-  "errors": [],
+  "errors": [
+    "Failed to fetch information for: Saleh's Corner"
+  ],
   "events": [
     {
       "date": "2026-08-23T00:00:00",
@@ -494,110 +496,6 @@
       "title": "Tisket Tasket",
       "vendor": "Tisket Tasket",
       "venue": "Lucky Envelope Brewing"
-    },
-    {
-      "date": "2026-08-23T17:00:00",
-      "description": "Cuisine: Asian, Thai, Vegetarian",
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
-      "extraction_method": "api",
-      "location": "Saleh's Corner",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
-      "title": "Pumpkin Thai",
-      "vendor": "Pumpkin Thai",
-      "venue": "Saleh's Corner"
-    },
-    {
-      "date": "2026-08-24T17:00:00",
-      "description": "Cuisine: Asian, BBQ, Sandwiches",
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
-      "extraction_method": "api",
-      "location": "Saleh's Corner",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
-      "title": "MOMO Express",
-      "vendor": "MOMO Express",
-      "venue": "Saleh's Corner"
-    },
-    {
-      "date": "2026-08-25T17:00:00",
-      "description": "Cuisine: Burritos, Mexican, Tacos",
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
-      "extraction_method": "api",
-      "location": "Saleh's Corner",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
-      "title": "Plaza Garcia Express",
-      "vendor": "Plaza Garcia Express",
-      "venue": "Saleh's Corner"
-    },
-    {
-      "date": "2026-08-26T17:00:00",
-      "description": "Cuisine: Greek, Gyro, Halal",
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
-      "extraction_method": "api",
-      "location": "Saleh's Corner",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
-      "title": "Theo's Gyros",
-      "vendor": "Theo's Gyros",
-      "venue": "Saleh's Corner"
-    },
-    {
-      "date": "2026-08-27T17:00:00",
-      "description": "Cuisine: Seafood",
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
-      "extraction_method": "api",
-      "location": "Saleh's Corner",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
-      "title": "Fish Basket NW",
-      "vendor": "Fish Basket NW",
-      "venue": "Saleh's Corner"
-    },
-    {
-      "date": "2026-08-28T17:00:00",
-      "description": "Cuisine: Chicken, Sandwiches, Southern",
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
-      "extraction_method": "api",
-      "location": "Saleh's Corner",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
-      "title": "Impeckable Chicken",
-      "vendor": "Impeckable Chicken",
-      "venue": "Saleh's Corner"
-    },
-    {
-      "date": "2026-08-29T17:00:00",
-      "description": "Cuisine: Gluten-Free, Italian, Pizza",
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
-      "extraction_method": "api",
-      "location": "Saleh's Corner",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
-      "title": "Oskar's Pizza",
-      "vendor": "Oskar's Pizza",
-      "venue": "Saleh's Corner"
-    },
-    {
-      "date": "2026-08-30T17:00:00",
-      "description": "Cuisine: Pasta, Seafood, Tacos",
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
-      "extraction_method": "api",
-      "location": "Saleh's Corner",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
-      "title": "Joe Barry's Good Eats",
-      "vendor": "Joe Barry's Good Eats",
-      "venue": "Saleh's Corner"
     }
   ],
   "haiku": null,
@@ -606,6 +504,6 @@
   "timezone": "America/Los_Angeles",
   "timezone_label": "PT",
   "timezone_note": "All event times are in Pacific Time (PT).",
-  "total_events": 46,
-  "updated": "2026-08-24T03:10:12.459065+00:00"
+  "total_events": 38,
+  "updated": "2026-08-24T04:10:05.739012+00:00"
 }
