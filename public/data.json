@@ -382,15 +382,15 @@
     },
     {
       "date": "2026-08-24T00:00:00",
-      "description": "Original event: Dinner: Birrieria Pepe El Toro",
+      "description": "Original event: Dinner: Kathmandu MomoCha (COVER)",
       "end_time": null,
       "end_time_raw": null,
       "extraction_method": "html",
       "location": "Chuck's Hop Shop Greenwood",
       "start_time": null,
       "start_time_raw": null,
-      "title": "Birrieria Pepe El Toro",
-      "vendor": "Birrieria Pepe El Toro",
+      "title": "Kathmandu MomoCha (COVER)",
+      "vendor": "Kathmandu MomoCha (COVER)",
       "venue": "Chuck's Hop Shop Greenwood"
     },
     {
@@ -505,5 +505,5 @@
   "timezone_label": "PT",
   "timezone_note": "All event times are in Pacific Time (PT).",
   "total_events": 38,
-  "updated": "2026-08-24T04:10:05.739012+00:00"
+  "updated": "2026-08-24T05:10:03.364152+00:00"
 }
