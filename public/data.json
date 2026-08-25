@@ -2,19 +2,6 @@
   "errors": [],
   "events": [
     {
-      "date": "2026-08-24T00:00:00",
-      "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "extraction_method": "html",
-      "location": "Stoup Brewing - Ballard",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
-      "title": "Russo Pizzarium",
-      "vendor": "Russo Pizzarium",
-      "venue": "Stoup Brewing - Ballard"
-    },
-    {
       "date": "2026-08-25T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
@@ -106,6 +93,19 @@
       "venue": "Stoup Brewing - Ballard"
     },
     {
+      "date": "2026-09-01T00:00:00",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "extraction_method": "html",
+      "location": "Stoup Brewing - Ballard",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "title": "Max's Burgers & Wings",
+      "vendor": "Max's Burgers & Wings",
+      "venue": "Stoup Brewing - Ballard"
+    },
+    {
       "date": "2026-08-25T20:00:00.307000",
       "description": null,
       "end_time": "9:00 PM PT",
@@ -184,7 +184,7 @@
       "venue": "Yonder Cider & Bale Breaker - Ballard"
     },
     {
-      "date": "2026-08-24T00:00:00",
+      "date": "2026-08-25T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -192,22 +192,9 @@
       "location": "Obec Brewing",
       "start_time": "4:00 PM PT",
       "start_time_raw": "4:00 PM",
-      "title": "Plaza Garcia",
-      "vendor": "Plaza Garcia",
+      "title": "Burger Planet",
+      "vendor": "Burger Planet",
       "venue": "Obec Brewing"
-    },
-    {
-      "date": "2026-08-24T00:00:00",
-      "description": "https://urbanfamilybrewing.com/events/empanadas-el-pachi-17/",
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "extraction_method": "html",
-      "location": "Urban Family Brewing",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
-      "title": "Empanadas El Pachi",
-      "vendor": "Empanadas El Pachi",
-      "venue": "Urban Family Brewing"
     },
     {
       "date": "2026-08-25T00:00:00",
@@ -314,6 +301,19 @@
       "venue": "Urban Family Brewing"
     },
     {
+      "date": "2026-09-01T00:00:00",
+      "description": "https://urbanfamilybrewing.com/events/georgias-greek-17/",
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "extraction_method": "html",
+      "location": "Urban Family Brewing",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "title": "Georgia's Greek",
+      "vendor": "Georgia's Greek",
+      "venue": "Urban Family Brewing"
+    },
+    {
       "date": "2026-08-26T00:00:00",
       "description": null,
       "end_time": null,
@@ -327,17 +327,17 @@
       "venue": "Channel Marker Cider"
     },
     {
-      "date": "2026-08-24T00:00:00",
-      "description": "Original event: Dinner: Kathmandu MomoCha (COVER)",
+      "date": "2026-09-01T00:00:00",
+      "description": null,
       "end_time": null,
       "end_time_raw": null,
-      "extraction_method": "html",
-      "location": "Chuck's Hop Shop Greenwood",
+      "extraction_method": "csv",
+      "location": "Channel Marker Cider",
       "start_time": null,
       "start_time_raw": null,
-      "title": "Kathmandu MomoCha (COVER)",
-      "vendor": "Kathmandu MomoCha (COVER)",
-      "venue": "Chuck's Hop Shop Greenwood"
+      "title": "Cocina Barelas",
+      "vendor": "Cocina Barelas",
+      "venue": "Channel Marker Cider"
     },
     {
       "date": "2026-08-25T00:00:00",
@@ -444,6 +444,19 @@
       "venue": "Chuck's Hop Shop Greenwood"
     },
     {
+      "date": "2026-09-01T00:00:00",
+      "description": "Original event: Dinner: Woodshop BBQ",
+      "end_time": null,
+      "end_time_raw": null,
+      "extraction_method": "html",
+      "location": "Chuck's Hop Shop Greenwood",
+      "start_time": null,
+      "start_time_raw": null,
+      "title": "Woodshop BBQ",
+      "vendor": "Woodshop BBQ",
+      "venue": "Chuck's Hop Shop Greenwood"
+    },
+    {
       "date": "2026-08-29T00:00:00",
       "description": null,
       "end_time": "7:30 PM PT",
@@ -455,19 +468,6 @@
       "title": "Tisket Tasket",
       "vendor": "Tisket Tasket",
       "venue": "Lucky Envelope Brewing"
-    },
-    {
-      "date": "2026-08-24T17:00:00",
-      "description": "Cuisine: Asian, BBQ, Sandwiches",
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
-      "extraction_method": "api",
-      "location": "Saleh's Corner",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
-      "title": "MOMO Express",
-      "vendor": "MOMO Express",
-      "venue": "Saleh's Corner"
     },
     {
       "date": "2026-08-25T17:00:00",
@@ -559,6 +559,19 @@
       "title": "MOMO Express",
       "vendor": "MOMO Express",
       "venue": "Saleh's Corner"
+    },
+    {
+      "date": "2026-09-01T17:00:00",
+      "description": "Cuisine: Burritos, Mexican, Tacos",
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "extraction_method": "api",
+      "location": "Saleh's Corner",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "title": "Plaza Garcia Express",
+      "vendor": "Plaza Garcia Express",
+      "venue": "Saleh's Corner"
     }
   ],
   "haiku": null,
@@ -567,6 +580,6 @@
   "timezone": "America/Los_Angeles",
   "timezone_label": "PT",
   "timezone_note": "All event times are in Pacific Time (PT).",
-  "total_events": 43,
-  "updated": "2026-08-25T06:10:02.328865+00:00"
+  "total_events": 44,
+  "updated": "2026-08-25T07:10:09.463002+00:00"
 }
