@@ -179,8 +179,8 @@
       "location": "Obec Brewing",
       "start_time": "4:00 PM PT",
       "start_time_raw": "4:00 PM",
-      "title": "Burger Planet",
-      "vendor": "Burger Planet",
+      "title": "Empanadas el Pachi",
+      "vendor": "Empanadas el Pachi",
       "venue": "Obec Brewing"
     },
     {
@@ -581,5 +581,5 @@
   "timezone_label": "PT",
   "timezone_note": "All event times are in Pacific Time (PT).",
   "total_events": 44,
-  "updated": "2026-08-26T08:10:02.939843+00:00"
+  "updated": "2026-08-26T09:10:18.294746+00:00"
 }
