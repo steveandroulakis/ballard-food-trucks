@@ -205,8 +205,8 @@
       "location": "Obec Brewing",
       "start_time": "4:00 PM PT",
       "start_time_raw": "4:00 PM",
-      "title": "Empanadas el Pachi",
-      "vendor": "Empanadas el Pachi",
+      "title": "MoMoCha Kathmandu",
+      "vendor": "MoMoCha Kathmandu",
       "venue": "Obec Brewing"
     },
     {
@@ -594,5 +594,5 @@
   "timezone_label": "PT",
   "timezone_note": "All event times are in Pacific Time (PT).",
   "total_events": 45,
-  "updated": "2026-08-27T08:10:05.088535+00:00"
+  "updated": "2026-08-27T09:10:12.263379+00:00"
 }
