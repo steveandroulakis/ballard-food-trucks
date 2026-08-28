@@ -1,7 +1,5 @@
 {
-  "errors": [
-    "Failed to fetch information for: Chuck's Hop Shop Greenwood"
-  ],
+  "errors": [],
   "events": [
     {
       "date": "2026-08-28T00:00:00",
@@ -108,7 +106,7 @@
       "venue": "Stoup Brewing - Ballard"
     },
     {
-      "date": "2026-08-28T21:10:01.275844",
+      "date": "2026-08-28T22:10:02.041045",
       "description": "Food truck schedule not available - check Instagram or website directly",
       "end_time": null,
       "end_time_raw": null,
@@ -277,6 +275,123 @@
       "venue": "Channel Marker Cider"
     },
     {
+      "date": "2026-08-28T00:00:00",
+      "description": "Original event: Dinner: T'Juana",
+      "end_time": null,
+      "end_time_raw": null,
+      "extraction_method": "html",
+      "location": "Chuck's Hop Shop Greenwood",
+      "start_time": null,
+      "start_time_raw": null,
+      "title": "T'Juana",
+      "vendor": "T'Juana",
+      "venue": "Chuck's Hop Shop Greenwood"
+    },
+    {
+      "date": "2026-08-29T00:00:00",
+      "description": "Original event: Tat's Deli",
+      "end_time": null,
+      "end_time_raw": null,
+      "extraction_method": "html",
+      "location": "Chuck's Hop Shop Greenwood",
+      "start_time": null,
+      "start_time_raw": null,
+      "title": "Tat's Deli",
+      "vendor": "Tat's Deli",
+      "venue": "Chuck's Hop Shop Greenwood"
+    },
+    {
+      "date": "2026-08-30T00:00:00",
+      "description": "Original event: Brunch: Good Morning Tacos",
+      "end_time": null,
+      "end_time_raw": null,
+      "extraction_method": "html",
+      "location": "Chuck's Hop Shop Greenwood",
+      "start_time": null,
+      "start_time_raw": null,
+      "title": "Good Morning Tacos",
+      "vendor": "Good Morning Tacos",
+      "venue": "Chuck's Hop Shop Greenwood"
+    },
+    {
+      "date": "2026-08-30T00:00:00",
+      "description": "Original event: Dinner: Georgia's Greek",
+      "end_time": null,
+      "end_time_raw": null,
+      "extraction_method": "html",
+      "location": "Chuck's Hop Shop Greenwood",
+      "start_time": null,
+      "start_time_raw": null,
+      "title": "Georgia's Greek",
+      "vendor": "Georgia's Greek",
+      "venue": "Chuck's Hop Shop Greenwood"
+    },
+    {
+      "date": "2026-08-31T00:00:00",
+      "description": "Original event: Dinner: Off the Rez",
+      "end_time": null,
+      "end_time_raw": null,
+      "extraction_method": "html",
+      "location": "Chuck's Hop Shop Greenwood",
+      "start_time": null,
+      "start_time_raw": null,
+      "title": "Off the Rez",
+      "vendor": "Off the Rez",
+      "venue": "Chuck's Hop Shop Greenwood"
+    },
+    {
+      "date": "2026-09-01T00:00:00",
+      "description": "Original event: Dinner: Woodshop BBQ",
+      "end_time": null,
+      "end_time_raw": null,
+      "extraction_method": "html",
+      "location": "Chuck's Hop Shop Greenwood",
+      "start_time": null,
+      "start_time_raw": null,
+      "title": "Woodshop BBQ",
+      "vendor": "Woodshop BBQ",
+      "venue": "Chuck's Hop Shop Greenwood"
+    },
+    {
+      "date": "2026-09-02T00:00:00",
+      "description": "Original event: Dinner: Oskar's Pizza",
+      "end_time": null,
+      "end_time_raw": null,
+      "extraction_method": "html",
+      "location": "Chuck's Hop Shop Greenwood",
+      "start_time": null,
+      "start_time_raw": null,
+      "title": "Oskar's Pizza",
+      "vendor": "Oskar's Pizza",
+      "venue": "Chuck's Hop Shop Greenwood"
+    },
+    {
+      "date": "2026-09-03T00:00:00",
+      "description": "Original event: Dinner: Impeckable Chicken",
+      "end_time": null,
+      "end_time_raw": null,
+      "extraction_method": "html",
+      "location": "Chuck's Hop Shop Greenwood",
+      "start_time": null,
+      "start_time_raw": null,
+      "title": "Impeckable Chicken",
+      "vendor": "Impeckable Chicken",
+      "venue": "Chuck's Hop Shop Greenwood"
+    },
+    {
+      "date": "2026-09-04T00:00:00",
+      "description": "Original event: Dinner: Where ya at Matt",
+      "end_time": null,
+      "end_time_raw": null,
+      "extraction_method": "html",
+      "location": "Chuck's Hop Shop Greenwood",
+      "start_time": null,
+      "start_time_raw": null,
+      "title": "Where ya at Matt",
+      "vendor": "Where ya at Matt",
+      "venue": "Chuck's Hop Shop Greenwood"
+    },
+    {
       "date": "2026-08-29T00:00:00",
       "description": null,
       "end_time": "7:30 PM PT",
@@ -400,6 +515,6 @@
   "timezone": "America/Los_Angeles",
   "timezone_label": "PT",
   "timezone_note": "All event times are in Pacific Time (PT).",
-  "total_events": 30,
-  "updated": "2026-08-28T21:10:02.021227+00:00"
+  "total_events": 39,
+  "updated": "2026-08-28T22:10:08.075109+00:00"
 }
