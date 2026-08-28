@@ -509,6 +509,19 @@
       "venue": "Saleh's Corner"
     },
     {
+      "date": "2026-08-30T17:00:00",
+      "description": "Cuisine: Mexican, Tacos",
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "extraction_method": "api",
+      "location": "Saleh's Corner",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "title": "Tacos Locos",
+      "vendor": "Tacos Locos",
+      "venue": "Saleh's Corner"
+    },
+    {
       "date": "2026-08-31T17:00:00",
       "description": "Cuisine: Asian, BBQ, Sandwiches",
       "end_time": "9:00 PM PT",
@@ -580,6 +593,6 @@
   "timezone": "America/Los_Angeles",
   "timezone_label": "PT",
   "timezone_note": "All event times are in Pacific Time (PT).",
-  "total_events": 44,
-  "updated": "2026-08-28T12:10:11.428070+00:00"
+  "total_events": 45,
+  "updated": "2026-08-28T13:10:01.614657+00:00"
 }
