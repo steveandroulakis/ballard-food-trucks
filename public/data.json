@@ -106,7 +106,7 @@
       "venue": "Stoup Brewing - Ballard"
     },
     {
-      "date": "2026-08-28T22:10:02.041045",
+      "date": "2026-08-28T23:10:01.371119",
       "description": "Food truck schedule not available - check Instagram or website directly",
       "end_time": null,
       "end_time_raw": null,
@@ -516,5 +516,5 @@
   "timezone_label": "PT",
   "timezone_note": "All event times are in Pacific Time (PT).",
   "total_events": 39,
-  "updated": "2026-08-28T22:10:08.075109+00:00"
+  "updated": "2026-08-28T23:10:01.523458+00:00"
 }
