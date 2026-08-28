@@ -106,7 +106,7 @@
       "venue": "Stoup Brewing - Ballard"
     },
     {
-      "date": "2026-08-28T18:10:03.040408",
+      "date": "2026-08-28T19:10:01.138521",
       "description": "Food truck schedule not available - check Instagram or website directly",
       "end_time": null,
       "end_time_raw": null,
@@ -130,6 +130,123 @@
       "title": "Heart in Soul",
       "vendor": "Heart in Soul",
       "venue": "Obec Brewing"
+    },
+    {
+      "date": "2026-08-28T00:00:00",
+      "description": "https://urbanfamilybrewing.com/events/birrieria-pepe-el-toro-16/",
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "extraction_method": "html",
+      "location": "Urban Family Brewing",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "title": "Birrieria Pepe El Toro",
+      "vendor": "Birrieria Pepe El Toro",
+      "venue": "Urban Family Brewing"
+    },
+    {
+      "date": "2026-08-29T00:00:00",
+      "description": "https://urbanfamilybrewing.com/events/momo-express-18/",
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "extraction_method": "html",
+      "location": "Urban Family Brewing",
+      "start_time": "1:00 PM PT",
+      "start_time_raw": "1:00 PM",
+      "title": "Momo Express",
+      "vendor": "Momo Express",
+      "venue": "Urban Family Brewing"
+    },
+    {
+      "date": "2026-08-30T00:00:00",
+      "description": "https://urbanfamilybrewing.com/events/9th-and-hennepin-34/",
+      "end_time": "12:00 PM PT",
+      "end_time_raw": "12:00 PM",
+      "extraction_method": "html",
+      "location": "Urban Family Brewing",
+      "start_time": "8:00 AM PT",
+      "start_time_raw": "8:00 AM",
+      "title": "9th and Hennepin",
+      "vendor": "9th and Hennepin",
+      "venue": "Urban Family Brewing"
+    },
+    {
+      "date": "2026-08-30T00:00:00",
+      "description": "https://urbanfamilybrewing.com/events/kaosamai-14/",
+      "end_time": "7:00 PM PT",
+      "end_time_raw": "7:00 PM",
+      "extraction_method": "html",
+      "location": "Urban Family Brewing",
+      "start_time": "1:00 PM PT",
+      "start_time_raw": "1:00 PM",
+      "title": "Kaosamai",
+      "vendor": "Kaosamai",
+      "venue": "Urban Family Brewing"
+    },
+    {
+      "date": "2026-08-31T00:00:00",
+      "description": "https://urbanfamilybrewing.com/events/la-riviera-maya-18/",
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "extraction_method": "html",
+      "location": "Urban Family Brewing",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "title": "La Riviera Maya",
+      "vendor": "La Riviera Maya",
+      "venue": "Urban Family Brewing"
+    },
+    {
+      "date": "2026-09-01T00:00:00",
+      "description": "https://urbanfamilybrewing.com/events/georgias-greek-17/",
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "extraction_method": "html",
+      "location": "Urban Family Brewing",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "title": "Georgia's Greek",
+      "vendor": "Georgia's Greek",
+      "venue": "Urban Family Brewing"
+    },
+    {
+      "date": "2026-09-02T00:00:00",
+      "description": "https://urbanfamilybrewing.com/events/impeccable-chicken-18/",
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "extraction_method": "html",
+      "location": "Urban Family Brewing",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "title": "Impeccable Chicken",
+      "vendor": "Impeccable Chicken",
+      "venue": "Urban Family Brewing"
+    },
+    {
+      "date": "2026-09-03T00:00:00",
+      "description": "https://urbanfamilybrewing.com/events/alebrijes-15/",
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "extraction_method": "html",
+      "location": "Urban Family Brewing",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "title": "Alebrijes",
+      "vendor": "Alebrijes",
+      "venue": "Urban Family Brewing"
+    },
+    {
+      "date": "2026-09-04T00:00:00",
+      "description": "https://urbanfamilybrewing.com/events/tacos-and-beer-16/",
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "extraction_method": "html",
+      "location": "Urban Family Brewing",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "title": "Tacos and Beer",
+      "vendor": "Tacos and Beer",
+      "venue": "Urban Family Brewing"
     },
     {
       "date": "2026-09-01T00:00:00",
@@ -398,6 +515,6 @@
   "timezone": "America/Los_Angeles",
   "timezone_label": "PT",
   "timezone_note": "All event times are in Pacific Time (PT).",
-  "total_events": 30,
-  "updated": "2026-08-28T18:10:30.371797+00:00"
+  "total_events": 39,
+  "updated": "2026-08-28T19:10:01.988769+00:00"
 }
