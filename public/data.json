@@ -2,19 +2,6 @@
   "errors": [],
   "events": [
     {
-      "date": "2026-08-28T00:00:00",
-      "description": null,
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
-      "extraction_method": "html",
-      "location": "Stoup Brewing - Ballard",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
-      "title": "Off the Rez",
-      "vendor": "Off the Rez",
-      "venue": "Stoup Brewing - Ballard"
-    },
-    {
       "date": "2026-08-29T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
@@ -106,7 +93,20 @@
       "venue": "Stoup Brewing - Ballard"
     },
     {
-      "date": "2026-08-29T06:10:06.194204",
+      "date": "2026-09-05T00:00:00",
+      "description": null,
+      "end_time": "7:00 PM PT",
+      "end_time_raw": "7:00 PM",
+      "extraction_method": "html",
+      "location": "Stoup Brewing - Ballard",
+      "start_time": "1:00 PM PT",
+      "start_time_raw": "1:00 PM",
+      "title": "Tat's Truck",
+      "vendor": "Tat's Truck",
+      "venue": "Stoup Brewing - Ballard"
+    },
+    {
+      "date": "2026-08-29T07:10:01.460035",
       "description": "Food truck schedule not available - check Instagram or website directly",
       "end_time": null,
       "end_time_raw": null,
@@ -119,30 +119,17 @@
       "venue": "Yonder Cider & Bale Breaker - Ballard"
     },
     {
-      "date": "2026-08-28T00:00:00",
+      "date": "2026-08-29T00:00:00",
       "description": null,
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
       "extraction_method": "html",
       "location": "Obec Brewing",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
-      "title": "Heart in Soul",
-      "vendor": "Heart in Soul",
+      "start_time": "3:00 AM PT",
+      "start_time_raw": "3:00 AM",
+      "title": "Kaosamai Thai",
+      "vendor": "Kaosamai Thai",
       "venue": "Obec Brewing"
-    },
-    {
-      "date": "2026-08-28T00:00:00",
-      "description": "https://urbanfamilybrewing.com/events/birrieria-pepe-el-toro-16/",
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "extraction_method": "html",
-      "location": "Urban Family Brewing",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
-      "title": "Birrieria Pepe El Toro",
-      "vendor": "Birrieria Pepe El Toro",
-      "venue": "Urban Family Brewing"
     },
     {
       "date": "2026-08-29T00:00:00",
@@ -249,6 +236,19 @@
       "venue": "Urban Family Brewing"
     },
     {
+      "date": "2026-09-05T00:00:00",
+      "description": "https://urbanfamilybrewing.com/events/oskars-pizza-18/",
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "extraction_method": "html",
+      "location": "Urban Family Brewing",
+      "start_time": "1:00 PM PT",
+      "start_time_raw": "1:00 PM",
+      "title": "Oskar's Pizza",
+      "vendor": "Oskar's Pizza",
+      "venue": "Urban Family Brewing"
+    },
+    {
       "date": "2026-09-01T00:00:00",
       "description": null,
       "end_time": null,
@@ -273,19 +273,6 @@
       "title": "Heart In Seoul",
       "vendor": "Heart In Seoul",
       "venue": "Channel Marker Cider"
-    },
-    {
-      "date": "2026-08-28T00:00:00",
-      "description": "Original event: Dinner: T'Juana",
-      "end_time": null,
-      "end_time_raw": null,
-      "extraction_method": "html",
-      "location": "Chuck's Hop Shop Greenwood",
-      "start_time": null,
-      "start_time_raw": null,
-      "title": "T'Juana",
-      "vendor": "T'Juana",
-      "venue": "Chuck's Hop Shop Greenwood"
     },
     {
       "date": "2026-08-29T00:00:00",
@@ -392,6 +379,19 @@
       "venue": "Chuck's Hop Shop Greenwood"
     },
     {
+      "date": "2026-09-05T00:00:00",
+      "description": "Original event: Dinner: Tacos & Beer",
+      "end_time": null,
+      "end_time_raw": null,
+      "extraction_method": "html",
+      "location": "Chuck's Hop Shop Greenwood",
+      "start_time": null,
+      "start_time_raw": null,
+      "title": "Tacos & Beer",
+      "vendor": "Tacos & Beer",
+      "venue": "Chuck's Hop Shop Greenwood"
+    },
+    {
       "date": "2026-08-29T00:00:00",
       "description": null,
       "end_time": "7:30 PM PT",
@@ -403,19 +403,6 @@
       "title": "Tisket Tasket",
       "vendor": "Tisket Tasket",
       "venue": "Lucky Envelope Brewing"
-    },
-    {
-      "date": "2026-08-28T17:00:00",
-      "description": "Cuisine: Chicken, Sandwiches, Southern",
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
-      "extraction_method": "api",
-      "location": "Saleh's Corner",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
-      "title": "Impeckable Chicken",
-      "vendor": "Impeckable Chicken",
-      "venue": "Saleh's Corner"
     },
     {
       "date": "2026-08-29T17:00:00",
@@ -507,6 +494,19 @@
       "title": "Impeckable Chicken",
       "vendor": "Impeckable Chicken",
       "venue": "Saleh's Corner"
+    },
+    {
+      "date": "2026-09-05T17:00:00",
+      "description": "Cuisine: Gluten-Free, Italian, Pizza",
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "extraction_method": "api",
+      "location": "Saleh's Corner",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "title": "Oskar's Pizza",
+      "vendor": "Oskar's Pizza",
+      "venue": "Saleh's Corner"
     }
   ],
   "haiku": null,
@@ -516,5 +516,5 @@
   "timezone_label": "PT",
   "timezone_note": "All event times are in Pacific Time (PT).",
   "total_events": 39,
-  "updated": "2026-08-29T06:10:06.285696+00:00"
+  "updated": "2026-08-29T07:10:06.769412+00:00"
 }
