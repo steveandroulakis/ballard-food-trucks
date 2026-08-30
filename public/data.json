@@ -106,7 +106,7 @@
       "venue": "Stoup Brewing - Ballard"
     },
     {
-      "date": "2026-08-30T08:10:02.107116",
+      "date": "2026-08-30T09:10:01.150674",
       "description": "Food truck schedule not available - check Instagram or website directly",
       "end_time": null,
       "end_time_raw": null,
@@ -125,10 +125,10 @@
       "end_time_raw": "8:00 PM",
       "extraction_method": "html",
       "location": "Obec Brewing",
-      "start_time": "3:00 AM PT",
-      "start_time_raw": "3:00 AM",
-      "title": "Kaosamai Thai",
-      "vendor": "Kaosamai Thai",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "title": "Heart in Seoul",
+      "vendor": "Heart in Seoul",
       "venue": "Obec Brewing"
     },
     {
@@ -529,5 +529,5 @@
   "timezone_label": "PT",
   "timezone_note": "All event times are in Pacific Time (PT).",
   "total_events": 40,
-  "updated": "2026-08-30T08:10:02.749848+00:00"
+  "updated": "2026-08-30T09:10:05.820091+00:00"
 }
