@@ -1,7 +1,5 @@
 {
-  "errors": [
-    "Failed to fetch information for: Channel Marker Cider"
-  ],
+  "errors": [],
   "events": [
     {
       "date": "2026-08-31T00:00:00",
@@ -108,7 +106,7 @@
       "venue": "Stoup Brewing - Ballard"
     },
     {
-      "date": "2026-09-01T03:10:08.181856",
+      "date": "2026-09-01T04:10:01.255417",
       "description": "Food truck schedule not available - check Instagram or website directly",
       "end_time": null,
       "end_time_raw": null,
@@ -249,6 +247,32 @@
       "title": "Empanadas El Pachi",
       "vendor": "Empanadas El Pachi",
       "venue": "Urban Family Brewing"
+    },
+    {
+      "date": "2026-09-01T00:00:00",
+      "description": null,
+      "end_time": null,
+      "end_time_raw": null,
+      "extraction_method": "csv",
+      "location": "Channel Marker Cider",
+      "start_time": null,
+      "start_time_raw": null,
+      "title": "Cocina Barelas",
+      "vendor": "Cocina Barelas",
+      "venue": "Channel Marker Cider"
+    },
+    {
+      "date": "2026-09-02T00:00:00",
+      "description": null,
+      "end_time": null,
+      "end_time_raw": null,
+      "extraction_method": "csv",
+      "location": "Channel Marker Cider",
+      "start_time": null,
+      "start_time_raw": null,
+      "title": "Heart In Seoul",
+      "vendor": "Heart In Seoul",
+      "venue": "Channel Marker Cider"
     },
     {
       "date": "2026-08-31T00:00:00",
@@ -478,6 +502,6 @@
   "timezone": "America/Los_Angeles",
   "timezone_label": "PT",
   "timezone_note": "All event times are in Pacific Time (PT).",
-  "total_events": 36,
-  "updated": "2026-09-01T03:10:38.322485+00:00"
+  "total_events": 38,
+  "updated": "2026-09-01T04:10:01.582615+00:00"
 }
