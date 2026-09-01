@@ -106,7 +106,7 @@
       "venue": "Stoup Brewing - Ballard"
     },
     {
-      "date": "2026-09-01T08:10:01.189320",
+      "date": "2026-09-01T09:10:02.030255",
       "description": "Food truck schedule not available - check Instagram or website directly",
       "end_time": null,
       "end_time_raw": null,
@@ -117,19 +117,6 @@
       "title": "Check Instagram @BaleBreaker",
       "vendor": "Check Instagram @BaleBreaker",
       "venue": "Yonder Cider & Bale Breaker - Ballard"
-    },
-    {
-      "date": "2026-09-01T00:00:00",
-      "description": null,
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "extraction_method": "html",
-      "location": "Obec Brewing",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
-      "title": "Plaza Garcia",
-      "vendor": "Plaza Garcia",
-      "venue": "Obec Brewing"
     },
     {
       "date": "2026-09-01T00:00:00",
@@ -515,6 +502,6 @@
   "timezone": "America/Los_Angeles",
   "timezone_label": "PT",
   "timezone_note": "All event times are in Pacific Time (PT).",
-  "total_events": 39,
-  "updated": "2026-09-01T08:10:02.550626+00:00"
+  "total_events": 38,
+  "updated": "2026-09-01T09:10:04.453998+00:00"
 }
