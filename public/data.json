@@ -1,5 +1,7 @@
 {
-  "errors": [],
+  "errors": [
+    "Failed to fetch information for: Obec Brewing"
+  ],
   "events": [
     {
       "date": "2026-09-01T00:00:00",
@@ -106,7 +108,7 @@
       "venue": "Stoup Brewing - Ballard"
     },
     {
-      "date": "2026-09-02T02:10:06.062762",
+      "date": "2026-09-02T03:10:12.709107",
       "description": "Food truck schedule not available - check Instagram or website directly",
       "end_time": null,
       "end_time_raw": null,
@@ -503,5 +505,5 @@
   "timezone_label": "PT",
   "timezone_note": "All event times are in Pacific Time (PT).",
   "total_events": 38,
-  "updated": "2026-09-02T02:10:07.764450+00:00"
+  "updated": "2026-09-02T03:10:33.914665+00:00"
 }
