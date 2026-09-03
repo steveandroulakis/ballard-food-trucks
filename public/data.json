@@ -1,7 +1,5 @@
 {
-  "errors": [
-    "Failed to fetch information for: Obec Brewing"
-  ],
+  "errors": [],
   "events": [
     {
       "date": "2026-09-03T00:00:00",
@@ -108,7 +106,7 @@
       "venue": "Stoup Brewing - Ballard"
     },
     {
-      "date": "2026-09-03T09:10:01.160592",
+      "date": "2026-09-03T10:10:03.252116",
       "description": "Food truck schedule not available - check Instagram or website directly",
       "end_time": null,
       "end_time_raw": null,
@@ -119,6 +117,19 @@
       "title": "Check Instagram @BaleBreaker",
       "vendor": "Check Instagram @BaleBreaker",
       "venue": "Yonder Cider & Bale Breaker - Ballard"
+    },
+    {
+      "date": "2026-09-03T00:00:00",
+      "description": null,
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "extraction_method": "html",
+      "location": "Obec Brewing",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "title": "Fish Basket NW",
+      "vendor": "Fish Basket NW",
+      "venue": "Obec Brewing"
     },
     {
       "date": "2026-09-03T00:00:00",
@@ -491,6 +502,6 @@
   "timezone": "America/Los_Angeles",
   "timezone_label": "PT",
   "timezone_note": "All event times are in Pacific Time (PT).",
-  "total_events": 37,
-  "updated": "2026-09-03T09:10:03.570996+00:00"
+  "total_events": 38,
+  "updated": "2026-09-03T10:10:05.512517+00:00"
 }
