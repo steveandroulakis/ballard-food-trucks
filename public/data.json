@@ -1,7 +1,5 @@
 {
-  "errors": [
-    "Failed to fetch information for: Saleh's Corner"
-  ],
+  "errors": [],
   "events": [
     {
       "date": "2026-09-02T00:00:00",
@@ -108,7 +106,7 @@
       "venue": "Stoup Brewing - Ballard"
     },
     {
-      "date": "2026-09-03T05:10:06.200729",
+      "date": "2026-09-03T06:10:03.219671",
       "description": "Food truck schedule not available - check Instagram or website directly",
       "end_time": null,
       "end_time_raw": null,
@@ -405,6 +403,110 @@
       "title": "Oskar's Pizza",
       "vendor": "Oskar's Pizza",
       "venue": "Chuck's Hop Shop Greenwood"
+    },
+    {
+      "date": "2026-09-02T17:00:00",
+      "description": "Cuisine: Greek, Gyro, Halal",
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "extraction_method": "api",
+      "location": "Saleh's Corner",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "title": "Theo's Gyros",
+      "vendor": "Theo's Gyros",
+      "venue": "Saleh's Corner"
+    },
+    {
+      "date": "2026-09-03T17:00:00",
+      "description": "Cuisine: Asian, Thai, Vegetarian",
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "extraction_method": "api",
+      "location": "Saleh's Corner",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "title": "Pumpkin Thai",
+      "vendor": "Pumpkin Thai",
+      "venue": "Saleh's Corner"
+    },
+    {
+      "date": "2026-09-04T17:00:00",
+      "description": "Cuisine: Chicken, Sandwiches, Southern",
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "extraction_method": "api",
+      "location": "Saleh's Corner",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "title": "Impeckable Chicken",
+      "vendor": "Impeckable Chicken",
+      "venue": "Saleh's Corner"
+    },
+    {
+      "date": "2026-09-05T17:00:00",
+      "description": "Cuisine: Gluten-Free, Italian, Pizza",
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "extraction_method": "api",
+      "location": "Saleh's Corner",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "title": "Oskar's Pizza",
+      "vendor": "Oskar's Pizza",
+      "venue": "Saleh's Corner"
+    },
+    {
+      "date": "2026-09-06T17:00:00",
+      "description": "Cuisine: Italian, Sandwiches, Vegetarian",
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "extraction_method": "api",
+      "location": "Saleh's Corner",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "title": "The Panini Truck",
+      "vendor": "The Panini Truck",
+      "venue": "Saleh's Corner"
+    },
+    {
+      "date": "2026-09-07T17:00:00",
+      "description": "Cuisine: Asian, Coffee and Tea, Vietnamese",
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "extraction_method": "api",
+      "location": "Saleh's Corner",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "title": "Le Nomade",
+      "vendor": "Le Nomade",
+      "venue": "Saleh's Corner"
+    },
+    {
+      "date": "2026-09-08T17:00:00",
+      "description": "Cuisine: Burritos, Mexican, Tacos",
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "extraction_method": "api",
+      "location": "Saleh's Corner",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "title": "Plaza Garcia Express",
+      "vendor": "Plaza Garcia Express",
+      "venue": "Saleh's Corner"
+    },
+    {
+      "date": "2026-09-09T17:00:00",
+      "description": "Cuisine: Greek, Gyro, Halal",
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "extraction_method": "api",
+      "location": "Saleh's Corner",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "title": "Theo's Gyros",
+      "vendor": "Theo's Gyros",
+      "venue": "Saleh's Corner"
     }
   ],
   "haiku": null,
@@ -413,6 +515,6 @@
   "timezone": "America/Los_Angeles",
   "timezone_label": "PT",
   "timezone_note": "All event times are in Pacific Time (PT).",
-  "total_events": 31,
-  "updated": "2026-09-03T05:10:20.297959+00:00"
+  "total_events": 39,
+  "updated": "2026-09-03T06:10:13.814925+00:00"
 }
