@@ -1,5 +1,7 @@
 {
-  "errors": [],
+  "errors": [
+    "Failed to fetch information for: Lucky Envelope Brewing"
+  ],
   "events": [
     {
       "date": "2026-09-03T00:00:00",
@@ -106,7 +108,7 @@
       "venue": "Stoup Brewing - Ballard"
     },
     {
-      "date": "2026-09-03T22:10:01.924740",
+      "date": "2026-09-03T23:10:20.232390",
       "description": "Food truck schedule not available - check Instagram or website directly",
       "end_time": null,
       "end_time_raw": null,
@@ -503,5 +505,5 @@
   "timezone_label": "PT",
   "timezone_note": "All event times are in Pacific Time (PT).",
   "total_events": 38,
-  "updated": "2026-09-03T22:10:03.155006+00:00"
+  "updated": "2026-09-03T23:10:20.302791+00:00"
 }
