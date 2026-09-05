@@ -138,7 +138,7 @@
       "venue_url": "https://www.stoupbrewing.com/ballard/"
     },
     {
-      "date": "2026-09-05T17:10:01.428051",
+      "date": "2026-09-05T17:55:59.219925",
       "description": "Food truck schedule not available - check Instagram or website directly",
       "end_iso": null,
       "end_time": null,
@@ -162,9 +162,9 @@
       "end_time_raw": "8:00 PM",
       "extraction_method": "html",
       "location": "Obec Brewing",
-      "start_iso": "2026-09-05T03:00:00",
-      "start_time": "3:00 AM PT",
-      "start_time_raw": "3:00 AM",
+      "start_iso": "2026-09-05T15:00:00",
+      "start_time": "3:00 PM PT",
+      "start_time_raw": "3:00 PM",
       "title": "Kaosamai Thai",
       "vendor": "Kaosamai Thai",
       "venue": "Obec Brewing",
@@ -673,5 +673,5 @@
   "timezone_label": "PT",
   "timezone_note": "All event times are in Pacific Time (PT).",
   "total_events": 39,
-  "updated": "2026-09-05T17:10:02.635968+00:00"
+  "updated": "2026-09-05T17:55:59.548126+00:00"
 }

@@ -117,7 +117,7 @@ SUMMARY:Check Instagram @BaleBreaker @ Yonder Cider & Bale Breaker - Balla
 DTSTART;VALUE=DATE:20260905
 DTEND;VALUE=DATE:20260906
 DTSTAMP:20260905T000000Z
-UID:92143c65cc85f45066ad2b9a358be14ad3d56bb6@around-the-grounds
+UID:5fa5e31df052078a2c35510df2fe15422a861ae1@around-the-grounds
 DESCRIPTION:Food truck schedule not available - check Instagram or website
   directly\n\nHours not published.\n\nCurated by Ballard Food Trucks.\nSee 
  the latest schedule and explore more events:\nhttps://ballardfoodtrucks.co
@@ -128,9 +128,9 @@ URL:https://ballardfoodtrucks.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Kaosamai Thai @ Obec Brewing
-DTSTART:20260905T100000Z
+DTSTART:20260905T220000Z
 DTEND:20260906T030000Z
-DTSTAMP:20260905T100000Z
+DTSTAMP:20260905T220000Z
 UID:f8832fe191e4fa414b15750f3a462b7fea8705b0@around-the-grounds
 DESCRIPTION:Curated by Ballard Food Trucks.\nSee the latest schedule and e
  xplore more events:\nhttps://ballardfoodtrucks.com\n\nTimes may change\; c
