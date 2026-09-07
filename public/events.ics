@@ -190,19 +190,6 @@ TRANSP:TRANSPARENT
 URL:https://ballardfoodtrucks.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Plaza Garcia
-DTSTART:20260907T230000Z
-DTEND:20260908T030000Z
-DTSTAMP:20260907T230000Z
-UID:b87d8569c864b4b8b5c8e7919eda3743e75b22ce@around-the-grounds
-DESCRIPTION:Curated by Ballard Food Trucks.\nSee the latest schedule and e
- xplore more events:\nhttps://ballardfoodtrucks.com\n\nTimes may change\; c
- heck before heading out.
-LOCATION:Obec Brewing
-TRANSP:TRANSPARENT
-URL:https://ballardfoodtrucks.com
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Empanadas El Pachi
 DTSTART:20260907T230000Z
 DTEND:20260908T030000Z
