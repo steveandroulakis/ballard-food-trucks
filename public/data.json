@@ -415,14 +415,14 @@
     {
       "date": "2026-09-09T00:00:00",
       "description": null,
-      "end_iso": null,
-      "end_time": null,
-      "end_time_raw": null,
+      "end_iso": "2026-09-09T20:00:00",
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
       "extraction_method": "csv",
       "location": "Channel Marker Cider",
-      "start_iso": null,
-      "start_time": null,
-      "start_time_raw": null,
+      "start_iso": "2026-09-09T17:30:00",
+      "start_time": "5:30 PM PT",
+      "start_time_raw": "5:30 PM",
       "title": "Heart In Seoul",
       "vendor": "Heart In Seoul",
       "venue": "Channel Marker Cider",
@@ -431,7 +431,7 @@
     },
     {
       "date": "2026-09-07T00:00:00",
-      "description": "Original event: Dinner: Birrieria Pepe El Toro",
+      "description": "Original event: Dinner: Cheech N Changas",
       "end_iso": "2026-09-07T21:00:00",
       "end_time": "9:00 PM PT",
       "end_time_raw": "9:00 PM",
@@ -440,8 +440,8 @@
       "start_iso": "2026-09-07T17:00:00",
       "start_time": "5:00 PM PT",
       "start_time_raw": "5:00 PM",
-      "title": "Birrieria Pepe El Toro",
-      "vendor": "Birrieria Pepe El Toro",
+      "title": "Cheech N Changas",
+      "vendor": "Cheech N Changas",
       "venue": "Chuck's Hop Shop Greenwood",
       "venue_key": "chucks-greenwood",
       "venue_url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vS8BmXLSrsUVJ1x_x8FslWooOXRLeEJV-Jq5NzhfUCI9TtO-qXr0ey2BzY8KI-GflT7ekl5015XX3uj/pub?gid=1258996532&single=true&output=csv"
@@ -608,5 +608,5 @@
   "timezone_label": "PT",
   "timezone_note": "All event times are in Pacific Time (PT).",
   "total_events": 35,
-  "updated": "2026-09-07T23:10:01.891834+00:00"
+  "updated": "2026-09-08T00:10:01.452605+00:00"
 }
