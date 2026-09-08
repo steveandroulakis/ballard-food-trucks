@@ -8,19 +8,6 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 X-WR-TIMEZONE:America/Los_Angeles
 BEGIN:VEVENT
-SUMMARY:Russo Pizzarium
-DTSTART:20260908T000000Z
-DTEND:20260908T030000Z
-DTSTAMP:20260908T000000Z
-UID:2abbf0979eb335812e94bae76e57e4550d645bf4@around-the-grounds
-DESCRIPTION:Curated by Ballard Food Trucks.\nSee the latest schedule and e
- xplore more events:\nhttps://ballardfoodtrucks.com\n\nTimes may change\; c
- heck before heading out.
-LOCATION:Stoup Brewing - Ballard
-TRANSP:TRANSPARENT
-URL:https://ballardfoodtrucks.com
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Tacos & Beer
 DTSTART:20260909T000000Z
 DTEND:20260909T030000Z
@@ -112,6 +99,19 @@ TRANSP:TRANSPARENT
 URL:https://ballardfoodtrucks.com
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Max's Burgers & Wings
+DTSTART:20260916T000000Z
+DTEND:20260916T030000Z
+DTSTAMP:20260916T000000Z
+UID:c6c85f6ae4acfde148c7f9f7874a1dce43aa69fd@around-the-grounds
+DESCRIPTION:Curated by Ballard Food Trucks.\nSee the latest schedule and e
+ xplore more events:\nhttps://ballardfoodtrucks.com\n\nTimes may change\; c
+ heck before heading out.
+LOCATION:Stoup Brewing - Ballard
+TRANSP:TRANSPARENT
+URL:https://ballardfoodtrucks.com
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Tummy Yummy Thai
 DTSTART:20260908T230000Z
 DTEND:20260909T030000Z
@@ -190,16 +190,15 @@ TRANSP:TRANSPARENT
 URL:https://ballardfoodtrucks.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Empanadas El Pachi
-DTSTART:20260907T230000Z
-DTEND:20260908T030000Z
-DTSTAMP:20260907T230000Z
-UID:e2b8d3336282515dc3e6fda043234ad97fefdf98@around-the-grounds
-DESCRIPTION:https://urbanfamilybrewing.com/events/empanadas-el-pachi-18/\n
- \nCurated by Ballard Food Trucks.\nSee the latest schedule and explore mor
- e events:\nhttps://ballardfoodtrucks.com\n\nTimes may change\; check befor
- e heading out.
-LOCATION:Urban Family Brewing
+SUMMARY:Birrieria Pepe El Toro
+DTSTART:20260915T230000Z
+DTEND:20260916T030000Z
+DTSTAMP:20260915T230000Z
+UID:6b8b4752e6cabeff510db17711028e64052e04bf@around-the-grounds
+DESCRIPTION:Curated by Ballard Food Trucks.\nSee the latest schedule and e
+ xplore more events:\nhttps://ballardfoodtrucks.com\n\nTimes may change\; c
+ heck before heading out.
+LOCATION:Yonder Cider & Bale Breaker - Ballard
 TRANSP:TRANSPARENT
 URL:https://ballardfoodtrucks.com
 END:VEVENT
@@ -316,6 +315,20 @@ TRANSP:TRANSPARENT
 URL:https://ballardfoodtrucks.com
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Georgia's Greek
+DTSTART:20260915T230000Z
+DTEND:20260916T030000Z
+DTSTAMP:20260915T230000Z
+UID:7a81ba1a0f75972e1b76479a3763728ee098494f@around-the-grounds
+DESCRIPTION:https://urbanfamilybrewing.com/events/georgias-greek-18/\n\nCu
+ rated by Ballard Food Trucks.\nSee the latest schedule and explore more ev
+ ents:\nhttps://ballardfoodtrucks.com\n\nTimes may change\; check before he
+ ading out.
+LOCATION:Urban Family Brewing
+TRANSP:TRANSPARENT
+URL:https://ballardfoodtrucks.com
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Cocina Barelas
 DTSTART;VALUE=DATE:20260908
 DTEND;VALUE=DATE:20260909
@@ -342,15 +355,15 @@ TRANSP:TRANSPARENT
 URL:https://ballardfoodtrucks.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Cheech N Changas
-DTSTART:20260908T000000Z
-DTEND:20260908T040000Z
-DTSTAMP:20260908T000000Z
-UID:f16b76683ce84c49a5c6a5907dac3fa40da37cd8@around-the-grounds
-DESCRIPTION:Original event: Dinner: Cheech N Changas\n\nCurated by Ballard
-  Food Trucks.\nSee the latest schedule and explore more events:\nhttps://b
- allardfoodtrucks.com\n\nTimes may change\; check before heading out.
-LOCATION:Chuck's Hop Shop Greenwood
+SUMMARY:Cocina Barelas
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
+DTSTAMP:20260915T000000Z
+UID:af6c7b4cc0de3433576dde995da3bc97df0d8da5@around-the-grounds
+DESCRIPTION:Hours not published.\n\nCurated by Ballard Food Trucks.\nSee t
+ he latest schedule and explore more events:\nhttps://ballardfoodtrucks.com
+ \n\nTimes may change\; check before heading out.
+LOCATION:Channel Marker Cider
 TRANSP:TRANSPARENT
 URL:https://ballardfoodtrucks.com
 END:VEVENT
@@ -454,6 +467,19 @@ UID:41626598bd159911b359d6dd5ab4a7501ad0f6d7@around-the-grounds
 DESCRIPTION:Original event: Dinner: Birrieria Pepe El Toro\n\nCurated by B
  allard Food Trucks.\nSee the latest schedule and explore more events:\nhtt
  ps://ballardfoodtrucks.com\n\nTimes may change\; check before heading out.
+LOCATION:Chuck's Hop Shop Greenwood
+TRANSP:TRANSPARENT
+URL:https://ballardfoodtrucks.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Woodshop BBQ
+DTSTART:20260916T000000Z
+DTEND:20260916T040000Z
+DTSTAMP:20260916T000000Z
+UID:7f009d6f42b7a5a4972c053c29a5bb466f80689f@around-the-grounds
+DESCRIPTION:Original event: Dinner: Woodshop BBQ\n\nCurated by Ballard Foo
+ d Trucks.\nSee the latest schedule and explore more events:\nhttps://balla
+ rdfoodtrucks.com\n\nTimes may change\; check before heading out.
 LOCATION:Chuck's Hop Shop Greenwood
 TRANSP:TRANSPARENT
 URL:https://ballardfoodtrucks.com
