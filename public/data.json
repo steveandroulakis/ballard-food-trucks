@@ -5,23 +5,6 @@
   ],
   "events": [
     {
-      "date": "2026-09-10T00:00:00",
-      "description": null,
-      "end_iso": "2026-09-10T20:00:00",
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "extraction_method": "html",
-      "location": "Stoup Brewing - Ballard",
-      "start_iso": "2026-09-10T17:00:00",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
-      "title": "Kottu Seattle",
-      "vendor": "Kottu Seattle",
-      "venue": "Stoup Brewing - Ballard",
-      "venue_key": "stoup-ballard",
-      "venue_url": "https://www.stoupbrewing.com/ballard/"
-    },
-    {
       "date": "2026-09-11T00:00:00",
       "description": null,
       "end_iso": "2026-09-11T21:00:00",
@@ -141,21 +124,21 @@
       "venue_url": "https://www.stoupbrewing.com/ballard/"
     },
     {
-      "date": "2026-09-10T17:00:00.091000",
+      "date": "2026-09-18T00:00:00",
       "description": null,
-      "end_iso": "2026-09-10T20:00:00.091000",
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
+      "end_iso": "2026-09-18T21:00:00",
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
       "extraction_method": "html",
-      "location": "Yonder Cider & Bale Breaker - Ballard",
-      "start_iso": "2026-09-10T17:00:00.091000",
+      "location": "Stoup Brewing - Ballard",
+      "start_iso": "2026-09-18T17:00:00",
       "start_time": "5:00 PM PT",
       "start_time_raw": "5:00 PM",
-      "title": "Impeckable Chicken",
-      "vendor": "Impeckable Chicken",
-      "venue": "Yonder Cider & Bale Breaker - Ballard",
-      "venue_key": "yonder-balebreaker",
-      "venue_url": "https://www.bbycballard.com/food-trucks-1-1"
+      "title": "El Sabor Boricua",
+      "vendor": "El Sabor Boricua",
+      "venue": "Stoup Brewing - Ballard",
+      "venue_key": "stoup-ballard",
+      "venue_url": "https://www.stoupbrewing.com/ballard/"
     },
     {
       "date": "2026-09-11T16:00:00.975000",
@@ -260,21 +243,38 @@
       "venue_url": "https://www.bbycballard.com/food-trucks-1-1"
     },
     {
-      "date": "2026-09-10T00:00:00",
-      "description": "https://urbanfamilybrewing.com/events/burger-planet-20/",
-      "end_iso": "2026-09-10T20:00:00",
+      "date": "2026-09-18T16:00:00.675000",
+      "description": null,
+      "end_iso": "2026-09-18T20:00:00.675000",
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
       "extraction_method": "html",
-      "location": "Urban Family Brewing",
-      "start_iso": "2026-09-10T16:00:00",
+      "location": "Yonder Cider & Bale Breaker - Ballard",
+      "start_iso": "2026-09-18T16:00:00.675000",
       "start_time": "4:00 PM PT",
       "start_time_raw": "4:00 PM",
-      "title": "Burger Planet",
-      "vendor": "Burger Planet",
-      "venue": "Urban Family Brewing",
-      "venue_key": "urban-family",
-      "venue_url": "https://urbanfamilybrewing.com/home/calendar/"
+      "title": "Paparepas",
+      "vendor": "Paparepas",
+      "venue": "Yonder Cider & Bale Breaker - Ballard",
+      "venue_key": "yonder-balebreaker",
+      "venue_url": "https://www.bbycballard.com/food-trucks-1-1"
+    },
+    {
+      "date": "2026-09-11T00:00:00",
+      "description": null,
+      "end_iso": "2026-09-11T20:00:00",
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "extraction_method": "html",
+      "location": "Obec Brewing",
+      "start_iso": "2026-09-11T16:00:00",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "title": "Heart in Soul",
+      "vendor": "Heart in Soul",
+      "venue": "Obec Brewing",
+      "venue_key": "obec-brewing",
+      "venue_url": "https://obecbrewing.com/"
     },
     {
       "date": "2026-09-11T00:00:00",
@@ -413,6 +413,23 @@
       "venue_url": "https://urbanfamilybrewing.com/home/calendar/"
     },
     {
+      "date": "2026-09-18T00:00:00",
+      "description": "https://urbanfamilybrewing.com/events/tacos-and-beer-17/",
+      "end_iso": "2026-09-18T20:00:00",
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "extraction_method": "html",
+      "location": "Urban Family Brewing",
+      "start_iso": "2026-09-18T16:00:00",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "title": "Tacos and Beer",
+      "vendor": "Tacos and Beer",
+      "venue": "Urban Family Brewing",
+      "venue_key": "urban-family",
+      "venue_url": "https://urbanfamilybrewing.com/home/calendar/"
+    },
+    {
       "date": "2026-09-15T00:00:00",
       "description": null,
       "end_iso": null,
@@ -445,23 +462,6 @@
       "venue": "Channel Marker Cider",
       "venue_key": "channel-marker",
       "venue_url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRaaJmiJ4YrKmvwiFdsHYij1kLUVP6394gMrTPpgHwu1zTtM5aoIy9JfLyeK4WrLLDDiHcFRAtbZci_/pub?output=csv"
-    },
-    {
-      "date": "2026-09-10T00:00:00",
-      "description": "Original event: Dinner: Impeckable Chicken",
-      "end_iso": "2026-09-10T21:00:00",
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
-      "extraction_method": "html",
-      "location": "Chuck's Hop Shop Greenwood",
-      "start_iso": "2026-09-10T17:00:00",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
-      "title": "Impeckable Chicken",
-      "vendor": "Impeckable Chicken",
-      "venue": "Chuck's Hop Shop Greenwood",
-      "venue_key": "chucks-greenwood",
-      "venue_url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vS8BmXLSrsUVJ1x_x8FslWooOXRLeEJV-Jq5NzhfUCI9TtO-qXr0ey2BzY8KI-GflT7ekl5015XX3uj/pub?gid=1258996532&single=true&output=csv"
     },
     {
       "date": "2026-09-11T00:00:00",
@@ -600,6 +600,23 @@
       "venue_url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vS8BmXLSrsUVJ1x_x8FslWooOXRLeEJV-Jq5NzhfUCI9TtO-qXr0ey2BzY8KI-GflT7ekl5015XX3uj/pub?gid=1258996532&single=true&output=csv"
     },
     {
+      "date": "2026-09-18T00:00:00",
+      "description": "Original event: Dinner: Where ya at Matt",
+      "end_iso": "2026-09-18T21:00:00",
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "extraction_method": "html",
+      "location": "Chuck's Hop Shop Greenwood",
+      "start_iso": "2026-09-18T17:00:00",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "title": "Where ya at Matt",
+      "vendor": "Where ya at Matt",
+      "venue": "Chuck's Hop Shop Greenwood",
+      "venue_key": "chucks-greenwood",
+      "venue_url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vS8BmXLSrsUVJ1x_x8FslWooOXRLeEJV-Jq5NzhfUCI9TtO-qXr0ey2BzY8KI-GflT7ekl5015XX3uj/pub?gid=1258996532&single=true&output=csv"
+    },
+    {
       "date": "2026-09-11T00:00:00",
       "description": null,
       "end_iso": "2026-09-11T20:00:00",
@@ -624,6 +641,6 @@
   "timezone": "America/Los_Angeles",
   "timezone_label": "PT",
   "timezone_note": "All event times are in Pacific Time (PT).",
-  "total_events": 36,
-  "updated": "2026-09-11T06:10:02.835429+00:00"
+  "total_events": 37,
+  "updated": "2026-09-11T07:10:01.717513+00:00"
 }
