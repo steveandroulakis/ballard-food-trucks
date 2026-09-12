@@ -8,11 +8,11 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 X-WR-TIMEZONE:America/Los_Angeles
 BEGIN:VEVENT
-SUMMARY:Max's Burgers & Wings
+SUMMARY:Off the Rez
 DTSTART:20260912T000000Z
 DTEND:20260912T040000Z
 DTSTAMP:20260912T000000Z
-UID:2c2e3dd04ce6d8917e33d388b11902da560d014f@around-the-grounds
+UID:81c9059346871b0f48850c5dd882ef865a2117c6@around-the-grounds
 DESCRIPTION:Curated by Ballard Food Trucks.\nSee the latest schedule and e
  xplore more events:\nhttps://ballardfoodtrucks.com\n\nTimes may change\; c
  heck before heading out.
