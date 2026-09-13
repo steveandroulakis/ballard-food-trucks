@@ -382,19 +382,6 @@ TRANSP:TRANSPARENT
 URL:https://ballardfoodtrucks.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Good Morning Tacos
-DTSTART:20260913T160000Z
-DTEND:20260913T220000Z
-DTSTAMP:20260913T160000Z
-UID:980ace4f3adadf045f52c3512055b02681db4507@around-the-grounds
-DESCRIPTION:Original event: Brunch: Good Morning Tacos\n\nCurated by Balla
- rd Food Trucks.\nSee the latest schedule and explore more events:\nhttps:/
- /ballardfoodtrucks.com\n\nTimes may change\; check before heading out.
-LOCATION:Chuck's Hop Shop Greenwood
-TRANSP:TRANSPARENT
-URL:https://ballardfoodtrucks.com
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Georgia's Greek
 DTSTART:20260913T230000Z
 DTEND:20260914T040000Z
