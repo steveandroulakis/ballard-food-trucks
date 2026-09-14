@@ -330,23 +330,10 @@ URL:https://ballardfoodtrucks.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cocina Barelas
-DTSTART;VALUE=DATE:20260915
-DTEND;VALUE=DATE:20260916
-DTSTAMP:20260915T000000Z
+DTSTART:20260916T000000Z
+DTEND:20260916T040000Z
+DTSTAMP:20260916T000000Z
 UID:af6c7b4cc0de3433576dde995da3bc97df0d8da5@around-the-grounds
-DESCRIPTION:Hours not published.\n\nCurated by Ballard Food Trucks.\nSee t
- he latest schedule and explore more events:\nhttps://ballardfoodtrucks.com
- \n\nTimes may change\; check before heading out.
-LOCATION:Channel Marker Cider
-TRANSP:TRANSPARENT
-URL:https://ballardfoodtrucks.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Finn Anthony's
-DTSTART:20260917T010000Z
-DTEND:20260917T040000Z
-DTSTAMP:20260917T010000Z
-UID:7c8beebc0479fa26c3f5eba6b4635db1e87e364f@around-the-grounds
 DESCRIPTION:Curated by Ballard Food Trucks.\nSee the latest schedule and e
  xplore more events:\nhttps://ballardfoodtrucks.com\n\nTimes may change\; c
  heck before heading out.
