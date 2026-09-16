@@ -354,4 +354,121 @@ LOCATION:Channel Marker Cider
 TRANSP:TRANSPARENT
 URL:https://ballardfoodtrucks.com
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oskar's Pizza
+DTSTART:20260917T000000Z
+DTEND:20260917T040000Z
+DTSTAMP:20260917T000000Z
+UID:9ffe35b98b10f292b6520c8ffe47cef5de241123@around-the-grounds
+DESCRIPTION:Original event: Dinner: Oskar's Pizza\n\nCurated by Ballard Fo
+ od Trucks.\nSee the latest schedule and explore more events:\nhttps://ball
+ ardfoodtrucks.com\n\nTimes may change\; check before heading out.
+LOCATION:Chuck's Hop Shop Greenwood
+TRANSP:TRANSPARENT
+URL:https://ballardfoodtrucks.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Impeckable Chicken
+DTSTART:20260918T000000Z
+DTEND:20260918T040000Z
+DTSTAMP:20260918T000000Z
+UID:8419881b78bf2d138b0ac0ff9aeda672f479afb8@around-the-grounds
+DESCRIPTION:Original event: Dinner: Impeckable Chicken\n\nCurated by Balla
+ rd Food Trucks.\nSee the latest schedule and explore more events:\nhttps:/
+ /ballardfoodtrucks.com\n\nTimes may change\; check before heading out.
+LOCATION:Chuck's Hop Shop Greenwood
+TRANSP:TRANSPARENT
+URL:https://ballardfoodtrucks.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Where ya at Matt
+DTSTART:20260919T000000Z
+DTEND:20260919T040000Z
+DTSTAMP:20260919T000000Z
+UID:9071dc932bd8bf7cc300636d1aeae989150b25e1@around-the-grounds
+DESCRIPTION:Original event: Dinner: Where ya at Matt\n\nCurated by Ballard
+  Food Trucks.\nSee the latest schedule and explore more events:\nhttps://b
+ allardfoodtrucks.com\n\nTimes may change\; check before heading out.
+LOCATION:Chuck's Hop Shop Greenwood
+TRANSP:TRANSPARENT
+URL:https://ballardfoodtrucks.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sabor Boricua
+DTSTART:20260919T190000Z
+DTEND:20260920T030000Z
+DTSTAMP:20260919T190000Z
+UID:b31ceb13bd90c5fa5f2d220e29dad2444bf20ac4@around-the-grounds
+DESCRIPTION:Original event: Dinner: Sabor Boricua\n\nCurated by Ballard Fo
+ od Trucks.\nSee the latest schedule and explore more events:\nhttps://ball
+ ardfoodtrucks.com\n\nTimes may change\; check before heading out.
+LOCATION:Chuck's Hop Shop Greenwood
+TRANSP:TRANSPARENT
+URL:https://ballardfoodtrucks.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cocina Barelas
+DTSTART:20260920T160000Z
+DTEND:20260920T190000Z
+DTSTAMP:20260920T160000Z
+UID:3ee1d8a687e4c2705cc366e5fa2337df9a1c6f14@around-the-grounds
+DESCRIPTION:Original event: Brunch: Cocina Barelas\n\nCurated by Ballard F
+ ood Trucks.\nSee the latest schedule and explore more events:\nhttps://bal
+ lardfoodtrucks.com\n\nTimes may change\; check before heading out.
+LOCATION:Chuck's Hop Shop Greenwood
+TRANSP:TRANSPARENT
+URL:https://ballardfoodtrucks.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Momo Express
+DTSTART:20260920T190000Z
+DTEND:20260921T030000Z
+DTSTAMP:20260920T190000Z
+UID:e041c470c2866ddc2079cda283a453a75919e500@around-the-grounds
+DESCRIPTION:Original event: Momo Express\n\nCurated by Ballard Food Trucks
+ .\nSee the latest schedule and explore more events:\nhttps://ballardfoodtr
+ ucks.com\n\nTimes may change\; check before heading out.
+LOCATION:Chuck's Hop Shop Greenwood
+TRANSP:TRANSPARENT
+URL:https://ballardfoodtrucks.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Birrieria Pepe El Toro
+DTSTART:20260922T000000Z
+DTEND:20260922T040000Z
+DTSTAMP:20260922T000000Z
+UID:ce946d1e2b88673e2d414b6aba2e4f2783a52160@around-the-grounds
+DESCRIPTION:Original event: Dinner: Birrieria Pepe El Toro\n\nCurated by B
+ allard Food Trucks.\nSee the latest schedule and explore more events:\nhtt
+ ps://ballardfoodtrucks.com\n\nTimes may change\; check before heading out.
+LOCATION:Chuck's Hop Shop Greenwood
+TRANSP:TRANSPARENT
+URL:https://ballardfoodtrucks.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Woodshop BBQ
+DTSTART:20260923T000000Z
+DTEND:20260923T040000Z
+DTSTAMP:20260923T000000Z
+UID:01191b0767e850194c440e864ad3382d942e5ec1@around-the-grounds
+DESCRIPTION:Original event: Dinner: Woodshop BBQ\n\nCurated by Ballard Foo
+ d Trucks.\nSee the latest schedule and explore more events:\nhttps://balla
+ rdfoodtrucks.com\n\nTimes may change\; check before heading out.
+LOCATION:Chuck's Hop Shop Greenwood
+TRANSP:TRANSPARENT
+URL:https://ballardfoodtrucks.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oskar's Pizza
+DTSTART:20260924T000000Z
+DTEND:20260924T040000Z
+DTSTAMP:20260924T000000Z
+UID:9396c75d199751943d891b9807adb2a951477830@around-the-grounds
+DESCRIPTION:Original event: Dinner: Oskar's Pizza\n\nCurated by Ballard Fo
+ od Trucks.\nSee the latest schedule and explore more events:\nhttps://ball
+ ardfoodtrucks.com\n\nTimes may change\; check before heading out.
+LOCATION:Chuck's Hop Shop Greenwood
+TRANSP:TRANSPARENT
+URL:https://ballardfoodtrucks.com
+END:VEVENT
 END:VCALENDAR
