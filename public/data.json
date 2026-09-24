@@ -260,23 +260,6 @@
       "venue_url": "https://www.bbycballard.com/food-trucks-1-1"
     },
     {
-      "date": "2026-09-23T00:00:00",
-      "description": "https://urbanfamilybrewing.com/events/katmandu-momocha-19/",
-      "end_iso": "2026-09-23T20:00:00",
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "extraction_method": "html",
-      "location": "Urban Family Brewing",
-      "start_iso": "2026-09-23T16:00:00",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
-      "title": "Katmandu Momocha",
-      "vendor": "Katmandu Momocha",
-      "venue": "Urban Family Brewing",
-      "venue_key": "urban-family",
-      "venue_url": "https://urbanfamilybrewing.com/home/calendar/"
-    },
-    {
       "date": "2026-09-24T00:00:00",
       "description": "https://urbanfamilybrewing.com/events/burger-planet-21/",
       "end_iso": "2026-09-24T20:00:00",
@@ -624,6 +607,6 @@
   "timezone": "America/Los_Angeles",
   "timezone_label": "PT",
   "timezone_note": "All event times are in Pacific Time (PT).",
-  "total_events": 36,
-  "updated": "2026-09-24T04:10:03.762463+00:00"
+  "total_events": 35,
+  "updated": "2026-09-24T05:10:04.860172+00:00"
 }

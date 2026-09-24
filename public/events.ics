@@ -203,20 +203,6 @@ TRANSP:TRANSPARENT
 URL:https://ballardfoodtrucks.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Katmandu Momocha
-DTSTART:20260923T230000Z
-DTEND:20260924T030000Z
-DTSTAMP:20260923T230000Z
-UID:bbd1eb416d81d9397ac9a0209bcabf8a9f66d8d9@around-the-grounds
-DESCRIPTION:https://urbanfamilybrewing.com/events/katmandu-momocha-19/\n\n
- Curated by Ballard Food Trucks.\nSee the latest schedule and explore more 
- events:\nhttps://ballardfoodtrucks.com\n\nTimes may change\; check before 
- heading out.
-LOCATION:Urban Family Brewing
-TRANSP:TRANSPARENT
-URL:https://ballardfoodtrucks.com
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Burger Planet
 DTSTART:20260924T230000Z
 DTEND:20260925T030000Z
