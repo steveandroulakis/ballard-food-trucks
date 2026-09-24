@@ -5,23 +5,6 @@
   ],
   "events": [
     {
-      "date": "2026-09-23T00:00:00",
-      "description": null,
-      "end_iso": "2026-09-23T20:00:00",
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "extraction_method": "html",
-      "location": "Stoup Brewing - Ballard",
-      "start_iso": "2026-09-23T17:00:00",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
-      "title": "Impeccable Chicken",
-      "vendor": "Impeccable Chicken",
-      "venue": "Stoup Brewing - Ballard",
-      "venue_key": "stoup-ballard",
-      "venue_url": "https://www.stoupbrewing.com/ballard/"
-    },
-    {
       "date": "2026-09-24T00:00:00",
       "description": null,
       "end_iso": "2026-09-24T20:00:00",
@@ -141,21 +124,21 @@
       "venue_url": "https://www.stoupbrewing.com/ballard/"
     },
     {
-      "date": "2026-09-23T16:00:00.425000",
+      "date": "2026-10-01T00:00:00",
       "description": null,
-      "end_iso": "2026-09-23T20:00:00.425000",
+      "end_iso": "2026-10-01T20:00:00",
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
       "extraction_method": "html",
-      "location": "Yonder Cider & Bale Breaker - Ballard",
-      "start_iso": "2026-09-23T16:00:00.425000",
+      "location": "Stoup Brewing - Ballard",
+      "start_iso": "2026-10-01T16:00:00",
       "start_time": "4:00 PM PT",
       "start_time_raw": "4:00 PM",
-      "title": "Georgia\u2019s Greek",
-      "vendor": "Georgia\u2019s Greek",
-      "venue": "Yonder Cider & Bale Breaker - Ballard",
-      "venue_key": "yonder-balebreaker",
-      "venue_url": "https://www.bbycballard.com/food-trucks-1-1"
+      "title": "Birrieria Pepe El Toro",
+      "vendor": "Birrieria Pepe El Toro",
+      "venue": "Stoup Brewing - Ballard",
+      "venue_key": "stoup-ballard",
+      "venue_url": "https://www.stoupbrewing.com/ballard/"
     },
     {
       "date": "2026-09-24T17:00:00.091000",
@@ -258,6 +241,40 @@
       "venue": "Yonder Cider & Bale Breaker - Ballard",
       "venue_key": "yonder-balebreaker",
       "venue_url": "https://www.bbycballard.com/food-trucks-1-1"
+    },
+    {
+      "date": "2026-10-01T16:00:00.203000",
+      "description": null,
+      "end_iso": "2026-10-01T20:00:00.203000",
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "extraction_method": "html",
+      "location": "Yonder Cider & Bale Breaker - Ballard",
+      "start_iso": "2026-10-01T16:00:00.203000",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "title": "Sabor Boricua PNW",
+      "vendor": "Sabor Boricua PNW",
+      "venue": "Yonder Cider & Bale Breaker - Ballard",
+      "venue_key": "yonder-balebreaker",
+      "venue_url": "https://www.bbycballard.com/food-trucks-1-1"
+    },
+    {
+      "date": "2026-09-24T00:00:00",
+      "description": null,
+      "end_iso": "2026-09-24T20:00:00",
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "extraction_method": "html",
+      "location": "Obec Brewing",
+      "start_iso": "2026-09-24T16:00:00",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "title": "MoMoCha Kathmandu",
+      "vendor": "MoMoCha Kathmandu",
+      "venue": "Obec Brewing",
+      "venue_key": "obec-brewing",
+      "venue_url": "https://obecbrewing.com/"
     },
     {
       "date": "2026-09-24T00:00:00",
@@ -396,21 +413,21 @@
       "venue_url": "https://urbanfamilybrewing.com/home/calendar/"
     },
     {
-      "date": "2026-09-23T00:00:00",
-      "description": null,
-      "end_iso": "2026-09-23T20:00:00",
+      "date": "2026-10-01T00:00:00",
+      "description": "https://urbanfamilybrewing.com/events/alebrijes-17/",
+      "end_iso": "2026-10-01T20:00:00",
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
-      "extraction_method": "csv",
-      "location": "Channel Marker Cider",
-      "start_iso": "2026-09-23T17:30:00",
-      "start_time": "5:30 PM PT",
-      "start_time_raw": "5:30 PM",
-      "title": "Heart In Seoul",
-      "vendor": "Heart In Seoul",
-      "venue": "Channel Marker Cider",
-      "venue_key": "channel-marker",
-      "venue_url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRaaJmiJ4YrKmvwiFdsHYij1kLUVP6394gMrTPpgHwu1zTtM5aoIy9JfLyeK4WrLLDDiHcFRAtbZci_/pub?output=csv"
+      "extraction_method": "html",
+      "location": "Urban Family Brewing",
+      "start_iso": "2026-10-01T16:00:00",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "title": "Alebrijes",
+      "vendor": "Alebrijes",
+      "venue": "Urban Family Brewing",
+      "venue_key": "urban-family",
+      "venue_url": "https://urbanfamilybrewing.com/home/calendar/"
     },
     {
       "date": "2026-09-30T00:00:00",
@@ -428,23 +445,6 @@
       "venue": "Channel Marker Cider",
       "venue_key": "channel-marker",
       "venue_url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRaaJmiJ4YrKmvwiFdsHYij1kLUVP6394gMrTPpgHwu1zTtM5aoIy9JfLyeK4WrLLDDiHcFRAtbZci_/pub?output=csv"
-    },
-    {
-      "date": "2026-09-23T00:00:00",
-      "description": "Original event: Dinner: Oskar's Pizza",
-      "end_iso": "2026-09-23T21:00:00",
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
-      "extraction_method": "html",
-      "location": "Chuck's Hop Shop Greenwood",
-      "start_iso": "2026-09-23T17:00:00",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
-      "title": "Oskar's Pizza",
-      "vendor": "Oskar's Pizza",
-      "venue": "Chuck's Hop Shop Greenwood",
-      "venue_key": "chucks-greenwood",
-      "venue_url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vS8BmXLSrsUVJ1x_x8FslWooOXRLeEJV-Jq5NzhfUCI9TtO-qXr0ey2BzY8KI-GflT7ekl5015XX3uj/pub?gid=1258996532&single=true&output=csv"
     },
     {
       "date": "2026-09-24T00:00:00",
@@ -583,6 +583,23 @@
       "venue_url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vS8BmXLSrsUVJ1x_x8FslWooOXRLeEJV-Jq5NzhfUCI9TtO-qXr0ey2BzY8KI-GflT7ekl5015XX3uj/pub?gid=1258996532&single=true&output=csv"
     },
     {
+      "date": "2026-10-01T00:00:00",
+      "description": "Original event: Dinner: Pizza Paesano",
+      "end_iso": "2026-10-01T21:00:00",
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "extraction_method": "html",
+      "location": "Chuck's Hop Shop Greenwood",
+      "start_iso": "2026-10-01T17:00:00",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "title": "Pizza Paesano",
+      "vendor": "Pizza Paesano",
+      "venue": "Chuck's Hop Shop Greenwood",
+      "venue_key": "chucks-greenwood",
+      "venue_url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vS8BmXLSrsUVJ1x_x8FslWooOXRLeEJV-Jq5NzhfUCI9TtO-qXr0ey2BzY8KI-GflT7ekl5015XX3uj/pub?gid=1258996532&single=true&output=csv"
+    },
+    {
       "date": "2026-09-25T00:00:00",
       "description": null,
       "end_iso": "2026-09-25T20:00:00",
@@ -607,6 +624,6 @@
   "timezone": "America/Los_Angeles",
   "timezone_label": "PT",
   "timezone_note": "All event times are in Pacific Time (PT).",
-  "total_events": 35,
-  "updated": "2026-09-24T06:10:04.029311+00:00"
+  "total_events": 36,
+  "updated": "2026-09-24T07:10:06.154761+00:00"
 }
