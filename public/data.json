@@ -363,23 +363,6 @@
     },
     {
       "date": "2026-10-04T00:00:00",
-      "description": "https://urbanfamilybrewing.com/events/9th-and-hennepin-39/",
-      "end_iso": "2026-10-04T12:00:00",
-      "end_time": "12:00 PM PT",
-      "end_time_raw": "12:00 PM",
-      "extraction_method": "html",
-      "location": "Urban Family Brewing",
-      "start_iso": "2026-10-04T08:00:00",
-      "start_time": "8:00 AM PT",
-      "start_time_raw": "8:00 AM",
-      "title": "9th and Hennepin",
-      "vendor": "9th and Hennepin",
-      "venue": "Urban Family Brewing",
-      "venue_key": "urban-family",
-      "venue_url": "https://urbanfamilybrewing.com/home/calendar/"
-    },
-    {
-      "date": "2026-10-04T00:00:00",
       "description": "https://urbanfamilybrewing.com/events/now-make-me-a-sandwich-19/",
       "end_iso": "2026-10-04T19:00:00",
       "end_time": "7:00 PM PT",
@@ -590,6 +573,6 @@
   "timezone": "America/Los_Angeles",
   "timezone_label": "PT",
   "timezone_note": "All event times are in Pacific Time (PT).",
-  "total_events": 34,
-  "updated": "2026-09-28T19:10:01.473717+00:00"
+  "total_events": 33,
+  "updated": "2026-09-28T20:10:01.813763+00:00"
 }

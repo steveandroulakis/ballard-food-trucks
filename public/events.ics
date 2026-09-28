@@ -287,20 +287,6 @@ TRANSP:TRANSPARENT
 URL:https://ballardfoodtrucks.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:9th and Hennepin
-DTSTART:20261004T150000Z
-DTEND:20261004T190000Z
-DTSTAMP:20261004T150000Z
-UID:4aa374eae8da48f2d804784430d92c3511b7c1d4@around-the-grounds
-DESCRIPTION:https://urbanfamilybrewing.com/events/9th-and-hennepin-39/\n\n
- Curated by Ballard Food Trucks.\nSee the latest schedule and explore more 
- events:\nhttps://ballardfoodtrucks.com\n\nTimes may change\; check before 
- heading out.
-LOCATION:Urban Family Brewing
-TRANSP:TRANSPARENT
-URL:https://ballardfoodtrucks.com
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Now Make Me A Sandwich
 DTSTART:20261004T200000Z
 DTEND:20261005T020000Z
