@@ -138,58 +138,6 @@ TRANSP:TRANSPARENT
 URL:https://ballardfoodtrucks.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sabor Boricua PNW
-DTSTART:20261001T230000Z
-DTEND:20261002T030000Z
-DTSTAMP:20261001T230000Z
-UID:2eacfb1887831f4caf7b3997639fbc290abaa19f@around-the-grounds
-DESCRIPTION:Curated by Ballard Food Trucks.\nSee the latest schedule and e
- xplore more events:\nhttps://ballardfoodtrucks.com\n\nTimes may change\; c
- heck before heading out.
-LOCATION:Yonder Cider & Bale Breaker - Ballard
-TRANSP:TRANSPARENT
-URL:https://ballardfoodtrucks.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Paparepas
-DTSTART:20261002T230000Z
-DTEND:20261003T030000Z
-DTSTAMP:20261002T230000Z
-UID:7e11d196e6caed1c232efa768459c50065fbecfa@around-the-grounds
-DESCRIPTION:Curated by Ballard Food Trucks.\nSee the latest schedule and e
- xplore more events:\nhttps://ballardfoodtrucks.com\n\nTimes may change\; c
- heck before heading out.
-LOCATION:Yonder Cider & Bale Breaker - Ballard
-TRANSP:TRANSPARENT
-URL:https://ballardfoodtrucks.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Outsider BBQ
-DTSTART:20261003T200000Z
-DTEND:20261004T030000Z
-DTSTAMP:20261003T200000Z
-UID:16f89c8a79061667bcbb904d785b54d4b9f68d17@around-the-grounds
-DESCRIPTION:Curated by Ballard Food Trucks.\nSee the latest schedule and e
- xplore more events:\nhttps://ballardfoodtrucks.com\n\nTimes may change\; c
- heck before heading out.
-LOCATION:Yonder Cider & Bale Breaker - Ballard
-TRANSP:TRANSPARENT
-URL:https://ballardfoodtrucks.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tacos & Beer
-DTSTART:20261004T200000Z
-DTEND:20261005T030000Z
-DTSTAMP:20261004T200000Z
-UID:ab3668583689549764645ec76a29f97bfd71a722@around-the-grounds
-DESCRIPTION:Curated by Ballard Food Trucks.\nSee the latest schedule and e
- xplore more events:\nhttps://ballardfoodtrucks.com\n\nTimes may change\; c
- heck before heading out.
-LOCATION:Yonder Cider & Bale Breaker - Ballard
-TRANSP:TRANSPARENT
-URL:https://ballardfoodtrucks.com
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Georgia's Greek
 DTSTART:20260929T230000Z
 DTEND:20260930T030000Z
