@@ -1,7 +1,6 @@
 {
   "calendar_max_timed_hours": 10,
   "errors": [
-    "Failed to fetch information for: Channel Marker Cider",
     "Failed to fetch information for: Saleh's Corner"
   ],
   "events": [
@@ -558,5 +557,5 @@
   "timezone_label": "PT",
   "timezone_note": "All event times are in Pacific Time (PT).",
   "total_events": 32,
-  "updated": "2026-10-02T04:10:23.523160+00:00"
+  "updated": "2026-10-02T05:10:02.182256+00:00"
 }
