@@ -112,79 +112,15 @@ TRANSP:TRANSPARENT
 URL:https://ballardfoodtrucks.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Paparepas
-DTSTART:20261002T230000Z
-DTEND:20261003T030000Z
-DTSTAMP:20261002T230000Z
-UID:7e11d196e6caed1c232efa768459c50065fbecfa@around-the-grounds
-DESCRIPTION:Curated by Ballard Food Trucks.\nSee the latest schedule and e
- xplore more events:\nhttps://ballardfoodtrucks.com\n\nTimes may change\; c
- heck before heading out.
-LOCATION:Yonder Cider & Bale Breaker - Ballard
-TRANSP:TRANSPARENT
-URL:https://ballardfoodtrucks.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Outsider BBQ
-DTSTART:20261003T200000Z
-DTEND:20261004T030000Z
-DTSTAMP:20261003T200000Z
-UID:16f89c8a79061667bcbb904d785b54d4b9f68d17@around-the-grounds
-DESCRIPTION:Curated by Ballard Food Trucks.\nSee the latest schedule and e
- xplore more events:\nhttps://ballardfoodtrucks.com\n\nTimes may change\; c
- heck before heading out.
-LOCATION:Yonder Cider & Bale Breaker - Ballard
-TRANSP:TRANSPARENT
-URL:https://ballardfoodtrucks.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tacos & Beer
-DTSTART:20261004T200000Z
-DTEND:20261005T030000Z
-DTSTAMP:20261004T200000Z
-UID:ab3668583689549764645ec76a29f97bfd71a722@around-the-grounds
-DESCRIPTION:Curated by Ballard Food Trucks.\nSee the latest schedule and e
- xplore more events:\nhttps://ballardfoodtrucks.com\n\nTimes may change\; c
- heck before heading out.
-LOCATION:Yonder Cider & Bale Breaker - Ballard
-TRANSP:TRANSPARENT
-URL:https://ballardfoodtrucks.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Russo Pizzarium
-DTSTART:20261006T230000Z
-DTEND:20261007T030000Z
-DTSTAMP:20261006T230000Z
-UID:cb168f9ba7c2573b4bbd95f59219745c746a449e@around-the-grounds
-DESCRIPTION:Curated by Ballard Food Trucks.\nSee the latest schedule and e
- xplore more events:\nhttps://ballardfoodtrucks.com\n\nTimes may change\; c
- heck before heading out.
-LOCATION:Yonder Cider & Bale Breaker - Ballard
-TRANSP:TRANSPARENT
-URL:https://ballardfoodtrucks.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Max’s Burgers & Wings
-DTSTART:20261007T230000Z
-DTEND:20261008T030000Z
-DTSTAMP:20261007T230000Z
-UID:8aef9aaf830ba64e1710b81c594b9b21bfeaba33@around-the-grounds
-DESCRIPTION:Curated by Ballard Food Trucks.\nSee the latest schedule and e
- xplore more events:\nhttps://ballardfoodtrucks.com\n\nTimes may change\; c
- heck before heading out.
-LOCATION:Yonder Cider & Bale Breaker - Ballard
-TRANSP:TRANSPARENT
-URL:https://ballardfoodtrucks.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:WISEGUY ITALIAN
-DTSTART:20261009T230000Z
-DTEND:20261010T030000Z
-DTSTAMP:20261009T230000Z
-UID:e26fbb9e12b6de4a0d1dd40e73688f242fb0f941@around-the-grounds
-DESCRIPTION:Curated by Ballard Food Trucks.\nSee the latest schedule and e
- xplore more events:\nhttps://ballardfoodtrucks.com\n\nTimes may change\; c
- heck before heading out.
+SUMMARY:Check Instagram @BaleBreaker
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+DTSTAMP:20261002T000000Z
+UID:c2d0a73655a41361d8260aefa4e7e1652cc0e9df@around-the-grounds
+DESCRIPTION:Food truck schedule not available - check Instagram or website
+  directly\n\nHours not published.\n\nCurated by Ballard Food Trucks.\nSee 
+ the latest schedule and explore more events:\nhttps://ballardfoodtrucks.co
+ m\n\nTimes may change\; check before heading out.
 LOCATION:Yonder Cider & Bale Breaker - Ballard
 TRANSP:TRANSPARENT
 URL:https://ballardfoodtrucks.com
