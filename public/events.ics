@@ -8,19 +8,6 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 X-WR-TIMEZONE:America/Los_Angeles
 BEGIN:VEVENT
-SUMMARY:Tat's Truck
-DTSTART:20261003T200000Z
-DTEND:20261004T020000Z
-DTSTAMP:20261003T200000Z
-UID:6b340c4c5ade22487aba4f3db69d17269a06c7e8@around-the-grounds
-DESCRIPTION:Curated by Ballard Food Trucks.\nSee the latest schedule and e
- xplore more events:\nhttps://ballardfoodtrucks.com\n\nTimes may change\; c
- heck before heading out.
-LOCATION:Stoup Brewing - Ballard
-TRANSP:TRANSPARENT
-URL:https://ballardfoodtrucks.com
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Kaosamai Thai
 DTSTART:20261004T200000Z
 DTEND:20261005T020000Z
@@ -112,15 +99,15 @@ TRANSP:TRANSPARENT
 URL:https://ballardfoodtrucks.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Outsider BBQ
-DTSTART:20261003T200000Z
-DTEND:20261004T030000Z
-DTSTAMP:20261003T200000Z
-UID:16f89c8a79061667bcbb904d785b54d4b9f68d17@around-the-grounds
+SUMMARY:El Pirata Tortas Y Burritos / Now Make Me A Sandwich
+DTSTART:20261011T200000Z
+DTEND:20261012T020000Z
+DTSTAMP:20261011T200000Z
+UID:95730ff95fcd17b48a4d29bf3e4a534addc69bb2@around-the-grounds
 DESCRIPTION:Curated by Ballard Food Trucks.\nSee the latest schedule and e
  xplore more events:\nhttps://ballardfoodtrucks.com\n\nTimes may change\; c
  heck before heading out.
-LOCATION:Yonder Cider & Bale Breaker - Ballard
+LOCATION:Stoup Brewing - Ballard
 TRANSP:TRANSPARENT
 URL:https://ballardfoodtrucks.com
 END:VEVENT
@@ -190,29 +177,28 @@ TRANSP:TRANSPARENT
 URL:https://ballardfoodtrucks.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Kaosamai Thai
-DTSTART:20261003T220000Z
-DTEND:20261004T030000Z
-DTSTAMP:20261003T220000Z
-UID:26d7a04648923bb348646a5ab573e15d94c9715d@around-the-grounds
+SUMMARY:Tacos & Beer
+DTSTART:20261011T200000Z
+DTEND:20261012T030000Z
+DTSTAMP:20261011T200000Z
+UID:70eeb47a5b6a162afd9a43b95c4a65b07e9e0f32@around-the-grounds
 DESCRIPTION:Curated by Ballard Food Trucks.\nSee the latest schedule and e
  xplore more events:\nhttps://ballardfoodtrucks.com\n\nTimes may change\; c
  heck before heading out.
-LOCATION:Obec Brewing
+LOCATION:Yonder Cider & Bale Breaker - Ballard
 TRANSP:TRANSPARENT
 URL:https://ballardfoodtrucks.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Oskar's Pizza
-DTSTART:20261003T200000Z
-DTEND:20261004T030000Z
-DTSTAMP:20261003T200000Z
-UID:fd25de98673c6dcb3665b2a63d18a1cbd5169c33@around-the-grounds
-DESCRIPTION:https://urbanfamilybrewing.com/events/oskars-pizza-20/\n\nCura
- ted by Ballard Food Trucks.\nSee the latest schedule and explore more even
- ts:\nhttps://ballardfoodtrucks.com\n\nTimes may change\; check before head
- ing out.
-LOCATION:Urban Family Brewing
+SUMMARY:Heart in Seoul
+DTSTART:20261004T230000Z
+DTEND:20261005T030000Z
+DTSTAMP:20261004T230000Z
+UID:db573669c738fa76972168d6c87ea6b7ab05c84d@around-the-grounds
+DESCRIPTION:Curated by Ballard Food Trucks.\nSee the latest schedule and e
+ xplore more events:\nhttps://ballardfoodtrucks.com\n\nTimes may change\; c
+ heck before heading out.
+LOCATION:Obec Brewing
 TRANSP:TRANSPARENT
 URL:https://ballardfoodtrucks.com
 END:VEVENT
@@ -315,15 +301,30 @@ TRANSP:TRANSPARENT
 URL:https://ballardfoodtrucks.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sabor Boricua
-DTSTART:20261003T190000Z
-DTEND:20261004T030000Z
-DTSTAMP:20261003T190000Z
-UID:28e9a55ac178f240c4e22a388408bac5e3d498fb@around-the-grounds
-DESCRIPTION:Original event: Dinner: Sabor Boricua\n\nCurated by Ballard Fo
- od Trucks.\nSee the latest schedule and explore more events:\nhttps://ball
- ardfoodtrucks.com\n\nTimes may change\; check before heading out.
-LOCATION:Chuck's Hop Shop Greenwood
+SUMMARY:9th and Hennepin
+DTSTART:20261011T150000Z
+DTEND:20261011T190000Z
+DTSTAMP:20261011T150000Z
+UID:0889b4ddab5821b550c28714079df7a0dfb4b980@around-the-grounds
+DESCRIPTION:https://urbanfamilybrewing.com/events/9th-and-hennepin-40/\n\n
+ Curated by Ballard Food Trucks.\nSee the latest schedule and explore more 
+ events:\nhttps://ballardfoodtrucks.com\n\nTimes may change\; check before 
+ heading out.
+LOCATION:Urban Family Brewing
+TRANSP:TRANSPARENT
+URL:https://ballardfoodtrucks.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kaosamai
+DTSTART:20261011T200000Z
+DTEND:20261012T020000Z
+DTSTAMP:20261011T200000Z
+UID:4d78d11131a57ddb8c9566bc0008e1c754fbf79c@around-the-grounds
+DESCRIPTION:https://urbanfamilybrewing.com/events/kaosamai-18/\n\nCurated 
+ by Ballard Food Trucks.\nSee the latest schedule and explore more events:\
+ nhttps://ballardfoodtrucks.com\n\nTimes may change\; check before heading 
+ out.
+LOCATION:Urban Family Brewing
 TRANSP:TRANSPARENT
 URL:https://ballardfoodtrucks.com
 END:VEVENT
@@ -427,6 +428,32 @@ UID:f423bfc17a6a0d5f0248e34e83dbb7bafd8a4afb@around-the-grounds
 DESCRIPTION:Original event: Tat's Deli\n\nCurated by Ballard Food Trucks.\
  nSee the latest schedule and explore more events:\nhttps://ballardfoodtruc
  ks.com\n\nTimes may change\; check before heading out.
+LOCATION:Chuck's Hop Shop Greenwood
+TRANSP:TRANSPARENT
+URL:https://ballardfoodtrucks.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Good Morning Tacos
+DTSTART:20261011T160000Z
+DTEND:20261011T220000Z
+DTSTAMP:20261011T160000Z
+UID:b45ddb7c31ab46cd727e74d0fdedafaf8200abbe@around-the-grounds
+DESCRIPTION:Original event: Brunch: Good Morning Tacos\n\nCurated by Balla
+ rd Food Trucks.\nSee the latest schedule and explore more events:\nhttps:/
+ /ballardfoodtrucks.com\n\nTimes may change\; check before heading out.
+LOCATION:Chuck's Hop Shop Greenwood
+TRANSP:TRANSPARENT
+URL:https://ballardfoodtrucks.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Georgia's Greek
+DTSTART:20261011T230000Z
+DTEND:20261012T040000Z
+DTSTAMP:20261011T230000Z
+UID:b378273aedc3aa34ab0b71da1569f78d65bbbd94@around-the-grounds
+DESCRIPTION:Original event: Dinner: Georgia's Greek\n\nCurated by Ballard 
+ Food Trucks.\nSee the latest schedule and explore more events:\nhttps://ba
+ llardfoodtrucks.com\n\nTimes may change\; check before heading out.
 LOCATION:Chuck's Hop Shop Greenwood
 TRANSP:TRANSPARENT
 URL:https://ballardfoodtrucks.com
