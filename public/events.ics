@@ -138,6 +138,19 @@ TRANSP:TRANSPARENT
 URL:https://ballardfoodtrucks.com
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Impeckable Chicken
+DTSTART:20261008T230000Z
+DTEND:20261009T030000Z
+DTSTAMP:20261008T230000Z
+UID:bd2f7e587984544a378a79d3e8ab7b0c5f36bde9@around-the-grounds
+DESCRIPTION:Curated by Ballard Food Trucks.\nSee the latest schedule and e
+ xplore more events:\nhttps://ballardfoodtrucks.com\n\nTimes may change\; c
+ heck before heading out.
+LOCATION:Yonder Cider & Bale Breaker - Ballard
+TRANSP:TRANSPARENT
+URL:https://ballardfoodtrucks.com
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:WISEGUY ITALIAN
 DTSTART:20261009T230000Z
 DTEND:20261010T030000Z
