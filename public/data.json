@@ -379,23 +379,6 @@
       "venue_url": "https://urbanfamilybrewing.com/home/calendar/"
     },
     {
-      "date": "2026-10-11T00:00:00",
-      "description": "https://urbanfamilybrewing.com/events/kaosamai-18/",
-      "end_iso": "2026-10-11T19:00:00",
-      "end_time": "7:00 PM PT",
-      "end_time_raw": "7:00 PM",
-      "extraction_method": "html",
-      "location": "Urban Family Brewing",
-      "start_iso": "2026-10-11T13:00:00",
-      "start_time": "1:00 PM PT",
-      "start_time_raw": "1:00 PM",
-      "title": "Kaosamai",
-      "vendor": "Kaosamai",
-      "venue": "Urban Family Brewing",
-      "venue_key": "urban-family",
-      "venue_url": "https://urbanfamilybrewing.com/home/calendar/"
-    },
-    {
       "date": "2026-10-12T00:00:00",
       "description": "https://urbanfamilybrewing.com/events/la-riviera-maya-21/",
       "end_iso": "2026-10-12T20:00:00",
@@ -573,6 +556,6 @@
   "timezone": "America/Los_Angeles",
   "timezone_label": "PT",
   "timezone_note": "All event times are in Pacific Time (PT).",
-  "total_events": 33,
-  "updated": "2026-10-06T03:10:03.061148+00:00"
+  "total_events": 32,
+  "updated": "2026-10-06T04:10:01.685807+00:00"
 }

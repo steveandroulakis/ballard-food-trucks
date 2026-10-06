@@ -301,20 +301,6 @@ TRANSP:TRANSPARENT
 URL:https://ballardfoodtrucks.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Kaosamai
-DTSTART:20261011T200000Z
-DTEND:20261012T020000Z
-DTSTAMP:20261011T200000Z
-UID:4d78d11131a57ddb8c9566bc0008e1c754fbf79c@around-the-grounds
-DESCRIPTION:https://urbanfamilybrewing.com/events/kaosamai-18/\n\nCurated 
- by Ballard Food Trucks.\nSee the latest schedule and explore more events:\
- nhttps://ballardfoodtrucks.com\n\nTimes may change\; check before heading 
- out.
-LOCATION:Urban Family Brewing
-TRANSP:TRANSPARENT
-URL:https://ballardfoodtrucks.com
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:La Riviera Maya
 DTSTART:20261012T230000Z
 DTEND:20261013T030000Z
