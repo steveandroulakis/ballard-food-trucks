@@ -112,11 +112,11 @@ TRANSP:TRANSPARENT
 URL:https://ballardfoodtrucks.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Max’s Burgers & Wings
-DTSTART:20261010T200000Z
+SUMMARY:Outsider BBQ
+DTSTART:20261010T190000Z
 DTEND:20261011T030000Z
-DTSTAMP:20261010T200000Z
-UID:555be0602736cb9e832aa7e3daba691d0f3e7311@around-the-grounds
+DTSTAMP:20261010T190000Z
+UID:12706c5b7fa455dc59dd0a7dc496947025bc0cd5@around-the-grounds
 DESCRIPTION:Curated by Ballard Food Trucks.\nSee the latest schedule and e
  xplore more events:\nhttps://ballardfoodtrucks.com\n\nTimes may change\; c
  heck before heading out.

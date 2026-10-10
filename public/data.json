@@ -141,18 +141,18 @@
       "venue_url": "https://www.stoupbrewing.com/ballard/"
     },
     {
-      "date": "2026-10-10T13:00:00.425000",
+      "date": "2026-10-10T12:00:00.664000",
       "description": null,
-      "end_iso": "2026-10-10T20:00:00.425000",
+      "end_iso": "2026-10-10T20:00:00.664000",
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
       "extraction_method": "html",
       "location": "Yonder Cider & Bale Breaker - Ballard",
-      "start_iso": "2026-10-10T13:00:00.425000",
-      "start_time": "1:00 PM PT",
-      "start_time_raw": "1:00 PM",
-      "title": "Max\u2019s Burgers & Wings",
-      "vendor": "Max\u2019s Burgers & Wings",
+      "start_iso": "2026-10-10T12:00:00.664000",
+      "start_time": "12:00 PM PT",
+      "start_time_raw": "12:00 PM",
+      "title": "Outsider BBQ",
+      "vendor": "Outsider BBQ",
       "venue": "Yonder Cider & Bale Breaker - Ballard",
       "venue_key": "yonder-balebreaker",
       "venue_url": "https://www.bbycballard.com/food-trucks-1-1"
@@ -574,5 +574,5 @@
   "timezone_label": "PT",
   "timezone_note": "All event times are in Pacific Time (PT).",
   "total_events": 33,
-  "updated": "2026-10-10T16:10:01.402164+00:00"
+  "updated": "2026-10-10T17:10:02.683847+00:00"
 }
