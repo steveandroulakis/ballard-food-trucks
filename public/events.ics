@@ -204,9 +204,9 @@ URL:https://ballardfoodtrucks.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Heart in Seoul
-DTSTART:20261011T230000Z
+DTSTART:20261011T210000Z
 DTEND:20261012T030000Z
-DTSTAMP:20261011T230000Z
+DTSTAMP:20261011T210000Z
 UID:eae13249d0666f491e0ba59a72bf6162f2430cc1@around-the-grounds
 DESCRIPTION:Curated by Ballard Food Trucks.\nSee the latest schedule and e
  xplore more events:\nhttps://ballardfoodtrucks.com\n\nTimes may change\; c

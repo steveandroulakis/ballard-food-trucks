@@ -267,9 +267,9 @@
       "end_time_raw": "8:00 PM",
       "extraction_method": "html",
       "location": "Obec Brewing",
-      "start_iso": "2026-10-11T16:00:00",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
+      "start_iso": "2026-10-11T14:00:00",
+      "start_time": "2:00 PM PT",
+      "start_time_raw": "2:00 PM",
       "title": "Heart in Seoul",
       "vendor": "Heart in Seoul",
       "venue": "Obec Brewing",
@@ -608,5 +608,5 @@
   "timezone_label": "PT",
   "timezone_note": "All event times are in Pacific Time (PT).",
   "total_events": 35,
-  "updated": "2026-10-11T18:10:02.373186+00:00"
+  "updated": "2026-10-11T19:10:01.551237+00:00"
 }
