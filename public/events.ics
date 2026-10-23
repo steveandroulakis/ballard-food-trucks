@@ -112,11 +112,11 @@ TRANSP:TRANSPARENT
 URL:https://ballardfoodtrucks.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:WISEGUY ITALIAN
+SUMMARY:The Panini Truck
 DTSTART:20261023T230000Z
 DTEND:20261024T030000Z
 DTSTAMP:20261023T230000Z
-UID:49b9f52246065281b3c4f25f878a919672c58b1d@around-the-grounds
+UID:3ef9105750c98ef01315acfb5ffc94e630981420@around-the-grounds
 DESCRIPTION:Curated by Ballard Food Trucks.\nSee the latest schedule and e
  xplore more events:\nhttps://ballardfoodtrucks.com\n\nTimes may change\; c
  heck before heading out.
