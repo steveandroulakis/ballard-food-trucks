@@ -5,23 +5,6 @@
   ],
   "events": [
     {
-      "date": "2026-10-27T00:00:00",
-      "description": null,
-      "end_iso": "2026-10-27T20:00:00",
-      "end_time": "8:00 PM PT",
-      "end_time_raw": "8:00 PM",
-      "extraction_method": "html",
-      "location": "Stoup Brewing - Ballard",
-      "start_iso": "2026-10-27T17:00:00",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
-      "title": "Max's Burgers & Wings",
-      "vendor": "Max's Burgers & Wings",
-      "venue": "Stoup Brewing - Ballard",
-      "venue_key": "stoup-ballard",
-      "venue_url": "https://www.stoupbrewing.com/ballard/"
-    },
-    {
       "date": "2026-10-28T00:00:00",
       "description": null,
       "end_iso": "2026-10-28T20:30:00",
@@ -141,21 +124,21 @@
       "venue_url": "https://www.stoupbrewing.com/ballard/"
     },
     {
-      "date": "2026-10-27T16:00:00.425000",
+      "date": "2026-11-04T00:00:00",
       "description": null,
-      "end_iso": "2026-10-27T20:00:00.425000",
+      "end_iso": "2026-11-04T20:00:00",
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
       "extraction_method": "html",
-      "location": "Yonder Cider & Bale Breaker - Ballard",
-      "start_iso": "2026-10-27T16:00:00.425000",
-      "start_time": "4:00 PM PT",
-      "start_time_raw": "4:00 PM",
-      "title": "El Gran Taco",
-      "vendor": "El Gran Taco",
-      "venue": "Yonder Cider & Bale Breaker - Ballard",
-      "venue_key": "yonder-balebreaker",
-      "venue_url": "https://www.bbycballard.com/food-trucks-1-1"
+      "location": "Stoup Brewing - Ballard",
+      "start_iso": "2026-11-04T17:00:00",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "title": "Impeccable Chicken",
+      "vendor": "Impeccable Chicken",
+      "venue": "Stoup Brewing - Ballard",
+      "venue_key": "stoup-ballard",
+      "venue_url": "https://www.stoupbrewing.com/ballard/"
     },
     {
       "date": "2026-10-28T16:00:00.975000",
@@ -260,21 +243,21 @@
       "venue_url": "https://www.bbycballard.com/food-trucks-1-1"
     },
     {
-      "date": "2026-10-27T00:00:00",
-      "description": "https://urbanfamilybrewing.com/events/georgias-greek-21/",
-      "end_iso": "2026-10-27T20:00:00",
+      "date": "2026-11-04T16:00:00.975000",
+      "description": null,
+      "end_iso": "2026-11-04T20:00:00.975000",
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
       "extraction_method": "html",
-      "location": "Urban Family Brewing",
-      "start_iso": "2026-10-27T16:00:00",
+      "location": "Yonder Cider & Bale Breaker - Ballard",
+      "start_iso": "2026-11-04T16:00:00.975000",
       "start_time": "4:00 PM PT",
       "start_time_raw": "4:00 PM",
-      "title": "Georgia's Greek",
-      "vendor": "Georgia's Greek",
-      "venue": "Urban Family Brewing",
-      "venue_key": "urban-family",
-      "venue_url": "https://urbanfamilybrewing.com/home/calendar/"
+      "title": "Hallava Falafel",
+      "vendor": "Hallava Falafel",
+      "venue": "Yonder Cider & Bale Breaker - Ballard",
+      "venue_key": "yonder-balebreaker",
+      "venue_url": "https://www.bbycballard.com/food-trucks-1-1"
     },
     {
       "date": "2026-10-28T00:00:00",
@@ -413,21 +396,21 @@
       "venue_url": "https://urbanfamilybrewing.com/home/calendar/"
     },
     {
-      "date": "2026-10-27T00:00:00",
-      "description": "Original event: Dinner: Kaosamai Thai",
-      "end_iso": "2026-10-27T21:00:00",
-      "end_time": "9:00 PM PT",
-      "end_time_raw": "9:00 PM",
+      "date": "2026-11-04T00:00:00",
+      "description": "https://urbanfamilybrewing.com/events/katmandu-momocha-22/",
+      "end_iso": "2026-11-04T20:00:00",
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
       "extraction_method": "html",
-      "location": "Chuck's Hop Shop Greenwood",
-      "start_iso": "2026-10-27T17:00:00",
-      "start_time": "5:00 PM PT",
-      "start_time_raw": "5:00 PM",
-      "title": "Kaosamai Thai",
-      "vendor": "Kaosamai Thai",
-      "venue": "Chuck's Hop Shop Greenwood",
-      "venue_key": "chucks-greenwood",
-      "venue_url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vS8BmXLSrsUVJ1x_x8FslWooOXRLeEJV-Jq5NzhfUCI9TtO-qXr0ey2BzY8KI-GflT7ekl5015XX3uj/pub?gid=1258996532&single=true&output=csv"
+      "location": "Urban Family Brewing",
+      "start_iso": "2026-11-04T16:00:00",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "title": "Katmandu Momocha",
+      "vendor": "Katmandu Momocha",
+      "venue": "Urban Family Brewing",
+      "venue_key": "urban-family",
+      "venue_url": "https://urbanfamilybrewing.com/home/calendar/"
     },
     {
       "date": "2026-10-28T00:00:00",
@@ -564,6 +547,23 @@
       "venue": "Chuck's Hop Shop Greenwood",
       "venue_key": "chucks-greenwood",
       "venue_url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vS8BmXLSrsUVJ1x_x8FslWooOXRLeEJV-Jq5NzhfUCI9TtO-qXr0ey2BzY8KI-GflT7ekl5015XX3uj/pub?gid=1258996532&single=true&output=csv"
+    },
+    {
+      "date": "2026-11-04T00:00:00",
+      "description": "Original event: Dinner: Oskar's Pizza",
+      "end_iso": "2026-11-04T21:00:00",
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "extraction_method": "html",
+      "location": "Chuck's Hop Shop Greenwood",
+      "start_iso": "2026-11-04T17:00:00",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "title": "Oskar's Pizza",
+      "vendor": "Oskar's Pizza",
+      "venue": "Chuck's Hop Shop Greenwood",
+      "venue_key": "chucks-greenwood",
+      "venue_url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vS8BmXLSrsUVJ1x_x8FslWooOXRLeEJV-Jq5NzhfUCI9TtO-qXr0ey2BzY8KI-GflT7ekl5015XX3uj/pub?gid=1258996532&single=true&output=csv"
     }
   ],
   "haiku": null,
@@ -574,5 +574,5 @@
   "timezone_label": "PT",
   "timezone_note": "All event times are in Pacific Time (PT).",
   "total_events": 33,
-  "updated": "2026-10-28T06:10:02.414020+00:00"
+  "updated": "2026-10-28T07:10:01.513673+00:00"
 }
