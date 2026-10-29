@@ -261,6 +261,23 @@
     },
     {
       "date": "2026-10-28T00:00:00",
+      "description": null,
+      "end_iso": "2026-10-28T20:00:00",
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
+      "extraction_method": "html",
+      "location": "Obec Brewing",
+      "start_iso": "2026-10-28T16:00:00",
+      "start_time": "4:00 PM PT",
+      "start_time_raw": "4:00 PM",
+      "title": "Cocina Barelas",
+      "vendor": "Cocina Barelas",
+      "venue": "Obec Brewing",
+      "venue_key": "obec-brewing",
+      "venue_url": "https://obecbrewing.com/"
+    },
+    {
+      "date": "2026-10-28T00:00:00",
       "description": "https://urbanfamilybrewing.com/events/impeccable-chicken-22/",
       "end_iso": "2026-10-28T20:00:00",
       "end_time": "8:00 PM PT",
@@ -573,6 +590,6 @@
   "timezone": "America/Los_Angeles",
   "timezone_label": "PT",
   "timezone_note": "All event times are in Pacific Time (PT).",
-  "total_events": 33,
-  "updated": "2026-10-28T23:10:05.832587+00:00"
+  "total_events": 34,
+  "updated": "2026-10-29T00:10:02.316642+00:00"
 }
