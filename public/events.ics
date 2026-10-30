@@ -151,58 +151,6 @@ TRANSP:TRANSPARENT
 URL:https://ballardfoodtrucks.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tacos & Beer
-DTSTART:20261101T210000Z
-DTEND:20261102T040000Z
-DTSTAMP:20261101T210000Z
-UID:aefa3e5de0c942165476bb87acb922c683e0c438@around-the-grounds
-DESCRIPTION:Curated by Ballard Food Trucks.\nSee the latest schedule and e
- xplore more events:\nhttps://ballardfoodtrucks.com\n\nTimes may change\; c
- heck before heading out.
-LOCATION:Yonder Cider & Bale Breaker - Ballard
-TRANSP:TRANSPARENT
-URL:https://ballardfoodtrucks.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Russo Pizzarium
-DTSTART:20261104T000000Z
-DTEND:20261104T040000Z
-DTSTAMP:20261104T000000Z
-UID:ab134166cc47965665a4633a19a018a8792d53b5@around-the-grounds
-DESCRIPTION:Curated by Ballard Food Trucks.\nSee the latest schedule and e
- xplore more events:\nhttps://ballardfoodtrucks.com\n\nTimes may change\; c
- heck before heading out.
-LOCATION:Yonder Cider & Bale Breaker - Ballard
-TRANSP:TRANSPARENT
-URL:https://ballardfoodtrucks.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hallava Falafel
-DTSTART:20261105T000000Z
-DTEND:20261105T040000Z
-DTSTAMP:20261105T000000Z
-UID:8cb7fe19a922623d85c05662853a673d2dc41d91@around-the-grounds
-DESCRIPTION:Curated by Ballard Food Trucks.\nSee the latest schedule and e
- xplore more events:\nhttps://ballardfoodtrucks.com\n\nTimes may change\; c
- heck before heading out.
-LOCATION:Yonder Cider & Bale Breaker - Ballard
-TRANSP:TRANSPARENT
-URL:https://ballardfoodtrucks.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Heart in Seoul
-DTSTART:20261106T000000Z
-DTEND:20261106T040000Z
-DTSTAMP:20261106T000000Z
-UID:97ecab25c9a1db548f5b0545ad129f72a3649c6e@around-the-grounds
-DESCRIPTION:Curated by Ballard Food Trucks.\nSee the latest schedule and e
- xplore more events:\nhttps://ballardfoodtrucks.com\n\nTimes may change\; c
- heck before heading out.
-LOCATION:Yonder Cider & Bale Breaker - Ballard
-TRANSP:TRANSPARENT
-URL:https://ballardfoodtrucks.com
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Woodshop BBQ
 DTSTART:20261029T230000Z
 DTEND:20261030T030000Z
