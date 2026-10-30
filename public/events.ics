@@ -139,10 +139,10 @@ URL:https://ballardfoodtrucks.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Outsider BBQ
-DTSTART:20261031T200000Z
+DTSTART:20261031T220000Z
 DTEND:20261101T030000Z
-DTSTAMP:20261031T200000Z
-UID:e793dd26b6b4c240d26e77415bebd37bed45d39f@around-the-grounds
+DTSTAMP:20261031T220000Z
+UID:f3d68f823498dd5ffc40d0a551796a95e6f7fe2a@around-the-grounds
 DESCRIPTION:Curated by Ballard Food Trucks.\nSee the latest schedule and e
  xplore more events:\nhttps://ballardfoodtrucks.com\n\nTimes may change\; c
  heck before heading out.
