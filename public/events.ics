@@ -8,19 +8,6 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 X-WR-TIMEZONE:America/Los_Angeles
 BEGIN:VEVENT
-SUMMARY:El Sabor Boricua
-DTSTART:20261031T000000Z
-DTEND:20261031T040000Z
-DTSTAMP:20261031T000000Z
-UID:809269afecc5c88213ff64774ababf40a4f16924@around-the-grounds
-DESCRIPTION:Curated by Ballard Food Trucks.\nSee the latest schedule and e
- xplore more events:\nhttps://ballardfoodtrucks.com\n\nTimes may change\; c
- heck before heading out.
-LOCATION:Stoup Brewing - Ballard
-TRANSP:TRANSPARENT
-URL:https://ballardfoodtrucks.com
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Tat's Truck
 DTSTART:20261031T200000Z
 DTEND:20261101T020000Z
@@ -112,15 +99,15 @@ TRANSP:TRANSPARENT
 URL:https://ballardfoodtrucks.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Paparepas
-DTSTART:20261030T230000Z
-DTEND:20261031T030000Z
-DTSTAMP:20261030T230000Z
-UID:f9e97fd2bff1c6e04d6f25b5eb63bddec367fa28@around-the-grounds
+SUMMARY:Georgia's Greek
+DTSTART:20261107T210000Z
+DTEND:20261108T040000Z
+DTSTAMP:20261107T210000Z
+UID:cde68cb94eca12d9f32ba325907319adb58654bd@around-the-grounds
 DESCRIPTION:Curated by Ballard Food Trucks.\nSee the latest schedule and e
  xplore more events:\nhttps://ballardfoodtrucks.com\n\nTimes may change\; c
  heck before heading out.
-LOCATION:Yonder Cider & Bale Breaker - Ballard
+LOCATION:Stoup Brewing - Ballard
 TRANSP:TRANSPARENT
 URL:https://ballardfoodtrucks.com
 END:VEVENT
@@ -138,29 +125,15 @@ TRANSP:TRANSPARENT
 URL:https://ballardfoodtrucks.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Cocina Barelas
-DTSTART:20261030T230000Z
-DTEND:20261031T040000Z
-DTSTAMP:20261030T230000Z
-UID:cdba20a78f226422f50f44ec60b52fdb2659680a@around-the-grounds
+SUMMARY:Kaosamai Thai
+DTSTART:20261031T220000Z
+DTEND:20261101T030000Z
+DTSTAMP:20261031T220000Z
+UID:cb4d2fd6b0138c296fc0abcc39dae027da649851@around-the-grounds
 DESCRIPTION:Curated by Ballard Food Trucks.\nSee the latest schedule and e
  xplore more events:\nhttps://ballardfoodtrucks.com\n\nTimes may change\; c
  heck before heading out.
 LOCATION:Obec Brewing
-TRANSP:TRANSPARENT
-URL:https://ballardfoodtrucks.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tacos and Beer
-DTSTART:20261030T230000Z
-DTEND:20261031T030000Z
-DTSTAMP:20261030T230000Z
-UID:7058677641cd825dc9094b98d5377360f907786f@around-the-grounds
-DESCRIPTION:https://urbanfamilybrewing.com/events/tacos-and-beer-20/\n\nCu
- rated by Ballard Food Trucks.\nSee the latest schedule and explore more ev
- ents:\nhttps://ballardfoodtrucks.com\n\nTimes may change\; check before he
- ading out.
-LOCATION:Urban Family Brewing
 TRANSP:TRANSPARENT
 URL:https://ballardfoodtrucks.com
 END:VEVENT
@@ -277,15 +250,16 @@ TRANSP:TRANSPARENT
 URL:https://ballardfoodtrucks.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:T'Juana
-DTSTART:20261031T000000Z
-DTEND:20261031T040000Z
-DTSTAMP:20261031T000000Z
-UID:4881171bdbefb0567206083d601eeb65e9c8217c@around-the-grounds
-DESCRIPTION:Original event: Dinner: T'Juana\n\nCurated by Ballard Food Tru
- cks.\nSee the latest schedule and explore more events:\nhttps://ballardfoo
- dtrucks.com\n\nTimes may change\; check before heading out.
-LOCATION:Chuck's Hop Shop Greenwood
+SUMMARY:Momo Express
+DTSTART:20261107T210000Z
+DTEND:20261108T040000Z
+DTSTAMP:20261107T210000Z
+UID:20329f8f029f0bc933e0fcdc73c56564314e016d@around-the-grounds
+DESCRIPTION:https://urbanfamilybrewing.com/events/momo-express-23/\n\nCura
+ ted by Ballard Food Trucks.\nSee the latest schedule and explore more even
+ ts:\nhttps://ballardfoodtrucks.com\n\nTimes may change\; check before head
+ ing out.
+LOCATION:Urban Family Brewing
 TRANSP:TRANSPARENT
 URL:https://ballardfoodtrucks.com
 END:VEVENT
@@ -389,6 +363,19 @@ UID:e8f183863a4e44b35d87d0201611c3cdc3dbcdd0@around-the-grounds
 DESCRIPTION:Original event: Dinner: Where ya at Matt\n\nCurated by Ballard
   Food Trucks.\nSee the latest schedule and explore more events:\nhttps://b
  allardfoodtrucks.com\n\nTimes may change\; check before heading out.
+LOCATION:Chuck's Hop Shop Greenwood
+TRANSP:TRANSPARENT
+URL:https://ballardfoodtrucks.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tat's Deli
+DTSTART:20261107T200000Z
+DTEND:20261108T030000Z
+DTSTAMP:20261107T200000Z
+UID:d8bd3d7f3c41f3f1b13a0a6209b1dcedbe147780@around-the-grounds
+DESCRIPTION:Original event: Tat's Deli\n\nCurated by Ballard Food Trucks.\
+ nSee the latest schedule and explore more events:\nhttps://ballardfoodtruc
+ ks.com\n\nTimes may change\; check before heading out.
 LOCATION:Chuck's Hop Shop Greenwood
 TRANSP:TRANSPARENT
 URL:https://ballardfoodtrucks.com
