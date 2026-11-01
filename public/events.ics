@@ -112,11 +112,63 @@ TRANSP:TRANSPARENT
 URL:https://ballardfoodtrucks.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Outsider BBQ
-DTSTART:20261031T220000Z
-DTEND:20261101T030000Z
-DTSTAMP:20261031T220000Z
-UID:f3d68f823498dd5ffc40d0a551796a95e6f7fe2a@around-the-grounds
+SUMMARY:Tacos & Beer
+DTSTART:20261101T210000Z
+DTEND:20261102T040000Z
+DTSTAMP:20261101T210000Z
+UID:aefa3e5de0c942165476bb87acb922c683e0c438@around-the-grounds
+DESCRIPTION:Curated by Ballard Food Trucks.\nSee the latest schedule and e
+ xplore more events:\nhttps://ballardfoodtrucks.com\n\nTimes may change\; c
+ heck before heading out.
+LOCATION:Yonder Cider & Bale Breaker - Ballard
+TRANSP:TRANSPARENT
+URL:https://ballardfoodtrucks.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hallava Falafel
+DTSTART:20261105T000000Z
+DTEND:20261105T040000Z
+DTSTAMP:20261105T000000Z
+UID:8cb7fe19a922623d85c05662853a673d2dc41d91@around-the-grounds
+DESCRIPTION:Curated by Ballard Food Trucks.\nSee the latest schedule and e
+ xplore more events:\nhttps://ballardfoodtrucks.com\n\nTimes may change\; c
+ heck before heading out.
+LOCATION:Yonder Cider & Bale Breaker - Ballard
+TRANSP:TRANSPARENT
+URL:https://ballardfoodtrucks.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Heart in Seoul
+DTSTART:20261106T000000Z
+DTEND:20261106T040000Z
+DTSTAMP:20261106T000000Z
+UID:97ecab25c9a1db548f5b0545ad129f72a3649c6e@around-the-grounds
+DESCRIPTION:Curated by Ballard Food Trucks.\nSee the latest schedule and e
+ xplore more events:\nhttps://ballardfoodtrucks.com\n\nTimes may change\; c
+ heck before heading out.
+LOCATION:Yonder Cider & Bale Breaker - Ballard
+TRANSP:TRANSPARENT
+URL:https://ballardfoodtrucks.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WISEGUY ITALIAN
+DTSTART:20261107T000000Z
+DTEND:20261107T040000Z
+DTSTAMP:20261107T000000Z
+UID:3ddc0467d7fb3fbd3f88062c811cf85add1b4e34@around-the-grounds
+DESCRIPTION:Curated by Ballard Food Trucks.\nSee the latest schedule and e
+ xplore more events:\nhttps://ballardfoodtrucks.com\n\nTimes may change\; c
+ heck before heading out.
+LOCATION:Yonder Cider & Bale Breaker - Ballard
+TRANSP:TRANSPARENT
+URL:https://ballardfoodtrucks.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wich Came First
+DTSTART:20261107T210000Z
+DTEND:20261108T040000Z
+DTSTAMP:20261107T210000Z
+UID:e76354a38ad7c6241b3b7b22825cbcfb47427c8d@around-the-grounds
 DESCRIPTION:Curated by Ballard Food Trucks.\nSee the latest schedule and e
  xplore more events:\nhttps://ballardfoodtrucks.com\n\nTimes may change\; c
  heck before heading out.
