@@ -112,6 +112,19 @@ TRANSP:TRANSPARENT
 URL:https://ballardfoodtrucks.com
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:El Gran Taco
+DTSTART:20261104T000000Z
+DTEND:20261104T040000Z
+DTSTAMP:20261104T000000Z
+UID:71ae9e0c2c0ab82da80162e8c7b842eb7d90bcf8@around-the-grounds
+DESCRIPTION:Curated by Ballard Food Trucks.\nSee the latest schedule and e
+ xplore more events:\nhttps://ballardfoodtrucks.com\n\nTimes may change\; c
+ heck before heading out.
+LOCATION:Yonder Cider & Bale Breaker - Ballard
+TRANSP:TRANSPARENT
+URL:https://ballardfoodtrucks.com
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Hallava Falafel
 DTSTART:20261105T000000Z
 DTEND:20261105T040000Z
