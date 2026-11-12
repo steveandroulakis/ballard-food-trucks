@@ -397,6 +397,23 @@
     },
     {
       "date": "2026-11-11T00:00:00",
+      "description": "Original event: Dinner: Oskar's Pizza",
+      "end_iso": "2026-11-11T21:00:00",
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "extraction_method": "html",
+      "location": "Chuck's Hop Shop Greenwood",
+      "start_iso": "2026-11-11T17:00:00",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "title": "Oskar's Pizza",
+      "vendor": "Oskar's Pizza",
+      "venue": "Chuck's Hop Shop Greenwood",
+      "venue_key": "chucks-greenwood",
+      "venue_url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vS8BmXLSrsUVJ1x_x8FslWooOXRLeEJV-Jq5NzhfUCI9TtO-qXr0ey2BzY8KI-GflT7ekl5015XX3uj/pub?gid=1258996532&single=true&output=csv"
+    },
+    {
+      "date": "2026-11-11T00:00:00",
       "description": "Original event: Dinner: Chick'n Fix",
       "end_iso": "2026-11-11T21:00:00",
       "end_time": "9:00 PM PT",
@@ -425,6 +442,23 @@
       "start_time_raw": "5:00 PM",
       "title": "Oskar's Pizza",
       "vendor": "Oskar's Pizza",
+      "venue": "Chuck's Hop Shop Greenwood",
+      "venue_key": "chucks-greenwood",
+      "venue_url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vS8BmXLSrsUVJ1x_x8FslWooOXRLeEJV-Jq5NzhfUCI9TtO-qXr0ey2BzY8KI-GflT7ekl5015XX3uj/pub?gid=1258996532&single=true&output=csv"
+    },
+    {
+      "date": "2026-11-12T00:00:00",
+      "description": "Original event: Dinner: Impeckable Chicken",
+      "end_iso": "2026-11-12T21:00:00",
+      "end_time": "9:00 PM PT",
+      "end_time_raw": "9:00 PM",
+      "extraction_method": "html",
+      "location": "Chuck's Hop Shop Greenwood",
+      "start_iso": "2026-11-12T17:00:00",
+      "start_time": "5:00 PM PT",
+      "start_time_raw": "5:00 PM",
+      "title": "Impeckable Chicken",
+      "vendor": "Impeckable Chicken",
       "venue": "Chuck's Hop Shop Greenwood",
       "venue_key": "chucks-greenwood",
       "venue_url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vS8BmXLSrsUVJ1x_x8FslWooOXRLeEJV-Jq5NzhfUCI9TtO-qXr0ey2BzY8KI-GflT7ekl5015XX3uj/pub?gid=1258996532&single=true&output=csv"
@@ -709,6 +743,6 @@
   "timezone": "America/Los_Angeles",
   "timezone_label": "PT",
   "timezone_note": "All event times are in Pacific Time (PT).",
-  "total_events": 41,
-  "updated": "2026-11-12T01:10:01.550618+00:00"
+  "total_events": 43,
+  "updated": "2026-11-12T02:10:01.539340+00:00"
 }

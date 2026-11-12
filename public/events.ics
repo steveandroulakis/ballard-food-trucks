@@ -316,6 +316,19 @@ TRANSP:TRANSPARENT
 URL:https://ballardfoodtrucks.com
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Oskar's Pizza
+DTSTART:20261112T010000Z
+DTEND:20261112T050000Z
+DTSTAMP:20261112T010000Z
+UID:d5cd48de2f38e5f1ace37876eb17c189c2df94ea@around-the-grounds
+DESCRIPTION:Original event: Dinner: Oskar's Pizza\n\nCurated by Ballard Fo
+ od Trucks.\nSee the latest schedule and explore more events:\nhttps://ball
+ ardfoodtrucks.com\n\nTimes may change\; check before heading out.
+LOCATION:Chuck's Hop Shop Greenwood
+TRANSP:TRANSPARENT
+URL:https://ballardfoodtrucks.com
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Chick'n Fix
 DTSTART:20261112T010000Z
 DTEND:20261112T050000Z
@@ -337,6 +350,19 @@ UID:d5cd48de2f38e5f1ace37876eb17c189c2df94ea@around-the-grounds
 DESCRIPTION:Original event: Dinner: Oskar's Pizza\n\nCurated by Ballard Fo
  od Trucks.\nSee the latest schedule and explore more events:\nhttps://ball
  ardfoodtrucks.com\n\nTimes may change\; check before heading out.
+LOCATION:Chuck's Hop Shop Greenwood
+TRANSP:TRANSPARENT
+URL:https://ballardfoodtrucks.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Impeckable Chicken
+DTSTART:20261113T010000Z
+DTEND:20261113T050000Z
+DTSTAMP:20261113T010000Z
+UID:48c784dd978ef13b2c5dfe9b3d27bbba51331f1a@around-the-grounds
+DESCRIPTION:Original event: Dinner: Impeckable Chicken\n\nCurated by Balla
+ rd Food Trucks.\nSee the latest schedule and explore more events:\nhttps:/
+ /ballardfoodtrucks.com\n\nTimes may change\; check before heading out.
 LOCATION:Chuck's Hop Shop Greenwood
 TRANSP:TRANSPARENT
 URL:https://ballardfoodtrucks.com
