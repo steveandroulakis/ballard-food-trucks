@@ -1,7 +1,6 @@
 {
   "calendar_max_timed_hours": 10,
   "errors": [
-    "Failed to fetch information for: Obec Brewing",
     "Failed to fetch information for: Saleh's Corner"
   ],
   "events": [
@@ -694,5 +693,5 @@
   "timezone_label": "PT",
   "timezone_note": "All event times are in Pacific Time (PT).",
   "total_events": 40,
-  "updated": "2026-11-13T15:10:01.291565+00:00"
+  "updated": "2026-11-13T16:10:01.578425+00:00"
 }
