@@ -9,10 +9,10 @@ X-PUBLISHED-TTL:PT6H
 X-WR-TIMEZONE:America/Los_Angeles
 BEGIN:VEVENT
 SUMMARY:Tacos & Beer
-DTSTART:20261117T010000Z
-DTEND:20261117T040000Z
-DTSTAMP:20261117T010000Z
-UID:982ae3b7a54fbba4b60f00470df6d7359d1b1bd1@around-the-grounds
+DTSTART:20261118T010000Z
+DTEND:20261118T040000Z
+DTSTAMP:20261118T010000Z
+UID:91ec78b6461e239f630c0cc5f2ed9267497cc8f3@around-the-grounds
 DESCRIPTION:Curated by Ballard Food Trucks.\nSee the latest schedule and e
  xplore more events:\nhttps://ballardfoodtrucks.com\n\nTimes may change\; c
  heck before heading out.
@@ -22,10 +22,10 @@ URL:https://ballardfoodtrucks.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Impeccable Chicken
-DTSTART:20261118T010000Z
-DTEND:20261118T040000Z
-DTSTAMP:20261118T010000Z
-UID:e4c2df09b1bccd83a10b9390e3e5a843a73a7a64@around-the-grounds
+DTSTART:20261119T010000Z
+DTEND:20261119T040000Z
+DTSTAMP:20261119T010000Z
+UID:b0517e6a63de8f8430675d21f0951890cca647eb@around-the-grounds
 DESCRIPTION:Curated by Ballard Food Trucks.\nSee the latest schedule and e
  xplore more events:\nhttps://ballardfoodtrucks.com\n\nTimes may change\; c
  heck before heading out.
@@ -35,10 +35,10 @@ URL:https://ballardfoodtrucks.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Kottu Seattle
-DTSTART:20261119T010000Z
-DTEND:20261119T040000Z
-DTSTAMP:20261119T010000Z
-UID:63af44529f8112ddd61a9c19415f33c326559f3e@around-the-grounds
+DTSTART:20261120T010000Z
+DTEND:20261120T040000Z
+DTSTAMP:20261120T010000Z
+UID:7ecbbaa608e54a07b2b75123a2e2083bdd8cb139@around-the-grounds
 DESCRIPTION:Curated by Ballard Food Trucks.\nSee the latest schedule and e
  xplore more events:\nhttps://ballardfoodtrucks.com\n\nTimes may change\; c
  heck before heading out.
@@ -48,10 +48,10 @@ URL:https://ballardfoodtrucks.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Off the Rez
-DTSTART:20261120T010000Z
-DTEND:20261120T050000Z
-DTSTAMP:20261120T010000Z
-UID:5299ed3da53ceca3735d05c16c37b1a64b921208@around-the-grounds
+DTSTART:20261121T010000Z
+DTEND:20261121T050000Z
+DTSTAMP:20261121T010000Z
+UID:11ff6ceed37e744fb09ebce0fe6c70d4ba720020@around-the-grounds
 DESCRIPTION:Curated by Ballard Food Trucks.\nSee the latest schedule and e
  xplore more events:\nhttps://ballardfoodtrucks.com\n\nTimes may change\; c
  heck before heading out.
@@ -61,10 +61,10 @@ URL:https://ballardfoodtrucks.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Georgia's Greek
-DTSTART:20261120T210000Z
-DTEND:20261121T040000Z
-DTSTAMP:20261120T210000Z
-UID:b78e6b622395cff068fe1c7cf37cf4bec54aec38@around-the-grounds
+DTSTART:20261121T210000Z
+DTEND:20261122T040000Z
+DTSTAMP:20261121T210000Z
+UID:5ab75a16458cd148c4d8e61f080177a14ec86bae@around-the-grounds
 DESCRIPTION:Curated by Ballard Food Trucks.\nSee the latest schedule and e
  xplore more events:\nhttps://ballardfoodtrucks.com\n\nTimes may change\; c
  heck before heading out.
@@ -74,10 +74,10 @@ URL:https://ballardfoodtrucks.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:El Pirata Tortas Y Burritos / Now Make Me A Sandwich
-DTSTART:20261121T210000Z
-DTEND:20261122T030000Z
-DTSTAMP:20261121T210000Z
-UID:5cee293e4c70b9bf16b31e92fc6c5a29fea25a4f@around-the-grounds
+DTSTART:20261122T210000Z
+DTEND:20261123T030000Z
+DTSTAMP:20261122T210000Z
+UID:b3afd7882d2ae1820a6b446b4c92f580ea43812f@around-the-grounds
 DESCRIPTION:Curated by Ballard Food Trucks.\nSee the latest schedule and e
  xplore more events:\nhttps://ballardfoodtrucks.com\n\nTimes may change\; c
  heck before heading out.
@@ -87,10 +87,10 @@ URL:https://ballardfoodtrucks.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Where Ya At Matt
-DTSTART:20261123T010000Z
-DTEND:20261123T040000Z
-DTSTAMP:20261123T010000Z
-UID:3919d1e825085abf284b457d58c959494fd4aaba@around-the-grounds
+DTSTART:20261124T010000Z
+DTEND:20261124T040000Z
+DTSTAMP:20261124T010000Z
+UID:5233e4e28c8c2acd5e98e0e99300d074b35fe7da@around-the-grounds
 DESCRIPTION:Curated by Ballard Food Trucks.\nSee the latest schedule and e
  xplore more events:\nhttps://ballardfoodtrucks.com\n\nTimes may change\; c
  heck before heading out.
@@ -100,10 +100,10 @@ URL:https://ballardfoodtrucks.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Max's Burgers & Wings
-DTSTART:20261124T010000Z
-DTEND:20261124T040000Z
-DTSTAMP:20261124T010000Z
-UID:693676b0cd7fd4af2b0ff9d0b10c830e617dab89@around-the-grounds
+DTSTART:20261125T010000Z
+DTEND:20261125T040000Z
+DTSTAMP:20261125T010000Z
+UID:e59596d356b6b5f1e27205e769a541b241f2ceff@around-the-grounds
 DESCRIPTION:Curated by Ballard Food Trucks.\nSee the latest schedule and e
  xplore more events:\nhttps://ballardfoodtrucks.com\n\nTimes may change\; c
  heck before heading out.
@@ -177,16 +177,15 @@ TRANSP:TRANSPARENT
 URL:https://ballardfoodtrucks.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Empanadas El Pachi
-DTSTART:20261117T000000Z
-DTEND:20261117T040000Z
-DTSTAMP:20261117T000000Z
-UID:877bacc137ababee42c2f27ad4738486f48cf76d@around-the-grounds
-DESCRIPTION:https://urbanfamilybrewing.com/events/empanadas-el-pachi-23/\n
- \nCurated by Ballard Food Trucks.\nSee the latest schedule and explore mor
- e events:\nhttps://ballardfoodtrucks.com\n\nTimes may change\; check befor
- e heading out.
-LOCATION:Urban Family Brewing
+SUMMARY:El Gran Taco
+DTSTART:20261125T000000Z
+DTEND:20261125T050000Z
+DTSTAMP:20261125T000000Z
+UID:7f6b56fa7ad271d547abaf25394b8231a8554f26@around-the-grounds
+DESCRIPTION:Curated by Ballard Food Trucks.\nSee the latest schedule and e
+ xplore more events:\nhttps://ballardfoodtrucks.com\n\nTimes may change\; c
+ heck before heading out.
+LOCATION:Yonder Cider & Bale Breaker - Ballard
 TRANSP:TRANSPARENT
 URL:https://ballardfoodtrucks.com
 END:VEVENT
@@ -303,16 +302,16 @@ TRANSP:TRANSPARENT
 URL:https://ballardfoodtrucks.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Max's Burgers and Wings
-DTSTART:20261117T010000Z
-DTEND:20261117T050000Z
-DTSTAMP:20261117T010000Z
-UID:a86141fd963d6ff610112ca24999c09ae4ae2aee@around-the-grounds
-DESCRIPTION:Original event: Dinner: Max's Burgers and Wings\n\nCurated by 
- Ballard Food Trucks.\nSee the latest schedule and explore more events:\nht
- tps://ballardfoodtrucks.com\n\nTimes may change\; check before heading out
- .
-LOCATION:Chuck's Hop Shop Greenwood
+SUMMARY:Georgia's Greek
+DTSTART:20261125T000000Z
+DTEND:20261125T040000Z
+DTSTAMP:20261125T000000Z
+UID:f74d4bc4290a658123e292b0c1cc336eeffd3531@around-the-grounds
+DESCRIPTION:https://urbanfamilybrewing.com/events/georgias-greek-23/\n\nCu
+ rated by Ballard Food Trucks.\nSee the latest schedule and explore more ev
+ ents:\nhttps://ballardfoodtrucks.com\n\nTimes may change\; check before he
+ ading out.
+LOCATION:Urban Family Brewing
 TRANSP:TRANSPARENT
 URL:https://ballardfoodtrucks.com
 END:VEVENT
@@ -416,6 +415,19 @@ UID:2c7f64f756da3d14af579a1f200a5e457dee8726@around-the-grounds
 DESCRIPTION:Original event: Dinner: Birrieria Pepe El Toro\n\nCurated by B
  allard Food Trucks.\nSee the latest schedule and explore more events:\nhtt
  ps://ballardfoodtrucks.com\n\nTimes may change\; check before heading out.
+LOCATION:Chuck's Hop Shop Greenwood
+TRANSP:TRANSPARENT
+URL:https://ballardfoodtrucks.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Woodshop BBQ
+DTSTART:20261125T010000Z
+DTEND:20261125T050000Z
+DTSTAMP:20261125T010000Z
+UID:0469924e315f1c299c2b8f8245648421aff16f4e@around-the-grounds
+DESCRIPTION:Original event: Dinner: Woodshop BBQ\n\nCurated by Ballard Foo
+ d Trucks.\nSee the latest schedule and explore more events:\nhttps://balla
+ rdfoodtrucks.com\n\nTimes may change\; check before heading out.
 LOCATION:Chuck's Hop Shop Greenwood
 TRANSP:TRANSPARENT
 URL:https://ballardfoodtrucks.com
