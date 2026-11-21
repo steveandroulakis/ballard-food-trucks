@@ -8,24 +8,11 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 X-WR-TIMEZONE:America/Los_Angeles
 BEGIN:VEVENT
-SUMMARY:Off the Rez
-DTSTART:20261121T010000Z
-DTEND:20261121T050000Z
-DTSTAMP:20261121T010000Z
-UID:11ff6ceed37e744fb09ebce0fe6c70d4ba720020@around-the-grounds
-DESCRIPTION:Curated by Ballard Food Trucks.\nSee the latest schedule and e
- xplore more events:\nhttps://ballardfoodtrucks.com\n\nTimes may change\; c
- heck before heading out.
-LOCATION:Stoup Brewing - Ballard
-TRANSP:TRANSPARENT
-URL:https://ballardfoodtrucks.com
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Georgia's Greek
-DTSTART:20261121T210000Z
-DTEND:20261122T040000Z
-DTSTAMP:20261121T210000Z
-UID:5ab75a16458cd148c4d8e61f080177a14ec86bae@around-the-grounds
+DTSTART:20261120T210000Z
+DTEND:20261121T040000Z
+DTSTAMP:20261120T210000Z
+UID:b78e6b622395cff068fe1c7cf37cf4bec54aec38@around-the-grounds
 DESCRIPTION:Curated by Ballard Food Trucks.\nSee the latest schedule and e
  xplore more events:\nhttps://ballardfoodtrucks.com\n\nTimes may change\; c
  heck before heading out.
@@ -35,10 +22,10 @@ URL:https://ballardfoodtrucks.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:El Pirata Tortas Y Burritos / Now Make Me A Sandwich
-DTSTART:20261122T210000Z
-DTEND:20261123T030000Z
-DTSTAMP:20261122T210000Z
-UID:b3afd7882d2ae1820a6b446b4c92f580ea43812f@around-the-grounds
+DTSTART:20261121T210000Z
+DTEND:20261122T030000Z
+DTSTAMP:20261121T210000Z
+UID:5cee293e4c70b9bf16b31e92fc6c5a29fea25a4f@around-the-grounds
 DESCRIPTION:Curated by Ballard Food Trucks.\nSee the latest schedule and e
  xplore more events:\nhttps://ballardfoodtrucks.com\n\nTimes may change\; c
  heck before heading out.
@@ -48,10 +35,10 @@ URL:https://ballardfoodtrucks.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Where Ya At Matt
-DTSTART:20261124T010000Z
-DTEND:20261124T040000Z
-DTSTAMP:20261124T010000Z
-UID:5233e4e28c8c2acd5e98e0e99300d074b35fe7da@around-the-grounds
+DTSTART:20261123T010000Z
+DTEND:20261123T040000Z
+DTSTAMP:20261123T010000Z
+UID:3919d1e825085abf284b457d58c959494fd4aaba@around-the-grounds
 DESCRIPTION:Curated by Ballard Food Trucks.\nSee the latest schedule and e
  xplore more events:\nhttps://ballardfoodtrucks.com\n\nTimes may change\; c
  heck before heading out.
@@ -61,10 +48,10 @@ URL:https://ballardfoodtrucks.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Max's Burgers & Wings
-DTSTART:20261125T010000Z
-DTEND:20261125T040000Z
-DTSTAMP:20261125T010000Z
-UID:e59596d356b6b5f1e27205e769a541b241f2ceff@around-the-grounds
+DTSTART:20261124T010000Z
+DTEND:20261124T040000Z
+DTSTAMP:20261124T010000Z
+UID:693676b0cd7fd4af2b0ff9d0b10c830e617dab89@around-the-grounds
 DESCRIPTION:Curated by Ballard Food Trucks.\nSee the latest schedule and e
  xplore more events:\nhttps://ballardfoodtrucks.com\n\nTimes may change\; c
  heck before heading out.
@@ -74,10 +61,10 @@ URL:https://ballardfoodtrucks.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:El Gran Taco
-DTSTART:20261126T003000Z
-DTEND:20261126T043000Z
-DTSTAMP:20261126T003000Z
-UID:72df27fc46802e09bb94cd22483e98001a48a76b@around-the-grounds
+DTSTART:20261125T003000Z
+DTEND:20261125T043000Z
+DTSTAMP:20261125T003000Z
+UID:f0bee78a49de576f3e47febb9cab72fc384b3327@around-the-grounds
 DESCRIPTION:Curated by Ballard Food Trucks.\nSee the latest schedule and e
  xplore more events:\nhttps://ballardfoodtrucks.com\n\nTimes may change\; c
  heck before heading out.
@@ -87,10 +74,23 @@ URL:https://ballardfoodtrucks.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Birrieria Pepe El Toro
-DTSTART:20261127T000000Z
-DTEND:20261127T040000Z
-DTSTAMP:20261127T000000Z
-UID:510fdd3e90576acee9fc691ff3da7024481cb3d5@around-the-grounds
+DTSTART:20261126T000000Z
+DTEND:20261126T040000Z
+DTSTAMP:20261126T000000Z
+UID:c9d13e065f2cbce1e785aa9f50f53ff0ff173a95@around-the-grounds
+DESCRIPTION:Curated by Ballard Food Trucks.\nSee the latest schedule and e
+ xplore more events:\nhttps://ballardfoodtrucks.com\n\nTimes may change\; c
+ heck before heading out.
+LOCATION:Stoup Brewing - Ballard
+TRANSP:TRANSPARENT
+URL:https://ballardfoodtrucks.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El Sabor Boricua
+DTSTART:20261127T010000Z
+DTEND:20261127T050000Z
+DTSTAMP:20261127T010000Z
+UID:1f9297c91bf85305bd046c0d6a179aab61a7241f@around-the-grounds
 DESCRIPTION:Curated by Ballard Food Trucks.\nSee the latest schedule and e
  xplore more events:\nhttps://ballardfoodtrucks.com\n\nTimes may change\; c
  heck before heading out.
@@ -100,9 +100,9 @@ URL:https://ballardfoodtrucks.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Split Open & Melt Cheesesteaks
-DTSTART:20261128T010000Z
-DTEND:20261128T050000Z
-DTSTAMP:20261128T010000Z
+DTSTART:20261127T210000Z
+DTEND:20261128T030000Z
+DTSTAMP:20261127T210000Z
 UID:8b528c8e5a0ab834865e23c81c42da8ccec9c1ad@around-the-grounds
 DESCRIPTION:Curated by Ballard Food Trucks.\nSee the latest schedule and e
  xplore more events:\nhttps://ballardfoodtrucks.com\n\nTimes may change\; c
