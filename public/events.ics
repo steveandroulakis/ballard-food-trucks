@@ -9,23 +9,10 @@ X-PUBLISHED-TTL:PT6H
 X-WR-TIMEZONE:America/Los_Angeles
 BEGIN:VEVENT
 SUMMARY:El Gran Taco
-DTSTART:20261125T003000Z
-DTEND:20261125T043000Z
-DTSTAMP:20261125T003000Z
-UID:f0bee78a49de576f3e47febb9cab72fc384b3327@around-the-grounds
-DESCRIPTION:Curated by Ballard Food Trucks.\nSee the latest schedule and e
- xplore more events:\nhttps://ballardfoodtrucks.com\n\nTimes may change\; c
- heck before heading out.
-LOCATION:Stoup Brewing - Ballard
-TRANSP:TRANSPARENT
-URL:https://ballardfoodtrucks.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Birrieria Pepe El Toro
-DTSTART:20261126T000000Z
-DTEND:20261126T040000Z
-DTSTAMP:20261126T000000Z
-UID:c9d13e065f2cbce1e785aa9f50f53ff0ff173a95@around-the-grounds
+DTSTART:20261126T003000Z
+DTEND:20261126T043000Z
+DTSTAMP:20261126T003000Z
+UID:72df27fc46802e09bb94cd22483e98001a48a76b@around-the-grounds
 DESCRIPTION:Curated by Ballard Food Trucks.\nSee the latest schedule and e
  xplore more events:\nhttps://ballardfoodtrucks.com\n\nTimes may change\; c
  heck before heading out.
@@ -35,9 +22,9 @@ URL:https://ballardfoodtrucks.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:No Truck Today
-DTSTART:20261127T010000Z
-DTEND:20261127T050000Z
-DTSTAMP:20261127T010000Z
+DTSTART:20261127T000000Z
+DTEND:20261127T040000Z
+DTSTAMP:20261127T000000Z
 UID:7def48887f7a64202d8a3f1854e1d6dcd6273339@around-the-grounds
 DESCRIPTION:Curated by Ballard Food Trucks.\nSee the latest schedule and e
  xplore more events:\nhttps://ballardfoodtrucks.com\n\nTimes may change\; c
@@ -48,9 +35,9 @@ URL:https://ballardfoodtrucks.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Split Open & Melt Cheesesteaks
-DTSTART:20261127T210000Z
-DTEND:20261128T030000Z
-DTSTAMP:20261127T210000Z
+DTSTART:20261128T010000Z
+DTEND:20261128T050000Z
+DTSTAMP:20261128T010000Z
 UID:8b528c8e5a0ab834865e23c81c42da8ccec9c1ad@around-the-grounds
 DESCRIPTION:Curated by Ballard Food Trucks.\nSee the latest schedule and e
  xplore more events:\nhttps://ballardfoodtrucks.com\n\nTimes may change\; c
@@ -60,11 +47,24 @@ TRANSP:TRANSPARENT
 URL:https://ballardfoodtrucks.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Kaosamai Thai
+SUMMARY:Tat's Truck
 DTSTART:20261128T210000Z
 DTEND:20261129T030000Z
 DTSTAMP:20261128T210000Z
-UID:68ddfea6813b2efefbf4c7755814ac5792a3dae9@around-the-grounds
+UID:d44166a3fa55c205ff99d2f0a445840d9f2bc201@around-the-grounds
+DESCRIPTION:Curated by Ballard Food Trucks.\nSee the latest schedule and e
+ xplore more events:\nhttps://ballardfoodtrucks.com\n\nTimes may change\; c
+ heck before heading out.
+LOCATION:Stoup Brewing - Ballard
+TRANSP:TRANSPARENT
+URL:https://ballardfoodtrucks.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kaosamai Thai
+DTSTART:20261129T210000Z
+DTEND:20261130T030000Z
+DTSTAMP:20261129T210000Z
+UID:063ed140f70314ec93b3b50c109e0b8676d7859b@around-the-grounds
 DESCRIPTION:Curated by Ballard Food Trucks.\nSee the latest schedule and e
  xplore more events:\nhttps://ballardfoodtrucks.com\n\nTimes may change\; c
  heck before heading out.
@@ -74,10 +74,10 @@ URL:https://ballardfoodtrucks.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Russo Pizzarium
-DTSTART:20261130T010000Z
-DTEND:20261130T040000Z
-DTSTAMP:20261130T010000Z
-UID:e98a882b53814d56fff263add47c0e8b65bc384a@around-the-grounds
+DTSTART:20261201T010000Z
+DTEND:20261201T040000Z
+DTSTAMP:20261201T010000Z
+UID:1e858c4946997a07361dd1cbdf178e282a01db0e@around-the-grounds
 DESCRIPTION:Curated by Ballard Food Trucks.\nSee the latest schedule and e
  xplore more events:\nhttps://ballardfoodtrucks.com\n\nTimes may change\; c
  heck before heading out.
@@ -87,10 +87,10 @@ URL:https://ballardfoodtrucks.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tacos & Beer
-DTSTART:20261201T010000Z
-DTEND:20261201T040000Z
-DTSTAMP:20261201T010000Z
-UID:ace886d77c67af184691e919075f046b9c915420@around-the-grounds
+DTSTART:20261202T010000Z
+DTEND:20261202T040000Z
+DTSTAMP:20261202T010000Z
+UID:ebe36ac3b0dab928320e951f004bba817bf9127d@around-the-grounds
 DESCRIPTION:Curated by Ballard Food Trucks.\nSee the latest schedule and e
  xplore more events:\nhttps://ballardfoodtrucks.com\n\nTimes may change\; c
  heck before heading out.
@@ -100,27 +100,14 @@ URL:https://ballardfoodtrucks.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Impeccable Chicken
-DTSTART:20261202T010000Z
-DTEND:20261202T040000Z
-DTSTAMP:20261202T010000Z
-UID:37eafe22400c6cf279fc214325178144478d4035@around-the-grounds
+DTSTART:20261203T010000Z
+DTEND:20261203T040000Z
+DTSTAMP:20261203T010000Z
+UID:97fb5e6069ab6c8bdea14a4cf54ed3cf6c7efc3e@around-the-grounds
 DESCRIPTION:Curated by Ballard Food Trucks.\nSee the latest schedule and e
  xplore more events:\nhttps://ballardfoodtrucks.com\n\nTimes may change\; c
  heck before heading out.
 LOCATION:Stoup Brewing - Ballard
-TRANSP:TRANSPARENT
-URL:https://ballardfoodtrucks.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:El Gran Taco
-DTSTART:20261125T000000Z
-DTEND:20261125T050000Z
-DTSTAMP:20261125T000000Z
-UID:7f6b56fa7ad271d547abaf25394b8231a8554f26@around-the-grounds
-DESCRIPTION:Curated by Ballard Food Trucks.\nSee the latest schedule and e
- xplore more events:\nhttps://ballardfoodtrucks.com\n\nTimes may change\; c
- heck before heading out.
-LOCATION:Yonder Cider & Bale Breaker - Ballard
 TRANSP:TRANSPARENT
 URL:https://ballardfoodtrucks.com
 END:VEVENT
@@ -164,16 +151,15 @@ TRANSP:TRANSPARENT
 URL:https://ballardfoodtrucks.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Georgia's Greek
-DTSTART:20261125T000000Z
-DTEND:20261125T040000Z
-DTSTAMP:20261125T000000Z
-UID:f74d4bc4290a658123e292b0c1cc336eeffd3531@around-the-grounds
-DESCRIPTION:https://urbanfamilybrewing.com/events/georgias-greek-23/\n\nCu
- rated by Ballard Food Trucks.\nSee the latest schedule and explore more ev
- ents:\nhttps://ballardfoodtrucks.com\n\nTimes may change\; check before he
- ading out.
-LOCATION:Urban Family Brewing
+SUMMARY:Hallava Falafel
+DTSTART:20261203T000000Z
+DTEND:20261203T040000Z
+DTSTAMP:20261203T000000Z
+UID:1f55bdb8d743b66b1a414e9575369fdf9edabbd2@around-the-grounds
+DESCRIPTION:Curated by Ballard Food Trucks.\nSee the latest schedule and e
+ xplore more events:\nhttps://ballardfoodtrucks.com\n\nTimes may change\; c
+ heck before heading out.
+LOCATION:Yonder Cider & Bale Breaker - Ballard
 TRANSP:TRANSPARENT
 URL:https://ballardfoodtrucks.com
 END:VEVENT
@@ -290,15 +276,16 @@ TRANSP:TRANSPARENT
 URL:https://ballardfoodtrucks.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Woodshop BBQ
-DTSTART:20261125T010000Z
-DTEND:20261125T050000Z
-DTSTAMP:20261125T010000Z
-UID:0469924e315f1c299c2b8f8245648421aff16f4e@around-the-grounds
-DESCRIPTION:Original event: Dinner: Woodshop BBQ\n\nCurated by Ballard Foo
- d Trucks.\nSee the latest schedule and explore more events:\nhttps://balla
- rdfoodtrucks.com\n\nTimes may change\; check before heading out.
-LOCATION:Chuck's Hop Shop Greenwood
+SUMMARY:Katmandu Momocha
+DTSTART:20261203T000000Z
+DTEND:20261203T040000Z
+DTSTAMP:20261203T000000Z
+UID:6a2668905156a04171624abfc82b5c45d1ad4aa1@around-the-grounds
+DESCRIPTION:https://urbanfamilybrewing.com/events/katmandu-momocha-24/\n\n
+ Curated by Ballard Food Trucks.\nSee the latest schedule and explore more 
+ events:\nhttps://ballardfoodtrucks.com\n\nTimes may change\; check before 
+ heading out.
+LOCATION:Urban Family Brewing
 TRANSP:TRANSPARENT
 URL:https://ballardfoodtrucks.com
 END:VEVENT
@@ -389,6 +376,19 @@ UID:77c9952593075126522c9df0f63cee0aaa8d48b1@around-the-grounds
 DESCRIPTION:Original event: Dinner: Kaosamai Thai\n\nCurated by Ballard Fo
  od Trucks.\nSee the latest schedule and explore more events:\nhttps://ball
  ardfoodtrucks.com\n\nTimes may change\; check before heading out.
+LOCATION:Chuck's Hop Shop Greenwood
+TRANSP:TRANSPARENT
+URL:https://ballardfoodtrucks.com
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chick'n Fix
+DTSTART:20261203T010000Z
+DTEND:20261203T050000Z
+DTSTAMP:20261203T010000Z
+UID:a808be1d3dbb8cc9bbe11c2e063cd2df63862d50@around-the-grounds
+DESCRIPTION:Original event: Dinner: Chick'n Fix\n\nCurated by Ballard Food
+  Trucks.\nSee the latest schedule and explore more events:\nhttps://ballar
+ dfoodtrucks.com\n\nTimes may change\; check before heading out.
 LOCATION:Chuck's Hop Shop Greenwood
 TRANSP:TRANSPARENT
 URL:https://ballardfoodtrucks.com
