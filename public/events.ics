@@ -112,6 +112,19 @@ TRANSP:TRANSPARENT
 URL:https://ballardfoodtrucks.com
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Outsider BBQ
+DTSTART:20261126T000000Z
+DTEND:20261126T040000Z
+DTSTAMP:20261126T000000Z
+UID:be6dffa9b17eff0ab0ad9a4943a40e7332e78347@around-the-grounds
+DESCRIPTION:Curated by Ballard Food Trucks.\nSee the latest schedule and e
+ xplore more events:\nhttps://ballardfoodtrucks.com\n\nTimes may change\; c
+ heck before heading out.
+LOCATION:Yonder Cider & Bale Breaker - Ballard
+TRANSP:TRANSPARENT
+URL:https://ballardfoodtrucks.com
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Paparepas
 DTSTART:20261128T000000Z
 DTEND:20261128T040000Z
