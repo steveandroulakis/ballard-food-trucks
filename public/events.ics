@@ -329,14 +329,14 @@ TRANSP:TRANSPARENT
 URL:https://ballardfoodtrucks.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:TBD
+SUMMARY:Tacos and Beer
 DTSTART:20261128T200000Z
 DTEND:20261129T040000Z
 DTSTAMP:20261128T200000Z
-UID:ff6c3fd605124d7903b1f3b3a21ffa80c0183429@around-the-grounds
-DESCRIPTION:Original event: Dinner: TBD\n\nCurated by Ballard Food Trucks.
- \nSee the latest schedule and explore more events:\nhttps://ballardfoodtru
- cks.com\n\nTimes may change\; check before heading out.
+UID:fabf3b5614f949b86cbc0026299c7f2d511d2f35@around-the-grounds
+DESCRIPTION:Original event: Dinner: Tacos and Beer\n\nCurated by Ballard F
+ ood Trucks.\nSee the latest schedule and explore more events:\nhttps://bal
+ lardfoodtrucks.com\n\nTimes may change\; check before heading out.
 LOCATION:Chuck's Hop Shop Greenwood
 TRANSP:TRANSPARENT
 URL:https://ballardfoodtrucks.com

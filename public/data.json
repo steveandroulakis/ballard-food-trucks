@@ -414,7 +414,7 @@
     },
     {
       "date": "2026-11-28T00:00:00",
-      "description": "Original event: Dinner: TBD",
+      "description": "Original event: Dinner: Tacos and Beer",
       "end_iso": "2026-11-28T20:00:00",
       "end_time": "8:00 PM PT",
       "end_time_raw": "8:00 PM",
@@ -423,8 +423,8 @@
       "start_iso": "2026-11-28T12:00:00",
       "start_time": "12:00 PM PT",
       "start_time_raw": "12:00 PM",
-      "title": "TBD",
-      "vendor": "TBD",
+      "title": "Tacos and Beer",
+      "vendor": "Tacos and Beer",
       "venue": "Chuck's Hop Shop Greenwood",
       "venue_key": "chucks-greenwood",
       "venue_url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vS8BmXLSrsUVJ1x_x8FslWooOXRLeEJV-Jq5NzhfUCI9TtO-qXr0ey2BzY8KI-GflT7ekl5015XX3uj/pub?gid=1258996532&single=true&output=csv"
@@ -523,5 +523,5 @@
   "timezone_label": "PT",
   "timezone_note": "All event times are in Pacific Time (PT).",
   "total_events": 30,
-  "updated": "2026-11-26T04:10:01.331417+00:00"
+  "updated": "2026-11-26T05:10:01.126082+00:00"
 }
