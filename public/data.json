@@ -397,7 +397,7 @@
     },
     {
       "date": "2026-11-27T00:00:00",
-      "description": "Original event: Dinner: Where ya at Matt",
+      "description": "Original event: Dinner: Kathmandu MoMoCha",
       "end_iso": "2026-11-27T21:00:00",
       "end_time": "9:00 PM PT",
       "end_time_raw": "9:00 PM",
@@ -406,8 +406,8 @@
       "start_iso": "2026-11-27T17:00:00",
       "start_time": "5:00 PM PT",
       "start_time_raw": "5:00 PM",
-      "title": "Where ya at Matt",
-      "vendor": "Where ya at Matt",
+      "title": "Kathmandu MoMoCha",
+      "vendor": "Kathmandu MoMoCha",
       "venue": "Chuck's Hop Shop Greenwood",
       "venue_key": "chucks-greenwood",
       "venue_url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vS8BmXLSrsUVJ1x_x8FslWooOXRLeEJV-Jq5NzhfUCI9TtO-qXr0ey2BzY8KI-GflT7ekl5015XX3uj/pub?gid=1258996532&single=true&output=csv"
@@ -557,5 +557,5 @@
   "timezone_label": "PT",
   "timezone_note": "All event times are in Pacific Time (PT).",
   "total_events": 32,
-  "updated": "2026-11-27T17:10:02.591645+00:00"
+  "updated": "2026-11-27T18:10:03.099242+00:00"
 }
