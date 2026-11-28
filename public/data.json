@@ -24,9 +24,9 @@
     {
       "date": "2026-11-28T00:00:00",
       "description": null,
-      "end_iso": "2026-11-28T19:00:00",
-      "end_time": "7:00 PM PT",
-      "end_time_raw": "7:00 PM",
+      "end_iso": "2026-11-28T20:00:00",
+      "end_time": "8:00 PM PT",
+      "end_time_raw": "8:00 PM",
       "extraction_method": "html",
       "location": "Stoup Brewing - Ballard",
       "start_iso": "2026-11-28T13:00:00",
@@ -557,5 +557,5 @@
   "timezone_label": "PT",
   "timezone_note": "All event times are in Pacific Time (PT).",
   "total_events": 32,
-  "updated": "2026-11-28T02:10:01.092262+00:00"
+  "updated": "2026-11-28T03:10:07.151277+00:00"
 }
