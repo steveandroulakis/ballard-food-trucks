@@ -8,11 +8,11 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 X-WR-TIMEZONE:America/Los_Angeles
 BEGIN:VEVENT
-SUMMARY:Split Open & Melt Cheesesteaks
+SUMMARY:El Sabor Boricua
 DTSTART:20261128T010000Z
 DTEND:20261128T050000Z
 DTSTAMP:20261128T010000Z
-UID:8b528c8e5a0ab834865e23c81c42da8ccec9c1ad@around-the-grounds
+UID:609414e3dc24cb5debe10b3f8564f74c1287bb8a@around-the-grounds
 DESCRIPTION:Curated by Ballard Food Trucks.\nSee the latest schedule and e
  xplore more events:\nhttps://ballardfoodtrucks.com\n\nTimes may change\; c
  heck before heading out.

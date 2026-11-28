@@ -15,8 +15,8 @@
       "start_iso": "2026-11-27T17:00:00",
       "start_time": "5:00 PM PT",
       "start_time_raw": "5:00 PM",
-      "title": "Split Open & Melt Cheesesteaks",
-      "vendor": "Split Open & Melt Cheesesteaks",
+      "title": "El Sabor Boricua",
+      "vendor": "El Sabor Boricua",
       "venue": "Stoup Brewing - Ballard",
       "venue_key": "stoup-ballard",
       "venue_url": "https://www.stoupbrewing.com/ballard/"
@@ -557,5 +557,5 @@
   "timezone_label": "PT",
   "timezone_note": "All event times are in Pacific Time (PT).",
   "total_events": 32,
-  "updated": "2026-11-27T23:10:01.696039+00:00"
+  "updated": "2026-11-28T00:10:01.366041+00:00"
 }
